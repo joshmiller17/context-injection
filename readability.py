@@ -57,7 +57,7 @@ def feature_extraction(data):
         weasel = w.readlines()
 
     # init feature matrix; will be size len(data) x 14, since there are 14 features
-    features = [[0 for i in range(14)] for j in range(len(data))]
+    features = [[0 for i in range(15)] for j in range(len(data))]
 
     for i in range(len(data)):
         file = data[i]
@@ -73,6 +73,7 @@ def feature_extraction(data):
         total_simple = 0
         total_difficult = 0
         total_filler = 0
+		total_special_char = 0
 
         for paragraph in paragraphs:
             try:
@@ -97,6 +98,8 @@ def feature_extraction(data):
                         if len(word) < 5:
                             acronym = True
                             for char in word:
+								if not char.isalnum():
+									total_special_char += 1
                                 if char.islower():
                                     acronym = False
                             if acronym:
@@ -108,8 +111,8 @@ def feature_extraction(data):
                             guess_2 = 1 + len(word) % 3  # a lucky guess
                             num_syllables = (guess_1 + guess_2) / 2
                     if num_syllables < 1 or num_syllables > 10:
-                        print("Warning: Syllable count for", word, "is", num_syllables)
-                        print("Proceeding anyway...")
+                        print "Warning: Syllable count for", word, "is", num_syllables 
+                        print "Proceeding anyway..." 
                     total_syllables += num_syllables
                     if num_syllables > 2:
                         complex_words += 1
@@ -140,6 +143,7 @@ def feature_extraction(data):
         features[i][11] = total_hedges / total_words
         features[i][12] = total_weasels / total_words
         features[i][13] = total_simple / total_words
+		features[i][14] = total_special_char / total_words
 
     return features
 
@@ -168,12 +172,13 @@ def main():
                 "[8] very complex words (syl > 3) / total words",
                 "[9] difficult words (not in dale-chall) / total words",
                 "[10] filler words / total words", "[11] hedge words / total words",
-                "[12] weasel words / total words", "[13] simple american words / total words"]
-    for i in range(14):
+                "[12] weasel words / total words", "[13] simple american words / total words",
+				"[14] total special chars / total words"]
+    for i in range(15):
         print(features[i], " = ", weights[i])
         continue
     test_data = feature_extraction(["practice_data/test.txt"])
-    print("Predicted readability score:", model.predict(test_data))
+    print "Predicted readability score:", model.predict(test_data)
 
 
 if __name__ == "__main__":
