@@ -148,16 +148,6 @@ def feature_extraction(data):
     return features
 
 
-def train_model(data, labels):
-    model = sklearn.linear_model.LinearRegression(normalize=True)
-    model.fit(data, labels)
-    return model  # can get weights from model.get_params
-
-
-def predict(model, datum):
-    return model.predict(datum)
-
-
 def main():
     # hardcoded test data
     texts = ["practice_data/train_data_1.txt", "practice_data/train_data_2.txt", "practice_data/train_data_3.txt"]
@@ -178,7 +168,7 @@ def main():
         print(features[i], " = ", weights[i])
         continue
     test_data = feature_extraction(["practice_data/test.txt"])
-    print "Predicted readability score:", model.predict(test_data)
+    print("Predicted readability score:", model.predict(test_data))
 
 
 if __name__ == "__main__":
