@@ -161,6 +161,7 @@ def main():
 			"Outputs jargon-identified text using TFIDF to output_tfidf.\n" + \
 			"Outputs jargon-identified text using The Termolator to output_termolator.\n" + \
 			"    Options:\n" + \
+			"        --help             Show usage, then exit\n" + \
 			"        --debug            Debug output\n" + \
 			"        -v                 Verbose output\n" + \
 			"        -noread            Skip readability modeling\n" + \
