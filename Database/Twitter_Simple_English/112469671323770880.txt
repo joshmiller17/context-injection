@@ -1,1 +1,0 @@
-The lack of proper multithreading support in OpenGL is exasperating.

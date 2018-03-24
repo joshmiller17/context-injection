@@ -1,1 +1,0 @@
-Queries as active probes  rather than passive descriptions

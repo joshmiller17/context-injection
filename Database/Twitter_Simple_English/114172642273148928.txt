@@ -1,1 +1,0 @@
-mostly happy with our @trecmicroblog results. we kept it simple and combined a number of proven techniques w/ domain-specific adaptations.

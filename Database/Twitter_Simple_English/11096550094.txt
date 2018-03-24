@@ -1,1 +1,0 @@
-Video on #spatial search support for #Lucene: http://vimeo.com/10204365 - #geo #search #ir #location

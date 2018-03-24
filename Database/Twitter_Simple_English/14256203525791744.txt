@@ -1,1 +1,0 @@
-@seo01 I'm thinking a combination of Prolog and (Microsoft) Seadragon perhaps?

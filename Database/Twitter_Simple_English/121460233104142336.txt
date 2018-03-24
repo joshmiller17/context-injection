@@ -1,1 +1,0 @@
-when using NER annotator w/ latest @stanfordnlp, set ner.useSUTime prop to false to avoid endless exceptions/warnings for docs w/o date tags

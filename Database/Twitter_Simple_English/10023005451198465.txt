@@ -1,1 +1,0 @@
-@mikehadlow the class of bugs that the compiler catches are easily found with the tests, which i need anyway

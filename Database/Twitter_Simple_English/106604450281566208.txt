@@ -1,1 +1,0 @@
-If you ever wondered how to not use a dyn search tag and rebuild it on a BSP page have a look at view PPM_DYNSEARCH/Filter.htm. #sapcrm

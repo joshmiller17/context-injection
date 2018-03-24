@@ -1,1 +1,0 @@
-Btw. Anyone got problems with locks on ServiceRequests in #sapcrm not being removed when creating a followup? Mine stay a whole session.

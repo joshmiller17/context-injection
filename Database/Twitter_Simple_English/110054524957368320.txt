@@ -1,1 +1,0 @@
-Just discovered and fixed an old bug in the math core that mirrored the whole scene along the X axis.

@@ -1,1 +1,0 @@
-Models with multiple materials applied are working now

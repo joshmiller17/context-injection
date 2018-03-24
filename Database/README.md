@@ -18,9 +18,5 @@ Run `python multithreaded_get_categories.py` to get the categories for each fetc
 
 Open and run the `preprocess.ipynb` to store each cleaned article into seperate directories with their categories as titles. 
 
-`Twitter_Simple_English` directory contains all the simple english texts scraped from Tweet2011: a standard short text collection published on TREC 2011 microblog track, which includes approximately 16 million tweets sampled between January 23rd and February 8th, 2011.
-
-`Jargons\jargons.txt` contains a subset of jargons mentioned in the wiki articles.
-
 <hr>  
 

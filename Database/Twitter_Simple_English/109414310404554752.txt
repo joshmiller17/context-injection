@@ -1,1 +1,0 @@
-Environment mapping working now. Cube map downloaded from http://t.co/LM6sFMN http://t.co/N8QHLPg

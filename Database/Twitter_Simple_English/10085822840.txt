@@ -1,1 +1,0 @@
-Writing an article on global illumination algorithms and techniques.

@@ -1,1 +1,0 @@
-@adlanelm Bash, emacs etc. Should be on linux really, but one of our dependencies is windows-only :(

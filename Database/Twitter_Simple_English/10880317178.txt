@@ -1,1 +1,0 @@
-Much of my daily work is just fiddling with massive text files, formatting, reformatting, processing. Surely a machine should be doing this!

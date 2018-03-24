@@ -1,1 +1,0 @@
-@HilzFuld But I'm also experimenting with some data-heavy apps eg that poll GPS every little while, so may not be representative

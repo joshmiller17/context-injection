@@ -1,1 +1,0 @@
-Focus on using Amazon mechanical turk for #crowdsourcing. Now applications (NLP,Translation, ...)

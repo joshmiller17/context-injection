@@ -1,1 +1,0 @@
-Excellent talk about API design:  http://www.infoq.com/presentations/effective-api-design - #softwareengineering
