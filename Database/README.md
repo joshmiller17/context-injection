@@ -1,6 +1,6 @@
 # Creating the Database:
 
-Download the preprocessed database from (here)[https://doc-00-7c-docs.googleusercontent.com/docs/securesc/3hbo13onmk187923mgj27io3iv08rbec/jobfsn6cuoh2jksfsgm75s1q2jjujrrv/1521914400000/10902977221215816192/10902977221215816192/1F2FYCUW_WggB7agx9PK3y3v34K4uYUOs?h=12643601077865186497&e=download] 
+Download the preprocessed database from [here](https://doc-00-7c-docs.googleusercontent.com/docs/securesc/3hbo13onmk187923mgj27io3iv08rbec/jobfsn6cuoh2jksfsgm75s1q2jjujrrv/1521914400000/10902977221215816192/10902977221215816192/1F2FYCUW_WggB7agx9PK3y3v34K4uYUOs?h=12643601077865186497&e=download).
 
 Get the WikiDump:
 
