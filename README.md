@@ -1,20 +1,15 @@
-# Creating the Database:
+# context-injection
+An NLP project for text simplification through context injection.
+Main features:
+* Fits and tests a readability model (linear regression) to determine readability of a target document
+* Finds jargon phrases using TFIDF
+* Finds jargon phrases using The Termolator
 
-Get the WikiDump:
+# Credits and Acknowledgements
 
-`wget https://dumps.wikimedia.org/enwikibooks/latest/enwikibooks-latest-pages-articles-multistream.xml.bz2`
+Project authors: Josh Miller, Aniruddha Tapas, Dave Lowell
 
-`enwikibooks-20180220-pages-articles-multistream-index.txt` contains title of each fetched article.
-
-Run the following to extract text from xml dumps:
-
-`python WikiExtractor.py -cb 250K -o extracted enwikibooks-latest-pages-articles-multistream.xml.bz2`
-
-Run `python multithreaded_get_categories.py` to get the categories for each fetched article. 
-
-`books_by_category.csv` contains each article mapped with its category.
-
-Open the preprocess.ipynb to store each cleaned article into seperate directories with their categories as titles. 
-
-<hr>  
-
+Data for special words (Dale-Chall, filler words, hedge words, simple American-English words, and weasel words) from https://github.com/words
+Code for syllable counting from user aks on StackOverflow (see "To find the number of syllables in a word").
+Implementation of The Termolator from https://github.com/AdamMeyers/The_Termolator
+Other notable libraries used: nltk, sklearn, numpy.
