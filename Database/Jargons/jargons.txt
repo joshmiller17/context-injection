@@ -1,0 +1,2318 @@
+Abductive logic programming 
+Abductive reasoning 
+Abstract data type 
+Abstraction 
+Accelerating change 
+Action language 
+Action model learning 
+Action selection 
+Adaptive algorithm 
+Adaptive neuro fuzzy inference system 
+Admissible heuristic 
+Affective computing 
+Agent architecture 
+AI accelerator 
+AI-complete 
+Algorithm 
+Algorithmic efficiency 
+Algorithmic probability 
+AlphaGo 
+Ambient intelligence 
+Analysis of algorithms 
+Answer set programming 
+Anytime algorithm 
+Application programming interface 
+Approximate string matching 
+Approximation error 
+Argumentation framework 
+Artificial immune system 
+Artificial intelligence 
+Artificial Intelligence Markup Language 
+Artificial neural network 
+Association for the Advancement of Artificial Intelligence 
+Asymptotic computational complexity 
+Attributional calculus 
+Augmented reality 
+Automata theory 
+Automated planning and scheduling 
+Automated reasoning 
+Autonomic computing 
+Autonomous car 
+Autonomous robot 
+Backpropagation 
+Backward chaining 
+Batch normalisation 
+Bayesian programming 
+Bees algorithm 
+Behavior informatics 
+Behavior tree 
+Belief-desire-intention software model 
+Bias-variance tradeoff 
+Big data 
+Big O notation 
+Binary tree 
+Bio-inspired computing 
+Blackboard system 
+Boolean satisfiability problem 
+Brain technology 
+Branching factor 
+Brute-force search 
+Case-based reasoning 
+Chatterbot 
+Cloud robotics 
+Cluster analysis 
+Cobweb 
+Cognitive architecture 
+Cognitive computing 
+Cognitive science 
+Combinatorial optimization 
+Committee machine 
+Commonsense knowledge 
+Commonsense reasoning 
+Computational chemistry 
+Computational complexity theory 
+Computational creativity 
+Computational humor 
+Computational intelligence 
+Computational learning theory 
+Computational linguistics 
+Computational mathematics  
+Computational neuroscience 
+Computational number theory  computations.
+Computational problem 
+Computational statistics 
+Computational vision 
+Computer-automated design 
+Computer science 
+Computer vision 
+Connectionism 
+Consistent heuristic 
+Constraint logic programming 
+Constraint programming 
+Constructed language 
+Control theory 
+Convolutional neural network 
+Crossover 
+Darkforest 
+Dartmouth workshop 
+Data fusion 
+Data integration 
+Data mining 
+Data science 
+Data set 
+Data warehouse 
+Datalog 
+Decision boundary 
+Decision support system 
+Decision theory 
+Declarative programming 
+Deductive classifier 
+Deep Blue 
+Deep learning 
+Default logic 
+Description logic 
+Developmental robotics 
+Diagnosis 
+Dialog system 
+Dimensionality reduction 
+Discrete system 
+Distributed artificial intelligence 
+Dynamic epistemic logic 
+Embodied agent 
+Embodied cognitive science 
+Ensemble averaging 
+Ethics of artificial intelligence 
+Evolutionary algorithm 
+Evolutionary computation 
+Evolving classification function 
+Existential risk 
+Expert systems 
+Feature extraction 
+Feature selection 
+First-order logic 
+Fluent 
+Formal language 
+Forward chaining 
+Frame 
+Frame language 
+Frame problem 
+Friendly artificial intelligence 
+Futures studies 
+Fuzzy control system 
+Fuzzy logic 
+Fuzzy set 
+Game theory 
+Genetic algorithm 
+Genetic operator 
+Glowworm swarm optimization 
+Google DeepMind 
+Graph 
+Graph 
+Graph database 
+Graph theory 
+Graph traversal 
+Heuristic 
+Hidden layer  
+Hidden unit  network
+Hyper-heuristic 
+IEEE Computational Intelligence Society 
+Incremental learning 
+Inference engine 
+Information integration 
+Information Processing Language 
+Intelligence amplification 
+Intelligence explosion 
+Intelligent agent 
+Intelligent control 
+Intelligent personal assistant 
+Interpretation 
+Issue trees 
+Kernel method 
+KL-ONE 
+Knowledge acquisition 
+Knowledge-based systems 
+Knowledge engineering 
+Knowledge extraction 
+Knowledge Interchange Format 
+Knowledge representation and reasoning 
+Linked data 
+Lisp (programming language) 
+Logic programming 
+Machine vision 
+Markov chain 
+Markov decision process 
+Mathematical optimization 
+Machine learning 
+Machine listening 
+Machine perception 
+Mechanism design 
+Mechatronics 
+Metabolic network modelling 
+Metaheuristic 
+Model checking 
+Modus ponens 
+Modus tollens 
+Monte Carlo tree search 
+Multi-agent system 
+Multi-swarm optimization 
+Mutation 
+Mycin 
+Name binding 
+Named-entity recognition 
+Named graph 
+Natural language processing 
+Natural language programming 
+Network motif 
+Neuro-fuzzy 
+Neurocybernetics 
+Node 
+Nondeterministic algorithm 
+Nouvelle AI 
+NP 
+NP-completeness 
+NP-hardness 
+Offline learning 
+Online learning 
+Ontology engineering 
+Ontology learning 
+OpenAI 
+OpenCog 
+Open Mind Common Sense 
+Open-source software 
+Partial order reduction 
+Partially observable Markov decision process 
+Particle swarm optimization 
+Pathfinding 
+Pattern recognition 
+Planner 
+Predicate logic 
+Principal Component Analysis 
+Principle of rationality 
+Probabilistic programming language 
+Production Rule Representation 
+Production system 
+Programming language 
+Prolog 
+Propositional calculus 
+Python 
+Qualification problem 
+Quantifier 
+Query language 
+R programming language 
+Reasoning system 
+Recurrent neural network 
+Region connection calculus 
+Reinforcement learning 
+Resource Description Framework 
+Rete algorithm 
+Robotics 
+Rule-based system 
+Satisfiability 
+Search algorithm 
+Selection 
+Self-management 
+Semantic network 
+Semantic reasoner 
+Semantic query 
+Semantics 
+Sensor fusion 
+Separation logic 
+Similarity learning 
+Simulated annealing 
+Situated approach 
+Situation calculus 
+SLD resolution 
+Soft computing 
+Software 
+Software engineering 
+Spatial-temporal reasoning 
+SPARQL 
+Speech recognition 
+Spiking neural network 
+State 
+Statistical classification 
+Statistical relational learning 
+Stochastic optimization 
+Stochastic semantic analysis
+STRIPS 
+Subject-matter expert 
+Superintelligence 
+Supervised learning 
+Swarm intelligence 
+Symbolic artificial intelligence 
+Synthetic intelligence 
+Systems neuroscience 
+Technological singularity 
+Temporal difference learning 
+Tensor network theory 
+TensorFlow 
+Theoretical computer science 
+Theory of computation 
+Thompson sampling 
+Time complexity 
+Transhumanism 
+Transition system 
+Tree traversal 
+True quantified Boolean formula 
+Turing test 
+Type system 
+Unsupervised learning 
+Vision processing unit 
+Watson 
+Weak AI 
+World Wide Web Consortium 
+absolute performance guarantee
+abstract data type (ADT)
+(a,b)-tree
+accepting state
+Ackermann's function
+active data structure
+acyclic directed graph
+adaptive heap sort
+adaptive Huffman coding
+adaptive k-d tree
+adaptive sort
+address-calculation sort
+adjacency-list representation
+adjacency-matrix representation
+adversary
+algorithm
+algorithm BSTW
+algorithm FGK
+algorithmic efficiency
+algorithmically solvable
+algorithm V
+all pairs shortest path
+alphabet
+Alpha Skip Search algorithm
+alternating path
+alternating Turing machine
+alternation
+American flag sort
+amortized cost
+ancestor
+and
+ANSI
+antichain
+antisymmetric relation
+AP
+Apostolico-Crochemore
+Apostolico-Giancarlo algorithm
+approximate string matching
+approximation algorithm
+arborescence
+arithmetic coding
+array
+array index
+array merging
+array search
+articulation point
+A* search algorithm
+assignment problem
+association list
+associative
+associative array
+asymptotically tight bound
+asymptotic bound
+asymptotic lower bound
+asymptotic space complexity
+asymptotic time complexity
+asymptotic upper bound
+augmenting path
+automaton
+average case
+average-case cost
+AVL tree
+axiomatic semantics
+backtracking
+bag
+Baillie-PSW primality test
+balanced binary search tree
+balanced binary tree
+balanced k-way merge sort
+balanced merge sort
+balanced multiway merge
+balanced multiway tree
+balanced quicksort
+balanced tree
+balanced two-way merge sort
+BANG file
+Batcher sort
+Baum Welch algorithm
+BB α tree
+BDD
+BD-tree
+Bellman-Ford algorithm
+Benford's law
+best case
+best-case cost
+best-first search
+biconnected component
+biconnected graph
+bidirectional bubble sort
+big-O notation
+binary function
+binary GCD algorithm
+binary heap
+binary insertion sort
+binary knapsack problem
+binary priority queue
+binary relation
+binary search
+binary search tree
+binary tree
+binary tree representation of trees
+bingo sort
+binomial heap
+binomial tree
+bin packing problem
+bin sort
+bintree
+bipartite graph
+bipartite matching
+bisector
+bitonic sort
+bit vector
+Bk tree
+block
+block addressing index
+blocking flow
+block search
+Bloom filter
+blossom (graph theory)
+bogosort
+boogol
+boolean
+boolean expression
+boolean function
+bottleneck traveling salesman
+bottom-up tree automaton
+boundary-based representation
+bounded error probability in polynomial time
+bounded queue
+bounded stack
+Bounding volume hierarchy, also referred to as bounding volume tree (BV-tree, BVT)
+Boyer-Moore string search algorithm
+Boyer-Moore-Horspool algorithm
+bozo sort
+B+ tree
+BPP (complexity)
+Bradford's law
+branch (as in control flow)
+branch (as in revision control)
+branch and bound
+breadth-first search
+Bresenham's algorithm
+brick sort
+bridge
+British Museum algorithm
+brute force attack
+brute force search
+brute force string search
+brute force string search with mismatches
+BSP-tree
+B*-tree
+B-tree
+bubble sort
+bucket
+bucket array
+bucketing method
+bucket sort
+bucket trie
+buddy system
+buddy tree
+build-heap
+Burrows-Wheeler transform (BWT)
+busy beaver
+Byzantine generals
+cactus stack
+Calculus of Communicating Systems (CCS)
+calendar queue
+candidate consistency testing
+candidate verification
+canonical complexity class
+capacitated facility location
+capacity
+capacity constraint
+cartesian tree
+cascade merge sort
+caverphone
+Cayley-Purser algorithm
+C curve
+cell probe model
+cell tree
+cellular automaton
+centroid
+certificate
+chain (order theory)
+chaining (algorithm)
+child
+Chinese postman problem
+Chinese remainder theorem
+Christofides algorithm
+Christofides heuristic
+chromatic index
+chromatic number
+Church-Turing thesis
+circuit
+circuit complexity
+circuit value problem
+circular list
+circular queue
+clique
+clique problem
+clustering (see hash table)
+clustering free
+coalesced hashing
+coarsening
+cocktail shaker sort
+codeword
+coding tree
+collective recursion
+collision
+collision resolution scheme
+Colussi
+combination
+comb sort
+Communicating Sequential Processes
+commutative
+compact DAWG
+compact trie
+comparison sort
+competitive analysis
+competitive ratio
+complement
+complete binary tree
+complete graph
+completely connected graph
+complete tree
+complexity
+complexity class
+computable
+concave function
+concurrent flow
+concurrent read, concurrent write
+concurrent read, exclusive write
+configuration
+confluently persistent data structure
+conjunction
+connected components
+connected graph
+co-NP
+constant function
+continuous knapsack problem
+Cook reduction
+Cook's theorem
+counting sort
+covering
+CRCW
+Crew (algorithm)
+critical path problem
+CSP (communicating sequential processes)
+CSP (constraint satisfaction problem)
+CTL
+cuckoo hashing
+cut (graph theory)
+cut (logic programming)
+cutting plane
+cutting stock problem
+cutting theorem
+cut vertex
+cycle sort
+cyclic redundancy check (CRC)
+D-adjacent
+DAG shortest paths
+Damerau-Levenshtein distance
+data structure
+decidable
+decidable language
+decimation
+decision problem
+decision tree
+decomposable searching problem
+degree
+dense graph
+depoissonization
+depth
+depth-first search (DFS)
+deque
+derangement
+descendant (see tree structure)
+deterministic
+deterministic algorithm
+deterministic finite automata string search
+deterministic finite automaton (DFA)
+deterministic finite state machine
+deterministic finite tree automaton
+deterministic pushdown automaton (DPDA)
+deterministic tree automaton
+Deutsch-Jozsa algorithm
+DFS forest
+DFTA
+diagonalization argument
+diameter
+dichotomic search
+dictionary
+diet (see discrete interval encoding tree below)
+difference (set theory)
+digital search tree
+digital tree
+digraph
+Dijkstra's algorithm
+diminishing increment sort
+dining philosophers
+direct chaining hashing
+directed acyclic graph (DAG)
+directed acyclic word graph (DAWG)
+directed graph
+discrete interval encoding tree
+discrete p-center
+disjoint set
+disjunction
+distributed algorithm
+distributional complexity
+distribution sort
+divide and conquer algorithm
+divide and marriage before conquest
+division method
+Data domain
+don't care
+Doomsday rule
+double-direction bubble sort
+double-ended priority queue
+double hashing
+double left rotation
+Double Metaphone
+double right rotation
+doubly chained tree
+doubly ended queue
+doubly linked list
+Dragon curve
+dual graph
+dual linear program
+Dutch national flag
+dyadic tree
+dynamic array
+dynamic data structure
+dynamic hashing
+dynamic programming
+dynamization transformation
+edge
+edge coloring
+edge connectivity
+edge crossing
+edge-weighted graph
+edit distance
+edit operation
+edit script
+8 queens
+elastic-bucket trie
+element uniqueness
+end-of-string
+enfilade
+epidemic algorithm
+Euclidean algorithm
+Euclidean distance
+Euclidean Steiner tree
+Euclidean traveling salesman problem
+Euclid's algorithm
+Euler cycle
+Eulerian graph
+Eulerian path
+exact string matching
+EXCELL (extendible cell)
+exchange sort
+exclusive or
+exclusive read, concurrent write (ERCW)
+exclusive read, exclusive write (EREW)
+exhaustive search
+existential state
+expandable hashing
+expander graph
+exponential
+extended binary tree
+extended Euclidean algorithm
+extended k-d tree
+extendible hashing
+external index
+external memory algorithm
+external memory data structure
+external merge
+external merge sort
+external node
+external quicksort
+external radix sort
+external sort
+extrapolation search
+extremal
+extreme point
+facility location
+factor (see substring)
+factorial
+fast fourier transform (FFT)
+fathoming
+feasible region
+feasible solution
+feedback edge set
+feedback vertex set
+Ferguson-Forcade algorithm
+Fibonacci number
+Fibonacci search
+Fibonacci tree
+Fibonacci heap
+filial-heir chain
+Find
+find kth least element
+finitary tree
+finite Fourier transform (discrete Fourier transform)
+finite state automaton
+finite state machine
+finite state machine minimization
+finite state transducer
+first child-next sibling binary tree
+first come, first served
+first-in, first-out (FIFO)
+fixed-grid method
+flash sort
+flow
+flow conservation
+flow function
+flow network
+Floyd-Warshall algorithm
+Ford-Bellman algorithm
+Ford-Fulkerson algorithm
+forest
+forest editing problem
+formal language
+formal methods
+formal verification
+forward index
+fractal
+fractional knapsack problem
+fractional solution
+free edge
+free list
+free tree
+free vertex
+frequency count heuristic
+full array
+full binary tree
+full inverted index
+fully dynamic graph problem
+fully persistent data structure
+fully polynomial approximation scheme
+function (programming)
+function (mathematics)
+functional data structure
+Galil-Giancarlo
+Galil-Seiferas
+gamma function
+GBD-tree
+geometric optimization problem
+global optimum
+gnome sort
+goobi
+graph
+graph coloring
+graph concentration
+graph drawing
+graph isomorphism
+graph partition
+Gray code
+greatest common divisor (GCD)
+greedy algorithm
+greedy heuristic
+grid drawing
+grid file
+Grover's algorithm
+halting problem
+Hamiltonian cycle
+Hamiltonian path
+Hamming distance
+Harter-Highway dragon
+hash function
+hash heap
+hash table
+hash table delete
+Hausdorff distance
+hB-tree
+head
+heap
+heapify
+heap property
+heapsort
+heaviest common subsequence
+height
+height-balanced binary search tree
+height-balanced tree
+heuristic
+hidden Markov model
+highest common factor
+Hilbert curve
+histogram sort
+homeomorphic
+horizontal visibility map
+Huffman encoding
+Hungarian algorithm
+hybrid algorithm
+hyperedge
+hypergraph
+Identity function
+ideal merge
+implication
+implies
+in-branching
+inclusion-exclusion principle
+inclusive or
+incompressible string
+incremental algorithm
+in-degree
+independent set (graph theory)
+index file
+information theoretic bound
+in-order traversal
+in-place sort
+insertion sort
+instantaneous description
+integer linear program
+integer multi-commodity flow
+integer polyhedron
+interactive proof system
+Interface_(computing)
+interior-based representation
+internal node
+internal sort
+interpolation search
+interpolation-sequential search
+interpolation sort
+intersection (set theory)
+interval tree
+intractable
+introsort
+introspective sort
+inverse Ackermann function
+inverted file index
+inverted index
+irreflexive
+isomorphic
+iteration
+Jaro-Winkler distance
+Johnson's algorithm
+Johnson-Trotter algorithm
+JSort
+jump list
+jump search
+Karmarkar's algorithm
+Karnaugh map
+Karp-Rabin string search algorithm
+Karp reduction
+k-ary heap
+k-ary Huffman encoding
+k-ary tree
+k-clustering
+k-coloring
+k-connected graph
+k-d-B-tree
+k-dimensional
+K-dominant match
+k-d tree
+key
+KMP
+KmpSkip Search
+knapsack problem
+knight's tour
+Knuth-Morris-Pratt algorithm
+Königsberg bridges problem
+Kolmogorov complexity
+Kraft's inequality
+Kripke structure
+Kruskal's algorithm
+kth order Fibonacci numbers
+kth shortest path
+kth smallest element
+KV diagram
+k-way merge
+k-way merge sort
+k-way tree
+labeled graph
+language
+last-in, first-out (LIFO)
+Las Vegas algorithm
+lattice (group)
+layered graph
+LCS
+leaf
+least common multiple (LCM)
+leftist tree
+left rotation
+Lempel-Ziv-Welch (LZW)
+level-order traversal
+Levenshtein distance
+lexicographical order
+linear
+linear congruential generator
+linear hash
+linear insertion sort
+linear order
+linear probing
+linear probing sort
+linear product
+linear program
+linear quadtree
+linear search
+link
+linked list
+list
+list contraction
+little-o notation
+Lm distance
+load factor (computer science)
+local alignment
+local optimum
+logarithm, logarithmic scale
+longest common subsequence
+longest common substring
+Lotka's law
+lower bound
+lower triangular matrix
+lowest common ancestor
+L-reduction
+Malhotra-Kumar-Maheshwari blocking flow (ru.)
+Manhattan distance
+many-one reduction
+Markov chain
+marriage problem (see assignment problem)
+Master theorem (analysis of algorithms)
+matched edge
+matched vertex
+matching (graph theory)
+matrix
+matrix-chain multiplication problem
+max-heap property
+maximal independent set
+maximally connected component
+Maximal Shift
+maximum bipartite matching
+maximum-flow problem
+MAX-SNP
+Mealy machine
+mean
+median
+meld (data structures)
+memoization
+merge algorithm
+merge sort
+Merkle tree
+meromorphic function
+metaheuristic
+metaphone
+midrange
+Miller-Rabin primality test
+min-heap property
+minimal perfect hashing
+minimum bounding box (MBB)
+minimum cut
+minimum path cover
+minimum spanning tree
+minimum vertex cut
+mixed integer linear program
+mode
+model checking
+model of computation
+moderately exponential
+MODIFIND
+monotone priority queue
+monotonically decreasing
+monotonically increasing
+Monte Carlo algorithm
+Moore machine
+Morris-Pratt
+move (finite-state machine transition)
+move-to-front heuristic
+move-to-root heuristic
+multi-commodity flow
+multigraph
+multilayer grid file
+multiplication method
+multiprefix
+multiprocessor model
+multiset
+multi suffix tree
+multiway decision
+multiway merge
+multiway search tree
+multiway tree
+Munkres' assignment algorithm
+naive string search
+nand
+n-ary function
+NC
+NC many-one reducibility
+nearest neighbor search
+negation
+network flow (see flow network)
+network flow problem
+next state
+NIST
+node
+nonbalanced merge
+nonbalanced merge sort
+nondeterministic
+nondeterministic algorithm
+nondeterministic finite automaton
+nondeterministic finite state machine (NFA)
+nondeterministic finite tree automaton (NFTA)
+nondeterministic polynomial time
+nondeterministic tree automaton
+nondeterministic Turing machine
+nonterminal node
+nor
+not
+Not So Naive
+NP
+NP-complete
+NP-complete language
+NP-hard
+n queens
+nullary function
+null tree
+NYSIIS
+objective function
+occurrence
+octree
+offline algorithm
+offset (computer science)
+omega
+omicron
+one-based indexing
+one-dimensional
+online algorithm
+open addressing
+optimal
+optimal cost
+optimal hashing
+optimal merge
+optimal mismatch
+optimal polygon triangulation problem
+optimal polyphase merge
+optimal polyphase merge sort
+optimal solution
+optimal triangulation problem
+optimal value
+optimization problem
+or
+oracle set
+oracle tape
+oracle Turing machine
+Orders of approximation
+ordered array
+ordered binary decision diagram (OBDD)
+ordered linked list
+ordered tree
+order preserving hash
+order preserving minimal perfect hashing
+oriented acyclic graph
+oriented graph
+oriented tree
+orthogonal drawing
+orthogonal lists
+orthogonally convex rectilinear polygon
+oscillating merge sort
+out-branching
+out-degree
+overlapping subproblems
+packing (see set packing)
+padding argument
+pagoda
+pairing heap
+PAM (point access method)
+parallel computation thesis
+parallel prefix computation
+parallel random-access machine (PRAM)
+parametric searching
+parent
+partial function
+partially decidable problem
+partially dynamic graph problem
+partially ordered set
+partially persistent data structure
+partial order
+partial recursive function
+partition (set theory)
+passive data structure
+patience sorting
+path (graph theory)
+path cover
+path system problem
+Patricia tree
+pattern
+pattern element
+P-complete
+PCP
+Peano curve
+Pearson's hashing
+perfect binary tree
+perfect hashing
+perfect k-ary tree
+perfect matching
+perfect shuffle
+performance guarantee
+performance ratio
+permutation
+persistent data structure
+phonetic coding
+pile (data structure)
+pipelined divide and conquer
+planar graph
+planarization
+planar straight-line graph
+PLOP-hashing
+point access method
+pointer jumping
+pointer machine
+poissonization
+polychotomy
+polyhedron
+polylogarithmic
+polynomial
+polynomial-time approximation scheme (PTAS)
+polynomial hierarchy
+polynomial time
+polynomial-time Church-Turing thesis
+polynomial-time reduction
+polyphase merge
+polyphase merge sort
+polytope
+poset
+postfix traversal
+Post machine (see Post-Turing machine)
+postman's sort
+postorder traversal
+Post correspondence problem
+potential function (see potential method)
+predicate
+prefix
+prefix code
+prefix computation
+prefix sum
+prefix traversal
+preorder traversal
+primary clustering
+primitive recursive
+Prim's algorithm
+principle of optimality
+priority queue
+prisoner's dilemma
+PRNG
+probabilistic algorithm
+probabilistically checkable proof
+probabilistic Turing machine
+probe sequence
+Procedure (computer science)
+process algebra
+proper (see proper subset)
+proper binary tree
+proper coloring
+proper subset
+property list
+prune and search
+pseudorandom number generator
+pth order Fibonacci numbers
+P-tree
+purely functional language
+pushdown automaton (PDA)
+pushdown transducer
+p-way merge sort
+qm sort
+qsort
+quadratic probing
+quadtree
+quadtree complexity theorem
+quad trie
+quantum computation
+queue
+quicksort
+Rabin-Karp string search algorithm
+radix quicksort
+radix sort
+ragged matrix
+Raita algorithm
+random access machine
+random number generation
+randomization
+randomized algorithm
+randomized binary search tree
+randomized complexity
+randomized polynomial time
+randomized rounding
+randomized search tree
+Randomized-Select
+random number generator
+random sampling
+range (function)
+range sort
+Rank (graph theory)
+Ratcliff/Obershelp pattern recognition
+reachable
+rebalance
+recognizer
+rectangular matrix
+rectilinear
+rectilinear Steiner tree
+recurrence equations
+recurrence relation
+recursion
+recursion termination
+recursion tree
+recursive (computer science)
+recursive data structure
+recursive doubling
+recursive language
+recursively enumerable language
+recursively solvable
+red-black tree
+reduced basis
+reduced digraph
+reduced ordered binary decision diagram (ROBDD)
+reduction
+reflexive relation
+regular decomposition
+rehashing
+relation (mathematics)
+relational structure
+relative performance guarantee
+relaxation
+relaxed balance
+rescalable
+restricted universe sort
+result cache
+Reverse Colussi
+Reverse Factor
+R-file
+Rice's method
+right rotation
+right-threaded tree
+root
+root balance
+rooted tree
+rotate left
+rotate right
+rotation
+rough graph
+RP
+R+-tree
+R*-tree
+R-tree
+run time
+saguaro stack
+saturated edge
+SBB tree
+scan
+scapegoat tree
+search algorithm
+search tree
+search tree property
+secant search
+secondary clustering
+memory segment
+Select algorithm
+select and partition
+selection problem
+selection sort
+select kth element
+select mode
+self-loop
+self-organizing heuristic
+self-organizing list
+self-organizing sequential search
+semidefinite programming
+separate chaining hashing
+separation theorem
+sequential search
+Set (computer science)
+set cover
+set packing
+shadow heap
+shadow merge
+shadow merge insert
+shaker sort
+Shannon-Fano coding
+Shared memory (interprocess communication)
+Shell sort
+Shift-Or
+Shor's algorithm
+shortcutting
+shortest common supersequence
+shortest common superstring
+shortest path
+shortest spanning tree
+shuffle
+shuffle sort
+sibling
+Sierpiński curve
+Sierpinski triangle
+sieve of Eratosthenes
+sift up
+signature
+Simon's algorithm
+simple merge
+simple path
+simple uniform hashing
+simplex communication
+simulated annealing
+simulation theorem
+single-destination shortest-path problem
+single-pair shortest-path problem
+single program multiple data
+single-source shortest-path problem
+singly linked list
+singularity analysis
+sink
+sinking sort
+skd-tree
+skew symmetry
+skip list
+skip search
+slope selection
+Smith algorithm
+Smith-Waterman algorithm
+smoothsort
+solvable problem
+sort algorithm
+sorted array
+sorted list
+sort in place
+sort merge
+soundex
+space-constructible function
+spanning tree
+sparse graph
+sparse matrix
+sparsification
+sparsity
+spatial access method
+spectral test
+splay tree
+SPMD
+square matrix
+square root
+SST (shortest spanning tree)
+stable
+stack (data structure)
+stack tree
+star-shaped polygon
+start state
+state
+state machine
+state transition
+static data structure
+static Huffman encoding
+s-t cut
+st-digraph
+Steiner minimum tree
+Steiner point
+Steiner ratio
+Steiner tree
+Steiner vertex
+Steinhaus-Johnson-Trotter algorithm
+Stirling's approximation
+Stirling's formula
+stooge sort
+straight-line drawing
+strand sort
+strictly decreasing
+strictly increasing
+strictly lower triangular matrix
+strictly upper triangular matrix
+string
+string editing problem
+string matching
+string matching on ordered alphabets
+string matching with errors
+string matching with mismatches
+string searching
+strip packing
+strongly connected component
+strongly connected graph
+strongly NP-hard
+subadditive ergodic theorem
+subgraph isomorphism
+sublinear time algorithm
+subsequence
+subset
+substring
+subtree
+suffix
+suffix array
+suffix automaton
+suffix tree
+superimposed code
+superset
+supersink
+supersource
+symmetric relation
+symmetrically linked list
+symmetric binary B-tree
+symmetric set difference
+symmetry breaking
+symmetric min max heap
+tail
+tail recursion
+target
+temporal logic
+terminal (see Steiner tree)
+terminal node
+ternary search
+ternary search tree (TST)
+text searching
+theta
+threaded binary tree
+threaded tree
+three-dimensional
+three-way merge sort
+three-way radix quicksort
+time-constructible function
+time/space complexity
+top-down radix sort
+top-down tree automaton
+top-node
+topological order
+topological sort
+topology tree
+total function
+totally decidable language
+totally decidable problem
+totally undecidable problem
+total order
+tour
+tournament
+towers of Hanoi
+tractable problem
+transducer
+transition (see finite-state machine)
+transition function (of a finite-state machine or Turing machine)
+transitive relation
+transitive closure
+transitive reduction
+transpose sequential search
+travelling salesman problem (TSP)
+treap
+tree
+tree automaton
+tree contraction
+tree editing problem
+tree sort
+tree transducer
+tree traversal
+triangle inequality
+triconnected graph
+trie
+trinary function
+tripartition
+Turbo-BM
+Turbo Reverse Factor
+Turing machine
+Turing reduction
+Turing transducer
+twin grid file
+two-dimensional
+two-level grid file
+2-3-4 tree
+2-3 tree
+Two Way algorithm
+two-way linked list
+two-way merge sort
+unary function
+unbounded knapsack problem (UKP)
+uncomputable function
+uncomputable problem
+undecidable language
+undecidable problem
+undirected graph
+uniform circuit complexity
+uniform circuit family
+uniform hashing
+uniform matrix
+union
+union of automata
+universal hashing
+universal state
+universal Turing machine
+universe
+unsolvable problem
+unsorted list
+upper triangular matrix
+van Emde Boas priority queue
+vehicle routing problem
+Veitch diagram
+Venn diagram
+vertex
+vertex coloring
+vertex connectivity
+vertex cover
+vertical visibility map
+virtual hashing
+visibility map
+visible (geometry)
+Viterbi algorithm
+VP-tree
+VRP (vehicle routing problem)
+walk
+weak cluster
+weak-heap
+weak-heap sort
+weight-balanced tree
+weighted, directed graph
+weighted graph
+window
+witness
+work-depth model
+work-efficient
+work-preserving
+worst case
+worst-case cost
+worst-case minimum access
+xor
+Yule-Simon distribution
+Zeller's congruence
+0-ary function
+0-based indexing
+0/1 knapsack problem
+Zhu-Takaoka string matching algorithm
+Zipfian distribution
+Zipf's law
+Zipper (data structure)
+ZPP
+absolute zeroat rest
+absorbance
+abundance
+accuracy
+acid
+acid anhydride
+acid dissociation constant
+actinides
+activated complex
+activity series
+actual yield
+addition reaction
+adhesion
+aeration
+alcohol
+aldehyde
+alkali metals
+alkaline earth metals
+alkane
+alkene
+alkyl group
+alkyne
+allomer 
+allotropy 
+amplitude 
+anion 
+atom 
+atomic number 
+atomic orbital
+atomic radius
+average atomic mass
+Avogadro's law
+Avogadro's number
+Azeotrope
+barometer
+base
+base anhydride
+beat
+Beer-Lambert law
+biochemistry
+Bohr model
+boiling
+boiling point
+boiling-point elevation
+bond
+Boyle's law
+Bragg's law
+Brønsted-Lowrey acid
+Brønsted-Lowry acid-base reaction
+Brønsted-Lowrey base
+buckminsterfullerene
+buffered solution
+burette
+Almshouse 
+Bastion 
+Cathedral Close 
+Citadel
+Crenelations 
+Guild 
+Keystone 
+Livery Companies 
+Masonic Lodge 
+Plaza, Piazza 
+Abattoir/slaughterhouse.
+Wynd 
+Alley
+CAAs
+LAAs
+MAAs
+a depressive
+a diabetic
+a number of
+able-bodied
+abundance
+accede to
+accelerate
+accentuate
+accompany
+accomplish
+accorded
+accrue
+acid test
+acquiesce
+acquire
+across the piece
+across-the-piece
+actioned
+actively contemplating
+additional
+adjacent to
+adjustment
+admissible
+advancing
+advantageous
+adversely impact
+advocate
+aforementioned
+against the grain
+agencies
+agenda
+aggregate
+all of
+alleviate
+allocate
+along the lines of
+alternatively
+altitude
+ambassador
+ameliorate
+an epileptic
+anticipate
+apparent
+apportionment
+appreciable
+approximately
+area based
+area focused
+area-based
+area-focused
+as a means of
+as of yet
+as to
+as yet
+ascertain
+assailant
+assist
+assistance
+assisted
+assisting
+at this time
+attain
+attributable to
+authorize
+authorise
+autonomous
+axe to grind
+back to square one
+baseline
+basically
+beacon
+because of the fact that
+beggars belief
+beggars description
+being done
+belated
+benchmarking
+benefit from
+best practice
+best-practice
+bestial atrocities
+bestow
+big bang
+bike shedding
+bitter row
+bitter row
+blind drunk
+bloodstained tyranny
+blue sky thinking
+bonanza
+bottom out
+bottom-up
+brain dump
+break out
+brought to a satisfactory conclusion
+bulky uplift
+burning issue
+by dint of
+by examination
+by virtue of
+c-suite
+can do culture
+can-do culture
+capabilities
+capacity building
+capacity
+capturing
+cascading
+cashable
+catalysts
+categorical
+cautiously welcome
+cautiously welcome...
+cease
+centricity
+challenge
+champion
+citizen empowerment
+citizen touchpoints
+clampdown
+clash
+client
+clienting
+close proximity
+cohesive communities
+cohesiveness
+cold comfort
+collaborate
+collaborated
+collaborating
+collaboration
+combating
+coming home to roost
+coming home to roost
+commence
+commissioning
+commit
+committing
+community engagement
+compact
+compendium
+comply with
+comprehensive area assessment
+concerning
+conditionality
+confined to a wheelchair
+connectedness
+consensual
+consequently
+consolidate
+constitutes
+contestability
+contextual
+core developments
+core message
+core principles
+core value
+coterminosity
+coterminous
+countering
+crackdown
+cripple
+cross-cutting
+cross-fertilisation
+cross-sectoral
+crucial new
+curb growing menaces
+customer insight
+customer journey
+customer
+deaf and dumb
+deaf mute
+deaf to our pleas
+death toll
+deep dive
+deliver
+delivered
+democratic legitimacy
+democratic mandate
+demonstrate
+depart
+deploy
+deserved serious consideration
+deserves serious consideration
+deserving serious consideration
+designate
+deus ex machine
+development to be expected
+dialogue
+digital salon
+digitalising
+direction of travel
+disbenefits
+discontinue
+discourse
+disincentivise
+disincentivised
+disincentivising
+distorts spending priorities
+do well to bear in mind
+double devolution
+downstream
+downstreaming
+drive forward
+drive out
+drive
+driven forward
+driven out
+driving forward
+driving out
+dropped a clanger
+due to the fact that
+dwarf
+each and every
+early win
+econometric
+economical
+edge-fit
+eliminate
+elucidate
+embedded
+employ
+empower
+empowerment
+enabler
+end user
+end-user
+endeavor
+engagement
+engaging users
+enhance
+enumerate
+epic
+epoch-making
+equitable
+equivalent
+evaluate
+evergreening
+everyone knows
+evidence base
+evidenced
+exclusively
+exemplar
+exhibit
+expected in the near future
+expedite
+expend
+expiration
+explore every avenue
+extensible
+external challenge
+externalities
+face time
+facilitate
+facilitating
+facing broadsides
+factual evidence
+faq
+fast track
+fast-track
+feasible
+feathers really flew
+finalize
+first and foremost
+flex
+flexibilities and freedoms
+focusing
+for the purpose of
+for yourselves
+forfeit
+forfeited
+formulate
+formulated
+foster
+fostering
+framework
+free peoples of the world
+front door
+fulcrum
+functionality
+fundamental restructuring
+funding streams
+future of place
+future proofing
+future-proofing
+game plan
+game-plan
+garden shedding
+gateway review
+gave rise to
+give rise to
+given rise to
+given the go ahead
+given the go-ahead
+go forward
+going forward
+gold plating
+goldfish bowl facilitated conversation
+good practice
+good-practice
+governance
+granularity
+greatly to be desired
+grist to the mill
+guidelines
+having regard to
+head on
+head-on
+headroom for change
+hereditament
+holistic governance
+holistic
+honest truth
+horizon scanning
+hotbed
+however
+hurdle
+if and when
+impact
+impacted
+implement
+improvement levers
+in a timely manner
+in accordance with
+in addition
+in all likelihood
+in an effort to
+in between
+in excess of
+in lieu of
+in light of the fact that
+in many cases
+in order to
+in regard to
+in some instances
+in terms of
+in the interests of
+in the near future
+in the process of
+incentivise
+incentivise
+incentivised
+incentivising
+incentivising
+inception
+income streams
+incumbent upon
+indicate
+indication
+indicators
+informatics
+information radiators
+initiate
+initiating
+initiative
+innovative capacity
+inspectorates
+interactivity
+interdepartmental
+interdependencies
+interface
+iron heel
+iron resolution
+irregardless
+is applicable to
+is authorized to
+is responsible for
+it is essential
+iteration
+jackboot
+joined up
+joined-up
+joint working
+just
+key asks
+key
+kickstart
+knowledge bite
+knowledge hub
+knowledge transfer
+land
+landed
+landing
+lay the foundations
+learning outcome
+learnings
+leave much to be desired
+leave no stone unturned
+leaves much to be desired
+leaving no stone unturned
+leaving no stone unturned
+left no stone unturned
+lens
+lenses
+level playing field
+lever
+leverage
+leveraging
+liaise
+liaising
+lifetime neighbourhood
+light networking lunch
+light touch
+limped into port
+living in a dream world
+local area agreements
+local strategic partnerships
+localities
+low hanging fruit
+low-hanging fruit
+lowlights
+magnitude
+mainstreaming
+make itself felt
+management capacity
+mathematicalise
+maximum
+meaningful consultation
+meaningful dialogue
+meaningful dialogue
+meaningful reusable interactivity
+mechanisms
+melting pot
+mental patient
+mentally defective
+mentally handicapped
+menu of options
+methodology
+midget
+minimize
+minimum
+mobilise
+modify
+monitor
+moving forward
+moving toward
+multi-agency
+multi-area agreements
+multi-disciplinary
+multidisciplinary
+multiple
+municipalities
+necessitate
+neither confirm nor deny
+network model
+never-never land
+nevertheless
+new controls
+no wrong door
+normalising
+not certain
+not many
+not often
+not un
+notwithstanding
+null and void
+numerous
+objective
+obligate
+obtain
+obviously
+of course
+on the contrary
+on the hypothesis that
+on the other hand
+one front door
+one particular
+one stop shop
+one-stop shop
+optimum
+order of the day
+organic growth
+outcomes
+output
+outrage
+outsourced
+overall
+overarching
+owing to the fact that
+paradigm
+parameter
+participate
+participatory
+particulars
+partnership working
+partnerships
+pass away
+passed away
+pathfinder
+peer challenge
+peer
+performance network
+pertaining to
+place shaping
+play a leading part
+play into the hands
+played a leading part
+played into the hands
+pledge
+pledging
+point in time
+poised
+pooled budgets
+pooled resources
+pooled risk
+populace
+portion
+possess
+potentialities
+practitioners
+preclude
+predictors of beaconicity
+preventative services
+previously
+prior to
+prioritisation
+prioritization
+prioritize
+priority
+proactive
+process driven
+procure
+procurement
+proficiency
+progress
+progressed
+promote
+promoted
+promoting
+promulgate
+proportionality
+protocol
+provided that
+provider vehicles
+provider
+public sphere
+pump priming
+purchase
+put simply
+quantum
+quick hit
+quick win
+radical change
+radical transformation
+rationalisation
+re-weaving
+reablement
+reach epidemic proportions
+reach out to
+reach out
+reached out to
+readily apparent
+rebaselining
+reconfigured
+refer back
+regarding
+relocate
+remainder
+remuneration
+render inoperative
+rendered inoperative
+require
+requirement
+reside
+residence
+resource allocation
+resource efficient
+retain
+retarded
+revenue streams
+ride roughshod over
+ride roughshod
+riding roughshod
+ring fence
+ring fenced
+ring fencing
+ring the changes
+ringed the changes
+ringfence
+ringfenced
+ringing the changes
+risk based
+robust
+safeguarding
+satisfy
+scaled-back
+scoping
+sector wise
+seedbed
+self-aggrandisement
+self-aggrandizement
+serve no good purpose
+service users
+servitisation
+set ablaze
+set to
+shake up
+shake-up
+shall
+shared priority
+shared priority
+shell developments
+should you wish
+signpost
+similar to
+simply
+single conversations
+single point of contact
+situational
+slim down
+slimmed down
+slimming down
+slippage
+social contracts
+social exclusion
+solicit
+span across
+spark off
+spastic
+spatial
+speak offline
+speculation was rife
+spelled out
+spin up
+stakeholder
+stand shoulder to shoulder
+standing shoulder to shoulder
+starter for ten
+status quo
+step change
+stood shoulder to shoulder
+storming
+strategic priorities
+strategic
+strategise
+strategize
+streamline
+streamlined
+streamlined
+streamlining
+strengthened
+strengthening
+sub-regional
+subnormal
+subsequent
+subsidiarity
+subsidiary
+substantial
+successfully complete
+such as
+sufficient
+sunset
+super session
+sustainable communities
+sustainable
+swan song
+sweet smell of success
+symposium
+synergies
+synergy
+systematics
+tackle
+tackled
+tackling
+take this offline
+takes the biscuit
+tasked
+taxonomy
+terminate
+tesselated
+Cartography
+Choreography
+Cinematography
+Collagraphy
+Cryptography
+Pyrography
+Iconography
+Klecksography
+Lithography
+Photolithography
+Pornography
+Photography
+Serigraphy
+Tasseography
+Thermography
+Tomography
+Typography
+Videography
+Vitreography
+Xerography
+Cacography
+Calligraphy
+Orthography
+Pictography
+Steganography
+Stenography
+Science
+Radiography
+Geography
+Autobiography
+Bibliography
+Biography
+Discography
+Filmography
+Webography
+Areography
+Cartography
+Cosmography
+Crystallography
+Demography
+Encephalography
+Ethnography
+Floriography
+Geography
+Hagiography
+Holography
+Historiography
+Hydrography
+Oceanography
+Orography
+Reprography
+Selenography
+Topography
+Uranography
