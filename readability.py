@@ -7,6 +7,7 @@ Credits: See README.md
 from __future__ import division
 import sklearn
 from sets import Set
+print("\nLoading NLP toolkits...")
 import nltk
 import string
 import numpy
@@ -33,6 +34,9 @@ FEATURES [by index]
 [11] hedge words / total words
 [12] weasel words / total words
 [13] simple american words / total words
+[14] total special chars / total words
+[15] total numbers / total words
+[16] total unique words / total words
 """
 
 

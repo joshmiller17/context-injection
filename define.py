@@ -6,6 +6,7 @@ Credits: See README.md
 """
 
 from __future__ import print_function
+print("\nReading Wikipedia...\n")
 import wikipedia as wiki
 import nltk
 from nltk.tokenize import sent_tokenize, word_tokenize
