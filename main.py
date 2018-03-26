@@ -12,7 +12,9 @@ print("\nLoading Context Injection program...")
 import sys, os
 import readability
 import tfidf
+import define
 from subprocess import call
+# TODO look into having multiple files all importing same thing - efficiency?
 
 # init global vars
 verbose = False
@@ -65,7 +67,7 @@ def build_readability_model(read_dir):
 # returns list
 def find_jargon_using_tfidf(input_doc, background_dir, max_terms=None):
 	global verbose, debug
-	tfidf_dictionary = tfidf.build_tfidf_model(background_dir, debug=debug)
+	tfidf_dictionary = tfidf.build_tfidf_model("../" + background_dir, debug=debug, verbose=verbose) # for some reason, Termolator needs background dir to be higher
 	if tfidf_dictionary is None:
 		return None
 	# find suitable cutoff point if none given
@@ -74,7 +76,7 @@ def find_jargon_using_tfidf(input_doc, background_dir, max_terms=None):
 	if debug:
 		print("DEBUG: input file size is", file_size)
 	if max_terms is None:
-		max_terms = int(round(file_size / 1000)) + 1
+		max_terms = min(5, int(round(file_size / 1000)) + 1)
 	if debug:
 		print("DEBUG: Using at most", max_terms, "terms for TFIDF model.")
 	file.close()
@@ -84,11 +86,15 @@ def find_jargon_using_tfidf(input_doc, background_dir, max_terms=None):
 	
 	jargon_dict = {} # saved as dict for debugging
 	for word in input_dict:
+		if debug:
+			print("TRACE: input jargon found - " + word + " " + str(input_dict[word]))
 		if word in tfidf_dictionary:
 			jargon_dict[word] = tfidf_dictionary[word]
+		elif debug:
+			print("...No matching jargon in background; discarding.")
 	
 	jargon_sorted = []
-	terms_remaining = max_terms
+	terms_remaining = int(max_terms)
 	if debug:
 		print("DEBUG: TFIDF scores for chosen jargon terms")
 	for word, score in sorted(jargon_dict.iteritems(), key=lambda (key,val): (val,key)):
@@ -167,6 +173,7 @@ def main():
 			"        -noread            Skip readability modeling\n" + \
 			"        -notfidf           Skip TFIDF modeling\n" + \
 			"        -noterm            Skip Termolator modeling\n" + \
+			"        -maxterms m        Set max jargon terms used for TFIDF model" + \
 			"        -read dir          Build readability model from files in directory dir.\n" + \
 			"        -background dir    Set the background corpus for training jargon models.\n" + \
 			"If no background is given, the program uses a known background or throws an error if none exists.\n" + \
@@ -180,6 +187,7 @@ def main():
 	skip_read = False
 	skip_tfidf = False
 	skip_term = False
+	max_terms = None
 	for a in range(len(sys.argv)):
 		if skip == True:
 			skip = False
@@ -202,6 +210,9 @@ def main():
 					skip_tfidf = True
 				elif sys.argv[a] == '-noterm':
 					skip_term = True
+				elif sys.argv[a] == '-maxterms':
+					skip = True
+					max_terms = sys.argv[a+1]
 				elif sys.argv[a] == '-read':
 					skip = True
 					read_dir = sys.argv[a+1]
@@ -269,7 +280,7 @@ def main():
 	if background_dir:
 	
 		if not skip_tfidf:
-			tfidf_jargon_terms = find_jargon_using_tfidf(input_doc, background_dir)
+			tfidf_jargon_terms = find_jargon_using_tfidf(input_doc, background_dir, max_terms = max_terms)
 			# TODO do something with this list of jargon terms
 		
 		if not skip_term:

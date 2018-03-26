@@ -1,3 +1,10 @@
+"""
+Context Injection
+CS 6120 Spring 2018
+Author: Dave Lowell
+Credits: See README.md
+"""
+
 from __future__ import print_function
 import wikipedia as wiki
 import nltk

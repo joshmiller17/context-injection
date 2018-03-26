@@ -5,9 +5,11 @@ Author: Josh Miller
 Credits: See README.md
 """
 
+from __future__ import print_function
 import nltk
 import numpy as np
 import os
+from readability import pre_process
 from collections import defaultdict
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.stem.porter import PorterStemmer
@@ -40,13 +42,19 @@ def stem(token):
 	
 
 # sklearn tfidf
-def train_tfidf(docs):
+def train_tfidf(docs, verbose=False):
 	if len(docs) < 1:
 		print("ERROR: No documents to train TFIDF on")
 		return None
+	if verbose:
+		print("INFO: pre-processing " + str(len(docs)) + " documents.")
+	processed_docs = []
+	for doc in docs:
+		clean = pre_process(doc)
+		processed_docs.append(clean)
 	print("INFO: Training TFIDF Vectorizer...")
 	tfidf = TfidfVectorizer(tokenizer=get_stems, stop_words='english')
-	result = tfidf.fit_transform(docs)
+	result = tfidf.fit_transform(processed_docs)
 	scores = zip(tfidf.get_feature_names(), np.asarray(result.sum(axis=0)).ravel())
 	tfdict = defaultdict(float)
 	for score in scores:
@@ -77,7 +85,7 @@ def predict(model, datum):
 
 # input: directory of files
 # output: tfidf dictionary
-def build_tfidf_model(background_dir, file=False, debug=False):
+def build_tfidf_model(background_dir, file=False, debug=False, verbose=False):
 	files = []
 	if file:
 		files = [background_dir + ".txt"]
@@ -87,8 +95,13 @@ def build_tfidf_model(background_dir, file=False, debug=False):
 				files.append(os.path.join(dirpath, file))
 		if debug:
 			print(str(len(files)) + " files found in background " + background_dir)
+			if len(files) < 10:
+				for f in files:
+					print(f)
 	texts = files_to_texts(files)
-	tfdict = train_tfidf(texts)
+	if len(texts) < len(files):
+		print("ERROR: Some files were unable to be processed. " + len(texts) + " / " + len(files))
+	tfdict = train_tfidf(texts, verbose=verbose)
 	return tfdict
 	
 	

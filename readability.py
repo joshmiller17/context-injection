@@ -213,7 +213,7 @@ def construct_readability_model(file_names, labels, verbose=False):
 	
 	
 def train_model(data, labels):
-	model = sklearn.linear_model.LinearRegression(normalize=True)
+	model = sklearn.linear_model.Ridge(normalize=True)
 	model.fit(data, labels)
 	return model  # can get weights from model.get_params
 
