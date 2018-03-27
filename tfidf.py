@@ -84,7 +84,7 @@ def get_tfidf(tfdict, word):
 
 
 def count_coreferences(phrase, context):
-	# TODO count coreferences of phrase in context
+	# future work? count coreferences of phrase in context
 	raise NotImplementedError
 	
 
@@ -99,7 +99,7 @@ def predict(model, datum):
 	return model.predict(datum)
 
 	
-# TODO use joblib to save and load models
+# future work? use joblib to save and load models
 # input: directory of files
 # output: tfidf dictionary
 def build_tfidf_model(background_dir, file=False, debug=False, verbose=False, stem=True):

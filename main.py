@@ -269,7 +269,7 @@ def main():
 		# = readability model saved when program last run
 		# else if no file found, give warning that build must happen first
 		try:
-			model = joblib.load("readability_model.pkl", 'r')
+			read_model = joblib.load("readability_model.pkl", 'r')
 		except Exception as e:
 			print("ERROR: No readability model found on file. Please build readability model before continuing.")
 			if debug:
@@ -278,11 +278,11 @@ def main():
 			return errors
 				
 	if not skip_read:
-		# TODO include topic density in the readability model?
+		# future work? include topic density in the readability model?
 	
-		# TODO calculate readability of document
+		# calculate readability of document
 		input_as_feature_vec = readability.feature_extraction([input_doc + ".txt"], verbose=verbose)
-		prediction = readability.predict(model, input_as_feature_vec)
+		prediction = readability.predict(read_model, input_as_feature_vec)
 		print("Readability prediction:" + "\n" + str(prediction))
 		open("read_output_" + input_doc + ".txt", 'w').close()
 		with open("read_output_" + input_doc + ".txt", 'a') as file:
@@ -296,7 +296,6 @@ def main():
 	
 		if not skip_tfidf:
 			tfidf_jargon_terms = find_jargon_using_tfidf(input_doc, background_dir, max_terms = max_terms, stem = do_stem)
-			# TODO do something with this list of jargon terms
 			open("tfidf_output_" + input_doc + ".txt", 'w').close()
 			with open("tfidf_output_" + input_doc + ".txt", 'a') as file:
 				for j in tfidf_jargon_terms:
@@ -306,15 +305,26 @@ def main():
 			termolator_jargon_terms = find_jargon_using_termolator(input_doc, background_dir, output_doc)
 			
 			
-			# TODO context injection into the termolator version
-			# if not skip read
-				# TODO measure the readability of the context injected version
+			# TODO context injection using the termolator's list of jargon
+			# TODO save as [input_doc]_injected.txt
+			#if not skip read
+			#	input_as_feature_vec = readability.feature_extraction([input_doc + "_injected.txt"], verbose=verbose)
+			#	prediction = readability.predict(read_model, input_as_feature_vec)
+			#	print("New readability with context injected: " + str(prediction))
 
-		#if not (skip_tfidf or skip_term):
-			# TODO compare lists of jargon terms
+		open("overlapping_jargon_" + input_doc + ".txt", 'w').close()
+		with open("overlapping_jargon_" + input_doc + ".txt", 'a') as file:
+				
+			if not (skip_tfidf or skip_term):
+				for tf_jargon in tfidf_jargon_terms:
+					for term_jargon in termolator_jargon_terms:
+						match = True
+						for ch in range(len(tf_jargon)):
+							if tf_jargon[ch] != term_jargon:
+								match = False
+						if match:
+							file.write(term_jargon + "\n")
 		
-		
-
 		
 	return errors
 

@@ -93,7 +93,7 @@ def feature_extraction(data, verbose=False):
 		vocab_set = Set([])
 		total_special_char = 0
 		
-		# TODO skip stop words for the purpose of word tracking?
+		# future work? skip stop words for the purpose of word tracking?
 
 		for paragraph in paragraphs:
 			try:
