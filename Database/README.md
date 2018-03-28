@@ -1,22 +1,23 @@
 # Creating the Database:
 
-Download the preprocessed database from [here](https://doc-00-7c-docs.googleusercontent.com/docs/securesc/3hbo13onmk187923mgj27io3iv08rbec/jobfsn6cuoh2jksfsgm75s1q2jjujrrv/1521914400000/10902977221215816192/10902977221215816192/1F2FYCUW_WggB7agx9PK3y3v34K4uYUOs?h=12643601077865186497&e=download).
+Download the preprocessed database from [here](https://drive.google.com/a/husky.neu.edu/file/d/1bPI-PPxW417Rhj_61dkbCr1OP4ozfVbx/view?usp=drive_web).
 
 Get the WikiDump:
 
-`wget https://dumps.wikimedia.org/enwikibooks/latest/enwikibooks-latest-pages-articles-multistream.xml.bz2`
+`wget https://dumps.wikimedia.org/enwikibooks/latest/enwikibooks-20180220-pages-articles-multistream.xml.bz2`
 
 `enwikibooks-20180220-pages-articles-multistream-index.txt` contains title of each fetched article.
 
 Run the following to extract text from xml dumps:
 
-`python WikiExtractor.py -cb 250K -o extracted enwikibooks-latest-pages-articles-multistream.xml.bz2`
+`python WikiExtractor.py --file -o extracted enwikibooks-20180220-pages-articles-multistream.xml`
 
 Run `python multithreaded_get_categories.py` to get the categories for each fetched article. 
 
-`books_by_category.csv` contains each article mapped with its category.
+`books_by_category/books_by_category.csv` and `books_by_category/books_by_category2.csv` contains each article mapped with its category.
 
-Open and run the `preprocess.ipynb` to store each cleaned article into seperate directories with their categories as titles. 
+Open and run the `get_data.ipynb` to merge the categorized titles into an index file called `allbooks_by_category.csv` and also prepare the Database directory
 
-<hr>  
+Open and run the `clean_data.ipynb` to store each cleaned article into seperate directories with their categories as titles. 
 
+<hr>
