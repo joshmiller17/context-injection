@@ -7,6 +7,7 @@ Credits: See README.md
 from __future__ import division
 import sklearn
 from sets import Set
+print("\nLoading NLP toolkits...")
 import nltk
 import string
 import numpy
@@ -33,6 +34,9 @@ FEATURES [by index]
 [11] hedge words / total words
 [12] weasel words / total words
 [13] simple american words / total words
+[14] total special chars / total words
+[15] total numbers / total words
+[16] total unique words / total words
 """
 
 
@@ -89,7 +93,7 @@ def feature_extraction(data, verbose=False):
 		vocab_set = Set([])
 		total_special_char = 0
 		
-		# TODO skip stop words for the purpose of word tracking?
+		# future work? skip stop words for the purpose of word tracking?
 
 		for paragraph in paragraphs:
 			try:
@@ -213,7 +217,7 @@ def construct_readability_model(file_names, labels, verbose=False):
 	
 	
 def train_model(data, labels):
-	model = sklearn.linear_model.LinearRegression(normalize=True)
+	model = sklearn.linear_model.Ridge(normalize=True)
 	model.fit(data, labels)
 	return model  # can get weights from model.get_params
 
