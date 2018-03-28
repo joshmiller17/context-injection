@@ -5,9 +5,11 @@ Author: Josh Miller
 Credits: See README.md
 """
 
+from __future__ import print_function
 import nltk
 import numpy as np
 import os
+from readability import pre_process
 from collections import defaultdict
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.stem.porter import PorterStemmer
@@ -38,15 +40,35 @@ def get_stems(input):
 def stem(token):
 	return PorterStemmer().stem(token)
 	
+def no_stem_tokenizer(input):
+	try:
+		tokenized = nltk.word_tokenize(input)
+	except LookupError:
+		print("INFO: punkt not found, downloading now")
+		nltk.download("punkt")
+		tokenized = nltk.word_tokenize(input)
+	return tokenized
+
 
 # sklearn tfidf
-def train_tfidf(docs):
+def train_tfidf(docs, stem=True, verbose=False):
 	if len(docs) < 1:
 		print("ERROR: No documents to train TFIDF on")
 		return None
+	if verbose:
+		print("INFO: pre-processing " + str(len(docs)) + " documents.")
+	processed_docs = []
+	for doc in docs:
+		clean = pre_process(doc)
+		processed_docs.append(clean)
+	if verbose:
+		print("INFO: Training TFIDF model, stemming set to " + str(stem))
 	print("INFO: Training TFIDF Vectorizer...")
-	tfidf = TfidfVectorizer(tokenizer=get_stems, stop_words='english')
-	result = tfidf.fit_transform(docs)
+	if stem:
+		tfidf = TfidfVectorizer(tokenizer=get_stems, stop_words='english')
+	else:
+		tfidf = TfidfVectorizer(tokenizer=no_stem_tokenizer, stop_words='english')
+	result = tfidf.fit_transform(processed_docs)
 	scores = zip(tfidf.get_feature_names(), np.asarray(result.sum(axis=0)).ravel())
 	tfdict = defaultdict(float)
 	for score in scores:
@@ -62,22 +84,27 @@ def get_tfidf(tfdict, word):
 
 
 def count_coreferences(phrase, context):
-	# TODO count coreferences of phrase in context
+	# future work? count coreferences of phrase in context
 	raise NotImplementedError
 	
 
 def train_model(data, labels):
 	model = sklearn.linear_model.LinearRegression(normalize=True)
 	model.fit(data, labels)
+	
 	return model  # can get weights from model.get_params
 
 
 def predict(model, datum):
 	return model.predict(datum)
 
+	
+# future work? use joblib to save and load models
 # input: directory of files
 # output: tfidf dictionary
-def build_tfidf_model(background_dir, file=False, debug=False):
+def build_tfidf_model(background_dir, file=False, debug=False, verbose=False, stem=True):
+	if debug:
+		print("DEBUG: Building TFIDF model, stem=" + str(stem))
 	files = []
 	if file:
 		files = [background_dir + ".txt"]
@@ -87,8 +114,13 @@ def build_tfidf_model(background_dir, file=False, debug=False):
 				files.append(os.path.join(dirpath, file))
 		if debug:
 			print(str(len(files)) + " files found in background " + background_dir)
+			if len(files) < 10:
+				for f in files:
+					print(f)
 	texts = files_to_texts(files)
-	tfdict = train_tfidf(texts)
+	if len(texts) < len(files):
+		print("ERROR: Some files were unable to be processed. " + len(texts) + " / " + len(files))
+	tfdict = train_tfidf(texts, verbose=verbose, stem=stem)
 	return tfdict
 	
 	

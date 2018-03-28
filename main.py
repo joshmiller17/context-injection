@@ -7,12 +7,17 @@ Credits: See README.md
 from __future__ import print_function
 from __future__ import division
 
-print("\nLoading Context Injection program...")
-
+print("\nLoading system operations...")
 import sys, os
+from sklearn.externals import joblib
+from subprocess import call
+
+print("\nLoading Context Injection...")
 import readability
 import tfidf
-from subprocess import call
+import define
+
+# TODO look into having multiple files all importing same thing - efficiency?
 
 # init global vars
 verbose = False
@@ -63,9 +68,9 @@ def build_readability_model(read_dir):
 	
 # identifies a list of jargon terms using TFIDF
 # returns list
-def find_jargon_using_tfidf(input_doc, background_dir, max_terms=None):
+def find_jargon_using_tfidf(input_doc, background_dir, max_terms=None, stem=True):
 	global verbose, debug
-	tfidf_dictionary = tfidf.build_tfidf_model(background_dir, debug=debug)
+	tfidf_dictionary = tfidf.build_tfidf_model("../" + background_dir, debug=debug, verbose=verbose, stem=stem) # for some reason, Termolator needs background dir to be higher
 	if tfidf_dictionary is None:
 		return None
 	# find suitable cutoff point if none given
@@ -74,7 +79,7 @@ def find_jargon_using_tfidf(input_doc, background_dir, max_terms=None):
 	if debug:
 		print("DEBUG: input file size is", file_size)
 	if max_terms is None:
-		max_terms = int(round(file_size / 1000)) + 1
+		max_terms = min(5, int(round(file_size / 1000)) + 1)
 	if debug:
 		print("DEBUG: Using at most", max_terms, "terms for TFIDF model.")
 	file.close()
@@ -84,11 +89,15 @@ def find_jargon_using_tfidf(input_doc, background_dir, max_terms=None):
 	
 	jargon_dict = {} # saved as dict for debugging
 	for word in input_dict:
+		if debug:
+			print("TRACE: input jargon found - " + word + " " + str(input_dict[word]))
 		if word in tfidf_dictionary:
 			jargon_dict[word] = tfidf_dictionary[word]
+		elif debug:
+			print("...No matching jargon in background; discarding.")
 	
 	jargon_sorted = []
-	terms_remaining = max_terms
+	terms_remaining = int(max_terms)
 	if debug:
 		print("DEBUG: TFIDF scores for chosen jargon terms")
 	for word, score in sorted(jargon_dict.iteritems(), key=lambda (key,val): (val,key)):
@@ -110,10 +119,10 @@ def find_jargon_using_termolator(input_doc, background_dir, output_doc):
 	# Make background dir into a .list file containing their names
 	open("background.list", 'w').close()
 	with open("background.list", 'a') as bg:
-		for dirpath, dirnames, filenames in os.walk(background_dir):
+		for dirpath, dirnames, filenames in os.walk("../" + background_dir):
 				for file in filenames:
 					if file.endswith(".txt"):
-						bg.write("../" + dirpath + "/" + file + "\n")
+						bg.write( dirpath + "/" + file + "\n")
 	
 	cmd = []
 	cmd.append("The_Termolator/run_termolator_with_1_file_foreground.sh") # program
@@ -121,7 +130,7 @@ def find_jargon_using_termolator(input_doc, background_dir, output_doc):
 	cmd.append("background.list") # background
 	cmd.append(".txt") # extension
 	cmd.append(output_doc) # output name
-	cmd.append("False") # don't process background files
+	cmd.append("True") # don't process background files
 	cmd.append("False") # use internet for relevance scoring
 	cmd.append("1000") # considered terms
 	cmd.append("100") # accepted terms
@@ -167,6 +176,8 @@ def main():
 			"        -noread            Skip readability modeling\n" + \
 			"        -notfidf           Skip TFIDF modeling\n" + \
 			"        -noterm            Skip Termolator modeling\n" + \
+			"        -nostem            Don't stem words when doing TFIDF\n" + \
+			"        -maxterms m        Set max jargon terms used for TFIDF model" + \
 			"        -read dir          Build readability model from files in directory dir.\n" + \
 			"        -background dir    Set the background corpus for training jargon models.\n" + \
 			"If no background is given, the program uses a known background or throws an error if none exists.\n" + \
@@ -180,6 +191,8 @@ def main():
 	skip_read = False
 	skip_tfidf = False
 	skip_term = False
+	max_terms = None
+	do_stem = True
 	for a in range(len(sys.argv)):
 		if skip == True:
 			skip = False
@@ -202,6 +215,11 @@ def main():
 					skip_tfidf = True
 				elif sys.argv[a] == '-noterm':
 					skip_term = True
+				elif sys.argv[a] == '-nostem':
+					do_stem = False
+				elif sys.argv[a] == '-maxterms':
+					skip = True
+					max_terms = sys.argv[a+1]
 				elif sys.argv[a] == '-read':
 					skip = True
 					read_dir = sys.argv[a+1]
@@ -251,16 +269,24 @@ def main():
 		# = readability model saved when program last run
 		# else if no file found, give warning that build must happen first
 		try:
-			model = joblib.load("readability_model.pkl")
-		except:
+			read_model = joblib.load("readability_model.pkl", 'r')
+		except Exception as e:
 			print("ERROR: No readability model found on file. Please build readability model before continuing.")
+			if debug:
+				print("DEBUG: " + str(e))
 			errors = True
 			return errors
 				
-	# if not skip_read
-		# TODO include topic density in the readability model?
+	if not skip_read:
+		# future work? include topic density in the readability model?
 	
-		# TODO calculate readability of document
+		# calculate readability of document
+		input_as_feature_vec = readability.feature_extraction([input_doc + ".txt"], verbose=verbose)
+		prediction = readability.predict(read_model, input_as_feature_vec)
+		print("Readability prediction:" + "\n" + str(prediction))
+		open("read_output_" + input_doc + ".txt", 'w').close()
+		with open("read_output_" + input_doc + ".txt", 'a') as file:
+			file.write(str(prediction))
 	
 	
 	# -----------------------------------
@@ -269,20 +295,36 @@ def main():
 	if background_dir:
 	
 		if not skip_tfidf:
-			tfidf_jargon_terms = find_jargon_using_tfidf(input_doc, background_dir)
-			# TODO do something with this list of jargon terms
+			tfidf_jargon_terms = find_jargon_using_tfidf(input_doc, background_dir, max_terms = max_terms, stem = do_stem)
+			open("tfidf_output_" + input_doc + ".txt", 'w').close()
+			with open("tfidf_output_" + input_doc + ".txt", 'a') as file:
+				for j in tfidf_jargon_terms:
+					file.write(str(j) + "\n")
 		
 		if not skip_term:
 			termolator_jargon_terms = find_jargon_using_termolator(input_doc, background_dir, output_doc)
-			# TODO context injection into the termolator version
-			# if not skip read
-				# TODO measure the readability of the context injected version
+			
+			
+			# TODO context injection using the termolator's list of jargon
+			# TODO save as [input_doc]_injected.txt
+			#if not skip read
+			#	input_as_feature_vec = readability.feature_extraction([input_doc + "_injected.txt"], verbose=verbose)
+			#	prediction = readability.predict(read_model, input_as_feature_vec)
+			#	print("New readability with context injected: " + str(prediction))
 
-		#if not (skip_tfidf or skip_term):
-			# TODO compare lists of jargon terms
+		open("overlapping_jargon_" + input_doc + ".txt", 'w').close()
+		with open("overlapping_jargon_" + input_doc + ".txt", 'a') as file:
+				
+			if not (skip_tfidf or skip_term):
+				for tf_jargon in tfidf_jargon_terms:
+					for term_jargon in termolator_jargon_terms:
+						match = True
+						for ch in range(len(tf_jargon)):
+							if tf_jargon[ch] != term_jargon:
+								match = False
+						if match:
+							file.write(term_jargon + "\n")
 		
-		
-
 		
 	return errors
 
