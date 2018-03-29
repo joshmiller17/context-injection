@@ -568,7 +568,7 @@ class Extractor(object):
             # Remove punctuation from title
             title = title.replace('.', '')
             title = title.replace('\\', '')
-            title = title.replace('/', '')
+            title = title.replace('/', '_')
 
             # Set first letter for directory name which include file
             parent_dir = title[0].upper()
@@ -3241,7 +3241,7 @@ def main():
 
     options.quiet = args.quiet
     options.debug = args.debug
-    
+
     createLogger(options.quiet, options.debug)
 
     input_file = args.input
