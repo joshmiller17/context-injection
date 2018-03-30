@@ -17,7 +17,6 @@ import readability
 import tfidf
 import define
 
-# TODO look into having multiple files all importing same thing - efficiency?
 
 # init global vars
 verbose = False
@@ -119,10 +118,11 @@ def find_jargon_using_termolator(input_doc, background_dir, output_doc):
 	# Make background dir into a .list file containing their names
 	open("background.list", 'w').close()
 	with open("background.list", 'a') as bg:
-		for dirpath, dirnames, filenames in os.walk("../" + background_dir):
+		for dirpath, dirnames, filenames in os.walk(background_dir):
 				for file in filenames:
 					if file.endswith(".txt"):
-						bg.write( dirpath + "/" + file + "\n")
+						bg.write(dirpath + "/" + file + "\n")
+	
 	
 	cmd = []
 	cmd.append("The_Termolator/run_termolator_with_1_file_foreground.sh") # program
@@ -130,13 +130,13 @@ def find_jargon_using_termolator(input_doc, background_dir, output_doc):
 	cmd.append("background.list") # background
 	cmd.append(".txt") # extension
 	cmd.append(output_doc) # output name
-	cmd.append("True") # don't process background files
+	cmd.append("False") # if true, process background
 	cmd.append("False") # use internet for relevance scoring
 	cmd.append("1000") # considered terms
 	cmd.append("100") # accepted terms
 	cmd.append("The_Termolator") # directory of Termolator
 	cmd.append("False") # additional topic string
-	cmd.append("False") 
+	cmd.append("False") # if true skip preprocess foreground
 	cmd.append("False") 
 	cmd.append("False") 
 	
