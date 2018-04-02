@@ -6,6 +6,7 @@ Credits: See README.md
 """
 
 from __future__ import print_function
+from __future__ import division
 print("\nReading Wikipedia...\n")
 import wikipedia as wiki
 import nltk

@@ -6,6 +6,7 @@ Credits: See README.md
 """
 
 from __future__ import print_function
+from __future__ import division
 import nltk
 import numpy as np
 import os
@@ -13,6 +14,8 @@ from readability import pre_process
 from collections import defaultdict
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.stem.porter import PorterStemmer
+from sklearn.externals import joblib
+
 #import corenlp_pywrap as nlp
 
 
@@ -63,7 +66,7 @@ def train_tfidf(docs, stem=True, verbose=False):
 		processed_docs.append(clean)
 	if verbose:
 		print("INFO: Training TFIDF model, stemming set to " + str(stem))
-	print("INFO: Training TFIDF Vectorizer...")
+	print("INFO: Training TFIDF Vectorizer... (this may take a long time)")
 	if stem:
 		tfidf = TfidfVectorizer(tokenizer=get_stems, stop_words='english')
 	else:
@@ -103,6 +106,12 @@ def predict(model, datum):
 # input: directory of files
 # output: tfidf dictionary
 def build_tfidf_model(background_dir, file=False, debug=False, verbose=False, stem=True):
+	try:
+		tfdict = joblib.load("tfidf_model.pkl", 'r')
+		print("INFO: Loaded TFIDF model from file.")
+		return tfdict
+	except Exception as e:
+		pass
 	if debug:
 		print("DEBUG: Building TFIDF model, stem=" + str(stem))
 	files = []
@@ -121,6 +130,7 @@ def build_tfidf_model(background_dir, file=False, debug=False, verbose=False, st
 	if len(texts) < len(files):
 		print("ERROR: Some files were unable to be processed. " + len(texts) + " / " + len(files))
 	tfdict = train_tfidf(texts, verbose=verbose, stem=stem)
+	joblib.dump(tfdict, "tfidf_model.pkl")
 	return tfdict
 	
 	
