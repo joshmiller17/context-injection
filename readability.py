@@ -5,6 +5,7 @@ Author: Josh Miller
 Credits: See README.md
 """
 from __future__ import division
+from __future__ import print_function
 import sklearn
 from sets import Set
 print("\nLoading NLP toolkits...")
@@ -138,7 +139,7 @@ def feature_extraction(data, verbose=False):
 							guess_2 = 1 + len(word) % 3  # a lucky guess
 							num_syllables = (guess_1 + guess_2) / 2
 					if verbose and (num_syllables < 1 or num_syllables > 10):
-						print "WARN: Syllable count for", word, "is", num_syllables, "proceeding anyway"
+						print("WARN: Syllable count for", word, "is", num_syllables, "proceeding anyway")
 					total_syllables += num_syllables
 					if num_syllables > 2:
 						complex_words += 1
