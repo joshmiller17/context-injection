@@ -1,0 +1,147 @@
+nertz	SIMPLE	Good	1	1.0	1.0
+non-dealer	HYPHENATION	Good	1	0.9905	0.9905
+nertz pile	Normal_NP	Good	1	0.9718	0.9718
+euchre	SIMPLE	Good	1	0.9624	0.9624
+vegas rummy	Normal_NP	Good	1	0.9439	0.9439
+mediterranean suit	Normal_NP	Good	1	0.8806	0.8806
+cutesy name	Normal_NP	Good	1	0.8717	0.8717
+trick-play rule	Normal_NP	Good	1	0.8629	0.8629
+pagat wikipedia card game article karuta fizzbin	Normal_NP	Good	1	0.8454	0.8454
+score keeper determin	Normal_NP	Good	1	0.828	0.828
+pagat wikipedia card game article karuta	Normal_NP	Good	1	0.8023	0.8023
+regular heart somewhat-popular variant	Normal_NP	Good	1	0.7939	0.7939
+short-suiting club	Normal_NP	Good	1	0.7854	0.7854
+trick-play	HYPHENATION	Good	1	0.7605	0.7605
+nertz card	Normal_NP	Good	1	0.7605	0.7605
+pagat wikipedia card game article	Normal_NP	Good	1	0.7522	0.7522
+comprehensive card game library	Normal_NP	Good	1	0.744	0.744
+bid-what-you-think-you-can-win	HYPHENATION	Good	1	0.7359	0.7359
+upcard	SIMPLE	Good	1	0.7197	0.7197
+cutesy	SIMPLE	Good	1	0.7197	0.7197
+rubicon piquet	Normal_NP	Good	1	0.7117	0.7117
+klaverja rotterdam variant	Normal_NP	Good	1	0.7037	0.7037
+klaverja amsterdam variant	Normal_NP	Good	1	0.7037	0.7037
+playable card	Normal_NP	Good	1	0.6958	0.6958
+non-trump ace	Normal_NP	Good	1	0.6958	0.6958
+euchre player	Normal_NP	Good	1	0.6958	0.6958
+euchre circle	Normal_NP	Good	1	0.6958	0.6958
+calling loner	Normal_NP	Good	1	0.6958	0.6958
+klaverja	SIMPLE	Good	1	0.6879	0.6879
+gambling conquian variant	Normal_NP	Good	1	0.68	0.68
+thirteen-card nertz pile	Normal_NP	Good	1	0.6722	0.6722
+standard trick-play rule	Normal_NP	Good	1	0.6722	0.6722
+belot wikipedia article	Normal_NP	Good	1	0.6568	0.6568
+up-card	HYPHENATION	Good	1	0.6339	0.6339
+offsuit	SIMPLE	Good	1	0.6339	0.6339
+multiplayer card game	Normal_NP	Good	1	0.6264	0.6264
+chicago euchre player	Normal_NP	Good	1	0.6264	0.6264
+tie-breaker	HYPHENATION	Good	1	0.6189	0.6189
+vegas style standard	Normal_NP	Good	1	0.6115	0.6115
+pre-determined score	Normal_NP	Good	1	0.6115	0.6115
+pagat wikipedia card	Normal_NP	Good	1	0.6115	0.6115
+multi-player version	Normal_NP	Good	1	0.6115	0.6115
+maxium score default	Normal_NP	Good	1	0.6115	0.6115
+thirteen-card nertz	Normal_NP	Good	1	0.6041	0.6041
+opposite-color suit	Normal_NP	Good	1	0.6041	0.6041
+tarot pack	Normal_NP	Good	1	0.5968	0.5968
+suit columbus coup	Normal_NP	Good	1	0.5895	0.5895
+six-player variant	Normal_NP	Good	1	0.5895	0.5895
+single-player game	Normal_NP	Good	1	0.5895	0.5895
+non-offending team	Normal_NP	Good	1	0.5895	0.5895
+non-dealer discard	Normal_NP	Good	1	0.5895	0.5895
+klaverja rotterdam	Normal_NP	Good	1	0.5895	0.5895
+klaverja amsterdam	Normal_NP	Good	1	0.5895	0.5895
+card game klaverja	Normal_NP	Good	1	0.5895	0.5895
+potential winner	Normal_NP	Medium	0.6	0.9811	0.58866
+seven-player game	Normal_NP	Good	1	0.5822	0.5822
+scorekeeping ruff	Normal_NP	Good	1	0.5822	0.5822
+last-place player	Normal_NP	Good	1	0.5822	0.5822
+gambling conquian	Normal_NP	Good	1	0.5822	0.5822
+non-trump	HYPHENATION	Good	1	0.575	0.575
+kibitzing	SIMPLE	Good	1	0.575	0.575
+score keeper	Normal_NP	Medium	0.6	0.9347	0.56082
+six-hand version	Normal_NP	Good	1	0.5607	0.5607
+race horse rummy	Normal_NP	Good	1	0.5607	0.5607
+point-trick card	Normal_NP	Good	1	0.5607	0.5607
+non-trump winner	Normal_NP	Good	1	0.5607	0.5607
+non-dealer score	Normal_NP	Good	1	0.5607	0.5607
+multiplayer card	Normal_NP	Good	1	0.5607	0.5607
+multi-deck heart	Normal_NP	Good	1	0.5607	0.5607
+four-player game	Normal_NP	Good	1	0.5607	0.5607
+popular ruleset	Normal_NP	Good	1	0.5536	0.5536
+pagat wikipedia	Normal_NP	Good	1	0.5536	0.5536
+euchre universe	Normal_NP	Good	1	0.5536	0.5536
+euchre strategy	Normal_NP	Good	1	0.5536	0.5536
+card game rummy	Normal_NP	Good	1	0.5536	0.5536
+bottommost card	Normal_NP	Good	1	0.5536	0.5536
+belot wikipedia	Normal_NP	Good	1	0.5536	0.5536
+opponent score	Normal_NP	Medium	0.6	0.9165	0.5498999999999999
+negative score	Normal_NP	Medium	0.6	0.9165	0.5498999999999999
+pinochle	SIMPLE	Good	1	0.5466	0.5466
+boonaken	SIMPLE	Good	1	0.5466	0.5466
+dealer deal	Normal_NP	Medium	0.6	0.9075	0.5445
+standard nertz	Normal_NP	Good	1	0.5396	0.5396
+playing parter	Normal_NP	Good	1	0.5396	0.5396
+non-trump suit	Normal_NP	Good	1	0.5396	0.5396
+non-trump card	Normal_NP	Good	1	0.5396	0.5396
+nertz-inspired	HYPHENATION	Good	1	0.5396	0.5396
+game klabberja	Normal_NP	Good	1	0.5396	0.5396
+euchre bidding	Normal_NP	Good	1	0.5396	0.5396
+chicago euchre	Normal_NP	Good	1	0.5396	0.5396
+original trump suit	Normal_NP	Medium	0.6	0.8895	0.5337
+thirteen-card	HYPHENATION	Good	1	0.5327	0.5327
+suit columbus	Normal_NP	Good	1	0.5327	0.5327
+staekske rape	Normal_NP	Good	1	0.5327	0.5327
+short-suiting	HYPHENATION	Good	1	0.5327	0.5327
+portland club	Normal_NP	Good	1	0.5327	0.5327
+pinochle pack	Normal_NP	Good	1	0.5327	0.5327
+game-rotation	HYPHENATION	Good	1	0.5327	0.5327
+euchre purist	Normal_NP	Good	1	0.5327	0.5327
+euchre league	Normal_NP	Good	1	0.5327	0.5327
+carte blanche	Normal_NP	Good	1	0.5327	0.5327
+repique	SIMPLE	Good	1	0.5189	0.5189
+whist-family	HYPHENATION	Good	1	0.5121	0.5121
+maxium score	Normal_NP	Good	1	0.5121	0.5121
+no-brainer	HYPHENATION	Good	1	0.5054	0.5054
+game strategy	Normal_NP	Medium	0.6	0.8367	0.50202
+vegas style	Normal_NP	Good	1	0.4987	0.4987
+suit--which	HYPHENATION	Good	1	0.4987	0.4987
+nertz bonus	Normal_NP	Good	1	0.4987	0.4987
+jewish game	Normal_NP	Good	1	0.4987	0.4987
+jass family	Normal_NP	Good	1	0.4987	0.4987
+game grevja	Normal_NP	Good	1	0.4987	0.4987
+euchre pack	Normal_NP	Good	1	0.4987	0.4987
+euchre game	Normal_NP	Good	1	0.4987	0.4987
+euchre deck	Normal_NP	Good	1	0.4987	0.4987
+blackjack	SIMPLE	Good	1	0.492	0.492
+penalty card	Normal_NP	Medium	0.6	0.8194	0.49163999999999997
+partie	SIMPLE	Good	1	0.4854	0.4854
+vorarlberg	SIMPLE	Good	1	0.4788	0.4788
+tarot deck	Normal_NP	Good	1	0.4788	0.4788
+tapp tarok	Normal_NP	Good	1	0.4788	0.4788
+j off-suit	Normal_NP	Good	1	0.4788	0.4788
+3rd winner	Normal_NP	Good	1	0.4788	0.4788
+turf club	Normal_NP	Good	1	0.4722	0.4722
+tressette	SIMPLE	Good	1	0.4722	0.4722
+shortsuit	SIMPLE	Good	1	0.4722	0.4722
+pandoeren	SIMPLE	Good	1	0.4722	0.4722
+lapu-lapu	HYPHENATION	Good	1	0.4722	0.4722
+jass game	Normal_NP	Good	1	0.4722	0.4722
+j variant	Normal_NP	Good	1	0.4722	0.4722
+flip flip	Normal_NP	Good	1	0.4722	0.4722
+fibonacci	SIMPLE	Good	1	0.4722	0.4722
+doubleton	SIMPLE	Good	1	0.4722	0.4722
+diamantez	SIMPLE	Good	1	0.4722	0.4722
+card-play	HYPHENATION	Good	1	0.4722	0.4722
+durak	SIMPLE	Good	1	0.4658	0.4658
+belot	SIMPLE	Good	1	0.4658	0.4658
+staekske	SIMPLE	Good	1	0.4466	0.4466
+slapjack	SIMPLE	Good	1	0.4466	0.4466
+quatorze	SIMPLE	Good	1	0.4466	0.4466
+quatorza	SIMPLE	Good	1	0.4466	0.4466
+player b	Normal_NP	Good	1	0.4466	0.4466
+pentacle	SIMPLE	Good	1	0.4466	0.4466
+llc deck	Normal_NP	Good	1	0.4466	0.4466
+ligretto	SIMPLE	Good	1	0.4466	0.4466
+hanafuda	SIMPLE	Good	1	0.4466	0.4466
+conquian	SIMPLE	Good	1	0.4466	0.4466

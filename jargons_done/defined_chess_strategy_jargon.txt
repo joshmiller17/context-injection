@@ -1,0 +1,400 @@
+
+
+kingside majority
+ is defined as: [u'Johann Baptist Allgaier (June 19, 1763, Schussenried \u2013 January 3, 1823, Vienna) was a German-Austrian chess master and theoretician.', u'He was also the author of the first chess handbook in German \u2013 Neue theoretisch-praktische Anweisung zum Schachspiel (Vienna 1795\u201396).']
+
+
+queenside pawn majority
+ is defined as: [u'This page explains commonly used terms in chess in alphabetical order.', u'For a list of unorthodox chess pieces, see Fairy chess piece; for a list of terms specific to chess problems, see Glossary of chess problems; for a list of chess-related games, see List of chess variants.']
+
+
+kingside chance
+ is defined as: no definition found
+
+
+sicilian defense
+ is defined as: [u"The Sicilian Defence is a chess opening that begins with the following moves:\n1. e4 c5\nThe Sicilian is the most popular and best-scoring response to White's first move 1.e4.", u'17% of all games between grandmasters, and 25% of the games in the Chess Informant database, begin with the Sicilian.']
+
+
+nimzo-indian defense
+ is defined as: [u'The Nimzo-Indian Defence is a chess opening characterised by the moves:\n1. d4 Nf6\n2. c4 e6\n3.', u"By pinning White's knight, Black prevents the threatened 4.e4 and seeks to inflict doubled pawns on White."]
+
+
+scientific thinker wilhelm steinitz
+ is defined as: no definition found
+
+
+spatial advantage principal idea
+ is defined as: no definition found
+
+
+chess master siegbert tarrasch
+ is defined as: [u'Siegbert Tarrasch [zi\u02d0\u0261b\u0250t tara\u0283] (5 March 1862 \u2013 17 February 1934) was one of the strongest chess players and most influential chess teachers of the late 19th and early 20th century.', u'Having finished school in 1880, he left Breslau to study medicine in Halle.']
+
+
+extensive opening preparation
+ is defined as: no definition found
+
+
+ever-popular richter-rauzer
+ is defined as: [u"The Sicilian Defence is a chess opening that begins with the following moves:\n1. e4 c5\nThe Sicilian is the most popular and best-scoring response to White's first move 1.e4.", u'17% of all games between grandmasters, and 25% of the games in the Chess Informant database, begin with the Sicilian.']
+
+
+scientific thinker wilhelm
+ is defined as: no definition found
+
+
+overextension
+ is defined as: [u'Errors in early word use or developmental errors are mistakes that children commonly commit when first learning language.', u"Children may overextend the meaning of basketball to any round object until they learn the more specific aspects of the word's meaning."]
+
+
+modern-day chess strategy
+ is defined as: [u'A strategy game or strategic game is a game (e.g.', u'It differs from "tactics" in that it refers to the general scheme of things, whereas "tactics" refers to organization and execution.']
+
+
+queen-and-bishop battery
+ is defined as: [u'A battery in chess is a formation that consists of two or more pieces on the same rank, file, or diagonal.', u'However, in Chessgames.com blogs and game annotations of other chess websites, the term is also used in cases where moving the middle piece will uncover a threat other than a check along the opened line.']
+
+
+kingside lateral defence
+ is defined as: no definition found
+
+
+line-opening sacrifice
+ is defined as: [u'The Sacrifice (Swedish: Offret) is a 1986 Swedish film directed by Andrei Tarkovsky.', u"Like 1972's Solaris, it won the Grand Prix at the Cannes Film Festival."]
+
+
+kingside pawn advance
+ is defined as: no definition found
+
+
+kingside overextended
+ is defined as: [u'In chess, the pawn structure (sometimes known as the pawn skeleton) is the configuration of pawns on the chessboard.', u'Since pawns are the least mobile of the chess pieces, the pawn structure is relatively static and thus largely determines the strategic nature of the position.']
+
+
+king-and-pawn endgame
+ is defined as: [u'The chess endgame with a king and a pawn versus a king is one of the most important and fundamental endgames, other than the basic checkmates (Lasker 1915).', u'In general, Black should place his king in the path of the pawn to try to prevent its promotion.']
+
+
+grandmaster intuition
+ is defined as: no definition found
+
+
+chess master siegbert
+ is defined as: no definition found
+
+
+super-sharp exchange
+ is defined as: no definition found
+
+
+then-world champion
+ is defined as: no definition found
+
+
+defensive perimeter
+ is defined as: [u'In chess, the fortress is an endgame drawing technique in which the side behind in material sets up a zone of protection that the opponent cannot penetrate.', u"This might involve keeping the enemy king out of one's position, or a zone the enemy cannot force one out of (e.g."]
+
+
+smith-morra gambit
+ is defined as: [u'In chess, the Smith\u2013Morra Gambit (or simply Morra Gambit) is an opening gambit against the Sicilian Defence distinguished by the moves:\n1. e4 c5\n2. d4 cxd4\n3. c3\nWhite sacrifices a pawn to develop quickly and create attacking chances.', u'The plan for White is straightforward and consists of placing the bishop on c4 to attack the f7-square, and controlling both the c- and d-files with rooks, taking advantage of the fact that Black can hardly find a suitable place to post the queen.']
+
+
+multi-purpose move
+ is defined as: no definition found
+
+
+hypermodern school
+ is defined as: [u'Hypermodernism is a school of chess that emerged after World War I.', u"Hypermodern openings include the R\xe9ti Opening, King's Indian Defence, Queen's Indian Defence, Nimzo-Indian Defence, Nimzowitsch Defense, Gr\xfcnfeld Defence, Bogo-Indian Defence, Old Indian Defence, Catalan Opening, King's Indian Attack, Alekhine's Defence, Modern Defence, Pirc Defence, Larsen's opening, Sokolsky Opening, and to a lesser degree the English Opening."]
+
+
+siegbert tarrasch
+ is defined as: [u'Siegbert Tarrasch [zi\u02d0\u0261b\u0250t tara\u0283] (5 March 1862 \u2013 17 February 1934) was one of the strongest chess players and most influential chess teachers of the late 19th and early 20th century.', u'Having finished school in 1880, he left Breslau to study medicine in Halle.']
+
+
+kingside weakness
+ is defined as: [u"The Dutch Defence is a chess opening characterised by the moves:\n1. d4 f5\nBlack's 1...f5 stakes a serious claim to the e4-square and envisions an attack in the middlegame on White's kingside; however, it also weakens Black's kingside some (especially the e8\u2013h5 diagonal) and contributes nothing to Black's development.", u"Among the world's top 10 players today, only Hikaru Nakamura is a consistent practitioner."]
+
+
+vladimir vukovic
+ is defined as: [u'Vladimir Vukovi\u0107 (26 August 1898, Zagreb \u2013 18 November 1975, Zagreb) was a Croatian Jewish chess writer, theoretician, player, arbiter, and journalist.', u'His tournament record includes the following achievements:\n3rd at Celje 1921, behind Stefan Erd\xe9lyi and Imre K\xf6nig\n=4-7th at Vienna 1921 tied with Ernst Gr\xfcnfeld, Savielly Tartakower, and \xc1rp\xe1d Vajda; won by Friedrich S\xe4misch\n1st at Vienna 1921\n=10-11th at Vienna 1922; won by Akiba Rubinstein\n=4-5th at Gy\xf6r 1924 (Hungarian Chess Championship); won by G\xe9za Nagy\n=4-5th at Debrecen 1925; won by Hans Kmoch\n7th at Kecskem\xe9t 1927 (elim., group B); won by Lajos Steiner\n=6-7th at Kecskem\xe9t 1927 (final B); won by Savielly Tartakower\n3rd at Ramsgate 1929, behind Adolf Seitz and \xc1rp\xe1d Vajda\nHe played for Yugoslavia on second board in the 1st Chess Olympiad at London 1927, posting a record of +7\u22126=2.']
+
+
+spassky--fischer
+ is defined as: [u'The World Chess Championship 1972 was a match for the World Chess Championship between challenger Bobby Fischer of the United States and defending champion Boris Spassky of the Soviet Union.', u'Fischer became the first American born in the United States to win the world title, and the second American overall (Wilhelm Steinitz, the first world champion, became a naturalized American citizen in 1888).']
+
+
+pawn break d4-d5
+ is defined as: no definition found
+
+
+outposted knight
+ is defined as: no definition found
+
+
+once-mighty pawn
+ is defined as: no definition found
+
+
+modern-day chess
+ is defined as: [u'Sven Magnus \xd8en Carlsen (Norwegian: [sven \u02c8m\u0251\u014bn\u0289s \xf8\u02d0n \u02c8k\u0251\u02d0\u026dsn\u0329]; born 30 November 1990) is a Norwegian chess grandmaster and the current World Chess Champion.', u'In 2016, he defended his title against Sergey Karjakin.']
+
+
+intermezzo d4-d5
+ is defined as: [u'The Intermezzo in D minor (WAB 113) is an 1879 composition by the Austrian composer Anton Bruckner.', u"Although it was intended to replace a movement of the String Quintet, that piece was instead performed in its original form; the Intermezzo was not publicly premiered until after the composer's death."]
+
+
+classic sicilian
+ is defined as: [u'Sicilian pizza is pizza prepared in a manner that originated in Sicily, Italy.', u'In the United States, the phrase Sicilian pizza is often synonymous with thick-crust pizza derived from the Sicilian sfincione [sfi\u014b\u02c8t\u0283o\u02d0ne].']
+
+
+rook-rook-queen
+ is defined as: no definition found
+
+
+gruenfeld burst
+ is defined as: no definition found
+
+
+antoshin
+ is defined as: [u"Marcus Aurelius (; Latin: Marcus Aurelius Antoninus Augustus; 26 April 121 \u2013 17 March 180 AD) was Roman emperor from 161 to 180, ruling jointly with Lucius Verus until Verus' death in 169 and jointly with his son, Commodus, from 177.", u"During his reign, the Roman Empire defeated a revitalized Parthian Empire in the East: Aurelius' general Avidius Cassius sacked the capital Ctesiphon in 164."]
+
+
+thing alekhine
+ is defined as: [u'Jos\xe9 Ra\xfal Capablanca y Graupera (19 November 1888 \u2013 8 March 1942) was a Cuban chess player who was world chess champion from 1921 to 1927.', u'Following unsuccessful attempts to arrange a return match over many years, relations between them became bitter.']
+
+
+queenside cave
+ is defined as: no definition found
+
+
+h-pawn advance
+ is defined as: no definition found
+
+
+b1-h7 diagonal
+ is defined as: [u'The Kopec System is a chess opening variation of the Sicilian Defense characterized by the following moves:\ne4 c5\nBd3!?', u'The Kopec System is named after the American International Master Danny Kopec.']
+
+
+andre philidor
+ is defined as: [u'Fran\xe7ois-Andr\xe9 Danican Philidor (September 7, 1726 \u2013 August 31, 1795), often referred to as Andr\xe9 Danican Philidor during his lifetime, was a French composer and chess player.', u'He was also regarded as the best chess player of his age; his book Analyse du jeu des \xc9checs was considered a standard chess manual for at least a century, and a well-known chess opening and a checkmate method are both named after him.']
+
+
+e4-e5 advance
+ is defined as: [u"The French Defence is a chess opening characterised by the moves:\n1. e4 e6\nThis is most commonly followed by 2.d4 d5, with Black intending ...c5 at a later stage, attacking White's centre and gaining space on the queenside.", u"Black's position is often somewhat cramped in the early game; in particular, the pawn on e6 can impede the development of the bishop on c8."]
+
+
+color-complex
+ is defined as: [u'Color (American English) or colour (Commonwealth English) is the characteristic of human visual perception described through color categories, with names such as red, orange, yellow, green, blue, or purple.', u'The RGB color space for instance is a color space corresponding to human trichromacy and to the three cone cell types that respond to three bands of light: long wavelengths, peaking near 564\u2013580 nm (red); medium-wavelength, peaking near 534\u2013545 nm (green); and short-wavelength light, near 420\u2013440 nm (blue).']
+
+
+boris spassky
+ is defined as: [u'Boris Vasilievich Spassky (Russian: \u0411\u043e\u0440\u0438\u0301\u0441 \u0412\u0430\u0441\u0438\u0301\u043b\u044c\u0435\u0432\u0438\u0447 \u0421\u043f\u0430\u0301\u0441\u0441\u043a\u0438\u0439; born January 30, 1937) is a Russian chess grandmaster.', u'He is the oldest living former world champion.']
+
+
+advance e4-e5
+ is defined as: [u"The French Defence is a chess opening characterised by the moves:\n1. e4 e6\nThis is most commonly followed by 2.d4 d5, with Black intending ...c5 at a later stage, attacking White's centre and gaining space on the queenside.", u"Black's position is often somewhat cramped in the early game; in particular, the pawn on e6 can impede the development of the bishop on c8."]
+
+
+capablanca
+ is defined as: [u'Casablanca (Arabic: \u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621\u200e, translit.', u'It is also the largest city in the Maghreb, as well as one of the largest and most important cities in Africa, both economically and demographically.']
+
+
+overextended
+ is defined as: [u'The Seleucid Empire (; Ancient Greek: \u0392\u03b1\u03c3\u03b9\u03bb\u03b5\u03af\u03b1 \u03c4\u1ff6\u03bd \u03a3\u03b5\u03bb\u03b5\u03c5\u03ba\u03b9\u03b4\u1ff6\u03bd, Basile\xeda t\u014dn Seleukid\u014dn) was a Hellenistic state ruled by the Seleucid dynasty, which existed from 312 BC to 63 BC; Seleucus I Nicator founded it following the division of the Macedonian empire vastly expanded by Alexander the Great.', u'Seleucid expansion into Anatolia and Greece halted abruptly in the early 2nd century BC after decisive defeats at the hands of the Roman army.']
+
+
+fischer idea
+ is defined as: [u'Robert James Fischer (March 9, 1943 \u2013 January 17, 2008) was an American chess grandmaster and the eleventh World Chess Champion.', u'At age 20, Fischer won the 1963\u201364 US Championship with 11 wins in 11 games, the only perfect score in the history of the tournament.']
+
+
+counterpunch
+ is defined as: [u'A counterpunch is a boxing punch that immediately follows an attack launched by an opponent.', u"It exploits the opening created in an opponent's guard."]
+
+
+classicalism
+ is defined as: [u'Classicism, in the arts, refers generally to a high regard for a classical period, classical antiquity in the Western tradition, as setting standards for taste which the classicists seek to emulate.', u'Classicism, as Clark noted, implies a canon of widely accepted ideal forms, whether in the Western canon that he was examining in The Nude (1956), or the literary Chinese classics or Chinese art, where the revival of classic styles is also a recurring feature.']
+
+
+move karpov
+ is defined as: no definition found
+
+
+boleslavsky
+ is defined as: [u'Isaac Yefremovich Boleslavsky (Ukrainian: \u0406\u0441\u0430\u0430\u043a \u0404\u0444\u0440\u0435\u043c\u043e\u0432\u0438\u0447 \u0411\u043e\u043b\u0435\u0441\u043b\u0430\u0432\u0441\u044c\u043a\u0438\u0439, \u0418\u0441\u0430\u0430\u043a \u0415\u0444\u0440\u0435\u043c\u043e\u0432\u0438\u0447 \u0411\u043e\u043b\u0435\u0441\u043b\u0430\u0432\u0441\u043a\u0438\u0439; June 9, 1919 in Zolotonosha, Ukraine \u2013 February 15, 1977 in Minsk) was a Soviet chess grandmaster.', u'He was also a chess writer.']
+
+
+kxg7
+ is defined as: [u'The Gr\xfcnfeld Defence (ECO codes D70\u2013D99) is a chess opening characterised by the moves:\n1. d4 Nf6\n2. c4 g6\n3.', u'If White does not take the d5 pawn, Black may eventually play dxc4, when a White response of e4 again leads to the same pawn structure.']
+
+
+normal iqp
+ is defined as: [u'Worcester Polytechnic Institute (WPI) is a private research university in Worcester, Massachusetts, focusing on the instruction and research of technical arts and applied sciences.', u"Founded in 1865 in Worcester, WPI was one of the United States' first engineering and technology universities and now has 14 academic departments with over 50 undergraduate and graduate degree programs in science, engineering, technology, management, the social sciences, and the humanities and arts, leading to bachelor's, master's and PhD degrees."]
+
+
+keres-fine
+ is defined as: no definition found
+
+
+bueno aire
+ is defined as: [u'Buenos Aires ( or ; Spanish pronunciation: [\u02c8bwenos \u02c8ai\u027ees]) is the capital and most populous city of Argentina.', u'"Buenos Aires" can be translated as "fair winds" or "good airs", but the first one was the meaning intended by the founders in the 16th century, by the use of the original name "Real de Nuestra Se\xf1ora Santa Mar\xeda del Buen Ayre".']
+
+
+queenside pawn
+ is defined as: no definition found
+
+
+usa match
+ is defined as: [u'WWE Mixed Match Challenge, also known simply as Mixed Match Challenge, is an ongoing professional wrestling Internet television series and tournament produced by WWE, where all matches are mixed tag team matches.', u'Each episode is 25 minutes, and features one match.']
+
+
+uncastled
+ is defined as: [u'In chess, The Game of the Century is a chess game played between 26-year-old Donald Byrne and 13-year-old Bobby Fischer in the Rosenwald Memorial Tournament in New York City on October 17, 1956, which Fischer won.', u'Kmoch wrote, "The following game, a stunning masterpiece of combination play performed by a boy of 13 against a formidable opponent, matches the finest on record in the history of chess prodigies."']
+
+
+off-limit
+ is defined as: [u'Off Limits is a 1953 comedy film directed by George Marshall and starring Bob Hope, Mickey Rooney and Marilyn Maxwell.', u'The picture was written by Hal Kanter and Jack Sher, and was released in the UK as Military Policemen, as the characters played by Hope and Rooney join the military police.']
+
+
+mid-1800s
+ is defined as: [u'A sinker in mining is a worker who specialises in creating new mine shafts.', u'The job was highly skilled and the workers who did this work were often regarded as an elite workforce.']
+
+
+gruenfeld
+ is defined as: [u'Greenfield land is undeveloped land in a city or rural area either used for agriculture or landscape design, or left to evolve naturally.', u'These areas of land are usually agricultural or amenity properties being considered for urban development.']
+
+
+frenchman
+ is defined as: [u'The French (French: Fran\xe7ais) are an ethnic group and nation who are identified with the country of France.', u"Historically the French people's heritage is diverse, including populations of Gauls, Ligures, Latins, Franks, Iberians, Alamans and Norsemen."]
+
+
+c5-knight
+ is defined as: [u'The Sinclair C5 is a small one-person battery electric vehicle, technically an "electrically assisted pedal cycle".', u"The vehicle's limitations \u2013 a short range, a maximum speed of only 15 miles per hour (24 km/h), a battery that ran down quickly and a lack of weatherproofing \u2013 made it impractical for most people's needs."]
+
+
+mikhail botvinnik
+ is defined as: [u'Mikhail Moiseyevich Botvinnik (Russian: \u041c\u0438\u0445\u0430\u0438\u0301\u043b \u041c\u043e\u0438\u0441\u0435\u0301\u0435\u0432\u0438\u0447 \u0411\u043e\u0442\u0432\u0438\u0301\u043d\u043d\u0438\u043a, pronounced [m\u02b2\u026ax\u0250\u02c8il m\u0259\u026a\u02c8s\u02b2ej\u026av\u02b2\u026at\u0255 b\u0250\u02c8tv\u02b2in\u02b2n\u02b2\u026ak]; August 17 [O.S.', u'He was also a pioneer of computer chess.']
+
+
+alekhine
+ is defined as: [u'Alexander Alekhine (Russian: \u0410\u043b\u0435\u043a\u0441\u0430\u0301\u043d\u0434\u0440 \u0410\u043b\u0435\u043a\u0441\u0430\u0301\u043d\u0434\u0440\u043e\u0432\u0438\u0447 \u0410\u043b\u0435\u0301\u0445\u0438\u043d, Aleksandr Aleksandrovich Alekhin; pronounced [\u0250l\u02b2\u026ak\u02c8sandr \u0250l\u02b2\u026ak\u02c8sandr\u0259v\u02b2\u026at\u0255 \u0250\u02c8l\u02b2ex\u02b2\u026an]; October 31 [O.S.', u'Alekhine is the only World Chess Champion to have died while holding the title.']
+
+
+hypermodernism
+ is defined as: [u'Hypermodernism is a school of chess that emerged after World War I.', u"Hypermodern openings include the R\xe9ti Opening, King's Indian Defence, Queen's Indian Defence, Nimzo-Indian Defence, Nimzowitsch Defense, Gr\xfcnfeld Defence, Bogo-Indian Defence, Old Indian Defence, Catalan Opening, King's Indian Attack, Alekhine's Defence, Modern Defence, Pirc Defence, Larsen's opening, Sokolsky Opening, and to a lesser degree the English Opening."]
+
+
+vladimir
+ is defined as: [u'Vladimir (Russian: \u0412\u043b\u0430\u0434\u0438\u0301\u043c\u0438\u0440, Church Slavonic: \u0412\u043e\u043b\u043e\u0434\u0438\u043c\u0463\u0440\u044a, Serbian Cyrillic: \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440) is a male Slavic given name of Church Slavonic and Old Slavic origin, now widespread throughout all Slavic nations.', u'The Ruthenian (Ukrainian) form is Volodymyr (\u0412\u043e\u043b\u043e\u0434\u0438\u043c\u0438\u0440), the Polish one is W\u0142odzimierz.']
+
+
+siegbert
+ is defined as: [u'Siegbert is the given name of:\nSiegbert Horn (born 1950), former East German slalom canoer\nSiegbert Hummel (1908-2001), Tibetologist and cultural historian\nSiegbert Salomon Prawer (born 1925), professor of German language and literature\nSiegbert Tarrasch (1862-1934), noted chess player and teacher\nSiggi Wilzig (1926-2003), American businessman and Holocaust survivor']
+
+
+letelier
+ is defined as: [u'The assassination of Orlando Letelier refers to the September 21, 1976 car bombing, in Washington, D.C., of Orlando Letelier, a leading opponent of Chilean dictator Gen. Augusto Pinochet.', u'Letelier, who was living in exile in the United States, was killed along with Ronni Karpen Moffitt, who was in the car along with her husband Michael, who worked for Letelier.']
+
+
+f6-g7-h6
+ is defined as: [u'Cheskers is a variant of checkers and chess invented by Solomon Golomb in 1948.']
+
+
+b3-b4-b5
+ is defined as: [u'The RER B is one of the five lines in the RER rapid transit system serving Paris, France.', u'Until December 2009, drivers changed at Gare du Nord; RATP and SNCF drivers now operate their trains along the full length of the line.']
+
+
+schilde
+ is defined as: [u'Schilde (Dutch pronunciation: [\u02c8sx\u026ald\u0259]) is a municipality located in the Belgian province of Antwerp.', u'The total area is 35.99 km\xb2 which gives a population density of 544 inhabitants per km\xb2.']
+
+
+rhg1 b5
+ is defined as: no definition found
+
+
+isolani
+ is defined as: [u'In chess, an isolated pawn is a pawn that has no friendly pawn on an adjacent file.', u'Isolated queen pawns suffer, however, from the same weaknesses as other isolated pawns.']
+
+
+spatial
+ is defined as: [u'In physics and mathematics, the dimension of a mathematical space (or object) is informally defined as the minimum number of coordinates needed to specify any point within it.', u'They may be parameter spaces or configuration spaces such as in Lagrangian or Hamiltonian mechanics; these are abstract spaces, independent of the physical space we live in.']
+
+
+botvinnik
+ is defined as: [u'Mikhail Moiseyevich Botvinnik (Russian: \u041c\u0438\u0445\u0430\u0438\u0301\u043b \u041c\u043e\u0438\u0441\u0435\u0301\u0435\u0432\u0438\u0447 \u0411\u043e\u0442\u0432\u0438\u0301\u043d\u043d\u0438\u043a, pronounced [m\u02b2\u026ax\u0250\u02c8il m\u0259\u026a\u02c8s\u02b2ej\u026av\u02b2\u026at\u0255 b\u0250\u02c8tv\u02b2in\u02b2n\u02b2\u026ak]; August 17 [O.S.', u'He was also a pioneer of computer chess.']
+
+
+kh7
+ is defined as: [u'Codenamed Gambit, the KH-7 (Air Force Program 206) was a reconnaissance satellite used by the United States from July 1963 to June 1967.', u'Like the older Corona system, it acquired imagery intelligence by taking photographs and returning the undeveloped film to earth.']
+
+
+kc3
+ is defined as: [u'The Airbus A330 Multi Role Tanker Transport (MRTT) is an aerial refuelling tanker aircraft based on the civilian Airbus A330.', u'The A330 MRTT has been ordered by the Royal Australian Air Force (RAAF), Royal Air Force (RAF), United Arab Emirates Air Force, Royal Saudi Air Force and Republic of Singapore Air Force.']
+
+
+ivkov
+ is defined as: [u'Vanagas (Bulgarian: \u0418\u0432\u043a\u043e\u0432) is a Slavic masculine surname, its feminine counterpart is Ivkova.', u'It may refer to\nBorislav Ivkov (born 1933), Serbian chess Grandmaster\nKiril Ivkov (born 1946), Bulgarian football player']
+
+
+f7-f6
+ is defined as: [u'The EMD F7 was a 1,500 horsepower (1,100 kW) Diesel-electric locomotive produced between February 1949 and December 1953 by the Electro-Motive Division of General Motors (EMD) and General Motors Diesel (GMD).', u"Although originally promoted by EMD as a freight-hauling unit, the F7 was also used in passenger service hauling such trains as the Santa Fe Railway's Super Chief and El Capitan."]
+
+
+f4-f5
+ is defined as: [u'The Grumman F4F Wildcat is an American carrier-based fighter aircraft that began service with both the United States Navy and the British Royal Navy in 1940, where it was initially known by the latter as the Martlet.', u'With a top speed of 318 mph (512 km/h), the Wildcat was outperformed by the faster 331 mph (533 km/h), more maneuverable, and longer-ranged Mitsubishi A6M Zero.']
+
+
+e4-e5
+ is defined as: [u"An Open Game (or Double King's Pawn Opening) is a chess opening that begins with the following moves:\n1. e4 e5\nWhite has moved the king's pawn two squares and Black has replied in kind.", u"Other responses to 1.e4 are termed Semi-Open Games or Single King's Pawn Games."]
+
+
+c6-c7
+ is defined as: [u"The membrane attack complex (MAC) or terminal complement complex (TCC) is a structure typically formed on the surface of pathogen cell membranes as a result of the activation of the host's complement system, and as such is one of the effector proteins of the immune system.", u'C5b-6-7-8 subsequently binds to C9 and acts as a catalyst in the polymerization of C9.']
+
+
+c5-c6
+ is defined as: [u'The Chevrolet Corvette (C6) is a sports car that was produced by Chevrolet division of General Motors for the 2005 to 2013 model years.', u'Racing variants include the C6.R, an American Le Mans Series GT1 championship and 24 Hours of Le Mans GTE-Pro winner.']
+
+
+b5-b6
+ is defined as: [u'The Mazda B-series engine - not to be confused with the Mazda B-Series truck - is a small-sized, iron-block, inline four-cylinder with belt-driven SOHC and DOHC valvetrain ranging in displacement from 1.1 to 1.8 litres.', u'The Mazda B-series is a "non-interference" design, meaning that breakage of its timing belt does not result in damage to valves or pistons, because the opening of the valves, the depth of the combustion chamber and (in some variants) the shaping of the piston crown allow sufficient clearance for the open valves in any possible piston position.']
+
+
+rxf8
+ is defined as: no definition found
+
+
+rhg1
+ is defined as: [u'The Rhin is a 133.3-kilometre (82.8 mi) long river in Brandenburg, Germany, right tributary to the river Havel.', u'It flows through the city Neuruppin and several lakes.']
+
+
+kxh6
+ is defined as: [u'Roy Turnbull Black (February 14, 1888 \u2013 July 27, 1962) was an American chess player.', u'He also won the 1914 New York State championship.']
+
+
+hxg6
+ is defined as: no definition found
+
+
+hxg4
+ is defined as: no definition found
+
+
+fxg6
+ is defined as: [u"In chess, Fool's Mate, also known as the Two-Move Checkmate, is the checkmate in the fewest possible number of moves from the start of the game.", u'Even among rank beginners, the mate almost never occurs in practice.']
+
+
+bxg7
+ is defined as: [u'The Gr\xfcnfeld Defence (ECO codes D70\u2013D99) is a chess opening characterised by the moves:\n1. d4 Nf6\n2. c4 g6\n3.', u'If White does not take the d5 pawn, Black may eventually play dxc4, when a White response of e4 again leads to the same pawn structure.']
+
+
+bxa1
+ is defined as: [u'Losing Chess (also known as Antichess, the Losing Game, Giveaway Chess, Suicide Chess, Killer Chess, Must-Kill, Take-All Chess, Capture Chess or Losums) is one of the most popular chess variants.', u'The origin of the game is unknown, but believed to significantly predate an early version, named Take Me, played in the 1870s.']
+
+
+queenside majority
+ is defined as: [u'In chess, the pawn structure (sometimes known as the pawn skeleton) is the configuration of pawns on the chessboard.', u'Since pawns are the least mobile of the chess pieces, the pawn structure is relatively static and thus largely determines the strategic nature of the position.']
+
+
+wilhelm steinitz
+ is defined as: [u'Wilhelm (later William) Steinitz (May 17, 1836 \u2013 August 12, 1900) was an Austrian and later American chess master, and the first undisputed World Chess Champion, from 1886 to 1894.', u'Although Steinitz became "world number one" by winning in the all-out attacking style that was common in the 1860s, he unveiled in 1873 a new positional style of play, and demonstrated that it was superior to the previous style.']

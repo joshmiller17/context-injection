@@ -1,0 +1,303 @@
+conlang	SIMPLE	Good	1	1.0	1.0
+conlanger	SIMPLE	Good	1	0.8774	0.8774
+esperanto	SIMPLE	Good	1	0.8656	0.8656
+natlang	SIMPLE	Good	1	0.8539	0.8539
+relative clause	Normal_NP	Good	1	0.7301	0.7301
+polysynthetic language	Normal_NP	Good	1	0.7086	0.7086
+indo-european language	Normal_NP	Good	1	0.7086	0.7086
+ergative language	Normal_NP	Good	1	0.6874	0.6874
+conlanging	SIMPLE	Good	1	0.677	0.677
+artlang	SIMPLE	Good	1	0.6666	0.6666
+mass noun	Normal_NP	Good	1	0.6563	0.6563
+indo-european	HYPHENATION	Good	1	0.6461	0.6461
+relex	SIMPLE	Good	1	0.6259	0.6259
+anaphor	SIMPLE	Good	1	0.606	0.606
+proto-language	HYPHENATION	Good	1	0.5578	0.5578
+phonetic alphabet	Normal_NP	Good	1	0.539	0.539
+auxlang	SIMPLE	Good	1	0.5298	0.5298
+engelang	SIMPLE	Good	1	0.5115	0.5115
+conlang mailing list	Normal_NP	Good	1	0.5025	0.5025
+arabic	SIMPLE	Good	1	0.4936	0.4936
+transitive verb	Normal_NP	Medium	0.6	0.774	0.4644
+noun phrase	Normal_NP	Medium	0.6	0.7518	0.45108
+subcategory	SIMPLE	Good	1	0.4501	0.4501
+lenition	SIMPLE	Good	1	0.4416	0.4416
+ergative	SIMPLE	Good	1	0.4416	0.4416
+definitene	SIMPLE	Good	1	0.4333	0.4333
+count noun	Normal_NP	Good	1	0.4333	0.4333
+intransitive verb	Normal_NP	Medium	0.6	0.7193	0.43158
+ungrammatical sentence	Normal_NP	Good	1	0.4168	0.4168
+personal language	Normal_NP	Medium	0.6	0.6874	0.41244
+loglang	SIMPLE	Good	1	0.4086	0.4086
+r-expression	HYPHENATION	Good	1	0.4006	0.4006
+sonority hierarchy	Normal_NP	Good	1	0.3926	0.3926
+sandhi	SIMPLE	Good	1	0.3769	0.3769
+ditransitive verb	Normal_NP	Good	1	0.3692	0.3692
+phonotactic	SIMPLE	Good	1	0.3615	0.3615
+fictional language	Normal_NP	Medium	0.6	0.5962	0.35772
+singular first-person subject	Normal_NP	Good	1	0.3539	0.3539
+sentence subject	Normal_NP	Good	1	0.3465	0.3465
+philosophical language	Normal_NP	Medium	0.6	0.5768	0.34608
+phoenician	SIMPLE	Good	1	0.339	0.339
+morse code	Normal_NP	Good	1	0.339	0.339
+ergativity	SIMPLE	Good	1	0.339	0.339
+cyrillic script	Normal_NP	Good	1	0.3317	0.3317
+noun class	Normal_NP	Medium	0.6	0.5483	0.32898
+altlang	SIMPLE	Good	1	0.3245	0.3245
+abugida	SIMPLE	Good	1	0.3245	0.3245
+suprasegmental	SIMPLE	Good	1	0.3102	0.3102
+backslash	SIMPLE	Good	1	0.3032	0.3032
+labiodental approximant	Normal_NP	Good	1	0.2963	0.2963
+active-stative language	Normal_NP	Good	1	0.2963	0.2963
+kaja kaji kajv kija kiji kijv kvja kvji kvjv kaj	Normal_NP	Good	1	0.2894	0.2894
+right-to-left	HYPHENATION	Good	1	0.2826	0.2826
+polysynthetic	SIMPLE	Good	1	0.2826	0.2826
+noun incorporation	Normal_NP	Medium	0.6	0.4672	0.28032
+sapir-whorf hypothesis	Normal_NP	Good	1	0.276	0.276
+micronational language	Normal_NP	Good	1	0.276	0.276
+sov	SIMPLE	Good	1	0.2693	0.2693
+quenya	SIMPLE	Good	1	0.2628	0.2628
+clitic	SIMPLE	Good	1	0.2628	0.2628
+singular first-person	Normal_NP	Good	1	0.2564	0.2564
+tonal language	Normal_NP	Medium	0.6	0.425	0.255
+kaja kaji kajv kija kiji kijv kvja kvji kvjv	Normal_NP	Good	1	0.25	0.25
+postposition	SIMPLE	Good	1	0.2437	0.2437
+polysynthesi	SIMPLE	Good	1	0.2437	0.2437
+formal logic	Normal_NP	Good	1	0.2437	0.2437
+wikibook	SIMPLE	Good	1	0.2375	0.2375
+internet	SIMPLE	Good	1	0.2375	0.2375
+ejective	SIMPLE	Good	1	0.2375	0.2375
+apophony	SIMPLE	Good	1	0.2375	0.2375
+pharyngeal fricative	Normal_NP	Good	1	0.2314	0.2314
+intransitive subject	Normal_NP	Good	1	0.2314	0.2314
+epiglottal fricative	Normal_NP	Good	1	0.2314	0.2314
+word-building affix	Normal_NP	Good	1	0.2253	0.2253
+pulmonic ingressive	Normal_NP	Good	1	0.2253	0.2253
+big-picture insight	Normal_NP	Good	1	0.2253	0.2253
+original language word-replacement code	Normal_NP	Good	1	0.2194	0.2194
+kaja kaji kajv kija kiji kijv kvja kvji	Normal_NP	Good	1	0.2194	0.2194
+micronation	SIMPLE	Good	1	0.2135	0.2135
+esperantist	SIMPLE	Good	1	0.2135	0.2135
+approximant	SIMPLE	Good	1	0.2135	0.2135
+romance language	Normal_NP	Medium	0.6	0.3465	0.20789999999999997
+diachronic conlang	Normal_NP	Good	1	0.2077	0.2077
+elvish language	Normal_NP	Medium	0.6	0.3317	0.19902
+singular first-person subject prefix	Normal_NP	Good	1	0.1907	0.1907
+noun usage fine semantic distinction	Normal_NP	Good	1	0.1907	0.1907
+i-just-bought-this-bicycle-yesterday	HYPHENATION	Good	1	0.1907	0.1907
+tolkien	SIMPLE	Good	1	0.1852	0.1852
+intonation distinction	Normal_NP	Medium	0.6	0.276	0.1656
+agglutinative language	Normal_NP	Medium	0.6	0.276	0.1656
+sapir-whorf hypothesis exploration	Normal_NP	Good	1	0.1641	0.1641
+kaja kaji kajv kija kiji kijv kvja	Normal_NP	Good	1	0.1641	0.1641
+indigenous language north-american	Normal_NP	Good	1	0.1641	0.1641
+suppletion	SIMPLE	Good	1	0.159	0.159
+professional linguist marc okrand	Normal_NP	Good	1	0.154	0.154
+linguistic relativity	Normal_NP	Medium	0.6	0.2564	0.15384
+syllable nucleus	Normal_NP	Good	1	0.1491	0.1491
+percussive click	Normal_NP	Good	1	0.1491	0.1491
+adverbial clause	Normal_NP	Good	1	0.1491	0.1491
+syllabical structure restriction	Normal_NP	Good	1	0.1442	0.1442
+consonant secondary articulation	Normal_NP	Good	1	0.1442	0.1442
+ergative language concentration	Normal_NP	Good	1	0.1394	0.1394
+alternative notation	Normal_NP	Medium	0.6	0.2314	0.13884
+accusative language	Normal_NP	Medium	0.6	0.2253	0.13518
+conlang x-sampa	Normal_NP	Good	1	0.1348	0.1348
+wikipedia	SIMPLE	Good	1	0.1256	0.1256
+toki pona	Normal_NP	Good	1	0.1256	0.1256
+allophone	SIMPLE	Good	1	0.1256	0.1256
+affricate	SIMPLE	Good	1	0.1256	0.1256
+politico-cultural connotation	Normal_NP	Good	1	0.1212	0.1212
+kaja kaji kajv kija kiji kijv	Normal_NP	Good	1	0.1212	0.1212
+absolutive-ergative alignment	Normal_NP	Good	1	0.1212	0.1212
+vorlin	SIMPLE	Good	1	0.1168	0.1168
+sukuun	SIMPLE	Good	1	0.1168	0.1168
+p rule	Normal_NP	Good	1	0.1168	0.1168
+mohawk	SIMPLE	Good	1	0.1168	0.1168
+non-configurational language	Normal_NP	Good	1	0.1125	0.1125
+extensive evidentiality mark	Normal_NP	Good	1	0.1125	0.1125
+absolutive-ergative language	Normal_NP	Good	1	0.1125	0.1125
+subject gender	Normal_NP	Good	1	0.1083	0.1083
+sub-discipline	HYPHENATION	Good	1	0.1083	0.1083
+conlang quenya	Normal_NP	Good	1	0.1083	0.1083
+statistical trend	Normal_NP	Medium	0.6	0.1745	0.10469999999999999
+original language	Normal_NP	Medium	0.6	0.1745	0.10469999999999999
+linguistic theory	Normal_NP	Medium	0.6	0.1745	0.10469999999999999
+verb-and-arguments language	Normal_NP	Good	1	0.1042	0.1042
+list conlang-related people	Normal_NP	Good	1	0.1042	0.1042
+typological classification	Normal_NP	Good	1	0.1001	0.1001
+professional linguist marc	Normal_NP	Good	1	0.1001	0.1001
+ordinary upper-case letter	Normal_NP	Good	1	0.1001	0.1001
+ordinary lower-case letter	Normal_NP	Good	1	0.1001	0.1001
+historical jewish language	Normal_NP	Good	1	0.1001	0.1001
+left-to-right	HYPHENATION	Good	1	0.0962	0.0962
+conworld	SIMPLE	Good	1	0.0923	0.0923
+secondary stress	Normal_NP	Medium	0.6	0.1491	0.08946
+internal history	Normal_NP	Medium	0.6	0.1491	0.08946
+verduria mark rosenfelder	Normal_NP	Good	1	0.0885	0.0885
+superscript question mark	Normal_NP	Good	1	0.0885	0.0885
+non-indo-european grammar	Normal_NP	Good	1	0.0885	0.0885
+celtic language evolution	Normal_NP	Good	1	0.0885	0.0885
+vocal chord individual vibration	Normal_NP	Medium	0.6	0.1442	0.08652
+classification-based vocabulary	Normal_NP	Medium	0.6	0.1394	0.08363999999999999
+kaja kaji kajv kija kiji	Normal_NP	Good	1	0.0811	0.0811
+conlang thauliralau mark	Normal_NP	Good	1	0.0811	0.0811
+subjective goal	Normal_NP	Medium	0.6	0.1348	0.08088
+language family	Normal_NP	Medium	0.6	0.1348	0.08088
+vso	SIMPLE	Good	1	0.0776	0.0776
+svo	SIMPLE	Good	1	0.0776	0.0776
+roman empire	Normal_NP	Good	1	0.0741	0.0741
+preexisting idea syntax	Normal_NP	Good	1	0.0707	0.0707
+navajo alignment scheme	Normal_NP	Good	1	0.0707	0.0707
+lower-case roman letter	Normal_NP	Good	1	0.0707	0.0707
+language-processing facility	Normal_NP	Medium	0.6	0.1125	0.0675
+language creation conference	Normal_NP	Medium	0.6	0.1125	0.0675
+extensive literary tradition	Normal_NP	Medium	0.6	0.1125	0.0675
+zompist bulletin board	Normal_NP	Good	1	0.0673	0.0673
+syllable-initial vowel	Normal_NP	Good	1	0.0673	0.0673
+headmarking inflection	Normal_NP	Good	1	0.0673	0.0673
+glug-glug onomatopoeia	Normal_NP	Good	1	0.0673	0.0673
+cultural links library	Normal_NP	Good	1	0.0673	0.0673
+boustrophedon language	Normal_NP	Good	1	0.0673	0.0673
+advanced-level grammar	Normal_NP	Good	1	0.0673	0.0673
+adposition-like phrase	Normal_NP	Good	1	0.0673	0.0673
+split-s language	2_Part_NP_no_prep	Bad	0.45	0.1491	0.067095
+topical phrase	Normal_NP	Medium	0.6	0.1083	0.06498
+syllable break	Normal_NP	Medium	0.6	0.1083	0.06498
+primary stress	Normal_NP	Medium	0.6	0.1083	0.06498
+formal grammar	Normal_NP	Medium	0.6	0.1083	0.06498
+klingon	SIMPLE	Good	1	0.0641	0.0641
+ithkuil	SIMPLE	Good	1	0.0641	0.0641
+coronal	SIMPLE	Good	1	0.0641	0.0641
+polysynthetic conlang	Normal_NP	Good	1	0.0609	0.0609
+optional transitivity	Normal_NP	Good	1	0.0609	0.0609
+noun-verb distinction	Normal_NP	Good	1	0.0609	0.0609
+nominative-accusative	HYPHENATION	Good	1	0.0609	0.0609
+linguist noam chomsky	Normal_NP	Good	1	0.0609	0.0609
+indo-european yiddish	Normal_NP	Good	1	0.0609	0.0609
+grammatical ambiguity	Normal_NP	Good	1	0.0609	0.0609
+diachronic conlanging	Normal_NP	Good	1	0.0609	0.0609
+cut-and-dried picture	Normal_NP	Good	1	0.0609	0.0609
+collective term affix	Normal_NP	Good	1	0.0609	0.0609
+adjectival inflection	Normal_NP	Good	1	0.0609	0.0609
+fundamental syntactic rule	Normal_NP	Medium	0.6	0.1001	0.060059999999999995
+tone sandhi	Normal_NP	Good	1	0.0578	0.0578
+normal noun	Normal_NP	Good	1	0.0578	0.0578
+noun argument	Normal_NP	Medium	0.6	0.0962	0.057719999999999994
+most language	Normal_NP	Medium	0.6	0.0962	0.057719999999999994
+un-recognized nation	Normal_NP	Good	1	0.0548	0.0548
+technical aspiration	Normal_NP	Good	1	0.0548	0.0548
+superscript question	Normal_NP	Good	1	0.0548	0.0548
+sound change applier	Normal_NP	Good	1	0.0548	0.0548
+predictive statement	Normal_NP	Good	1	0.0548	0.0548
+meso-american empire	Normal_NP	Good	1	0.0548	0.0548
+marking nasalization	Normal_NP	Good	1	0.0548	0.0548
+kitchen sink conlang	Normal_NP	Good	1	0.0548	0.0548
+inversion inflection	Normal_NP	Good	1	0.0548	0.0548
+ingressive airstream	Normal_NP	Good	1	0.0548	0.0548
+hand-on-throat trick	Normal_NP	Good	1	0.0548	0.0548
+glottalic ingressive	Normal_NP	Good	1	0.0548	0.0548
+fictional conculture	Normal_NP	Good	1	0.0548	0.0548
+distinctive syllable	Normal_NP	Good	1	0.0548	0.0548
+consonant gemination	Normal_NP	Good	1	0.0548	0.0548
+complement phrase cp	Normal_NP	Good	1	0.0548	0.0548
+australia wangkumara	Normal_NP	Good	1	0.0548	0.0548
+asymmetric c-command	Normal_NP	Good	1	0.0548	0.0548
+adjective inflection	Normal_NP	Good	1	0.0548	0.0548
+taxonomic criterion	Normal_NP	Good	1	0.0519	0.0519
+symmetric c-command	Normal_NP	Good	1	0.0519	0.0519
+subject-verb-object	HYPHENATION	Good	1	0.0519	0.0519
+revival linguistics	Normal_NP	Good	1	0.0519	0.0519
+noun morpheme maheo	Normal_NP	Good	1	0.0519	0.0519
+non-english speaker	Normal_NP	Good	1	0.0519	0.0519
+non-configurational	HYPHENATION	Good	1	0.0519	0.0519
+mandatory palestine	Normal_NP	Good	1	0.0519	0.0519
+kaja kaji kajv kija	Normal_NP	Good	1	0.0519	0.0519
+individual syllable	Normal_NP	Good	1	0.0519	0.0519
+implosive consonant	Normal_NP	Good	1	0.0519	0.0519
+high-quality module	Normal_NP	Good	1	0.0519	0.0519
+glottalic egressive	Normal_NP	Good	1	0.0519	0.0519
+contrast epiglottal	Normal_NP	Good	1	0.0519	0.0519
+conlang thauliralau	Normal_NP	Good	1	0.0519	0.0519
+beginning conlanger	Normal_NP	Good	1	0.0519	0.0519
+algonquian language	Normal_NP	Good	1	0.0519	0.0519
+airstream consonant	Normal_NP	Good	1	0.0519	0.0519
+affricate implosive	Normal_NP	Good	1	0.0519	0.0519
+absolutive-ergative	HYPHENATION	Good	1	0.0519	0.0519
+absolutive language	Normal_NP	Good	1	0.0519	0.0519
+3rd person singular	Normal_NP	Good	1	0.0519	0.0519
+pharyngeal	SIMPLE	Good	1	0.0491	0.0491
+ipa symbol	Normal_NP	Good	1	0.0491	0.0491
+conculture	SIMPLE	Good	1	0.0491	0.0491
+adposition	SIMPLE	Good	1	0.0491	0.0491
+physical reference frame	Normal_NP	Medium	0.6	0.0811	0.04866
+grammatical organization	Normal_NP	Medium	0.6	0.0811	0.04866
+uto-aztecan family	Normal_NP	Good	1	0.0463	0.0463
+upper-body garment	Normal_NP	Good	1	0.0463	0.0463
+unstopped syllable	Normal_NP	Good	1	0.0463	0.0463
+sound name conlang	Normal_NP	Good	1	0.0463	0.0463
+punctuation symbol	Normal_NP	Good	1	0.0463	0.0463
+pie pronomial stem	Normal_NP	Good	1	0.0463	0.0463
+passive participle	Normal_NP	Good	1	0.0463	0.0463
+obligatory nucleus	Normal_NP	Good	1	0.0463	0.0463
+non-proto-language	HYPHENATION	Good	1	0.0463	0.0463
+monophthongization	SIMPLE	Good	1	0.0463	0.0463
+mixed-goal conlang	Normal_NP	Good	1	0.0463	0.0463
+lingual ingressive	Normal_NP	Good	1	0.0463	0.0463
+language evolution	Normal_NP	Good	1	0.0463	0.0463
+it-is-a-good-shirt	HYPHENATION	Good	1	0.0463	0.0463
+iroquoian language	Normal_NP	Good	1	0.0463	0.0463
+i-have-a-big-house	HYPHENATION	Good	1	0.0463	0.0463
+glottal ingressive	Normal_NP	Good	1	0.0463	0.0463
+gender subcategory	Normal_NP	Good	1	0.0463	0.0463
+ergative alignment	Normal_NP	Good	1	0.0463	0.0463
+epiglottal plosive	Normal_NP	Good	1	0.0463	0.0463
+derivational affix	Normal_NP	Good	1	0.0463	0.0463
+conworld influence	Normal_NP	Good	1	0.0463	0.0463
+conlanger learning	Normal_NP	Good	1	0.0463	0.0463
+benjamin lee whorf	Normal_NP	Good	1	0.0463	0.0463
+alphabetic fashion	Normal_NP	Good	1	0.0463	0.0463
+runic script	Normal_NP	Medium	0.6	0.0741	0.04446
+primary goal	Normal_NP	Medium	0.6	0.0741	0.04446
+glottal stop	Normal_NP	Medium	0.6	0.0741	0.04446
+traditional esperantist	Normal_NP	Medium	0.6	0.0707	0.04242
+theoretical possibility	Normal_NP	Medium	0.6	0.0707	0.04242
+symbolic representative	Normal_NP	Medium	0.6	0.0707	0.04242
+phonological constraint	Normal_NP	Medium	0.6	0.0707	0.04242
+generative introduction	Normal_NP	Medium	0.6	0.0707	0.04242
+etymological dictionary	Normal_NP	Medium	0.6	0.0707	0.04242
+wikipedia article	Normal_NP	Good	1	0.041	0.041
+wikibook conworld	Normal_NP	Good	1	0.041	0.041
+wastebasket taxon	Normal_NP	Good	1	0.041	0.041
+vowel-combination	HYPHENATION	Good	1	0.041	0.041
+upper-case letter	Normal_NP	Good	1	0.041	0.041
+uncountable thing	Normal_NP	Good	1	0.041	0.041
+speedword auxlang	Normal_NP	Good	1	0.041	0.041
+salishan language	Normal_NP	Good	1	0.041	0.041
+question particle	Normal_NP	Good	1	0.041	0.041
+quendian language	Normal_NP	Good	1	0.041	0.041
+pronominal prefix	Normal_NP	Good	1	0.041	0.041
+palatal consonant	Normal_NP	Good	1	0.041	0.041
+non-terminal node	Normal_NP	Good	1	0.041	0.041
+non-human anatomy	Normal_NP	Good	1	0.041	0.041
+natlang exception	Normal_NP	Good	1	0.041	0.041
+germanic language	Normal_NP	Good	1	0.041	0.041
+fictional auxlang	Normal_NP	Good	1	0.041	0.041
+etruscan language	Normal_NP	Good	1	0.041	0.041
+etruscan alphabet	Normal_NP	Good	1	0.041	0.041
+esperanto culture	Normal_NP	Good	1	0.041	0.041
+ergative argument	Normal_NP	Good	1	0.041	0.041
+cyrillic alphabet	Normal_NP	Good	1	0.041	0.041
+conworld wikibook	Normal_NP	Good	1	0.041	0.041
+conceptualization	SIMPLE	Good	1	0.041	0.041
+bilabial ejective	Normal_NP	Good	1	0.041	0.041
+animacy hierarchy	Normal_NP	Good	1	0.041	0.041
+semantic consideration	Normal_NP	Medium	0.6	0.0673	0.04038
+morphological tendency	Normal_NP	Medium	0.6	0.0673	0.04038
+linguistic terminology	Normal_NP	Medium	0.6	0.0673	0.04038
+grammatical phenomenon	Normal_NP	Medium	0.6	0.0673	0.04038
+word-part	HYPHENATION	Good	1	0.0385	0.0385
+kharosthi	SIMPLE	Good	1	0.0385	0.0385
+flashcard	SIMPLE	Good	1	0.0385	0.0385
+c-command	HYPHENATION	Good	1	0.0385	0.0385
+backquote	SIMPLE	Good	1	0.0385	0.0385
