@@ -248,8 +248,8 @@ def main():
 	texts = ["practice_data/train_data_1.txt", "practice_data/train_data_2.txt", "practice_data/train_data_3.txt"]
 	labels = [2, 6, 12]
 	data, model, weights = construct_readability_model(texts, labels)
-	for i in range(15):
-		print(features[i], " = ", weights[i])
+	#for i in range(15):
+	#	print(features[i], " = ", weights[i])
 	test_data = feature_extraction(["practice_data/test.txt"])
 	print("Predicted readability score:", model.predict(test_data))
 

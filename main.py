@@ -35,14 +35,14 @@ def build_readability_model():
 		while label < 1 or label > 100:
 			label = input("Please input a readability value for " + category + " from 1 (easy) to 100 (difficult)\n  >")
 		
-		for file in os.listdir(os.path.join(read_dir, category)):
-			path = os.path.join(read_dir, category)
-			if file.endswith(".txt"):
-				file_names.append(os.path.join(path, file))
-				labels.append(label)
-			else:
-				if debug:
-					print("DEBUG: " + file + " is not a .txt file")
+		for dirpath, dirnames, filenames in os.walk(os.path.join(read_dir, category)):
+				for file in filenames:
+					if file.endswith(".txt"):
+						file_names.append(os.path.join(dirpath, file))
+						labels.append(label)
+					else:
+						if debug:
+							print("DEBUG: " + file + " is not a .txt file")
 				
 	assert len(labels) == len(file_names)
 	data, model, weights = readability.construct_readability_model(file_names, labels, verbose=args.verbose)
@@ -190,12 +190,26 @@ def main():
 		# future work? include topic density in the readability model?
 	
 		# calculate readability of document
-		input_as_feature_vec = readability.feature_extraction([input_doc + ".txt"], verbose=args.verbose)
-		prediction = readability.predict(model, input_as_feature_vec)
-		print("Readability prediction:" + "\n" + str(prediction))
-		open("read_output_" + input_doc + ".txt", 'w').close()
-		with open("read_output_" + input_doc + ".txt", 'a') as file:
-			file.write(str(prediction))
+		if not args.multi:
+			input_as_feature_vec = readability.feature_extraction([input_doc + ".txt"], verbose=args.verbose)
+			prediction = readability.predict(model, input_as_feature_vec)
+			print("Readability prediction:" + "\n" + str(prediction))
+			open("read_output_" + input_doc + ".txt", 'w').close()
+			with open("read_output_" + input_doc + ".txt", 'a') as file:
+				file.write(str(prediction))
+		else:
+			for dirpath, dirnames, filenames in os.walk(input_doc):
+				for file in filenames:
+					if file.endswith(".txt"):
+						full_name = os.path.join(dirpath, file)
+						out_file = os.path.join(dirpath, "read_output_" + file)
+						input_as_feature_vec = readability.feature_extraction([full_name], verbose=args.verbose)
+						prediction = readability.predict(model, input_as_feature_vec)
+						print("Readability prediction:" + "\n" + str(prediction))
+						open(out_file, 'w').close()
+						with open(out_file, 'a') as file:
+							file.write(str(prediction))
+			
 	
 	
 	# -----------------------------------
@@ -267,8 +281,8 @@ if __name__ == "__main__":
 	
 	args = parser.parse_args()
 	
-	if args.multi and not (args.noread and args.notfidf):
-		parser.error("Multiple input files not implemented for readability and TFIDF. Please use -noread and -notfidf when using -multi.")
+	if args.multi and not (args.notfidf):
+		parser.error("Multiple input files not implemented for TFIDF. Please use -notfidf when using -multi.")
 	
 	if not (args.notfidf and args.noterm) and args.bg is None:
 		parser.error("Background directory required to run TFIDF and Termolator.")
