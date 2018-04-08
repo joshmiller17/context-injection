@@ -10,6 +10,7 @@ from __future__ import division
 import nltk
 import numpy as np
 import os
+import pickle
 from readability import pre_process
 from collections import defaultdict
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -77,6 +78,7 @@ def train_tfidf(docs, stem=True, verbose=False):
 	for score in scores:
 		tfdict[score[0]] = score[1]
 	
+	pickle.dump(tfdict, open("tfdict.pkl", "wb"))
 	return tfdict
 	
 	
