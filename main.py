@@ -110,6 +110,9 @@ def find_jargon_using_tfidf():
 # saves results to output_termolator.txt
 def find_jargon_using_termolator(input_doc, background_dir, output_doc):
 	
+	# weird solution: run with -oldbg to generate .tchunk then without -oldbg to use .tchunk
+	
+	
 	# Make background dir into a .list file containing their names
 	open("background.list", 'w').close()
 	with open("background.list", 'a') as bg:
@@ -134,7 +137,8 @@ def find_jargon_using_termolator(input_doc, background_dir, output_doc):
 	cmd.append(str(args.maxterms)) # accepted terms
 	cmd.append("The_Termolator") # directory of Termolator
 	cmd.append("False") # "additional topic string", should always be false
-	cmd.append(str(args.oldfg)) # if true skip preprocess foreground # TODO = args.oldfg
+	cmd.append("False") # if true skip preprocess foreground # = args.oldfg?
+	cmd.append(str(args.input)) # ??? webscore
 	cmd.append("False") # if false, use ranking.pkl
 	
 	print("INFO: executing command: " + ' '.join(cmd))
@@ -162,6 +166,7 @@ def main():
 	skip_read = args.noread
 	skip_term = args.noterm
 	skip_tfidf = args.notfidf
+	errors = False
 			
 	# -----------------------------------
 	# Build Models
@@ -216,18 +221,19 @@ def main():
 			#	prediction = readability.predict(read_model, input_as_feature_vec)
 			#	print("New readability with context injected: " + str(prediction))
 
-		open("overlapping_jargon_" + input_doc + ".txt", 'w').close()
-		with open("overlapping_jargon_" + input_doc + ".txt", 'a') as file:
-				
-			if not (skip_tfidf or skip_term):
-				for tf_jargon in tfidf_jargon_terms:
-					for term_jargon in termolator_jargon_terms:
-						match = True
-						for ch in range(len(tf_jargon)):
-							if tf_jargon[ch] != term_jargon:
-								match = False
-						if match:
-							file.write(term_jargon + "\n")
+		if not skip_tfidf and not skip_term:
+			open("overlapping_jargon_" + input_doc + ".txt", 'w').close()
+			with open("overlapping_jargon_" + input_doc + ".txt", 'a') as file:
+					
+				if not (skip_tfidf or skip_term):
+					for tf_jargon in tfidf_jargon_terms:
+						for term_jargon in termolator_jargon_terms:
+							match = True
+							for ch in range(len(tf_jargon)):
+								if tf_jargon[ch] != term_jargon:
+									match = False
+							if match:
+								file.write(term_jargon + "\n")
 		
 		
 	return errors

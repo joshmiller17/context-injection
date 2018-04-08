@@ -43,8 +43,11 @@ FEATURES [by index]
 
 # input: list of filenames
 # output: feature vectors for each document 
-def feature_extraction(data, verbose=False):
-	print("\nExtracting features on " + str(len(data)) + " file(s)")
+def feature_extraction(data, verbose=False, text_only=False):
+	if not text_only:
+		print("\nExtracting features on " + str(len(data)) + " file(s)")
+	else:
+		print("Analyzing text...")
 
 	# preparation stuff
 	try:
@@ -73,11 +76,15 @@ def feature_extraction(data, verbose=False):
 	progress_percent = 0
 	
 	for i in range(len(data)):
-		if int((math.floor(float(i) * 100.) / file_count)) > progress_percent:
+		if not text_only and int((math.floor(float(i) * 100.) / file_count)) > progress_percent:
 			progress_percent = int(math.floor((float(i) * 100.) / file_count))
 			print("INFO: Readability model: " + str(progress_percent) + "% complete")
-		file = data[i]
-		text = (open(file, 'r')).read()
+		if not text_only:
+			file = data[i]
+			text = (open(file, 'r')).read()
+		else:
+			text = data[i]
+
 		text = pre_process(text)
 		paragraphs = text.split('\n')
 		total_sentences = 1 # avoid divide by zero error
