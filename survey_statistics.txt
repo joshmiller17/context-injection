@@ -17,3 +17,7 @@ Average agreement for each question
 [0.61008137 0.70275769 0.9403255  0.77644665 0.79905063 0.91387884]
 Average agreement over all questions
 0.79042344786
+Jargon identification precision:
+0.417721518987
+Percentage of identified jargon correctly defined
+0.712121212121

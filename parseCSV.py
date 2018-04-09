@@ -21,7 +21,17 @@
 #   the key corresponding to the domain
 # avg_results_overall: this is the average positive response rate for each
 #   question for all domains combined
+# precision: precision with respect to the jargon identification task.
+#   Jargon is considered correctly identified if over half of participants
+#   consider it to be jargon, to be relevant to the domain, and to not be a
+#   duplicate.
+# percent_jargon_correctly_defined: the percent of correctly identified jargon
+#   that is correctly defined. Jargon is considered correctly defined if over
+#   half of participants consider it to be defined, the definition to be correct,
+#   and the definition to be useful
 #
+
+from __future__ import division
 
 import pandas as pd
 import numpy as np
@@ -112,3 +122,20 @@ print('Average agreement for each question')
 print(avg_agreement_by_q)
 print('Average agreement over all questions')
 print(avg_agreement_overall)
+
+#calculate precision
+tp_jargon = 0
+correct_def_jargon = 0
+for response in stats.values():
+    response = response/len(df.axes[0])
+    if (response >= np.array([0.5,0.5,0,0,0,0])).all() and \
+       (response <= np.array([1,1,1,1,1,0.5])).all():
+        tp_jargon += 1
+        if (response >= np.array([0,0,0.5,0.5,0.5,0])).all():
+            correct_def_jargon += 1
+precision = tp_jargon/len(stats)
+print("Jargon identification precision:")
+print(precision)
+percent_jargon_correctly_defined = correct_def_jargon/tp_jargon
+print("Percentage of identified jargon correctly defined")
+print(percent_jargon_correctly_defined)
