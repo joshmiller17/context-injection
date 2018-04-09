@@ -6,6 +6,7 @@ Credits: See README.md
 """
 from __future__ import print_function
 from __future__ import division
+import pickle
 
 # init global args
 args = None
@@ -63,7 +64,11 @@ def find_jargon_using_tfidf():
 	max_terms = args.maxterms
 	stem = not args.nostem
 	debug = args.debug
-	tfidf_dictionary = tfidf.build_tfidf_model(background_dir, debug=args.debug, verbose=args.verbose, stem=(not args.nostem))
+	#if background is not provided, load saved tfidf_dictionary
+	if background_dir != None:
+		tfidf_dictionary = tfidf.build_tfidf_model(background_dir, debug=args.debug, verbose=args.verbose, stem=(not args.nostem))
+	else:
+		tfidf_dictionary = pickle.load(open('tfdict.pkl', 'r'))
 	if tfidf_dictionary is None:
 		return None
 	# find suitable cutoff point if none given
@@ -215,14 +220,14 @@ def main():
 	# -----------------------------------
 	# Find Jargon
 	# -----------------------------------
-	if background_dir:
+	if not skip_tfidf:
+		tfidf_jargon_terms = find_jargon_using_tfidf()
+		open("tfidf_output_" + input_doc + ".txt", 'w').close()
+		with open("tfidf_output_" + input_doc + ".txt", 'a') as file:
+			for j in tfidf_jargon_terms:
+				file.write(str(j) + "\n")
 	
-		if not skip_tfidf:
-			tfidf_jargon_terms = find_jargon_using_tfidf()
-			open("tfidf_output_" + input_doc + ".txt", 'w').close()
-			with open("tfidf_output_" + input_doc + ".txt", 'a') as file:
-				for j in tfidf_jargon_terms:
-					file.write(str(j) + "\n")
+	if background_dir:
 		
 		if not skip_term:
 			termolator_jargon_terms = find_jargon_using_termolator(input_doc, background_dir, output_doc)
@@ -284,8 +289,8 @@ if __name__ == "__main__":
 	if args.multi and not (args.notfidf):
 		parser.error("Multiple input files not implemented for TFIDF. Please use -notfidf when using -multi.")
 	
-	if not (args.notfidf and args.noterm) and args.bg is None:
-		parser.error("Background directory required to run TFIDF and Termolator.")
+	if not (args.noterm) and args.bg is None:
+		parser.error("Background directory required to run Termolator.")
 
 	# resolved later as needed
 	#if not args.noread and args.read is None:

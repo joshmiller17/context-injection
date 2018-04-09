@@ -55,7 +55,7 @@ def no_stem_tokenizer(input):
 
 
 # sklearn tfidf
-def train_tfidf(docs, stem=True, verbose=False):
+def train_tfidf(docs, stem=True, verbose=False, save_results=False):
 	if len(docs) < 1:
 		print("ERROR: No documents to train TFIDF on")
 		return None
@@ -77,8 +77,9 @@ def train_tfidf(docs, stem=True, verbose=False):
 	tfdict = defaultdict(float)
 	for score in scores:
 		tfdict[score[0]] = score[1]
-	
-	pickle.dump(tfdict, open("tfdict.pkl", "wb"))
+		
+	if save_results:
+                pickle.dump(tfdict, open("tfdict.pkl", "wb"))
 	return tfdict
 	
 	
@@ -108,12 +109,6 @@ def predict(model, datum):
 # input: directory of files
 # output: tfidf dictionary
 def build_tfidf_model(background_dir, file=False, debug=False, verbose=False, stem=True):
-	try:
-		tfdict = joblib.load("tfidf_model.pkl", 'r')
-		print("INFO: Loaded TFIDF model from file.")
-		return tfdict
-	except Exception as e:
-		pass
 	if debug:
 		print("DEBUG: Building TFIDF model, stem=" + str(stem))
 	files = []
