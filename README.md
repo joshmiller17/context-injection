@@ -5,9 +5,6 @@ Main features:
 * Finds jargon phrases using TFIDF
 * Finds jargon phrases using The Termolator
 
-# How to run:
-
-
 # Details:
 * Input and output files assumed to be .txt, but do not include file extension. 
 * Reads input from input file and analyzes jargon.
