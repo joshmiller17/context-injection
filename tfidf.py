@@ -6,13 +6,17 @@ Credits: See README.md
 """
 
 from __future__ import print_function
+from __future__ import division
 import nltk
 import numpy as np
 import os
+import pickle
 from readability import pre_process
 from collections import defaultdict
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.stem.porter import PorterStemmer
+from sklearn.externals import joblib
+
 #import corenlp_pywrap as nlp
 
 
@@ -51,7 +55,7 @@ def no_stem_tokenizer(input):
 
 
 # sklearn tfidf
-def train_tfidf(docs, stem=True, verbose=False):
+def train_tfidf(docs, stem=True, verbose=False, save_results=False):
 	if len(docs) < 1:
 		print("ERROR: No documents to train TFIDF on")
 		return None
@@ -63,7 +67,7 @@ def train_tfidf(docs, stem=True, verbose=False):
 		processed_docs.append(clean)
 	if verbose:
 		print("INFO: Training TFIDF model, stemming set to " + str(stem))
-	print("INFO: Training TFIDF Vectorizer...")
+	print("INFO: Training TFIDF Vectorizer... (this may take a long time)")
 	if stem:
 		tfidf = TfidfVectorizer(tokenizer=get_stems, stop_words='english')
 	else:
@@ -73,7 +77,9 @@ def train_tfidf(docs, stem=True, verbose=False):
 	tfdict = defaultdict(float)
 	for score in scores:
 		tfdict[score[0]] = score[1]
-	
+		
+	if save_results:
+                pickle.dump(tfdict, open("tfdict.pkl", "wb"))
 	return tfdict
 	
 	
@@ -121,6 +127,7 @@ def build_tfidf_model(background_dir, file=False, debug=False, verbose=False, st
 	if len(texts) < len(files):
 		print("ERROR: Some files were unable to be processed. " + len(texts) + " / " + len(files))
 	tfdict = train_tfidf(texts, verbose=verbose, stem=stem)
+	joblib.dump(tfdict, "tfidf_model.pkl")
 	return tfdict
 	
 	

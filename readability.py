@@ -5,6 +5,7 @@ Author: Josh Miller
 Credits: See README.md
 """
 from __future__ import division
+from __future__ import print_function
 import sklearn
 from sets import Set
 print("\nLoading NLP toolkits...")
@@ -42,8 +43,11 @@ FEATURES [by index]
 
 # input: list of filenames
 # output: feature vectors for each document 
-def feature_extraction(data, verbose=False):
-	print("\nExtracting features on " + str(len(data)) + " file(s)")
+def feature_extraction(data, verbose=False, text_only=False):
+	if not text_only:
+		print("\nExtracting features on " + str(len(data)) + " file(s)")
+	else:
+		print("Analyzing text...")
 
 	# preparation stuff
 	try:
@@ -72,11 +76,15 @@ def feature_extraction(data, verbose=False):
 	progress_percent = 0
 	
 	for i in range(len(data)):
-		if int((math.floor(float(i) * 100.) / file_count)) > progress_percent:
+		if not text_only and int((math.floor(float(i) * 100.) / file_count)) > progress_percent:
 			progress_percent = int(math.floor((float(i) * 100.) / file_count))
 			print("INFO: Readability model: " + str(progress_percent) + "% complete")
-		file = data[i]
-		text = (open(file, 'r')).read()
+		if not text_only:
+			file = data[i]
+			text = (open(file, 'r')).read()
+		else:
+			text = data[i]
+
 		text = pre_process(text)
 		paragraphs = text.split('\n')
 		total_sentences = 1 # avoid divide by zero error
@@ -138,7 +146,7 @@ def feature_extraction(data, verbose=False):
 							guess_2 = 1 + len(word) % 3  # a lucky guess
 							num_syllables = (guess_1 + guess_2) / 2
 					if verbose and (num_syllables < 1 or num_syllables > 10):
-						print "WARN: Syllable count for", word, "is", num_syllables, "proceeding anyway"
+						print("WARN: Syllable count for", word, "is", num_syllables, "proceeding anyway")
 					total_syllables += num_syllables
 					if num_syllables > 2:
 						complex_words += 1
@@ -240,8 +248,8 @@ def main():
 	texts = ["practice_data/train_data_1.txt", "practice_data/train_data_2.txt", "practice_data/train_data_3.txt"]
 	labels = [2, 6, 12]
 	data, model, weights = construct_readability_model(texts, labels)
-	for i in range(15):
-		print(features[i], " = ", weights[i])
+	#for i in range(15):
+	#	print(features[i], " = ", weights[i])
 	test_data = feature_extraction(["practice_data/test.txt"])
 	print("Predicted readability score:", model.predict(test_data))
 

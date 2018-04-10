@@ -1,0 +1,400 @@
+
+
+nertz
+ is defined as: [u'Nertz is a fast-paced, real-time, multiplayer card game involving multiple decks of playing cards.', u'It is often described as a combination of the card games Speed and Solitaire.']
+
+
+non-dealer
+ is defined as: [u'Japanese Mahjong scoring rules are used for Japanese Mahjong, a game for four players common in Japan.', u'Scores are counted using sticks of 10,000 points, 5,000 points, 1,000 points and 100 points.']
+
+
+nertz pile
+ is defined as: [u'Nertz is a fast-paced, real-time, multiplayer card game involving multiple decks of playing cards.', u'It is often described as a combination of the card games Speed and Solitaire.']
+
+
+euchre
+ is defined as: [u'Euchre  or eucre is a trick-taking card game most commonly played with four people in two partnerships with a deck of 24, 28, or sometimes 32, standard playing cards.', u'It is the game responsible for introducing the joker into modern packs; this was invented around 1860 to act as a top trump or best Bower (from the German word Bauer, "farmer", denoting also the Jack).']
+
+
+vegas rummy
+ is defined as: no definition found
+
+
+mediterranean suit
+ is defined as: [u'In clothing, a suit is a set of garments made from the same cloth, usually consisting of at least a jacket and trousers.', u'Often, suits are worn, as is traditional, with a collared shirt and necktie.']
+
+
+cutesy name
+ is defined as: no definition found
+
+
+trick-play rule
+ is defined as: [u'A trick play, also known as a gadget play, gimmick play or simply trickeration, is a play in American football that uses deception and unorthodox tactics to fool the opposing team.', u'Trick plays take advantage of the fact that nearly all American football plays are either a pass from the quarterback or a run by the halfback.']
+
+
+pagat wikipedia card game article karuta fizzbin
+ is defined as: no definition found
+
+
+score keeper determin
+ is defined as: no definition found
+
+
+pagat wikipedia card game article karuta
+ is defined as: no definition found
+
+
+regular heart somewhat-popular variant
+ is defined as: [u'Old maid is a Victorian card game for two or more players probably deriving from an ancient gambling game in which the loser pays for the drinks.', u'It is known in Germany as Schwarzer Peter, in Sweden as Svarte Petter, in Norway as Svarteper, in Denmark as Sorteper, in Croatia as Crni Petar, in Slovenia as \u010crni Peter, in Hungary as Fekete P\xe9ter, in Czech Republic as \u010cern\xfd Petr, in Slovakia as \u010cierny Peter, in Finland as Musta Pekka (all meaning "Black Peter"), in Italy as Asino, in France as le pouilleux ("the lousy/louse-ridden one") or vieux gar\xe7on (literally "old boy", but a de facto pejorative for confirmed bachelor), or mistigri, and in Japan as \u30d0\u30d0\u629c\u304d\u3000(Babanuki).']
+
+
+short-suiting club
+ is defined as: no definition found
+
+
+trick-play
+ is defined as: [u'A trick play, also known as a gadget play, gimmick play or simply trickeration, is a play in American football that uses deception and unorthodox tactics to fool the opposing team.', u'Trick plays take advantage of the fact that nearly all American football plays are either a pass from the quarterback or a run by the halfback.']
+
+
+nertz card	nertz cards
+ is defined as: [u'Nertz is a fast-paced, real-time, multiplayer card game involving multiple decks of playing cards.', u'It is often described as a combination of the card games Speed and Solitaire.']
+
+
+pagat wikipedia card game article
+ is defined as: no definition found
+
+
+comprehensive card game library
+ is defined as: [u'Pok\xe9mon (Japanese: \u30dd\u30b1\u30e2\u30f3, Hepburn: Pokemon, Japanese: [pokemo\u0274]; English: ) is a media franchise managed by The Pok\xe9mon Company, a Japanese consortium between Nintendo, Game Freak, and Creatures.', u'Cumulative sales of the video games (including home console games, such as Hey You, Pikachu!']
+
+
+bid-what-you-think-you-can-win
+ is defined as: [u'So You Think (foaled 10 November 2006) is a New Zealand-bred Thoroughbred racehorse, now majority owned by Coolmore Stud of Ireland.', u'His second Cox Plate win came at just his tenth career start.']
+
+
+upcard
+ is defined as: [u'An upcard is a face up playing card.', u'Depending on the rules, a card that is accidentally dealt face up or otherwise revealed may become an upcard, or may be discarded, or may invalidate the entire hand.']
+
+
+cutesy
+ is defined as: [u'Cuteness is a subjective term describing a type of attractiveness commonly associated with youth and appearance, as well as a scientific concept and analytical model in ethology, first introduced by Konrad Lorenz.', u'Lorenz proposed the concept of baby schema (Kindchenschema), a set of facial and body features, that make a creature appear "cute" and activate ("release") in others the motivation to care for it.']
+
+
+rubicon piquet
+ is defined as: [u'Piquet (; French pronunciation: \u200b[pik\u025b]) is an early 16th-century trick-taking card game for two players.']
+
+
+klaverja rotterdam variant
+ is defined as: [u'Klaverjas (Dutch: [\u02c8kla\u02d0v\u0259rj\u0251s] ( listen)) or Klaverjassen (Dutch: [\u02c8kla\u02d0v\u0259rj\u0251s\u0259n] ( listen)) is the Dutch name for a four player trick-taking card game using the piquet deck of playing cards.', u'It is one of the most popular card games in the Netherlands, traditionally played in cafes and social clubs.']
+
+
+klaverja amsterdam variant
+ is defined as: [u'Klaverjas (Dutch: [\u02c8kla\u02d0v\u0259rj\u0251s] ( listen)) or Klaverjassen (Dutch: [\u02c8kla\u02d0v\u0259rj\u0251s\u0259n] ( listen)) is the Dutch name for a four player trick-taking card game using the piquet deck of playing cards.', u'It is one of the most popular card games in the Netherlands, traditionally played in cafes and social clubs.']
+
+
+playable card
+ is defined as: [u'Sevens, also known as Seven up Seven down, Laying Out Sevens, Fan Tan, Crazy Sevens, Parliament or Yuto (in Argentina), is a card game for 3\u20137 players using a standard deck of 52 cards.', u'Cards are played out to form a layout of sequences going up and down in suit from the sevens (as in many solitaire games).']
+
+
+non-trump ace
+ is defined as: [u'Durak (Russian: \u0414\u0443\u0440\u0430\u043a, IPA: [d\u028a\u02c8rak] ( listen), "fool") is a card game that is popular in post-Soviet states.', u"The objective of the game is to get rid of all one's cards when there are no more cards left in the deck (see rules)."]
+
+
+euchre player
+ is defined as: [u'Euchre  or eucre is a trick-taking card game most commonly played with four people in two partnerships with a deck of 24, 28, or sometimes 32, standard playing cards.', u'It is the game responsible for introducing the joker into modern packs; this was invented around 1860 to act as a top trump or best Bower (from the German word Bauer, "farmer", denoting also the Jack).']
+
+
+euchre circle
+ is defined as: no definition found
+
+
+calling loner
+ is defined as: no definition found
+
+
+klaverja
+ is defined as: [u'Klaverjas (Dutch: [\u02c8kla\u02d0v\u0259rj\u0251s] ( listen)) or Klaverjassen (Dutch: [\u02c8kla\u02d0v\u0259rj\u0251s\u0259n] ( listen)) is the Dutch name for a four player trick-taking card game using the piquet deck of playing cards.', u'It is one of the most popular card games in the Netherlands, traditionally played in cafes and social clubs.']
+
+
+gambling conquian variant
+ is defined as: no definition found
+
+
+thirteen-card nertz pile
+ is defined as: no definition found
+
+
+standard trick-play rule
+ is defined as: [u"Mediacorp Channel 8's television series 118 is a socio-drama series produced by Mediacorp Studios from 2014 to 2017.", u'A second season with 218 episodes is slated to begin airing from 29 November 2016.']
+
+
+belot wikipedia article
+ is defined as: no definition found
+
+
+up-card
+ is defined as: [u'Business cards are cards bearing business information about a company or individual.', u'Now they may include social media addresses such as Facebook, LinkedIn and Twitter.']
+
+
+offsuit	offsuits
+ is defined as: no definition found
+
+
+multiplayer card game
+ is defined as: [u'A game is a structured form of play, usually undertaken for enjoyment and sometimes used as an educational tool.', u'However, the distinction is not clear-cut, and many games are also considered to be work (such as professional players of spectator sports or games) or art (such as jigsaw puzzles or games involving an artistic layout such as Mahjong, solitaire, or some video games).']
+
+
+chicago euchre player
+ is defined as: [u'This article deals with variations in game playing.', u'For a description on variations in game rules and terminology, see Euchre variations.']
+
+
+tie-breaker
+ is defined as: [u'In games and sports, a tiebreaker or tiebreak is used to determine a winner from among players or teams that are tied at the end of a contest, or a set of contests.']
+
+
+vegas style standard
+ is defined as: [u'Redbone is a Native American rock group originating in the 1970s with brothers Pat and Lolly Vegas.', u'Redbone achieved hits with their singles "We Were All Wounded At Wounded Knee", "The Witch Queen of New Orleans", "Wovoka", and "Maggie" in the United States, but predominantly overseas.']
+
+
+pre-determined score
+ is defined as: [u'In games, score refers to an abstract quantity associated with a player or team.', u'Score is usually measured in the abstract unit of points, and events in the game can raise or lower the score of different parties.']
+
+
+pagat wikipedia card
+ is defined as: no definition found
+
+
+multi-player version
+ is defined as: [u'The pirate game is a simple mathematical game.', u'It is a multi-player version of the ultimatum game.']
+
+
+maxium score default
+ is defined as: no definition found
+
+
+thirteen-card nertz
+ is defined as: no definition found
+
+
+opposite-color suit
+ is defined as: [u'This is a list of fictional characters from DC Comics who are or have been enemies of the Green Lantern.']
+
+
+tarot pack	tarot packs
+ is defined as: [u'The tarot (; first known as trionfi and later as tarocchi, tarock, and others) is a pack of playing cards, used from the mid-15th century in various parts of Europe to play games such as Italian tarocchini and French tarot.', u'Like common playing cards, the tarot has four suits (which vary by region: French suits in Northern Europe, Latin suits in Southern Europe, and German suits in Central Europe).']
+
+
+suit columbus coup
+ is defined as: [u'The BAFTA Award for Best Film is given annually by the British Academy of Film and Television Arts and presented at the British Academy Film Awards.', u'The years given are those in which the films under consideration were released, not the year of the ceremony, which always takes place the following year.']
+
+
+six-player variant
+ is defined as: [u'Roundnet is a net sport inspired primarily by concepts from volleyball.', u'In standard play, players line up next to each other around the trampoline; in other versions, they line up across from each other.']
+
+
+single-player game
+ is defined as: [u'A single-player video game is a video game where input from only one player is expected throughout the course of the gaming session.', u'The vast majority of modern console games and arcade games are designed so that they can be played by a single-player; although many of these games have modes that allow two or more players to play (not necessarily simultaneously), very few actually require more than one player for the game to be played.']
+
+
+non-offending team
+ is defined as: [u'In England and Wales, a Youth Offending Team (YOT) is a multi-agency team that is coordinated by a local authority, which is overseen by the Youth Justice Board.', u'YOTs supervise young people who have been ordered by the court to serve sentences in the community or in the secure estate.']
+
+
+non-dealer discard
+ is defined as: [u'Some cribbage statistics are']
+
+
+klaverja rotterdam
+ is defined as: [u'Klaverjas (Dutch: [\u02c8kla\u02d0v\u0259rj\u0251s] ( listen)) or Klaverjassen (Dutch: [\u02c8kla\u02d0v\u0259rj\u0251s\u0259n] ( listen)) is the Dutch name for a four player trick-taking card game using the piquet deck of playing cards.', u'It is one of the most popular card games in the Netherlands, traditionally played in cafes and social clubs.']
+
+
+klaverja amsterdam
+ is defined as: [u'Klaverjas (Dutch: [\u02c8kla\u02d0v\u0259rj\u0251s] ( listen)) or Klaverjassen (Dutch: [\u02c8kla\u02d0v\u0259rj\u0251s\u0259n] ( listen)) is the Dutch name for a four player trick-taking card game using the piquet deck of playing cards.', u'It is one of the most popular card games in the Netherlands, traditionally played in cafes and social clubs.']
+
+
+card game klaverja
+ is defined as: no definition found
+
+
+potential winner
+ is defined as: no definition found
+
+
+seven-player game
+ is defined as: no definition found
+
+
+scorekeeping ruff
+ is defined as: [u'Bluke or "Blook" is an easy-to-learn trick-taking card game known to parts of the East Coast and the Midwest and possibly other parts of the United States of America.', u'The game features use of the Jokers, which are sometimes referred to in casinos as the "Blooks".']
+
+
+last-place player
+ is defined as: [u'The Challenge: Vendettas is the thirty-first season of MTV reality competition series, The Challenge.', u'For the first time ever, there will only be one winner.']
+
+
+gambling conquian
+ is defined as: no definition found
+
+
+non-trump
+ is defined as: [u'A trump is a playing card which is elevated above its usual rank in trick-taking games.', u'Typically, an entire suit is nominated as a trump suit; these cards then outrank all cards of plain (non-trump) suits.']
+
+
+kibitzing
+ is defined as: [u'A Kibitzer is a Yiddish term for a spectator, usually one who offers (often unwanted) advice or commentary.', u"In bridge, a kibitzer simply refers to a spectator watching a player's hand; kibitzers in bridge are expected to remain silent and not impact the game."]
+
+
+score keeper
+ is defined as: [u'The Pender Island Invitational (PII) is a long running fall disc golf competition on Pender Island, British Columbia, Canada.', u'The PII is typically played in October, typically between Thanksgiving (Canada) and Halloween.']
+
+
+six-hand version
+ is defined as: no definition found
+
+
+race horse rummy
+ is defined as: no definition found
+
+
+point-trick card
+ is defined as: no definition found
+
+
+non-trump winner
+ is defined as: no definition found
+
+
+non-dealer score
+ is defined as: [u'Some cribbage statistics are']
+
+
+multiplayer card
+ is defined as: no definition found
+
+
+multi-deck heart
+ is defined as: [u"The following is a list of all the episodes that featured in all 14 series of London's Burning (1988\u20132002).", u'This list includes the original 1986 TV film that the series was based on and the Christmas special "Ding Dong Merrily", which aired between Series 1 and Series 2 and is the only episode of London\'s Burning with a title.']
+
+
+four-player game
+ is defined as: [u'A game is a structured form of play, usually undertaken for enjoyment and sometimes used as an educational tool.', u'However, the distinction is not clear-cut, and many games are also considered to be work (such as professional players of spectator sports or games) or art (such as jigsaw puzzles or games involving an artistic layout such as Mahjong, solitaire, or some video games).']
+
+
+popular ruleset
+ is defined as: no definition found
+
+
+pagat wikipedia
+ is defined as: no definition found
+
+
+euchre universe
+ is defined as: [u'Black pepper (Piper nigrum) is a flowering vine in the family Piperaceae, cultivated for its fruit which is usually dried and used as a spice and seasoning, known as a peppercorn.', u"Currently, Vietnam is the world's largest producer and exporter of pepper, producing 34% of the world's Piper nigrum crop as of 2013."]
+
+
+euchre strategy
+ is defined as: [u'Euchre  or eucre is a trick-taking card game most commonly played with four people in two partnerships with a deck of 24, 28, or sometimes 32, standard playing cards.', u'It is the game responsible for introducing the joker into modern packs; this was invented around 1860 to act as a top trump or best Bower (from the German word Bauer, "farmer", denoting also the Jack).']
+
+
+card game rummy
+ is defined as: [u'Rummy is a group of matching card games notable for similar gameplay based on matching cards of the same rank or sequence and same suit.', u'The Rummy principle of drawing and discarding with a view to melding appears in Chinese card games at least in the early 19th century and perhaps as early as the 18th century and is, in fact, the essence of Mah-jong.']
+
+
+bottommost card
+ is defined as: no definition found
+
+
+belot wikipedia
+ is defined as: no definition found
+
+
+opponent score
+ is defined as: [u'This is a complete listing of National Basketball Association players who have scored 60 or more points in a game.', u'Only four players have scored 60 or more points on more than one occasion: Wilt Chamberlain (32 times), Kobe Bryant (6 times), Michael Jordan (5 times), and Elgin Baylor (4 times).']
+
+
+negative score
+ is defined as: [u'In statistics, the standard score is the signed number of standard deviations by which the value of an observation or data point is above the mean value of what is being observed or measured.', u'Standard scores are also called z-values, z-scores, normal scores, and standardized variables.']
+
+
+pinochle
+ is defined as: [u'Pinochle (English: ) or binocle (sometimes pinocle, or penuchle) is a trick-taking card game typically for two to four players and played with a 48-card deck.', u'Each hand is played in three phases: bidding, melds, and tricks.']
+
+
+boonaken
+ is defined as: [u'The Jack\u2013Nine card games, also known as the Jass group, form a family of trick-taking games in which the jack (jass) and nine (manille) of the trump suit are the highest-ranking trumps, and the tens and aces of all suits are the next most valuable cards.', u'The Jack\u2013Nine group is a subfamily of the King\u2013Queen group, which in turn is a subfamily of the Ace\u2013Ten group that is very popular in most of Europe but almost absent in the British Isles and Scandinavia.']
+
+
+dealer deal
+ is defined as: [u'Franchising is based on a marketing concept which can be adopted by an organisation as a strategy for business expansion.', u'In return the franchisee pays certain fees and agrees to comply with certain obligations, typically set out in a Franchise Agreement.']
+
+
+standard nertz
+ is defined as: [u'Nertz is a fast-paced, real-time, multiplayer card game involving multiple decks of playing cards.', u'It is often described as a combination of the card games Speed and Solitaire.']
+
+
+playing parter
+ is defined as: no definition found
+
+
+non-trump suit
+ is defined as: [u'A trump is a playing card which is elevated above its usual rank in trick-taking games.', u'Typically, an entire suit is nominated as a trump suit; these cards then outrank all cards of plain (non-trump) suits.']
+
+
+non-trump card
+ is defined as: [u'A trump is a playing card which is elevated above its usual rank in trick-taking games.', u'Typically, an entire suit is nominated as a trump suit; these cards then outrank all cards of plain (non-trump) suits.']
+
+
+nertz-inspired
+ is defined as: no definition found
+
+
+game klabberja
+ is defined as: no definition found
+
+
+euchre bidding
+ is defined as: [u'Bid Euchre, is the name given to a group of card games played in North America based on the game Euchre.', u'The primary differences are the number of cards dealt, absence of any undealt cards, the bidding and scoring process, and the addition of a no trump declaration.']
+
+
+chicago euchre
+ is defined as: [u'This article deals with variations in game playing.', u'For a description on variations in game rules and terminology, see Euchre variations.']
+
+
+original trump suit
+ is defined as: [u'Melania Trump (; born Melanija Knavs; [m\u025b\u02c8la\u02d0nija \u02c8kna\u02d0u\u032fs], Germanized to Melania Knauss; born April 26, 1970) is the current First Lady of the United States and wife of the 45th U.S. President Donald Trump.', u'She worked as a fashion model for agencies in Milan and Paris, later moving to New York City in 1996.']
+
+
+thirteen-card
+ is defined as: [u'Ti\u1ebfn l\xean (Vietnamese: ti\u1ebfn l\xean, ch\u1eef N\xf4m: \u9032\U000285b2, ti\u1ebfn: advance; l\xean: to go up, up; literally: "go forward"), also known as Vietnamese cards, Thirteen, Killer 13, "\'Bomb"\', is a Vietnamese shedding-type card game devised in Southern China and Vietnam.', u'It is similar to Zheng Shangyou, which uses a specially printed deck of cards, Big Two, and other "climbing" card games popular in many parts of Asia.']
+
+
+suit columbus
+ is defined as: [u'This is a list of Royal Doulton figurines in ascending order by HN number.', u'This list includes the HN number, the title of the Royal Doulton figurine, the designer(s), the date introduced, and if discontinued, the date discontinued.']
+
+
+staekske rape
+ is defined as: no definition found
+
+
+short-suiting
+ is defined as: no definition found
+
+
+portland club
+ is defined as: [u'The Portland Club is a London card-playing game club and the recognised early authority on the games of whist and bridge.', u"Having lost its own premises, the Club now meets in those of the Army and Navy Club in St. James's Square, London SW1."]
+
+
+pinochle pack
+ is defined as: [u'Pinochle (English: ) or binocle (sometimes pinocle, or penuchle) is a trick-taking card game typically for two to four players and played with a 48-card deck.', u'Each hand is played in three phases: bidding, melds, and tricks.']
+
+
+game-rotation
+ is defined as: [u'Rotation in mathematics is a concept originating in geometry.', u'It can describe, for example, the motion of a rigid body around a fixed point.']
+
+
+euchre purist
+ is defined as: no definition found
+
+
+euchre league
+ is defined as: [u'Euchre  or eucre is a trick-taking card game most commonly played with four people in two partnerships with a deck of 24, 28, or sometimes 32, standard playing cards.', u'It is the game responsible for introducing the joker into modern packs; this was invented around 1860 to act as a top trump or best Bower (from the German word Bauer, "farmer", denoting also the Jack).']

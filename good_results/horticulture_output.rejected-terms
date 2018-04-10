@@ -1,0 +1,2330 @@
+growth	FILTERED OUT	SIMPLE	Medium	0.7	0.9779	0.68453
+sugar	FILTERED OUT	SIMPLE	Medium	0.7	0.9344	0.65408
+seed	FILTERED OUT	SIMPLE	Medium	0.7	0.9025	0.6317499999999999
+host	FILTERED OUT	SIMPLE	Medium	0.7	0.8608	0.60256
+food	FILTERED OUT	SIMPLE	Medium	0.7	0.8301	0.58107
+ground	FILTERED OUT	SIMPLE	Medium	0.7	0.81	0.567
+infestation	FILTERED OUT	SIMPLE	Medium	0.7	0.7511	0.52577
+infection	FILTERED OUT	SIMPLE	Medium	0.7	0.6136	0.42952
+root	FILTERED OUT	SIMPLE	Medium	0.7	0.6049	0.42343
+fruit	FILTERED OUT	SIMPLE	Medium	0.7	0.5378	0.37645999999999996
+foliage	FILTERED OUT	SIMPLE	Bad	0.3	0.9669	0.29007
+fall	FILTERED OUT	SIMPLE	Medium	0.7	0.4082	0.28574
+family	FILTERED OUT	SIMPLE	Bad	0.3	0.9452	0.28356
+genus	FILTERED OUT	SIMPLE	Bad	0.3	0.9237	0.27710999999999997
+pollination	FILTERED OUT	SIMPLE	Medium	0.7	0.3872	0.27103999999999995
+cut	FILTERED OUT	SIMPLE	Medium	0.7	0.3803	0.26621
+life	FILTERED OUT	SIMPLE	Medium	0.7	0.3534	0.24738
+horticulture	FILTERED OUT	SIMPLE	Bad	0.3	0.7803	0.23409
+equipment	FILTERED OUT	SIMPLE	Medium	0.7	0.3274	0.22918
+introduction	FILTERED OUT	SIMPLE	Medium	0.7	0.3148	0.22036
+pollen	FILTERED OUT	SIMPLE	Bad	0.3	0.7225	0.21675
+insect	FILTERED OUT	SIMPLE	Bad	0.3	0.7225	0.21675
+plant	FILTERED OUT	SIMPLE	Bad	0.3	0.7037	0.21111
+agriculture	FILTERED OUT	SIMPLE	Bad	0.3	0.676	0.2028
+disease	FILTERED OUT	SIMPLE	Bad	0.3	0.6579	0.19737000000000002
+germination	FILTERED OUT	SIMPLE	Medium	0.7	0.2727	0.19088999999999998
+symptom	FILTERED OUT	SIMPLE	Bad	0.3	0.5878	0.17634
+shrub	FILTERED OUT	SIMPLE	Bad	0.3	0.5793	0.17379
+compound	FILTERED OUT	SIMPLE	Bad	0.3	0.5297	0.15890999999999997
+administrator	FILTERED OUT	SIMPLE	Medium	0.7	0.2178	0.15245999999999998
+scale	FILTERED OUT	SIMPLE	Bad	0.3	0.4978	0.14934
+name	FILTERED OUT	SIMPLE	Bad	0.3	0.4594	0.13782
+intervention	FILTERED OUT	SIMPLE	Medium	0.7	0.1926	0.13482
+inflammation	FILTERED OUT	SIMPLE	Medium	0.7	0.1926	0.13482
+herbicide	FILTERED OUT	SIMPLE	Bad	0.3	0.4011	0.12032999999999999
+fus	FILTERED OUT	SIMPLE	Bad	0.3	0.3803	0.11409
+adult	FILTERED OUT	SIMPLE	Bad	0.3	0.3735	0.11205
+formulation	FILTERED OUT	SIMPLE	Medium	0.7	0.16	0.11199999999999999
+defoliation	FILTERED OUT	SIMPLE	Medium	0.7	0.16	0.11199999999999999
+circulation	FILTERED OUT	SIMPLE	Medium	0.7	0.16	0.11199999999999999
+tree	FILTERED OUT	SIMPLE	Bad	0.3	0.3534	0.10601999999999999
+hemlock	FILTERED OUT	SIMPLE	Bad	0.3	0.3403	0.10209
+cuticle	FILTERED OUT	SIMPLE	Bad	0.3	0.3403	0.10209
+influenza	FILTERED OUT	SIMPLE	Bad	0.3	0.3274	0.09822
+highway	FILTERED OUT	SIMPLE	Medium	0.7	0.1344	0.09407999999999998
+including	FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.8815	0.08815
+nitrogen	FILTERED OUT	SIMPLE	Bad	0.3	0.2904	0.08711999999999999
+cause	FILTERED OUT	SIMPLE	Medium	0.7	0.1225	0.08574999999999999
+living	FILTERED OUT	SIMPLE	Bad	0.3	0.2844	0.08532
+population	FILTERED OUT	SIMPLE	Medium	0.7	0.1148	0.08036
+fertilizer	FILTERED OUT	SIMPLE	Medium	0.7	0.1148	0.08036
+soil	FILTERED OUT	SIMPLE	Bad	0.3	0.25	0.075
+growing	FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.732	0.0732
+perennial	FILTERED OUT	SIMPLE	Bad	0.3	0.2336	0.07008
+perennial weed	FILTERED OUT	Normal_NP	Bad	0.1	0.6944	0.06944
+inflorescence	FILTERED OUT	SIMPLE	Bad	0.3	0.2178	0.06534
+samara	FILTERED OUT	SIMPLE	Bad	0.3	0.2075	0.06224999999999999
+health	FILTERED OUT	SIMPLE	Bad	0.3	0.2075	0.06224999999999999
+perennial plant	FILTERED OUT	Normal_NP	Bad	0.1	0.6223	0.06223
+stream	FILTERED OUT	SIMPLE	Medium	0.7	0.0835	0.05845
+import	FILTERED OUT	SIMPLE	Medium	0.7	0.0835	0.05845
+flight	FILTERED OUT	SIMPLE	Medium	0.7	0.0835	0.05845
+new	FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.5709	0.05709
+including giant leopard moth lepidoptera species	FILTERED OUT	verb+NP	Good	0.25	0.223	0.05575
+chemical	FILTERED OUT	SIMPLE	Bad	0.3	0.183	0.0549
+insecticide	FILTERED OUT	SIMPLE	Bad	0.3	0.16	0.048
+investigation	FILTERED OUT	SIMPLE	Medium	0.7	0.0682	0.04774
+fertilization	FILTERED OUT	SIMPLE	Medium	0.7	0.0682	0.04774
+including giant leopard moth lepidoptera	FILTERED OUT	verb+NP	Good	0.25	0.1736	0.0434
+essential oil	FILTERED OUT	Normal_NP	Bad	0.1	0.4153	0.041530000000000004
+palmately lobed	FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.2556	0.03834
+refrigerator	FILTERED OUT	SIMPLE	Medium	0.7	0.0544	0.038079999999999996
+menstruation	FILTERED OUT	SIMPLE	Medium	0.7	0.0544	0.038079999999999996
+distribution	FILTERED OUT	SIMPLE	Medium	0.7	0.0544	0.038079999999999996
+toxin	FILTERED OUT	SIMPLE	Bad	0.3	0.1225	0.03675
+creeping stoloniferou perennial plant	FILTERED OUT	verb+NP	Good	0.25	0.1469	0.036725
+creeping	FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.3667	0.03667
+whitefly	FILTERED OUT	In_or_Out_of_Dictionary	Medium	0.2	0.183	0.0366
+waste	FILTERED OUT	SIMPLE	Medium	0.7	0.0494	0.03458
+shoot	FILTERED OUT	SIMPLE	Medium	0.7	0.0494	0.03458
+rheumatism	FILTERED OUT	SIMPLE	Bad	0.3	0.1148	0.03444
+astringent	FILTERED OUT	SIMPLE	Bad	0.3	0.1148	0.03444
+bearing	FILTERED OUT	SIMPLE	Medium	0.7	0.0446	0.031219999999999998
+beetle lifecycle principal feeding	FILTERED OUT	verb+NP	Good	0.25	0.1186	0.02965
+emulsified suspension	FILTERED OUT	verb+NP	Medium	0.15	0.1975	0.029625
+deciduous large shrub	FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.1975	0.029625
+preparation	FILTERED OUT	SIMPLE	Medium	0.7	0.04	0.027999999999999997
+interaction	FILTERED OUT	SIMPLE	Medium	0.7	0.04	0.027999999999999997
+disturbance	FILTERED OUT	SIMPLE	Medium	0.7	0.04	0.027999999999999997
+contributor	FILTERED OUT	SIMPLE	Medium	0.7	0.04	0.027999999999999997
+association	FILTERED OUT	SIMPLE	Medium	0.7	0.04	0.027999999999999997
+growing practice	FILTERED OUT	verb+NP	Good	0.25	0.1074	0.02685
+preventing	FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.2612	0.02612
+intensive gardening popularized	FILTERED OUT	verb+NP	Good	0.25	0.1003	0.025075
+eating mile-a-minute weed fruit	FILTERED OUT	verb+NP	Good	0.25	0.1003	0.025075
+transplant	FILTERED OUT	SIMPLE	Medium	0.7	0.0336	0.023519999999999996
+internal organ degree twisting	FILTERED OUT	verb+NP	Good	0.25	0.0934	0.02335
+involving dozen group display	FILTERED OUT	verb+NP	Good	0.25	0.0867	0.021675
+mare reproductive loss	FILTERED OUT	Normal_NP	Bad	0.1	0.2126	0.02126
+symbol	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0297	0.02079
+common	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0297	0.02079
+called	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.2075	0.02075
+tip bearer	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0336	0.020159999999999997
+new mexico	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0336	0.020159999999999997
+cover crop	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0336	0.020159999999999997
+brand name	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0336	0.020159999999999997
+introduced aphid-like insect	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0803	0.020075
+including giant leopard moth	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0803	0.020075
+organism	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0653	0.01959
+mosquito	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0653	0.01959
+humidity	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0653	0.01959
+ambrosia	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0653	0.01959
+yellow fieldcre	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+weigela florida	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+waste excretion	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+vigorous growth	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+verbena hastata	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+unbranched stem	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+tube-like heart	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+troubleshooting	BEYOND_CUTOFF	SIMPLE	Good	1	0.0193	0.0193
+trifoliate leaf	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+toxic breakdown	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+sulphosat-based	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0193	0.0193
+suckering shrub	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+species exhibit	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+siberian squill	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+sexual maturity	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+saskatoon berry	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+rubu leucodermi	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+rosa multiflora	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+regular mowing	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0772	0.0193
+prolific seeder	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+plantago family	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+pinnatifid leaf	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+pieridae family	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+phylum nematoda	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+phlox subulatum	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+pheromone trail	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+pathogen specie	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+parthenogenetic	BEYOND_CUTOFF	SIMPLE	Good	1	0.0193	0.0193
+paeonia obovata	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+packera obovata	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+over-large seed	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+orange-red bark	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+numerous stamen	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+nematode specie	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+nematode family	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+myosotis specie	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+mycorrhizal fus	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+mukdenia rossii	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+motile zoospore	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+modern cultivar	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+mis-information	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0193	0.0193
+metallic-copper	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0193	0.0193
+meristem growth	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+living organism	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+lesion nematode	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+launch en masse	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+king mithridate	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+jute-like fiber	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+isovaleric acid	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+heavy equipment	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+gymnosporangium	BEYOND_CUTOFF	SIMPLE	Good	1	0.0193	0.0193
+grub-like borer	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+garden cultivar	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+further symptom	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+fungal membrane	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+folloring genus	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+foliar nematode	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+flat-leaf basil	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+ficaria ficaria	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+family meloidae	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+family cephidae	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+exhibit symptom	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+eurasian origin	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+eurasia wetland	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+darkling beetle	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+cucurbit family	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+conservationist	BEYOND_CUTOFF	SIMPLE	Good	1	0.0193	0.0193
+class arachnida	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+celandine poppy	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+caryophyllaceae	BEYOND_CUTOFF	SIMPLE	Good	1	0.0193	0.0193
+cancerous ulcer	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+calcareous soil	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+broadleaf plant	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+beta-sitosterol	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0193	0.0193
+berry-like pome	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+axillary branch	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+apterous female	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+apical meristem	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+anthrocorid bug	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+angular solomon	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+acer platanoide	BEYOND_CUTOFF	Normal_NP	Good	1	0.0193	0.0193
+voracious predator	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+urinary antiseptic	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+steam distillation	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+silky swallow-wort	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+severe infestation	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+seed packets label	BEYOND_CUTOFF	2_Part_NP_no_prep	Medium	0.6	0.0316	0.01896
+royal newfoundland	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+rhododendron stock	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+rheumatic disorder	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+respiratory phlegm	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+research beginning	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+potential predator	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+porcelain exporter	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+only administrator	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+numerous tiny seed	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+numerous tiny male	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+new england forest	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+moisture retention	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+menstrual disorder	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+maximal protection	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+invasive weed tree	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+invasive character	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+internal treatment	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+infection strategy	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+housing foundation	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+horticulture trade	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+ground cover plant	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+economical pruning	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+domestic gardening	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+disease management	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+diabetes treatment	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+developmental fate	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+destructive impact	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+defensive strategy	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+common stalk borer	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+chemical pollutant	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+calcium absorption	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+big lawn treatment	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+adult female scale	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0316	0.01896
+removing	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.183	0.0183
+tip	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.026	0.018199999999999997
+deciduous	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Medium	0.2	0.09	0.018
+zoospore	BEYOND_CUTOFF	SIMPLE	Good	1	0.0178	0.0178
+subshrub	BEYOND_CUTOFF	SIMPLE	Good	1	0.0178	0.0178
+suborder	BEYOND_CUTOFF	SIMPLE	Good	1	0.0178	0.0178
+spiracle	BEYOND_CUTOFF	SIMPLE	Good	1	0.0178	0.0178
+shadbush	BEYOND_CUTOFF	SIMPLE	Good	1	0.0178	0.0178
+pilewort	BEYOND_CUTOFF	SIMPLE	Good	1	0.0178	0.0178
+oomycete	BEYOND_CUTOFF	SIMPLE	Good	1	0.0178	0.0178
+odoratum	BEYOND_CUTOFF	SIMPLE	Good	1	0.0178	0.0178
+mungbean	BEYOND_CUTOFF	SIMPLE	Good	1	0.0178	0.0178
+michigan	BEYOND_CUTOFF	SIMPLE	Good	1	0.0178	0.0178
+maincrop	BEYOND_CUTOFF	SIMPLE	Good	1	0.0178	0.0178
+jacozine	BEYOND_CUTOFF	SIMPLE	Good	1	0.0178	0.0178
+jaconine	BEYOND_CUTOFF	SIMPLE	Good	1	0.0178	0.0178
+jacoline	BEYOND_CUTOFF	SIMPLE	Good	1	0.0178	0.0178
+jacobine	BEYOND_CUTOFF	SIMPLE	Good	1	0.0178	0.0178
+hayfever	BEYOND_CUTOFF	SIMPLE	Good	1	0.0178	0.0178
+fruiting	BEYOND_CUTOFF	SIMPLE	Good	1	0.0178	0.0178
+folkname	BEYOND_CUTOFF	SIMPLE	Good	1	0.0178	0.0178
+drupelet	BEYOND_CUTOFF	SIMPLE	Good	1	0.0178	0.0178
+dripline	BEYOND_CUTOFF	SIMPLE	Good	1	0.0178	0.0178
+campsite	BEYOND_CUTOFF	SIMPLE	Good	1	0.0178	0.0178
+biotroph	BEYOND_CUTOFF	SIMPLE	Good	1	0.0178	0.0178
+asclepia	BEYOND_CUTOFF	SIMPLE	Good	1	0.0178	0.0178
+alkaloid	BEYOND_CUTOFF	SIMPLE	Good	1	0.0178	0.0178
+farming w masanobu fukuoka	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0711	0.017775
+creating recruitment trail	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0711	0.017775
+creeping stem	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0682	0.01705
+gardeners preference	BEYOND_CUTOFF	2_Part_NP_no_prep	Bad	0.45	0.0378	0.01701
+whilst shady spot	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+war commemoration	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+topical treatment	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+tip bearing shoot	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+species use slime	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+sensory landscape	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+root zone barrier	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+recruitment trail	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+prolific seedling	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+popular landscape	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+popular confusion	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+perennial creeper	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+ornamental garden	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+organic treatment	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+numerous seed mix	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+neem various folk	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+larval food plant	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+horticultural oil	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+home fruit grower	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+heart-shaped leaf	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+health precaution	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+health food store	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+fruit tree spider	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+formal appearance	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+external evidence	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+extensive history	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+extension service	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+ecological threat	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+destructive plant	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+decorative flower	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+cool season grass	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+competitive plant	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+cause root damage	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+carnivorous plant	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+biological remedy	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+biennial specimen	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+beginner gardener	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+bacterial disease	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+aquatic pollution	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+allergic reaction	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+aggressive spread	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+aggressive nature	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+acclimation stage	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0278	0.016679999999999997
+herbaceous perennial plant native	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.1111	0.016665
+herbaceous flowering plant native	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.1111	0.016665
+perennial native	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.1074	0.01611
+dragonflies capture	BEYOND_CUTOFF	2_Part_NP_no_prep	Bad	0.45	0.0357	0.016065000000000003
+including hermaphroditism	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0625	0.015625
+eating mile-a-minute weed	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0625	0.015625
+deciduous flowering tree native	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.1003	0.015045
+windborne seed	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+wildflower mix	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+viburnum opulu	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+usda hardiness	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+urediniomycota	BEYOND_CUTOFF	SIMPLE	Good	1	0.0149	0.0149
+tree-of-heaven	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0149	0.0149
+tomentose hair	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+tatarian aster	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+tail tearthumb	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+string-trimmer	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0149	0.0149
+staghorn sumac	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+sonoran desert	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+soil consition	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+soapwort bloom	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+shewell cooper	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+shandong maple	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+shadbush fruit	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+san jose scale	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+root-structure	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0149	0.0149
+rarer cultivar	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+ragweed flower	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+pseudococcidae	BEYOND_CUTOFF	SIMPLE	Good	1	0.0149	0.0149
+primorsky krai	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+primitive taxa	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+popeye cartoon	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+pokeweed berry	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+plantaginaceae	BEYOND_CUTOFF	SIMPLE	Good	1	0.0149	0.0149
+plant apoplast	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+pioneer specie	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+pheromone trap	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+perennial bulb	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+orange hindleg	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+neem oil yield	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+name saskatoon	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+mucronate apex	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+mountain phlox	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+model organism	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+mithridate war	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+methyl bromide	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+mesophyll cell	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+leaf decoction	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+interwiki link	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+internal organ	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+greenish-brown	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0149	0.0149
+grand-daughter	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0149	0.0149
+fungal disease	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+foodplant leaf	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+foliar disease	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+excretory pore	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+equipment duch	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+dragonfly nyad	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+dolomitic lime	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+diverse specie	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+dentate margin	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+community-wide	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0149	0.0149
+common ragwort	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+common ragweed	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+citronella oil	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+chigger flower	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+chamomile lawn	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+carbon dioxide	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+cambial tissue	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+breath spiraea	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+boxelder maple	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+bigtooth maple	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+bearing apical	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+auchenorryncha	BEYOND_CUTOFF	SIMPLE	Good	1	0.0149	0.0149
+arthropod pest	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+arthropod host	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+apterous young	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+aphis gossypii	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+allium vineala	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+allelochemical	BEYOND_CUTOFF	SIMPLE	Good	1	0.0149	0.0149
+aerial bulblet	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+acer truncatum	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+acer campestre	BEYOND_CUTOFF	Normal_NP	Good	1	0.0149	0.0149
+grain	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0494	0.01482
+clump	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0494	0.01482
+stink bug	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0242	0.014519999999999998
+seed head	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0242	0.014519999999999998
+seed bank	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0242	0.014519999999999998
+fruit bud	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0242	0.014519999999999998
+trail pheromone secreted	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0571	0.014275
+sugary honeydew secreted	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0571	0.014275
+including sulfur dioxide	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0571	0.014275
+exhibit symptom weakened	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0571	0.014275
+diving beetle predacious	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0571	0.014275
+assisting wind dispersal	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0571	0.014275
+vegetables outline	BEYOND_CUTOFF	2_Part_NP_no_prep	Bad	0.45	0.0316	0.014220000000000002
+flowering clone treneaguee non	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0934	0.01401
+two-year life	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+tubular calyx	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+tined aerator	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+thousand-seal	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0136	0.0136
+thousand-leaf	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0136	0.0136
+thigmotropism	BEYOND_CUTOFF	SIMPLE	Good	1	0.0136	0.0136
+tenebrionidae	BEYOND_CUTOFF	SIMPLE	Good	1	0.0136	0.0136
+tansy ragwort	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+steroidogenic	BEYOND_CUTOFF	SIMPLE	Good	1	0.0136	0.0136
+sternorryncha	BEYOND_CUTOFF	SIMPLE	Good	1	0.0136	0.0136
+spring tiphon	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+social specie	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+simaroubaceae	BEYOND_CUTOFF	SIMPLE	Good	1	0.0136	0.0136
+senecivernine	BEYOND_CUTOFF	SIMPLE	Good	1	0.0136	0.0136
+seed dormancy	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+scarabaeoidea	BEYOND_CUTOFF	SIMPLE	Good	1	0.0136	0.0136
+scarabaeiform	BEYOND_CUTOFF	SIMPLE	Good	1	0.0136	0.0136
+rubu strigosu	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+pruning okame	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+postwood crop	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+plant species	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+phenylalanine	BEYOND_CUTOFF	SIMPLE	Good	1	0.0136	0.0136
+pest nematode	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+organic mater	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+non-synthetic	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0136	0.0136
+neem seed oil	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+nantucketensi	BEYOND_CUTOFF	SIMPLE	Good	1	0.0136	0.0136
+name mealybug	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+name cultivar	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+myzu persicae	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+microorganism	BEYOND_CUTOFF	SIMPLE	Good	1	0.0136	0.0136
+matricarioide	BEYOND_CUTOFF	SIMPLE	Good	1	0.0136	0.0136
+mammal specie	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+longleaf pine	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+leaf venation	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+leaf shredder	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+jesuit priest	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+integerrimine	BEYOND_CUTOFF	SIMPLE	Good	1	0.0136	0.0136
+hydrophilidae	BEYOND_CUTOFF	SIMPLE	Good	1	0.0136	0.0136
+hybridization	BEYOND_CUTOFF	SIMPLE	Good	1	0.0136	0.0136
+host organism	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+ground copper	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+giant ragweed	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+genus species	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+fungus specie	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+fungi mycelia	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+fruiting tree	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+fruiting spur	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+fossorial leg	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+forested land	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+foliar blight	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+fine filament	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+feed metering	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+exotic insect	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+endopterygote	BEYOND_CUTOFF	SIMPLE	Good	1	0.0136	0.0136
+encycloweedia	BEYOND_CUTOFF	SIMPLE	Good	1	0.0136	0.0136
+discoloration	BEYOND_CUTOFF	SIMPLE	Good	1	0.0136	0.0136
+cutback shrub	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+cornu sericea	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+conjunctivitu	BEYOND_CUTOFF	SIMPLE	Good	1	0.0136	0.0136
+clonal colony	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+cleistothecon	BEYOND_CUTOFF	SIMPLE	Good	1	0.0136	0.0136
+cleistothecia	BEYOND_CUTOFF	SIMPLE	Good	1	0.0136	0.0136
+chrysomelidae	BEYOND_CUTOFF	SIMPLE	Good	1	0.0136	0.0136
+chlamydospore	BEYOND_CUTOFF	SIMPLE	Good	1	0.0136	0.0136
+chiggerflower	BEYOND_CUTOFF	SIMPLE	Good	1	0.0136	0.0136
+cherry-laurel	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0136	0.0136
+callosobruchu	BEYOND_CUTOFF	SIMPLE	Good	1	0.0136	0.0136
+bur-like seed	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+bulb nematode	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+beetle specie	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+basidiomycete	BEYOND_CUTOFF	SIMPLE	Good	1	0.0136	0.0136
+bad crotching	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+axillary cyme	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+ashleaf maple	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+arborea plant	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+apophallation	BEYOND_CUTOFF	SIMPLE	Good	1	0.0136	0.0136
+antibacterial	BEYOND_CUTOFF	SIMPLE	Good	1	0.0136	0.0136
+amaranthaceae	BEYOND_CUTOFF	SIMPLE	Good	1	0.0136	0.0136
+agrobacterium	BEYOND_CUTOFF	SIMPLE	Good	1	0.0136	0.0136
+acarapi woodi	BEYOND_CUTOFF	Normal_NP	Good	1	0.0136	0.0136
+differentiation	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0193	0.01351
+quality	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0446	0.01338
+protein	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0446	0.01338
+hoverfly	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Medium	0.2	0.0653	0.01306
+maintaining flexibility	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0519	0.012975
+including giant leopard	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0519	0.012975
+exhibiting thermogenesi	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0519	0.012975
+attained variety status	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0519	0.012975
+windshield wiper	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+vertical barrier	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+urinary disorder	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+therapeutic dose	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+sunflower family	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+sugar maple leaf	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+sugar maple bark	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+stomach sickness	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+severe infection	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+secondary branch	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+scientific study	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+riparian habitat	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+productive plant	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+predatory beetle	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+potential spread	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+pollination mark	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+physical barrier	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+organic practice	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+most plant virus	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+magical talisman	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+herbaceous peony	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+health food shop	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+ground limestone	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+greater plantago	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+formal landscape	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+extensive canopy	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+ecological niche	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+distinctive leaf	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+detrimental weed	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+destructive pest	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+deciduous forest	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+cylinder cutting	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+common chickweed	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+carnation family	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+cancer treatment	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+buckwheat family	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+artificial trail	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+artificial fence	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+alternative name	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+alimentary canal	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+aggressive plant	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+aesthetic damage	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0209	0.012539999999999999
+caterpillars move	BEYOND_CUTOFF	2_Part_NP_no_prep	Bad	0.45	0.0278	0.01251
+maturity	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0178	0.012459999999999999
+uruguay	BEYOND_CUTOFF	SIMPLE	Good	1	0.0123	0.0123
+ficaria	BEYOND_CUTOFF	SIMPLE	Good	1	0.0123	0.0123
+diploid	BEYOND_CUTOFF	SIMPLE	Good	1	0.0123	0.0123
+bushine	BEYOND_CUTOFF	SIMPLE	Good	1	0.0123	0.0123
+berberi	BEYOND_CUTOFF	SIMPLE	Good	1	0.0123	0.0123
+benomyl	BEYOND_CUTOFF	SIMPLE	Good	1	0.0123	0.0123
+arizona	BEYOND_CUTOFF	SIMPLE	Good	1	0.0123	0.0123
+arborea	BEYOND_CUTOFF	SIMPLE	Good	1	0.0123	0.0123
+equilibrium	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.04	0.012
+including bur marigold	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0469	0.011725
+improving soil quality	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0469	0.011725
+distributed world-wide	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0469	0.011725
+toxic potential	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0193	0.01158
+total diversity	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0193	0.01158
+synonymous name	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0193	0.01158
+secondary shoot	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0193	0.01158
+resource forest	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0193	0.01158
+reptilian scale	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0193	0.01158
+raspberry fruit	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0193	0.01158
+quarantine site	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0193	0.01158
+potential enemy	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0193	0.01158
+possible hazard	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0193	0.01158
+popular pastime	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0193	0.01158
+overpruned tree	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0193	0.01158
+numerous purple	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0193	0.01158
+numerous minute	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0193	0.01158
+mucous membrane	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0193	0.01158
+medicinal plant	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0193	0.01158
+livestock owner	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0193	0.01158
+larval survival	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0193	0.01158
+internal feeder	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0193	0.01158
+gene expression	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0193	0.01158
+ephemeral plant	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0193	0.01158
+entire fencerow	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0193	0.01158
+economic damage	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0193	0.01158
+digestive track	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0193	0.01158
+digestive tonic	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0193	0.01158
+digestive juice	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0193	0.01158
+curly top virus	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0193	0.01158
+circular muscle	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0193	0.01158
+bulbous abdomen	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0193	0.01158
+aggressive weed	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0193	0.01158
+shade	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0163	0.011409999999999998
+paper	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0163	0.011409999999999998
+kda nonglycosylated protein	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.0741	0.011115
+fungi specialised entension	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.0741	0.011115
+yellow-green	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0111	0.0111
+yellow-brown	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0111	0.0111
+wittrockiana	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+wetland soil	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+wasurenagusa	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+viral vector	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+violet genus	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+usda no-till	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+ursolic acid	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+triterpenoid	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+three-leaved	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0111	0.0111
+thimbleberry	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+tarsonemidae	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+tahini halva	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+sumac specie	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+stramenopile	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+stramenopila	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+stomatal lip	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+stewartstown	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+spartioidine	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+soil acidity	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+shoot growth	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+sessile leaf	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+scale specie	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+saskatchewan	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+salad burnet	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+ruderal site	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+psilostachya	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+pre-emergent	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0111	0.0111
+plant growth	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+pilea pumila	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+phytohormone	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+philadelphia	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+pediculocide	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+parasiticide	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+pansy symbol	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+palmate leaf	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+osage orange	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+norway maple	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+nonhost tree	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+non-european	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0111	0.0111
+nigra juglan	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+neem extract	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+naturalising	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+mul mang cho	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+mid-atlantic	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0111	0.0111
+microclimate	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+maple specie	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+lonicera mus	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+leptinotarsa	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+lemony smell	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+leaf-rolling	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0111	0.0111
+leaf-curling	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0111	0.0111
+leaf petiole	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+leaf petiola	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+lauru nobili	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+labial palpi	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+insecticidal	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+hyperecteina	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+hexose sugar	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+hand-pulling	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0111	0.0111
+ground-cover	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0111	0.0111
+grass growth	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+garden fauon	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+galactagogue	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+fungal spore	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+fumosoroseus	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+foetid potho	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+floral organ	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+fine-pruning	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0111	0.0111
+fine tanbark	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+fecal matter	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+fall webworm	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+ellagic acid	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+early instar	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+dendranthema	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+cytotoxicity	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+cottony hair	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+core aerator	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+coprophagous	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+coat protein	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+catterpiller	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+campodeiform	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+burnt potato	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+brassicaceae	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+boxelder bug	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+blue vervain	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+bipinnatifid	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+berberis tus	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+bacteriocyte	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+azadirachtin	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+aromatherapy	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+aquaponics w	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+anthelmintic	BEYOND_CUTOFF	SIMPLE	Good	1	0.0111	0.0111
+ajuga reptan	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+acer negundo	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+acer lobelii	BEYOND_CUTOFF	Normal_NP	Good	1	0.0111	0.0111
+dandelion flower	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.1074	0.01074
+flowering clone treneaguee	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0711	0.010665
+raised brick-red spot	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0423	0.010575
+including storm sewer	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0423	0.010575
+getting plant disease	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0423	0.010575
+creeping stoloniferou	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0423	0.010575
+crawling water beetle	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0423	0.010575
+called manitoba maple	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0423	0.010575
+transportation	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0149	0.01043
+representative	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0149	0.01043
+identification	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0149	0.01043
+zesty salad	BEYOND_CUTOFF	Normal_NP	Good	1	0.01	0.01
+wu wang cao	BEYOND_CUTOFF	Normal_NP	Good	1	0.01	0.01
+weed specie	BEYOND_CUTOFF	Normal_NP	Good	1	0.01	0.01
+vermiculite	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+verlotiorum	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+utilisation	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+sub-species	BEYOND_CUTOFF	HYPHENATION	Good	1	0.01	0.01
+stylophorum	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+staunchweed	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+stammerwort	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+staggerwort	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+sporulation	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+spiraea tus	BEYOND_CUTOFF	Normal_NP	Good	1	0.01	0.01
+sesiid moth	BEYOND_CUTOFF	Normal_NP	Good	1	0.01	0.01
+seed-potato	BEYOND_CUTOFF	HYPHENATION	Good	1	0.01	0.01
+sarvisberry	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+rhu typhina	BEYOND_CUTOFF	Normal_NP	Good	1	0.01	0.01
+refoliation	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+planthopper	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+phytopthora	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+phytoplasma	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+physocarpus	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+photodamage	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+particulate	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+paper birch	BEYOND_CUTOFF	Normal_NP	Good	1	0.01	0.01
+oxalic acid	BEYOND_CUTOFF	Normal_NP	Good	1	0.01	0.01
+ovoid nymph	BEYOND_CUTOFF	Normal_NP	Good	1	0.01	0.01
+outcrossing	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+organic ipm	BEYOND_CUTOFF	Normal_NP	Good	1	0.01	0.01
+musculature	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+microtubule	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+metarhizium	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+menorrhagia	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+meadowsweet	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+mating-type	BEYOND_CUTOFF	HYPHENATION	Good	1	0.01	0.01
+marketshare	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+loosestrifa	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+lead growth	BEYOND_CUTOFF	Normal_NP	Good	1	0.01	0.01
+johnny jump	BEYOND_CUTOFF	Normal_NP	Good	1	0.01	0.01
+irc channel	BEYOND_CUTOFF	Normal_NP	Good	1	0.01	0.01
+instar feed	BEYOND_CUTOFF	Normal_NP	Good	1	0.01	0.01
+instar chew	BEYOND_CUTOFF	Normal_NP	Good	1	0.01	0.01
+heteroptera	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+halyomorpha	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+giving rise	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.04	0.01
+fungal diea	BEYOND_CUTOFF	Normal_NP	Good	1	0.01	0.01
+fungal cell	BEYOND_CUTOFF	Normal_NP	Good	1	0.01	0.01
+freethought	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+fall tiphon	BEYOND_CUTOFF	Normal_NP	Good	1	0.01	0.01
+ethnobotany	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+emmenagogue	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+drupelet mm	BEYOND_CUTOFF	Normal_NP	Good	1	0.01	0.01
+disk floret	BEYOND_CUTOFF	Normal_NP	Good	1	0.01	0.01
+dicotyledon	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+diaphoretic	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+dehydration	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+deadheading	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+colouration	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+citronellol	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+chicken pox	BEYOND_CUTOFF	Normal_NP	Good	1	0.01	0.01
+cappadocian	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+butterprint	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+bird specie	BEYOND_CUTOFF	Normal_NP	Good	1	0.01	0.01
+basal clump	BEYOND_CUTOFF	Normal_NP	Good	1	0.01	0.01
+basal calyx	BEYOND_CUTOFF	Normal_NP	Good	1	0.01	0.01
+bartramiana	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+barbecueing	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+backswimmer	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+appalachian	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+antifeedant	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+ant species	BEYOND_CUTOFF	Normal_NP	Good	1	0.01	0.01
+anglo saxon	BEYOND_CUTOFF	Normal_NP	Good	1	0.01	0.01
+allelopathy	BEYOND_CUTOFF	SIMPLE	Good	1	0.01	0.01
+aerator run	BEYOND_CUTOFF	Normal_NP	Good	1	0.01	0.01
+adult gypsy	BEYOND_CUTOFF	Normal_NP	Good	1	0.01	0.01
+acer nigrum	BEYOND_CUTOFF	Normal_NP	Good	1	0.01	0.01
+refrigeration	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0136	0.009519999999999999
+pronunciation	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0136	0.009519999999999999
+proliferation	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0136	0.009519999999999999
+entertainment	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0136	0.009519999999999999
+consideration	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0136	0.009519999999999999
+accompaniment	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0136	0.009519999999999999
+removing obstruction	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0378	0.00945
+introducing predator	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0378	0.00945
+including strawberry	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0378	0.00945
+including cottonwood	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0378	0.00945
+cultivars propagated	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0378	0.00945
+creeping wood sorrel	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0378	0.00945
+containing livestock	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0378	0.00945
+themeselves fall	BEYOND_CUTOFF	2_Part_NP_no_prep	Bad	0.45	0.0209	0.009405
+goldenrods bloom	BEYOND_CUTOFF	2_Part_NP_no_prep	Bad	0.45	0.0209	0.009405
+affecting people hundreds	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0625	0.009375
+affecting	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.09	0.009
+various specie	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+tender hemlock	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+tenacious weed	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+species damage	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+sex chromosome	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+serious threat	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+serious damage	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+seed dispersal	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+salt tolerance	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+salivary gland	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+recent attempt	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+railroad track	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+quassia family	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+primary branch	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+predatory wasp	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+predatory mite	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+poisonous tree	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+passing animal	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+parasitic mite	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+oceanic trench	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+numerous thorn	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+medicinal herb	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+mass landscape	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+landscape tree	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+internal shell	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+hydraulic lift	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+hazardous tree	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+harm threshold	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+hardiness zone	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+growth hormone	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+follower color	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+fertilizer mix	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+fall migration	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+eye irritation	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+extensive work	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+energy reserve	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+electric fence	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+drainage issue	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+cylinder mower	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+cutting garden	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+copious sucker	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+colonial habit	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+coarse texture	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+clinical trial	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+chestnut borer	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+chemical trial	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+chemical trace	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+certain specie	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+business owner	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+botanical name	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+attack orchard	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+aquatic family	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+aquatic beetle	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+abdominal tube	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0149	0.00894
+tachinid fly moving	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0357	0.008925
+reported indication	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0357	0.008925
+regulating humidity	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0357	0.008925
+including herbicide	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0357	0.008925
+including hay fever	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0357	0.008925
+including carbuncle	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0357	0.008925
+identifying defense	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0357	0.008925
+fueling pollination	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0357	0.008925
+called hemibiotroph	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0357	0.008925
+being phloem-feeder	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0357	0.008925
+organic	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Medium	0.2	0.0446	0.00892
+energy	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0297	0.00891
+colony	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0297	0.00891
+sown	BEYOND_CUTOFF	SIMPLE	Good	1	0.0089	0.0089
+axil	BEYOND_CUTOFF	SIMPLE	Good	1	0.0089	0.0089
+subspecies name	BEYOND_CUTOFF	2_Part_NP_no_prep	Bad	0.45	0.0193	0.008685
+interrows mulch	BEYOND_CUTOFF	2_Part_NP_no_prep	Bad	0.45	0.0193	0.008685
+excretions bind	BEYOND_CUTOFF	2_Part_NP_no_prep	Bad	0.45	0.0193	0.008685
+beetle lifecycle principal feeding stage	BEYOND CUTOFF and FILTERED OUT	unexpected_POS_sequence	Bad	0.05	0.1736	0.00868
+utility	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0123	0.00861
+subject	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0123	0.00861
+release	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0123	0.00861
+pioneer	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0123	0.00861
+exhibit	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0123	0.00861
+conventional home garden	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.0571	0.008565
+conspicuous spiny-winged	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.0571	0.008565
+facing bud	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0336	0.0084
+wrapping root	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+unpruned tree	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+stream margin	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+species share	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+species count	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+root vicinity	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+root fragment	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+road shoulder	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+riparian zone	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+release spore	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+rancid cashew	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+psyllium seed	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+princess tree	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+pleurisy root	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+pitcher plant	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+pioneer plant	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+parental care	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+parasitic fly	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+paper barrier	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+newspaper act	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+nasal passage	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+most gardener	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+invasive tree	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+humidity rise	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+great ragweed	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+germ tube tip	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+fruit cluster	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+foxglove tree	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+food pemmican	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+floral emblem	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+filter feeder	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+dorsal stripe	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+diseased tree	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+culinary herb	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+copious thorn	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+communal nest	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+cap raspberry	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+bulk laxative	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+binomial name	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+bearing fruit	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+barrier plant	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+attack garden	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+asexual spore	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+arctic circle	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+angular stalk	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+active growth	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0136	0.008159999999999999
+viking	BEYOND_CUTOFF	SIMPLE	Good	1	0.0079	0.0079
+tisane	BEYOND_CUTOFF	SIMPLE	Good	1	0.0079	0.0079
+surrounding tissue	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0316	0.0079
+spathe	BEYOND_CUTOFF	SIMPLE	Good	1	0.0079	0.0079
+sorbus	BEYOND_CUTOFF	SIMPLE	Good	1	0.0079	0.0079
+russia	BEYOND_CUTOFF	SIMPLE	Good	1	0.0079	0.0079
+reducing heat loss	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0316	0.0079
+prunus	BEYOND_CUTOFF	SIMPLE	Good	1	0.0079	0.0079
+proleg	BEYOND_CUTOFF	SIMPLE	Good	1	0.0079	0.0079
+producing cultivar	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0316	0.0079
+preventing disease	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0316	0.0079
+mexico	BEYOND_CUTOFF	SIMPLE	Good	1	0.0079	0.0079
+making maple syrup	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0316	0.0079
+liatri	BEYOND_CUTOFF	SIMPLE	Good	1	0.0079	0.0079
+legume	BEYOND_CUTOFF	SIMPLE	Good	1	0.0079	0.0079
+including silkworm	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0316	0.0079
+including pathogen	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0316	0.0079
+hawaii	BEYOND_CUTOFF	SIMPLE	Good	1	0.0079	0.0079
+growing transplant	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0316	0.0079
+growing degree day	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0316	0.0079
+genome	BEYOND_CUTOFF	SIMPLE	Good	1	0.0079	0.0079
+fungal	BEYOND_CUTOFF	SIMPLE	Good	1	0.0079	0.0079
+foliar	BEYOND_CUTOFF	SIMPLE	Good	1	0.0079	0.0079
+floating row cover	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0316	0.0079
+farming w masanobu	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0316	0.0079
+exhibiting nymphal	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0316	0.0079
+creeping yellowcre	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0316	0.0079
+called canada root	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0316	0.0079
+alaska	BEYOND_CUTOFF	SIMPLE	Good	1	0.0079	0.0079
+herbaceous plant native	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.0519	0.007785
+decaying organic matter	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0519	0.007785
+affecting maple disease	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0519	0.007785
+themeselves fall fungal plant pathogen	BEYOND CUTOFF and FILTERED OUT	unexpected_POS_sequence	Bad	0.05	0.1556	0.00778
+transmission	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0111	0.00777
+segmentation	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0111	0.00777
+reproduction	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0111	0.00777
+regeneration	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0111	0.00777
+interruption	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0111	0.00777
+distillation	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0111	0.00777
+disinfectant	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0111	0.00777
+disadvantage	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0111	0.00777
+coordination	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0111	0.00777
+complication	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0111	0.00777
+colonization	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0111	0.00777
+perennial herb	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0772	0.007720000000000001
+biennial plant	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0772	0.007720000000000001
+fly life cycle larval stage	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0741	0.00741
+agriculture plant hardiness	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0741	0.00741
+polythene	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0242	0.007259999999999999
+grapevine	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0242	0.007259999999999999
+abundance	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0242	0.007259999999999999
+copious straight spine	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.0469	0.007035
+affecting dna molecule	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0469	0.007035
+translation	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.01	0.006999999999999999
+speculation	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.01	0.006999999999999999
+respiration	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.01	0.006999999999999999
+recruitment	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.01	0.006999999999999999
+improvement	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.01	0.006999999999999999
+distributor	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.01	0.006999999999999999
+diagnostics	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.01	0.006999999999999999
+wearing grass mix	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0278	0.00695
+preventing flower	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0278	0.00695
+preventing branch	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0278	0.00695
+internal bleeding	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0278	0.00695
+including illinoi	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0278	0.00695
+existing specimen	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0278	0.00695
+chemical spraying	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0278	0.00695
+causing hay fever	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0278	0.00695
+ph	BEYOND_CUTOFF	SIMPLE	Good	1	0.0069	0.0069
+plastic mulch	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0682	0.00682
+week	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0225	0.00675
+situ	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0225	0.00675
+bulb	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0225	0.00675
+herbaceous	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Medium	0.2	0.0336	0.00672
+zoospores swim	BEYOND_CUTOFF	2_Part_NP_no_prep	Bad	0.45	0.0149	0.006705
+alkaloids kill	BEYOND_CUTOFF	2_Part_NP_no_prep	Bad	0.45	0.0149	0.006705
+wound rocket	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+waste ground	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+total damage	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+stuff pillow	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+spur bearing	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+species drop	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+shade garden	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+seed packets	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+seed catalog	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+seed capsule	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+root barrier	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+recent study	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+quality seed	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+primary diet	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+popular wood	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+poppy family	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+pickup truck	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+organic weed	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+massive leaf	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+hedge garlic	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+healthy tree	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+health issue	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+head capsule	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+ground plant	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+food reserve	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+fine quality	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+fibrous root	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+fibrous leaf	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+fall display	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+fall cleanup	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+disease list	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+cut greenery	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+common stalk	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+common bugle	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+battle wound	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+basal sucker	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+august close	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+asexual seed	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0111	0.00666
+reducing	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0653	0.00653
+planting	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0653	0.00653
+creating	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0653	0.00653
+cultivar exhibiting orange-red leaf	BEYOND CUTOFF and FILTERED OUT	unexpected_POS_sequence	Bad	0.05	0.1304	0.00652
+ensuring reproduction	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0423	0.006344999999999999
+turf	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0089	0.006229999999999999
+road	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0089	0.006229999999999999
+yin nature	BEYOND_CUTOFF	Normal_NP	Good	1	0.006	0.006
+woodsorrel	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+wood poppy	BEYOND_CUTOFF	Normal_NP	Good	1	0.006	0.006
+wood fibre	BEYOND_CUTOFF	Normal_NP	Good	1	0.006	0.006
+willamette	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+white-root	BEYOND_CUTOFF	HYPHENATION	Good	1	0.006	0.006
+variegatum	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+usda plant	BEYOND_CUTOFF	Normal_NP	Good	1	0.006	0.006
+unbranched	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+umbellifer	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+tulip-tree	BEYOND_CUTOFF	HYPHENATION	Good	1	0.006	0.006
+tryptophan	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+tripinnate	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+treehopper	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+tetranychu	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+tarsonemus	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+tarsonemid	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+sticktight	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+solanaceae	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+soil-bound	BEYOND_CUTOFF	HYPHENATION	Good	1	0.006	0.006
+soil flora	BEYOND_CUTOFF	Normal_NP	Good	1	0.006	0.006
+silverbeet	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+shrub-like	BEYOND_CUTOFF	HYPHENATION	Good	1	0.006	0.006
+shoot node	BEYOND_CUTOFF	Normal_NP	Good	1	0.006	0.006
+seed potato	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+seed kernel	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+scurvywort	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+sclerotium	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+schwedleri	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+sarracenia	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+saprotroph	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+rubu idaeu	BEYOND_CUTOFF	Normal_NP	Good	1	0.006	0.006
+rotten tree	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+root sucker	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+root sprout	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+root feeder	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+rna genome	BEYOND_CUTOFF	Normal_NP	Good	1	0.006	0.006
+riddelline	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+rhu glabra	BEYOND_CUTOFF	Normal_NP	Good	1	0.006	0.006
+retrorsine	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+reblooming	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+poke salit	BEYOND_CUTOFF	Normal_NP	Good	1	0.006	0.006
+plasmodium	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+phytonemus	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+parenchyma	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+paper mulch	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+oubliez pa	BEYOND_CUTOFF	Normal_NP	Good	1	0.006	0.006
+orthoptera	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+open-field	BEYOND_CUTOFF	HYPHENATION	Good	1	0.006	0.006
+new england	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+necrotroph	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+name scotch	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+name purple	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+name cotton	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+mycoplasma	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+mower blade	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+monophagou	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+monofloral	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+mithridate	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+mid-autumn	BEYOND_CUTOFF	HYPHENATION	Good	1	0.006	0.006
+meadowlark	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+massage oil	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+malacosoma	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+lythraceae	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+lesson plan	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+leafhopper	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+lateral bud	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+larval food	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+jargonelle	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+james-wort	BEYOND_CUTOFF	HYPHENATION	Good	1	0.006	0.006
+insect bite	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+hypochoeri	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+hymenoptus	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+humus-rich	BEYOND_CUTOFF	HYPHENATION	Good	1	0.006	0.006
+houseplant	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+house plant	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+health risk	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+hawksbeard	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+harrisburg	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+haliplidae	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+growth twig	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+ground pink	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+grey-brown	BEYOND_CUTOFF	HYPHENATION	Good	1	0.006	0.006
+grain drill	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+glandulosa	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+geminiviru	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+food intake	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+floodplain	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+fishing rod	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+fireblight	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+fire hazard	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+family feed	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+fahrenheit	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+equilibria	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+energy fuel	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+endosulfan	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+emulsifier	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+elderberry	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+elateridae	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+dytiscidae	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+dwarf shoot	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+drummondii	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+doyenne du	BEYOND_CUTOFF	Normal_NP	Good	1	0.006	0.006
+ditylenchu	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+dandyblend	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+damage soil	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+damage crop	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+corn-stalk	BEYOND_CUTOFF	HYPHENATION	Good	1	0.006	0.006
+coppertina	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+copal tree	BEYOND_CUTOFF	Normal_NP	Good	1	0.006	0.006
+cool season	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+convulsant	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+compaction	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+common name	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+climax tree	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+carpetweed	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+cankerwort	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+calycanthu	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+by-product	BEYOND_CUTOFF	HYPHENATION	Good	1	0.006	0.006
+buttonweed	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+brown-tail	BEYOND_CUTOFF	HYPHENATION	Good	1	0.006	0.006
+brandywine	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+beltsville	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+beggartick	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+bee specie	BEYOND_CUTOFF	Normal_NP	Good	1	0.006	0.006
+basal bract	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+bangladesh	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+ash-leaved	BEYOND_CUTOFF	HYPHENATION	Good	1	0.006	0.006
+ascomycete	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+arthropoda	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+armillaria	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+arborvitae	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+arborecent	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+aquaponics	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+appresoron	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+appresoria	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+apical bud	BEYOND_CUTOFF	Normal_NP	Good	1	0.006	0.006
+antarctica	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+amur river	BEYOND_CUTOFF	Normal_NP	Good	1	0.006	0.006
+amenorrhea	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+aftertaste	BEYOND_CUTOFF	SIMPLE	Good	1	0.006	0.006
+acid-lover	BEYOND_CUTOFF	HYPHENATION	Good	1	0.006	0.006
+account log	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.01	0.006
+home	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0598	0.00598
+typical sawfly larva	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.0378	0.00567
+biennial herb native	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.0378	0.00567
+manure	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0079	0.00553
+damage	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0079	0.00553
+battle	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0079	0.00553
+attack	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0079	0.00553
+regarding nutrition	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0357	0.005355
+providing incentive	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.0357	0.005355
+poppy family native	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.0357	0.005355
+pemanently greenish	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.0357	0.005355
+numerous small seed	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.0357	0.005355
+nourishment imbibed	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0357	0.005355
+circular hard scale	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.0357	0.005355
+by-product obtained	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0357	0.005355
+template	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0178	0.00534
+biennial	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0178	0.00534
+sterilizing soil	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0209	0.005225
+named siphunculi	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0209	0.005225
+introducing seed	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0209	0.005225
+including winter	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0209	0.005225
+including hawaii	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0209	0.005225
+emerging foliage	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0209	0.005225
+disturbed ground	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0209	0.005225
+degrading enzyme	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0209	0.005225
+attracting plant	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0209	0.005225
+adding fertility	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0209	0.005225
+windstorm	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+willelmus	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+wild-plum	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0052	0.0052
+waterline	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+vitiation	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+usda zone	BEYOND_CUTOFF	Normal_NP	Good	1	0.0052	0.0052
+usaramine	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+urticaria	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+uredinale	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+underwing	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+tribolium	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+townsfolk	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+tomentose	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+taraxacum	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+superweed	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+sugarplum	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+suckering	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+suaveolen	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+stressful	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+stinktree	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+sporangia	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+spinneret	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+setaceous	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+serration	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+scutellum	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+sclerotia	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+salicaire	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+rootbound	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+root-weed	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0052	0.0052
+root-form	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0052	0.0052
+root-bark	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0052	0.0052
+rocketcre	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+replicase	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+red-brown	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0052	0.0052
+rangeland	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+primorsky	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+predation	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+predaceou	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+poppywort	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+pokeberry	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+planidium	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+phylloxus	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+neem tree	BEYOND_CUTOFF	Normal_NP	Good	1	0.0052	0.0052
+neem cake	BEYOND_CUTOFF	Normal_NP	Good	1	0.0052	0.0052
+name amur	BEYOND_CUTOFF	Normal_NP	Good	1	0.0052	0.0052
+mollicute	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+minnesota	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+maxillary	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+manchuria	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+malvaceae	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+maloideae	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+lymantria	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+lorbergii	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+liverwort	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+lifecycle	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+launch en	BEYOND_CUTOFF	Normal_NP	Good	1	0.0052	0.0052
+lac scale	BEYOND_CUTOFF	Normal_NP	Good	1	0.0052	0.0052
+koke dera	BEYOND_CUTOFF	Normal_NP	Good	1	0.0052	0.0052
+karyotype	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+inter-row	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0052	0.0052
+ingestion	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+horseweed	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+homoptera	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+hackberry	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+guatemala	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+glucoside	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+gliphogan	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+galanthus	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+fruit jam	BEYOND_CUTOFF	Normal_NP	Good	1	0.0052	0.0052
+foodplant	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+floristry	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+flavonoid	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+flagellum	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+fissuring	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+firethorn	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+febrifuge	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+eupatoria	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+esperanto	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+erubescen	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+ericaceae	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+epilobium	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+ec health	BEYOND_CUTOFF	Normal_NP	Good	1	0.0052	0.0052
+douglasii	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+dissectum	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+destruxin	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+decoction	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+cucurbita	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+crookneck	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+crataegus	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+contition	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+columnare	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+coltsfoot	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+cole crop	BEYOND_CUTOFF	Normal_NP	Good	1	0.0052	0.0052
+clumpfoot	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+claytonia	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+chest rub	BEYOND_CUTOFF	Normal_NP	Good	1	0.0052	0.0052
+chamomile	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+chamomila	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+caribbean	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+carabidae	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+butternut	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+burrobush	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+bugleweed	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+bugleherb	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+bryophyte	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+broadleaf	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+branchlet	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+blueberry	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+blotching	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+blackhawk	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+bittercre	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+bipinnate	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+beauveria	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+basilicum	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+asparagin	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+argemonia	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+anaerobic	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+amygdalin	BEYOND_CUTOFF	SIMPLE	Good	1	0.0052	0.0052
+instars feed	BEYOND_CUTOFF	2_Part_NP_no_prep	Bad	0.45	0.0111	0.004995
+being	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0494	0.00494
+umbel	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0163	0.004889999999999999
+trail	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0163	0.004889999999999999
+tooth	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0163	0.004889999999999999
+lemon	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0163	0.004889999999999999
+spreading shrub	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0193	0.004825
+removing tissue	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0193	0.004825
+removing flower	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0193	0.004825
+reducing stress	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0193	0.004825
+reaching height	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0193	0.004825
+preventing seed	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0193	0.004825
+preserving soil	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0193	0.004825
+organic farming	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0193	0.004825
+named chromista	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0193	0.004825
+involving dozen	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0193	0.004825
+including storm	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0193	0.004825
+including plant	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0193	0.004825
+including giant	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0193	0.004825
+foliar spotting	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0193	0.004825
+eating pokeweed	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0193	0.004825
+dumping compost	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0193	0.004825
+defoliated tree	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0193	0.004825
+collecting seed	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0193	0.004825
+called satyrion	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0193	0.004825
+called manitoba	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0193	0.004825
+allowing clover	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0193	0.004825
+adding nitrogen	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0193	0.004825
+providing aeration	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.0316	0.00474
+lacking ray-floret	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0316	0.00474
+inspection rounded	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0316	0.00474
+acid mine drainage	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.0316	0.00474
+individual pine branch	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0469	0.00469
+setae	BEYOND_CUTOFF	SIMPLE	Good	1	0.0044	0.0044
+ocrea	BEYOND_CUTOFF	SIMPLE	Good	1	0.0044	0.0044
+cornu	BEYOND_CUTOFF	SIMPLE	Good	1	0.0044	0.0044
+themeselves fall fungal plant	BEYOND CUTOFF and FILTERED OUT	unexpected_POS_sequence	Bad	0.05	0.0867	0.004335
+exhibit symptom weakened tree	BEYOND CUTOFF and FILTERED OUT	unexpected_POS_sequence	Bad	0.05	0.0867	0.004335
+soil improvement soil	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0423	0.00423
+settlement	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.006	0.0042
+management	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.006	0.0042
+inspection	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.006	0.0042
+government	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.006	0.0042
+fumigation	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.006	0.0042
+cultivator	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.006	0.0042
+wildflower native	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.0278	0.004169999999999999
+popular flavoring	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0278	0.004169999999999999
+distinctive waved	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0278	0.004169999999999999
+conventional home	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.0278	0.004169999999999999
+contraceptive	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0136	0.004079999999999999
+surrounding	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.04	0.004
+mint family	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.04	0.004
+introducing	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.04	0.004
+hermaphrodite flower	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0378	0.0037800000000000004
+treating fever	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0149	0.003725
+sowing spinach	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0149	0.003725
+including moss	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0149	0.003725
+including bird	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0149	0.003725
+improving soil	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0149	0.003725
+frass dropping	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0149	0.003725
+foliar feeding	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0149	0.003725
+feeding damage	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0149	0.003725
+creeping phlox	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0149	0.003725
+called adhesin	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0149	0.003725
+burying beetle	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0149	0.003725
+being vertical	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0149	0.003725
+assisting wind	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0149	0.003725
+applying mulch	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0149	0.003725
+allowing fruit	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0149	0.003725
+zichrini	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+xinjiang	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+wort oil	BEYOND_CUTOFF	Normal_NP	Good	1	0.0037	0.0037
+windroot	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+wettable	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+virgatum	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+unforked	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+uncinula	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+tyrosine	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+turfgras	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+true-bug	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0037	0.0037
+torridon	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+tatarian	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+tasmania	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+symbiont	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+sweetgum	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+stigmata	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+staghorn	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+squarish	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+sourwood	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+soil fus	BEYOND_CUTOFF	Normal_NP	Good	1	0.0037	0.0037
+siberian	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+shredder	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+shandong	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+shadwood	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+shadblow	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+self-sow	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0037	0.0037
+selborne	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+scottish	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+sclerite	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+san jose	BEYOND_CUTOFF	Normal_NP	Good	1	0.0037	0.0037
+roughley	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+riverton	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+ringspot	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+richweed	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+regrowth	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+puccinia	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+protozoa	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+pronotum	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+pokeroot	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+pokebush	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+pieridae	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+phyllary	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+phacelia	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+ph check	BEYOND_CUTOFF	Normal_NP	Good	1	0.0037	0.0037
+paraguay	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+oviposit	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+overdose	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+ninebark	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+neotonic	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+nematoda	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+nebraska	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+mul mang	BEYOND_CUTOFF	Normal_NP	Good	1	0.0037	0.0037
+mongolia	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+mid-june	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0037	0.0037
+mespilus	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+meristem	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+medallon	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+macblack	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+luteolin	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+lonicera	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+longleaf	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+limeniti	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+lifespan	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+ion flux	BEYOND_CUTOFF	Normal_NP	Good	1	0.0037	0.0037
+interrow	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+inkberry	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+impatien	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+imazapyr	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+hortwort	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+hindwing	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+hawkweed	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+goutweed	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+gordaldo	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+glechome	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+geraniol	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+frondosa	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+follicle	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+fluxroot	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+fireweed	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+fine web	BEYOND_CUTOFF	Normal_NP	Good	1	0.0037	0.0037
+eurasian	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+en masse	BEYOND_CUTOFF	Normal_NP	Good	1	0.0037	0.0037
+diazinon	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+dewikify	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+cytokine	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+cropland	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+coumarin	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+cornu ma	BEYOND_CUTOFF	Normal_NP	Good	1	0.0037	0.0037
+cornicle	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+coolwort	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+colorant	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+collagen	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+chlorosi	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+cheshunt	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+cellpack	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+carnosol	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+capitula	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+bulgaria	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+brunnera	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+brassica	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+bootjack	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+bokbunja	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+bok choy	BEYOND_CUTOFF	Normal_NP	Good	1	0.0037	0.0037
+bigtooth	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+basswood	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+bassiana	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+barbarea	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+ayurveda	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+atlantic	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+apocrita	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+anamorph	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+ammonium	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+aldrichi	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+ailanthu	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+agronomy	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+agrimony	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+agermona	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+abutilon	BEYOND_CUTOFF	SIMPLE	Good	1	0.0037	0.0037
+weather	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0123	0.0036899999999999997
+syringa	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0123	0.0036899999999999997
+synonym	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0123	0.0036899999999999997
+cyanide	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0123	0.0036899999999999997
+absence	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0123	0.0036899999999999997
+viewpoint	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0052	0.0036399999999999996
+secretion	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0052	0.0036399999999999996
+retention	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0052	0.0036399999999999996
+extension	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0052	0.0036399999999999996
+excretion	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0052	0.0036399999999999996
+breathing	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0052	0.0036399999999999996
+breakdown	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0052	0.0036399999999999996
+agitation	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0052	0.0036399999999999996
+tree trunk	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.006	0.0036
+tree stump	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.006	0.0036
+trap plant	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.006	0.0036
+trade name	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.006	0.0036
+total loss	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.006	0.0036
+shade lawn	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.006	0.0036
+seed stock	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.006	0.0036
+seed plant	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.006	0.0036
+seed drill	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.006	0.0036
+seed borer	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.006	0.0036
+push mower	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.006	0.0036
+pure stand	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.006	0.0036
+nerve cord	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.006	0.0036
+name black	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.006	0.0036
+ground ivy	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.006	0.0036
+fruit load	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.006	0.0036
+fruit dish	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.006	0.0036
+food scent	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.006	0.0036
+food canal	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.006	0.0036
+felon herb	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.006	0.0036
+cut branch	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.006	0.0036
+cubic foot	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.006	0.0036
+cause root	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.006	0.0036
+basal lobe	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.006	0.0036
+acidic gas	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.006	0.0036
+unsterilized animal	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0357	0.0035700000000000003
+plant cell membrane	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0357	0.0035700000000000003
+living plant tissue	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0357	0.0035700000000000003
+essential oil lemon	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0357	0.0035700000000000003
+tachinid fly moving target	BEYOND CUTOFF and FILTERED OUT	unexpected_POS_sequence	Bad	0.05	0.0711	0.003555
+herbaceous flowering plant	BEYOND CUTOFF and FILTERED OUT	unexpected_POS_sequence	Bad	0.05	0.0711	0.003555
+weakened tree	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0136	0.0034
+warming issue	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0136	0.0034
+varying shade	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0136	0.0034
+trailing vine	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0136	0.0034
+stop bleeding	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0136	0.0034
+running plant	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0136	0.0034
+removing weed	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0136	0.0034
+reducing pain	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0136	0.0034
+putting plant	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0136	0.0034
+neuron mapped	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0136	0.0034
+making effort	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0136	0.0034
+looking plant	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0136	0.0034
+including bur	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0136	0.0034
+getting plant	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0136	0.0034
+flying insect	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0136	0.0034
+fall planting	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0136	0.0034
+diving beetle	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0136	0.0034
+creeping wood	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0136	0.0034
+creating page	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0136	0.0034
+called canada	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0136	0.0034
+bowling alley	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0136	0.0034
+bird dropping	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0136	0.0034
+most plant	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0336	0.00336
+exhibiting	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0336	0.00336
+rhododendron	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0111	0.00333
+synthetic chemical	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0316	0.0031600000000000005
+social caterpillar	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0316	0.0031600000000000005
+setaceous hebrew	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.0209	0.0031349999999999998
+palmately veined	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.0209	0.0031349999999999998
+overcrowded tree	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0209	0.0031349999999999998
+nova scotia west	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.0209	0.0031349999999999998
+internal budding	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0209	0.0031349999999999998
+evening grosbeak	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0209	0.0031349999999999998
+angular notching	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0209	0.0031349999999999998
+affecting people	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0209	0.0031349999999999998
+perennial flowering plant	BEYOND CUTOFF and FILTERED OUT	unexpected_POS_sequence	Bad	0.05	0.0625	0.003125
+pair-- "optical tentacles	BEYOND CUTOFF and FILTERED OUT	bad_character	Bad	0.05	0.0625	0.003125
+tree root	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0052	0.00312
+tree ring	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0052	0.00312
+tree bark	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0052	0.00312
+trap crop	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0052	0.00312
+talk page	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0052	0.00312
+sugar ash	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0052	0.00312
+seed cake	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0052	0.00312
+root zone	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0052	0.00312
+root mass	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0052	0.00312
+root knot	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0052	0.00312
+root hair	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0052	0.00312
+root cell	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0052	0.00312
+lack cell	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0052	0.00312
+host crop	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0052	0.00312
+gene pool	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0052	0.00312
+fine hair	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0052	0.00312
+cut grass	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0052	0.00312
+cause rot	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0052	0.00312
+age class	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0052	0.00312
+acid rain	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0052	0.00312
+usa	BEYOND_CUTOFF	SIMPLE	Good	1	0.0031	0.0031
+house	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0044	0.00308
+cover	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0044	0.00308
+class	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0044	0.00308
+making	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0297	0.0029700000000000004
+facing	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0297	0.0029700000000000004
+returned profit	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0193	0.002895
+pinnately lobed	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.0193	0.002895
+oblonge reddish	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.0193	0.002895
+flowering clone	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0193	0.002895
+awaiting import	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0193	0.002895
+affecting maple	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0193	0.002895
+deciduous flowering tree	BEYOND CUTOFF and FILTERED OUT	unexpected_POS_sequence	Bad	0.05	0.0571	0.002855
+skeletonized leaf	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0278	0.00278
+progressive moult	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0278	0.00278
+passive dispersal	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0278	0.00278
+large infestation	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0278	0.00278
+heavy infestation	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0278	0.00278
+agriculture plant	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0278	0.00278
+seeking help	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0111	0.002775
+running weed	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0111	0.002775
+pulling weed	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0111	0.002775
+floating row	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0111	0.002775
+facing shoot	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0111	0.002775
+seeds fall	BEYOND_CUTOFF	2_Part_NP_no_prep	Bad	0.45	0.006	0.0027
+weed	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0089	0.00267
+salt	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0089	0.00267
+iron	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0089	0.00267
+gout	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0089	0.00267
+apex	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0089	0.00267
+predaceou diving beetle	BEYOND CUTOFF and FILTERED OUT	unexpected_POS_sequence	Bad	0.05	0.0519	0.002595
+encyclopædia britannica	BEYOND CUTOFF and FILTERED OUT	bad_character	Bad	0.05	0.0519	0.002595
+biennial plant|biennial	BEYOND CUTOFF and FILTERED OUT	bad_character	Bad	0.05	0.0519	0.002595
+research	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0037	0.00259
+recovery	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0037	0.00259
+railroad	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0037	0.00259
+gardener	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0037	0.00259
+fighting	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0037	0.00259
+consumer	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0037	0.00259
+business	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0037	0.00259
+antidote	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0037	0.00259
+mature seed	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.01	0.0025
+lawn mowing	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.01	0.0025
+growing tip	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.01	0.0025
+divided eye	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.01	0.0025
+buried seed	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.01	0.0025
+retaining	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0242	0.0024200000000000003
+providing	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0242	0.0024200000000000003
+parasitic	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0242	0.0024200000000000003
+olive oil	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0242	0.0024200000000000003
+improving	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0242	0.0024200000000000003
+flowering	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0242	0.0024200000000000003
+vector	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0079	0.00237
+purple	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0079	0.00237
+orange	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0079	0.00237
+garden	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0079	0.00237
+carbon	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0079	0.00237
+branch	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0079	0.00237
+asthma	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0079	0.00237
+normal potting compost	BEYOND CUTOFF and FILTERED OUT	unexpected_POS_sequence	Bad	0.05	0.0469	0.002345
+monofloral honey|honey	BEYOND CUTOFF and FILTERED OUT	bad_character	Bad	0.05	0.0469	0.002345
+catsear flowering stem	BEYOND CUTOFF and FILTERED OUT	unexpected_POS_sequence	Bad	0.05	0.0469	0.002345
+regular raking	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0149	0.002235
+pollarded tree	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0149	0.002235
+flowering moss	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0149	0.002235
+root rot	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0037	0.00222
+road cut	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0037	0.00222
+cut wood	BEYOND_CUTOFF	Normal_NP	Medium	0.6	0.0037	0.00222
+eye	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0031	0.0021699999999999996
+soil improvement	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0209	0.00209
+regular interval	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0209	0.00209
+public awareness	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0209	0.00209
+original nursery	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0209	0.00209
+large population	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0209	0.00209
+individual plant	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0209	0.00209
+feathered maiden	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0209	0.00209
+lacking petal	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0136	0.0020399999999999997
+bulgaria east	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.0136	0.0020399999999999997
+affecting dna	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0136	0.0020399999999999997
+affected tree	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0136	0.0020399999999999997
+wyoming	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+wu wang	BEYOND_CUTOFF	Normal_NP	Good	1	0.002	0.002
+woodlot	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+weigela	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+website	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+walkway	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+vulgari	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+veganic	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+urticae	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+turnery	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+topsoil	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+toolbox	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+tongued	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+taptoot	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+tanbark	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+superfamily	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Medium	0.2	0.01	0.002
+sonoran	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+silique	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+sidebar	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+shewell	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+setaria	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+sessile	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+senecio	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+saponin	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+rorippa	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+rootlet	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+remarka	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+rem red	BEYOND_CUTOFF	Normal_NP	Good	1	0.002	0.002
+rebloom	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+pythium	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+psyllid	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+protist	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+plenatd	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+pigweed	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+petiola	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+persian	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+oospore	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+oomycte	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+oilcake	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+nugroho	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+nanking	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+muscari	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+mt fuji	BEYOND_CUTOFF	Normal_NP	Good	1	0.002	0.002
+mounded	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+mitotic	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+milfoil	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+midwest	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+melilot	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+lythrum	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+limbing	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+ladybug	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+kashmir	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+infobox	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+incluse	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+illinoi	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+herbivorous	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Medium	0.2	0.01	0.002
+hawkbit	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+hardpan	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+globose	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+glialka	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+ful sun	BEYOND_CUTOFF	Normal_NP	Good	1	0.002	0.002
+forager	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+fittest	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+falooda	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+eupator	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+erwinia	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+doyenne	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+dicofol	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+dicamba	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+cystiti	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+conicle	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+coccoon	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+clavate	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+chigger	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+celsius	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+cauline	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+caucasu	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+cambium	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+brusher	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+bagworm	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+bacillu	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+asiatic	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+ashleaf	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+apomixi	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+antanna	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+albania	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+acarapi	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+acantho	BEYOND_CUTOFF	SIMPLE	Good	1	0.002	0.002
+synthetic mulch	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0193	0.0019300000000000003
+perennial grass	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0193	0.0019300000000000003
+miniature glass	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0193	0.0019300000000000003
+individual pest	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0193	0.0019300000000000003
+crossing branch	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0193	0.0019300000000000003
+terpenes citronellal	BEYOND CUTOFF and FILTERED OUT	unexpected_POS_sequence	Bad	0.05	0.0378	0.0018900000000000002
+vegetables	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.006	0.0018
+propaganda	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.006	0.0018
+playground	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.006	0.0018
+eucalyptus	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.006	0.0018
+pinnately dissected	BEYOND CUTOFF and FILTERED OUT	unexpected_POS_sequence	Bad	0.05	0.0357	0.0017850000000000001
+alkaloids kill worm	BEYOND CUTOFF and FILTERED OUT	unexpected_POS_sequence	Bad	0.05	0.0357	0.0017850000000000001
+reaching	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0178	0.0017800000000000001
+fly life	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0178	0.0017800000000000001
+dropping	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0178	0.0017800000000000001
+allowing	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0178	0.0017800000000000001
+having paper	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0111	0.001665
+bouncing bet	BEYOND CUTOFF and FILTERED OUT	verb+NP	Medium	0.15	0.0111	0.001665
+adult sawfly	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.0111	0.001665
+sawfly	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Medium	0.2	0.0079	0.0015800000000000002
+raspberry	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0052	0.00156
+potassium	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0052	0.00156
+porcelain	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0052	0.00156
+pitchfork	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0052	0.00156
+phosphate	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0052	0.00156
+newspaper	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0052	0.00156
+landscape	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0052	0.00156
+josephine	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0052	0.00156
+household	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0052	0.00156
+guidebook	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0052	0.00156
+fungicide	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0052	0.00156
+excrement	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0052	0.00156
+etymology	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0052	0.00156
+dyspepsia	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0052	0.00156
+dragonfly	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0052	0.00156
+cellulose	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0052	0.00156
+quebec west	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.01	0.0015
+pome	BEYOND_CUTOFF	SIMPLE	Good	1	0.0015	0.0015
+pine sawfly	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.01	0.0015
+making jam	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.006	0.0015
+iran	BEYOND_CUTOFF	SIMPLE	Good	1	0.0015	0.0015
+being sown	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.006	0.0015
+tarsal segment	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0149	0.00149
+large quantity	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0149	0.00149
+hanging upside	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0149	0.00149
+butterfly pupa	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0149	0.00149
+blister beetle	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0149	0.00149
+success	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.002	0.0014
+seizure	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.002	0.0014
+pitcher	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.002	0.0014
+passing	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.002	0.0014
+monitor	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.002	0.0014
+massage	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.002	0.0014
+housing	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.002	0.0014
+fishing	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.002	0.0014
+defense	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.002	0.0014
+cutting	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.002	0.0014
+cooking	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.002	0.0014
+casting	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.002	0.0014
+barrier	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.002	0.0014
+account	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.002	0.0014
+shallowly grooved	BEYOND CUTOFF and FILTERED OUT	unexpected_POS_sequence	Bad	0.05	0.0278	0.00139
+swamp cabbage	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0136	0.00136
+regular straw	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0136	0.00136
+oral folklore	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0136	0.00136
+living tissue	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0136	0.00136
+incorporating	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0136	0.00136
+home security	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0136	0.00136
+home gardener	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0136	0.00136
+external site	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0136	0.00136
+biennial herb	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0136	0.00136
+beetle larvae	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0136	0.00136
+spine	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0044	0.00132
+brand	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0044	0.00132
+black	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0044	0.00132
+birch	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0044	0.00132
+farming w	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0052	0.0013
+being cut	BEYOND CUTOFF and FILTERED OUT	verb+NP	Good	0.25	0.0052	0.0013
+varying	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0123	0.0012300000000000002
+running	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0123	0.0012300000000000002
+lacking	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0123	0.0012300000000000002
+feeding	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0123	0.0012300000000000002
+farming	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0123	0.0012300000000000002
+gelatinous	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Medium	0.2	0.006	0.0012000000000000001
+yearbook	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0037	0.00111
+wrapping	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0037	0.00111
+wormwood	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0037	0.00111
+vertical row	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0111	0.00111
+triangle	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0037	0.00111
+textbook	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0037	0.00111
+terminal	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0037	0.00111
+taxonomy	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0037	0.00111
+strategy	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0037	0.00111
+smallpox	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0037	0.00111
+sedative	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0037	0.00111
+psyllium	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0037	0.00111
+princess	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0037	0.00111
+pleurisy	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0037	0.00111
+plastic film	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0111	0.00111
+plant family	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0111	0.00111
+plant debris	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0111	0.00111
+olive family	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0111	0.00111
+normal depth	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0111	0.00111
+mountain	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0037	0.00111
+longer shoot	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0111	0.00111
+living plant	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0111	0.00111
+living mulch	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0111	0.00111
+larvae reach	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0111	0.00111
+large ground	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0111	0.00111
+ladybird	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0037	0.00111
+hundreds	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0037	0.00111
+foxglove	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0037	0.00111
+footpath	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0037	0.00111
+ethylene	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0037	0.00111
+epilepsy	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0037	0.00111
+eggshell	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0037	0.00111
+eggplant	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0037	0.00111
+crossing	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0037	0.00111
+chipmunk	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0037	0.00111
+category	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0037	0.00111
+carolina	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0037	0.00111
+yunnan	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+wiccum	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+varroa	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+tsugae	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+stolon	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+sterol	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+seeder	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+scilla	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+radula	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+popeye	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+pontus	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+phloem	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+neater	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+midrib	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+lopper	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+jesuit	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+inulin	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+iberia	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+hispid	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+hexana	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+h-atpa	BEYOND_CUTOFF	HYPHENATION	Good	1	0.0011	0.0011
+folate	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+foetid	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+floret	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+elegan	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+diablo	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+cyprus	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+cushag	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+clonal	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+citral	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+chitin	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+carpel	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+bulbil	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+balkan	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+backho	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+asarum	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+apical	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+allium	BEYOND_CUTOFF	SIMPLE	Good	1	0.0011	0.0011
+trap	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0015	0.00105
+play	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0015	0.00105
+gene	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0015	0.00105
+farâmusham nakon	BEYOND CUTOFF and FILTERED OUT	bad_character	Bad	0.05	0.0209	0.001045
+basally branched	BEYOND CUTOFF and FILTERED OUT	unexpected_POS_sequence	Bad	0.05	0.0209	0.001045
+nocturnal	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Medium	0.2	0.0052	0.00104
+yearly seed	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.01	0.001
+traditional	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.01	0.001
+sterilizing	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.01	0.001
+saline soil	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.01	0.001
+publication	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.01	0.001
+potato root	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.01	0.001
+plastic bag	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.01	0.001
+overcrowded	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.01	0.001
+neighboring	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.01	0.001
+maintaining	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.01	0.001
+lower shoot	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.01	0.001
+living cell	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.01	0.001
+living bark	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.01	0.001
+lady beetle	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.01	0.001
+identifying	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.01	0.001
+home reader	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.01	0.001
+home garden	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.01	0.001
+genus plant	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.01	0.001
+flea beetle	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.01	0.001
+distributed	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.01	0.001
+swamp cabbage "	BEYOND CUTOFF and FILTERED OUT	bad_character	Bad	0.05	0.0193	0.0009650000000000001
+pair-- "optical	BEYOND CUTOFF and FILTERED OUT	bad_character	Bad	0.05	0.0193	0.0009650000000000001
+year round	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.006	0.0009
+var	BEYOND_CUTOFF	SIMPLE	Good	1	0.0008	0.0008
+svb	BEYOND_CUTOFF	SIMPLE	Good	1	0.0008	0.0008
+rhu	BEYOND_CUTOFF	SIMPLE	Good	1	0.0008	0.0008
+ous	BEYOND_CUTOFF	SIMPLE	Good	1	0.0008	0.0008
+square	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0079	0.0007900000000000001
+sowing	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0079	0.0007900000000000001
+mowing	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0079	0.0007900000000000001
+giving	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0079	0.0007900000000000001
+flying	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0079	0.0007900000000000001
+eating	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0079	0.0007900000000000001
+adding	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0079	0.0007900000000000001
+cm raceme	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.0052	0.00078
+acid mine	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.0052	0.00078
+tender	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0011	0.00077
+manual	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0011	0.00077
+lesson	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0011	0.00077
+lesion	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0011	0.00077
+launch	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0011	0.00077
+injury	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0011	0.00077
+excess	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0011	0.00077
+breath	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0011	0.00077
+advent	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0011	0.00077
+uk	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0025	0.00075
+provençal name	BEYOND CUTOFF and FILTERED OUT	bad_character	Bad	0.05	0.0149	0.000745
+stonefly	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Medium	0.2	0.0037	0.0007400000000000001
+rěn dōng téng	BEYOND CUTOFF and FILTERED OUT	bad_character	Bad	0.05	0.0136	0.00068
+regulating	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.006	0.0006000000000000001
+protective	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.006	0.0006000000000000001
+preserving	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.006	0.0006000000000000001
+plant kill	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.006	0.0006000000000000001
+plant cell	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.006	0.0006000000000000001
+ovoid burr	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.006	0.0006000000000000001
+overpruned	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.006	0.0006000000000000001
+introduced	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.006	0.0006000000000000001
+home fruit	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.006	0.0006000000000000001
+emulsified	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.006	0.0006000000000000001
+documented	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.006	0.0006000000000000001
+defoliated	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.006	0.0006000000000000001
+converting	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.006	0.0006000000000000001
+containing	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.006	0.0006000000000000001
+composting	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.006	0.0006000000000000001
+collecting	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.006	0.0006000000000000001
+attracting	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.006	0.0006000000000000001
+western	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.002	0.0006
+vitamin	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.002	0.0006
+verbena	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.002	0.0006
+tetanus	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.002	0.0006
+sapwood	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.002	0.0006
+pruning	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.002	0.0006
+project	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.002	0.0006
+program	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.002	0.0006
+produce	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.002	0.0006
+leopold	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.002	0.0006
+hectare	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.002	0.0006
+hanging	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.002	0.0006
+dogwood	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.002	0.0006
+conifer	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.002	0.0006
+chicken	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.002	0.0006
+cassava	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.002	0.0006
+calcium	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.002	0.0006
+blister	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.002	0.0006
+biology	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.002	0.0006
+anatomy	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.002	0.0006
+ammonia	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.002	0.0006
+america	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.002	0.0006
+acidity	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.002	0.0006
+encyclopædia	BEYOND CUTOFF and FILTERED OUT	bad_character	Bad	0.05	0.0111	0.000555
+spreading	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0052	0.00052
+segmented	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0052	0.00052
+regarding	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0052	0.00052
+producing	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0052	0.00052
+preparing	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0052	0.00052
+pollarded	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0052	0.00052
+pine wood	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0052	0.00052
+most lawn	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0052	0.00052
+involving	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0052	0.00052
+germ tube	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0052	0.00052
+filtering	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0052	0.00052
+disturbed	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0052	0.00052
+degrading	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0052	0.00052
+consuming	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0052	0.00052
+bone meal	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0052	0.00052
+assisting	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0052	0.00052
+acid soil	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0052	0.00052
+unani	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+thich	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+taxon	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+specy	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+somme	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+rubus	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+rayle	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+pupal	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+prunu	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+platy	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+phyla	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+perdo	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+ovate	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+nigra	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+malus	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+lauru	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+laevi	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+kyoto	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+kudzu	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+jīn yín huā	BEYOND CUTOFF and FILTERED OUT	bad_character	Bad	0.05	0.01	0.0005
+imago	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+idaho	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+genra	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+genoa	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+fauon	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+egypt	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+druce	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+defra	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+cutin	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+cousa	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+cauda	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+auxin	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+anglo	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+ajuga	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+admin	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+acari	BEYOND_CUTOFF	SIMPLE	Good	1	0.0005	0.0005
+wood	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0015	0.00045
+pupa	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0015	0.00045
+nova	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0015	0.00045
+moss	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0015	0.00045
+mint	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0015	0.00045
+lobe	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0015	0.00045
+crop	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0015	0.00045
+named	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0044	0.00044000000000000007
+fibrous	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Medium	0.2	0.002	0.0004
+diurnal	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Medium	0.2	0.002	0.0004
+asexual	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Medium	0.2	0.002	0.0004
+weakened	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0037	0.00037000000000000005
+unpruned	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0037	0.00037000000000000005
+treating	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0037	0.00037000000000000005
+trailing	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0037	0.00037000000000000005
+returned	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0037	0.00037000000000000005
+reported	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0037	0.00037000000000000005
+physical	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0037	0.00037000000000000005
+hovering	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0037	0.00037000000000000005
+floating	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0037	0.00037000000000000005
+favoured	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0037	0.00037000000000000005
+existing	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0037	0.00037000000000000005
+excluded	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0037	0.00037000000000000005
+ensuring	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0037	0.00037000000000000005
+emerging	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0037	0.00037000000000000005
+crawling	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0037	0.00037000000000000005
+bouncing	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0037	0.00037000000000000005
+big lawn	BEYOND CUTOFF and FILTERED OUT	Normal_NP	Bad	0.1	0.0037	0.00037000000000000005
+awaiting	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0037	0.00037000000000000005
+attained	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0037	0.00037000000000000005
+applying	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0037	0.00037000000000000005
+wound	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0005	0.00035
+trade	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0005	0.00035
+steam	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0005	0.00035
+nerve	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0005	0.00035
+mower	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0005	0.00035
+hedge	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0005	0.00035
+felon	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0005	0.00035
+entry	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0005	0.00035
+climb	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0005	0.00035
+birth	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0005	0.00035
+yellow	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0011	0.00033
+walnut	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0011	0.00033
+violet	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0011	0.00033
+vertex	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0011	0.00033
+thorax	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0011	0.00033
+tannin	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0011	0.00033
+sulfur	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0011	0.00033
+spring	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0011	0.00033
+scurvy	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0011	0.00033
+runoff	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0011	0.00033
+quorum	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0011	0.00033
+potato	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0011	0.00033
+potash	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0011	0.00033
+phylum	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0011	0.00033
+oxygen	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0011	0.00033
+norway	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0011	0.00033
+module	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0011	0.00033
+methyl	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0011	0.00033
+johnny	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0011	0.00033
+hyssop	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0011	0.00033
+gender	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0011	0.00033
+fungus	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0011	0.00033
+forest	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0011	0.00033
+enzyme	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0011	0.00033
+cavity	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0011	0.00033
+carrot	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0011	0.00033
+cancer	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0011	0.00033
+border	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0011	0.00033
+beetle	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0011	0.00033
+anemia	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0011	0.00033
+fra	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0031	0.00031
+farâmusham	BEYOND CUTOFF and FILTERED OUT	bad_character	Bad	0.05	0.006	0.00030000000000000003
+wort	BEYOND_CUTOFF	SIMPLE	Good	1	0.0003	0.0003
+utah	BEYOND_CUTOFF	SIMPLE	Good	1	0.0003	0.0003
+taii	BEYOND_CUTOFF	SIMPLE	Good	1	0.0003	0.0003
+ogon	BEYOND_CUTOFF	SIMPLE	Good	1	0.0003	0.0003
+nevo	BEYOND_CUTOFF	SIMPLE	Good	1	0.0003	0.0003
+myzu	BEYOND_CUTOFF	SIMPLE	Good	1	0.0003	0.0003
+koke	BEYOND_CUTOFF	SIMPLE	Good	1	0.0003	0.0003
+keek	BEYOND_CUTOFF	SIMPLE	Good	1	0.0003	0.0003
+ffrf	BEYOND_CUTOFF	SIMPLE	Good	1	0.0003	0.0003
+cyme	BEYOND_CUTOFF	SIMPLE	Good	1	0.0003	0.0003
+coxa	BEYOND_CUTOFF	SIMPLE	Good	1	0.0003	0.0003
+cm wing	BEYOND CUTOFF and FILTERED OUT	sequence_with_XP_chunk	Bad	0.15	0.002	0.0003
+buxu	BEYOND_CUTOFF	SIMPLE	Good	1	0.0003	0.0003
+fly	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0008	0.00024
+ocular	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Medium	0.2	0.0011	0.00022000000000000003
+wind	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0003	0.00020999999999999998
+talk	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0003	0.00020999999999999998
+stop	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0003	0.00020999999999999998
+span	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0003	0.00020999999999999998
+push	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0003	0.00020999999999999998
+prey	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0003	0.00020999999999999998
+loss	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0003	0.00020999999999999998
+lead	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0003	0.00020999999999999998
+lack	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0003	0.00020999999999999998
+head	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0003	0.00020999999999999998
+harm	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0003	0.00020999999999999998
+gain	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0003	0.00020999999999999998
+fire	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0003	0.00020999999999999998
+coat	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0003	0.00020999999999999998
+wearing	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.002	0.0002
+warming	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.002	0.0002
+storing	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.002	0.0002
+seeking	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.002	0.0002
+putting	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.002	0.0002
+pumping	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.002	0.0002
+pulling	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.002	0.0002
+looking	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.002	0.0002
+infused	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.002	0.0002
+greater	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.002	0.0002
+getting	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.002	0.0002
+fueling	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.002	0.0002
+evening	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.002	0.0002
+dumping	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.002	0.0002
+divided	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.002	0.0002
+culling	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.002	0.0002
+causing	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.002	0.0002
+burying	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.002	0.0002
+bowling	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.002	0.0002
+angular	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.002	0.0002
+thorax "	BEYOND CUTOFF and FILTERED OUT	bad_character	Bad	0.05	0.0037	0.00018500000000000002
+saihō-ji	BEYOND CUTOFF and FILTERED OUT	bad_character	Bad	0.05	0.0037	0.00018500000000000002
+cotulaa’	BEYOND CUTOFF and FILTERED OUT	bad_character	Bad	0.05	0.0037	0.00018500000000000002
+tansy	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0005	0.00015
+swamp	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0005	0.00015
+stuff	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0005	0.00015
+snuff	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0005	0.00015
+salad	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0005	0.00015
+poppy	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0005	0.00015
+phlox	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0005	0.00015
+petal	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0005	0.00015
+pansy	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0005	0.00015
+ovary	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0005	0.00015
+organ	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0005	0.00015
+onion	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0005	0.00015
+mould	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0005	0.00015
+model	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0005	0.00015
+giant	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0005	0.00015
+fluid	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0005	0.00015
+cream	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0005	0.00015
+color	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0005	0.00015
+chest	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0005	0.00015
+calyx	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0005	0.00015
+bowel	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0005	0.00015
+aster	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0005	0.00015
+woolly	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0011	0.00011000000000000002
+raised	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0011	0.00011000000000000002
+having	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0011	0.00011000000000000002
+diving	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0011	0.00011000000000000002
+burned	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0011	0.00011000000000000002
+biting	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0011	0.00011000000000000002
+august	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0011	0.00011000000000000002
+arctic	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0011	0.00011000000000000002
+acidic	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0011	0.00011000000000000002
+toxic	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Medium	0.2	0.0005	0.0001
+syn	BEYOND_CUTOFF	SIMPLE	Good	1	0.0001	0.0001
+spp	BEYOND_CUTOFF	SIMPLE	Good	1	0.0001	0.0001
+rna	BEYOND_CUTOFF	SIMPLE	Good	1	0.0001	0.0001
+rfa	BEYOND_CUTOFF	SIMPLE	Good	1	0.0001	0.0001
+rem	BEYOND_CUTOFF	SIMPLE	Good	1	0.0001	0.0001
+rai	BEYOND_CUTOFF	SIMPLE	Good	1	0.0001	0.0001
+phthorá	BEYOND CUTOFF and FILTERED OUT	bad_character	Bad	0.05	0.002	0.0001
+nih	BEYOND_CUTOFF	SIMPLE	Good	1	0.0001	0.0001
+nba	BEYOND_CUTOFF	SIMPLE	Good	1	0.0001	0.0001
+mul	BEYOND_CUTOFF	SIMPLE	Good	1	0.0001	0.0001
+mid- to	BEYOND CUTOFF and FILTERED OUT	bad_character	Bad	0.05	0.002	0.0001
+jīn yín	BEYOND CUTOFF and FILTERED OUT	bad_character	Bad	0.05	0.002	0.0001
+irc	BEYOND_CUTOFF	SIMPLE	Good	1	0.0001	0.0001
+epa	BEYOND_CUTOFF	SIMPLE	Good	1	0.0001	0.0001
+dna	BEYOND_CUTOFF	SIMPLE	Good	1	0.0001	0.0001
+bht	BEYOND_CUTOFF	SIMPLE	Good	1	0.0001	0.0001
+bha	BEYOND_CUTOFF	SIMPLE	Good	1	0.0001	0.0001
+bce	BEYOND_CUTOFF	SIMPLE	Good	1	0.0001	0.0001
+amb	BEYOND_CUTOFF	SIMPLE	Good	1	0.0001	0.0001
+6in	BEYOND_CUTOFF	SIMPLE	Good	1	0.0001	0.0001
+2in	BEYOND_CUTOFF	SIMPLE	Good	1	0.0001	0.0001
+1ft	BEYOND_CUTOFF	SIMPLE	Good	1	0.0001	0.0001
+year	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0003	8.999999999999999e-05
+whip	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0003	8.999999999999999e-05
+wand	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0003	8.999999999999999e-05
+vine	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0003	8.999999999999999e-05
+rosa	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0003	8.999999999999999e-05
+pine	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0003	8.999999999999999e-05
+pest	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0003	8.999999999999999e-05
+noun	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0003	8.999999999999999e-05
+mare	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0003	8.999999999999999e-05
+loam	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0003	8.999999999999999e-05
+leaf	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0003	8.999999999999999e-05
+lawn	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0003	8.999999999999999e-05
+lady	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0003	8.999999999999999e-05
+king	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0003	8.999999999999999e-05
+hook	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0003	8.999999999999999e-05
+flux	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0003	8.999999999999999e-05
+flus	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0003	8.999999999999999e-05
+flea	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0003	8.999999999999999e-05
+feed	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0003	8.999999999999999e-05
+exam	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0003	8.999999999999999e-05
+disk	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0003	8.999999999999999e-05
+cyst	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0003	8.999999999999999e-05
+core	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0003	8.999999999999999e-05
+cole	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0003	8.999999999999999e-05
+book	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0003	8.999999999999999e-05
+bone	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0003	8.999999999999999e-05
+bird	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0003	8.999999999999999e-05
+beet	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0003	8.999999999999999e-05
+bean	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0003	8.999999999999999e-05
+acid	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0003	8.999999999999999e-05
+war	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0001	7e-05
+sex	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0001	7e-05
+sea	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0001	7e-05
+law	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0001	7e-05
+dig	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0001	7e-05
+cap	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Medium	0.7	0.0001	7e-05
+tromsø	BEYOND CUTOFF and FILTERED OUT	bad_character	Bad	0.05	0.0011	5.500000000000001e-05
+phytón	BEYOND CUTOFF and FILTERED OUT	bad_character	Bad	0.05	0.0011	5.500000000000001e-05
+honshū	BEYOND CUTOFF and FILTERED OUT	bad_character	Bad	0.05	0.0011	5.500000000000001e-05
+silky	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0005	5e-05
+royal	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0005	5e-05
+great	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0005	5e-05
+curly	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0005	5e-05
+web	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0001	3e-05
+tub	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0001	3e-05
+san	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0001	3e-05
+pea	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0001	3e-05
+men	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0001	3e-05
+flu	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0001	3e-05
+fil	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0001	3e-05
+die	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0001	3e-05
+cox	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0001	3e-05
+axe	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0001	3e-05
+age	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0001	3e-05
+ombú	BEYOND CUTOFF and FILTERED OUT	bad_character	Bad	0.05	0.0003	1.4999999999999999e-05
+big	BEYOND CUTOFF and FILTERED OUT	In_or_Out_of_Dictionary	Bad	0.1	0.0001	1e-05
+km²	BEYOND CUTOFF and FILTERED OUT	bad_character	Bad	0.05	0.0001	5e-06
+jīn	BEYOND CUTOFF and FILTERED OUT	bad_character	Bad	0.05	0.0001	5e-06
+wu	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0	0.0
+mt	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0	0.0
+lb	BEYOND_CUTOFF	SIMPLE	Good	1	0.0	0.0
+kg	BEYOND_CUTOFF	SIMPLE	Good	1	0.0	0.0
+ha	BEYOND CUTOFF and FILTERED OUT	SIMPLE	Bad	0.3	0.0	0.0
+ft	BEYOND_CUTOFF	SIMPLE	Good	1	0.0	0.0
+en	BEYOND_CUTOFF	SIMPLE	Good	1	0.0	0.0
+ec	BEYOND_CUTOFF	SIMPLE	Good	1	0.0	0.0
+dc	BEYOND_CUTOFF	SIMPLE	Good	1	0.0	0.0

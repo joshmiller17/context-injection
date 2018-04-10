@@ -6,6 +6,18 @@ __pycache__/
 # C extensions
 *.so
 
+#databases
+The_Termolator
+updated_database
+practice_data
+SecondTestDB
+SmallExampleBackground
+background.list
+*.dict_abbr_to_full
+*.dict_full_to_abbr
+temporary_TERMOLATOR_POS.properties
+ReadTestDB
+
 # Distribution / packaging
 .Python
 env/

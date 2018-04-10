@@ -1,0 +1,400 @@
+
+
+cultivar
+ is defined as: [u'The term cultivar most commonly refers to an assemblage of plants selected for desirable characters that are maintained during propagation.', u'The naming of cultivars is an important aspect of cultivated plant taxonomy, and the correct naming of a cultivar is prescribed by the Rules and Recommendations of the International Code of Nomenclature for Cultivated Plants (ICNCP, commonly denominated the Cultivated Plant Code).']
+
+
+nematode
+ is defined as: [u'The nematodes (UK: , US: ) or roundworms constitute the phylum Nematoda (also called Nemathelminthes).', u'The location of the various plants and animals would still be decipherable, and, had we sufficient knowledge, in many cases even their species could be determined by an examination of their erstwhile nematode parasites.']
+
+
+invasive specie
+ is defined as: [u'An invasive species is a plant, fungus, or animal species that is not native to a specific location (an introduced species), and that has a tendency to spread to a degree believed to cause damage to the environment, human economy or human health.', u'Sometimes the term is used to describe a non-native or introduced species that has become widespread (p. 136).']
+
+
+ragweed
+ is defined as: [u'Ragweeds are flowering plants in the genus Ambrosia in the aster family, Asteraceae.', u'Several species have been introduced to the Old World and some have naturalized and have become invasive species.']
+
+
+gypsy moth
+ is defined as: [u'Lymantria dispar dispar, commonly known as the gypsy moth, European gypsy moth, or North American gypsy moth, is a moth in the family Erebidae that is of Eurasian origin.', u'It is listed as one of the 100 most destructive invasive species worldwide.']
+
+
+wikipedia article
+ is defined as: unknown error
+
+
+mediterranean
+ is defined as: [u'The Mediterranean Sea is a sea connected to the Atlantic Ocean, surrounded by the Mediterranean Basin and almost completely enclosed by land: on the north by Southern Europe and Anatolia, on the south by North Africa, and on the east by the Levant.', u'It covers an approximate area of 2.5 million km2 (965,000 sq mi), but its connection to the Atlantic (the Strait of Gibraltar) is only 14 km (8.7 mi) wide.']
+
+
+scale insect
+ is defined as: [u'The scale insects are small insects of the order Hemiptera, suborder Sternorrhyncha.', u'They comprise the superfamily Coccoidea, previously placed in the now obsolete group called "Homoptera".']
+
+
+goldenrod
+ is defined as: [u'Solidago, commonly called goldenrods, is a genus of about 100 to 120 species of flowering plants in the aster family, Asteraceae.', u'They are mostly native to North America, including Mexico; a few species are native to South America and Eurasia.']
+
+
+ailanthus
+ is defined as: [u'Ailanthus (; derived from ailanto, an Ambonese word probably meaning "tree of the gods" or "tree of heaven") is a genus of trees belonging to the family Simaroubaceae, in the order Sapindales (formerly Rutales or Geraniales).', u'The genus is native from east Asia south to northern Australasia.']
+
+
+mile-a-minute weed
+ is defined as: [u'Charles Minthorn Murphy (October 1870 \u2013 February 16, 1950), also known as Mile-a-Minute Murphy, was an American cycling athlete.', u"He performed this feat in 1899 by drafting behind a Long Island Rail Road (LIRR) passenger car along the LIRR's Central Branch between Farmingdale and Babylon on Long Island."]
+
+
+ragwort
+ is defined as: [u'Jacobaea vulgaris, syn.', u'In the western United States it is generally known as tansy ragwort, or tansy, though its resemblance to the true tansy is superficial.']
+
+
+specie
+ is defined as: [u'A coin is a small, flat, (usually) round piece of metal or plastic used primarily as a medium of exchange or legal tender.', u'Coins made of valuable metal are stored in large quantities as bullion coins.']
+
+
+species
+ is defined as: [u'In biology, a species is the basic unit of classification and a taxonomic rank, as well as a unit of biodiversity, but it has proven difficult to find a satisfactory definition.', u'Among organisms that reproduce only asexually, the concept of a reproductive species breaks down, and each clone is potentially a microspecies.']
+
+
+neem oil
+ is defined as: [u'Neem oil is a vegetable oil pressed from the fruits and seeds of the neem (Azadirachta indica), an evergreen tree which is endemic to the Indian subcontinent and has been introduced to many other areas in the tropics.', u'It is the most important of the commercially available products of neem for organic farming and medicines.']
+
+
+mealybug
+ is defined as: [u'Mealybugs are insects in the family Pseudococcidae, unarmored scale insects found in moist, warm climates.', u'Many species are considered pests as they feed on plant juices of greenhouse plants, house plants and subtropical trees and also act as a vector for several plant diseases.']
+
+
+wikipedia
+ is defined as: [u'Wikipedia ( ( listen),  ( listen) WIK-ih-PEE-dee-\u0259) is a multilingual, web-based, free-content encyclopedia project supported by the Wikimedia Foundation and based on a model of openly editable content.', u'As of March 2017, Wikipedia has about 40,000 high-quality articles, known as Featured Articles and Good Articles, that cover vital topics.']
+
+
+sugar maple
+ is defined as: [u'Acer saccharum, the sugar maple or rock maple, is a species of maple native to the hardwood forests of eastern Canada, from Nova Scotia west through Quebec and southern Ontario to southeastern Manitoba around Lake of the Woods, and the northern parts of the Central and Eastern United States, from Minnesota eastward to the highlands of the eastern states.', u'Sugar maple is best known for its bright fall foliage and for being the primary source of maple syrup.']
+
+
+biocontrol
+ is defined as: [u'Biological control or biocontrol is a method of controlling pests such as insects, mites, weeds and plant diseases using other organisms.', u'Natural enemies of insect pests, also known as biological control agents, include predators, parasitoids, pathogens, and competitors.']
+
+
+asteraceae
+ is defined as: [u'Asteraceae or Compositae (commonly referred to as the aster, daisy, composite, or sunflower family) is a very large and widespread family of flowering plants (Angiospermae).', u'Asteraceae are important in herbal medicine, including Grindelia, yarrow, and many others.']
+
+
+australia
+ is defined as: [u'Australia ( ( listen)), officially the Commonwealth of Australia, is a sovereign country comprising the mainland of the Australian continent, the island of Tasmania and numerous smaller islands.', u"Australia has the world's 9th largest immigrant population, with immigrants accounting for 26% of the population."]
+
+
+instar	instars
+ is defined as: [u'An instar ( ( listen), from the Latin "form", "likeness") is a developmental stage of arthropods, such as insects, between each moult (ecdysis), until sexual maturity is reached.', u'The number of instars an insect undergoes depends on the species and the environmental conditions.']
+
+
+ornamental plant
+ is defined as: [u'Ornamental plants are plants that are grown for decorative purposes in gardens and landscape design projects, as houseplants, for cut flowers and specimen display.', u'The cultivation of these, called floriculture, forms a major branch of horticulture.']
+
+
+life cycle
+ is defined as: [u'In biology, a biological life cycle (or just life cycle when the biological context is clear) is a series of changes in form that an organism undergoes, returning to the starting state.', u'To return from a diploid stage to a haploid stage, meiosis must occur.']
+
+
+new zealand
+ is defined as: [u'New Zealand ( ( listen); M\u0101ori: Aotearoa [a\u0254\u02c8t\u025ba\u027e\u0254a]) is an island country in the southwestern Pacific Ocean.', u"New Zealand's capital city is Wellington, while its most populous city is Auckland."]
+
+
+pennsylvania
+ is defined as: [u'Pennsylvania ( ( listen); Pennsylvania German: Pennsylvaani or Pennsilfaani), officially the Commonwealth of Pennsylvania, is a state located in the northeastern and Mid-Atlantic regions of the United States.', u'Pennsylvania has 140 miles (225 km) of shoreline along Lake Erie and the Delaware Estuary.']
+
+
+petiole
+ is defined as: [u'In botany, the petiole () is the stalk that attaches the leaf blade to the stem.', u'Leaves lacking a petiole are called sessile or epetiolate.']
+
+
+host plant
+ is defined as: [u'In biology and medicine, a host is an organism that harbours a parasitic, a mutualistic, or a commensalist guest (symbiont), the guest typically being provided with nourishment and shelter.', u'More specifically in botany, a host plant supplies food resources to micropredators, which have an evolutionarily stable relationship with their hosts similar to ectoparasitism.']
+
+
+organic gardener
+ is defined as: [u'The following outline is provided as an overview of and topical guide to organic gardening and farming:\nOrganic farming \u2013 alternative agricultural system that relies on fertilizers of organic origin such as compost, manure, green manure, and bone meal and places emphasis on techniques such as crop rotation and companion planting.', u'In general, organic standards are designed to allow the use of naturally occurring substances while prohibiting or strictly limiting synthetic substances.']
+
+
+longhorn beetle
+ is defined as: [u"The longhorn beetles (Cerambycidae; also known as long-horned or longhorn beetles or longicorns) are a cosmopolitan family of beetles, typically characterized by extremely long antennae, which are often as long as or longer than the beetle's body.", u'A number of species mimic ants, bees, and wasps, though a majority of species are cryptically colored.']
+
+
+pokeweed
+ is defined as: [u'Pondweed refers to many species and genera of aquatic plants and green algae:\nPotamogeton, a diverse and worldwide genus\nElodea, found in North America\nAponogeton, in Africa, Asia and Australasia\nGroenlandia, a genus of aquatic plants\nStuckenia, a genus of aquatic plants\nCharales, an order of green algae']
+
+
+ragweed pollen
+ is defined as: [u'Ragweeds are flowering plants in the genus Ambrosia in the aster family, Asteraceae.', u'Several species have been introduced to the Old World and some have naturalized and have become invasive species.']
+
+
+epidermal cell
+ is defined as: [u'The epidermis is the outer layer of the three layers that make up the skin, the inner layers being the dermis and hypodermis.', u'The rows of cells develop from the stem cells in the basal layer.']
+
+
+velvetleaf
+ is defined as: [u'Velvetleaf (or "velvet leaf", etc.)', u'is a common name used for plants with soft-haired leaves:\nAbutilon theophrasti native to southern Asia\nCissampelos pareira, native to tropical America\nLavatera arborea, native to Europe\nLimnocharis flava, native to tropical America and introduced to southeast Asia']
+
+
+california
+ is defined as: [u'California is a state in the Pacific Region of the United States of America.', u"Los Angeles is California's most populous city, and the country's second-most populous, after New York City."]
+
+
+fungi
+ is defined as: [u'A fungus (plural: fungi or funguses) is any member of the group of eukaryotic organisms that includes microorganisms such as yeasts and molds, as well as the more familiar mushrooms.', u'Fungi include symbionts of plants, animals, or other fungi and also parasites.']
+
+
+massachusett
+ is defined as: [u'The Massachusett are a Native American people who historically lived in areas surrounding Massachusetts Bay, as well as northeast and southern Massachusetts in what is now the Commonwealth of Massachusetts, including present-day Greater Boston.', u'Descendants of the Massachusett continue to inhabit the Greater Boston area, but they are not a federally recognized tribe.']
+
+
+hemlock woolly adelgid
+ is defined as: [u'Hemlock woolly adelgid (Adelges tsugae), or HWA, is member of the Sternorrhyncha suborder of the order Hemiptera and native to East Asia.', u'In eastern North America it is a destructive pest that threatens the eastern hemlock (Tsuga canadensis) and the Carolina hemlock (Tsuga caroliniana).']
+
+
+loosestrife
+ is defined as: [u'Loosestrife is a common name for plants within two different genera:\nLythrum\nLysimachia']
+
+
+herbaceous plant
+ is defined as: [u'Herbaceous plants (in botanical use frequently simply herbs) are plants that have no persistent woody stem above ground.', u'Herbaceous perennial and biennial plants may have stems that die at the end of the growing season, but parts of the plant survive under or close to the ground from season to season (for biennials, until the next growing season, when they flower and die).']
+
+
+wikibook
+ is defined as: [u'Wikibooks (previously called Wikimedia Free Textbook Project and Wikimedia-Textbooks) is a wiki-based Wikimedia project hosted by the Wikimedia Foundation for the creation of free content e-book textbooks and annotated texts that anyone can edit.', u'In June 2016, Compete.com estimated that Wikibooks had 1,478,812 unique visitors.']
+
+
+viburnum
+ is defined as: [u'Viburnum is a genus of about 150\u2013175 species of shrubs or (in a few species) small trees in the moschatel family, Adoxaceae.', u'The leaves are eaten by the larvae of many Lepidoptera species.']
+
+
+forewing
+ is defined as: [u'Insect wings are adult outgrowths of the insect exoskeleton that enable insects to fly.', u'In insects with direct flight, the wing muscles directly attached to the wing base, so that a small downward movement of the wing base lifts the wing itself upward.']
+
+
+multiflora rose
+ is defined as: [u'Rosa multiflora (syn.', u'Rosa polyantha) is a species of rose known commonly as multiflora rose, baby rose, Japanese rose, many-flowered rose, seven-sisters rose, and Eijitsu rose.']
+
+
+family rosaceae
+ is defined as: [u'Rosaceae, the rose family, is a medium-sized family of flowering plants, including 4,828 known species in 91 genera.', u'Among the most species-rich genera are Alchemilla (270), Sorbus (260), Crataegus (260), Cotoneaster (260), Rubus (250), and Prunus (plums, cherries, peaches, apricots, and almonds) with about 200 species.']
+
+
+deciduous tree
+ is defined as: [u'In the fields of horticulture and botany, the term deciduous means "falling off at maturity" and "tending to fall off", in reference to trees and shrubs that seasonally shed leaves, usually in the autumn; to the shedding of petals, after flowering; and to the shedding of ripe fruit.', u'Wood from deciduous trees is used in a variety of ways in several industries including lumber for furniture, construction and flooring (oak), ornamental, bowling pins and baseball bats (maple) and furniture, cabinets, plywood and paneling (birch).']
+
+
+multiflora
+ is defined as: [u'Cleobulia is a genus of flowering plants in the legume family, Fabaceae.', u'It belongs to the subfamily Faboideae.']
+
+
+mugwort
+ is defined as: [u'Mugwort is a common name for several species of aromatic plants in the genus Artemisia.', u'They are also used as an herb to flavor food.']
+
+
+beet armyworm
+ is defined as: [u'The beet armyworm or small mottled willow moth (Spodoptera exigua) is one of the best-known agricultural pest insects.', u'It is also known as the asparagus fern caterpillar.']
+
+
+food crop
+ is defined as: [u'A crop is a plant or animal product that can be grown and harvested extensively for profit or subsistence.', u'Horticulture crops include plants used for other crops (e.g.']
+
+
+hemiptera
+ is defined as: [u'The Hemiptera  or true bugs are an order of insects comprising some 50,000 to 80,000 species of groups such as the cicadas, aphids, planthoppers, leafhoppers, and shield bugs.', u'Most hemipterans feed on plants, using their sucking and piercing mouthparts to extract plant sap.']
+
+
+entomopathogenic fungi
+ is defined as: [u'An entomopathogenic fungus is a fungus that can act as a parasite of insects and kills or seriously disables them.']
+
+
+plant specie
+ is defined as: [u'Speciation is the evolutionary process by which populations evolve to become distinct species.', u'He also identified sexual selection as a likely mechanism, but found it problematic.']
+
+
+phytophthora
+ is defined as: [u'Phytophthora (from Greek \u03c6\u03c5\u03c4\u03cc\u03bd (phyt\xf3n), \u201cplant\u201d and \u03c6\u03b8\u03bf\u03c1\u03ac (phthor\xe1), \u201cdestruction\u201d; \u201cthe plant-destroyer\u201d) is a genus of plant-damaging Oomycetes (water molds), whose member species are capable of causing enormous economic losses on crops worldwide, as well as environmental damage in natural ecosystems.', u'The genus was first described by Heinrich Anton de Bary in 1875.']
+
+
+cut flower
+ is defined as: [u'Cut flowers are flowers or flower buds (often with some stem and leaf) that have been cut from the plant bearing it.', u'Often the plants are raised specifically for the purpose, in field or glasshouse growing conditions.']
+
+
+neem
+ is defined as: [u'A need is something that is necessary for an organism to live a healthy life.', u'When needs or wants are backed by purchasing power, they have the potential to become economic demands.']
+
+
+acer
+ is defined as: unknown error
+
+
+invasive weed
+ is defined as: [u'An invasive species is a plant, fungus, or animal species that is not native to a specific location (an introduced species), and that has a tendency to spread to a degree believed to cause damage to the environment, human economy or human health.', u'Sometimes the term is used to describe a non-native or introduced species that has become widespread (p. 136).']
+
+
+ground beetle
+ is defined as: [u'Ground beetles are a large, cosmopolitan family of beetles, Carabidae, with more than 40,000 species worldwide, around 2,000 of which are found in North America and 2,700 in Europe.', u'It is one of the ten largest animal families, as of 2015.']
+
+
+common yarrow
+ is defined as: [u'Achillea millefolium, commonly known as yarrow  or common yarrow, is a flowering plant in the family Asteraceae.', u"Other common names for this species include gordaldo, nosebleed plant, old man's pepper, devil's nettle, sanguinary, milfoil, soldier's woundwort, thousand-leaf, and thousand-seal."]
+
+
+herbaceous perennial plant
+ is defined as: [u'Herbaceous plants (in botanical use frequently simply herbs) are plants that have no persistent woody stem above ground.', u'Herbaceous perennial and biennial plants may have stems that die at the end of the growing season, but parts of the plant survive under or close to the ground from season to season (for biennials, until the next growing season, when they flower and die).']
+
+
+purple loosestrife
+ is defined as: [u'Lythrum salicaria (purple loosestrife) is a flowering plant belonging to the family Lythraceae.', u'It should not be confused with other plants sharing the name loosestrife that are members of the family Primulaceae.']
+
+
+muscardine disease
+ is defined as: [u'Muscardine is a disease of insects.', u'It is caused by many species of entomopathogenic fungus.']
+
+
+mare reproductive loss syndrome	mrls
+ is defined as: [u'Mare reproductive loss syndrome (MRLS) is a syndrome consisting of equine abortions and three related nonreproductive syndromes which occur in horses of all breeds, sexes, and ages.', u'When ETCs returned to Kentucky in the spring of 2002, equine exposure to caterpillars was immediately shown to produce abortions.']
+
+
+agricultural pest
+ is defined as: [u'A pest is a plant or animal detrimental to humans or human concerns including crops, livestock, and forestry.', u'An older usage is of a deadly epidemic disease, specifically plague.']
+
+
+host tree
+ is defined as: [u'A banyan, also spelled "banian", is a fig that begins its life as an epiphyte, i. e. a plant that grows on another plant, when its seed germinates in a crack or crevice of a host tree or human edifice.', u'"Banyan" often specifically denominates Ficus benghalensis (the "Indian banyan"), which is the national tree of the Republic of India, though the name has also been generalized to denominate all figs that share a common life cycle and used systematically in taxonomy to denominate the subgenus Urostigma.']
+
+
+achene
+ is defined as: [u'An achene (Greek \u1f00, a, privative + \u03c7\u03b1\u03af\u03bd\u03b5\u03b9\u03bd, chainein, to gape; also sometimes called akene and occasionally achenium or achenocarp) is a type of simple dry fruit produced by many species of flowering plants.', u'Achenes contain a single seed that nearly fills the pericarp, but does not adhere to it.']
+
+
+numerous cultivar
+ is defined as: no definition found
+
+
+lepidoptera
+ is defined as: [u'Lepidoptera ( lep-i-DOP-t\u0259r-\u0259) is an order of insects that includes butterflies and moths (both are called lepidopterans).', u'Many moth and butterfly species are of economic interest by virtue of their role as pollinators, the silk they produce, or as pest species.']
+
+
+no-dig gardening
+ is defined as: [u'No-dig gardening is a non-cultivation method used by some organic gardeners.', u'Guest, who in 1948 published the book "Gardening Without Digging".']
+
+
+fungal infection
+ is defined as: [u'Mycosis (plural: mycoses) is a fungal infection of animals, including humans.', u'Fungal infections of the skin was the 4th most common disease in 2010 affecting 984 million people.']
+
+
+amur honeysuckle
+ is defined as: [u'Lonicera maackii, the Amur honeysuckle, is a species of honeysuckle in the family Caprifoliaceae that is native to temperate western Asia, specifically in northern and western China south to Yunnan, Mongolia, Primorsky Krai in southeastern Russia, Korea, and, albeit rare there, central and northern Honsh\u016b, Japan.', u'The plant is a large, deciduous shrub that grows a maximum of 6 m tall with stems of a maximum of 10 cm in diameter.']
+
+
+organic matter
+ is defined as: [u'Organic matter, organic material, or natural organic matter (NOM) refers to the large pool of carbon-based compounds found within natural and engineered, terrestrial and aquatic environments.', u'Organic matter is very important in the movement of nutrients in the environment and plays a role in water retention on the surface of the planet.']
+
+
+parasitoid
+ is defined as: [u"A parasitoid is an organism that lives in close association with its host and at the host's expense, and which sooner or later kills it.", u'Other parasitoids are in the Diptera, Coleoptera and other orders of endopterygote insects.']
+
+
+ovipositor
+ is defined as: [u'The ovipositor is an organ used by some animals for the laying of eggs.', u'Grasshoppers use their ovipositors to force a burrow into the earth to receive the eggs.']
+
+
+glyphosate
+ is defined as: [u'Glyphosate (N-(phosphonomethyl)glycine) is a broad-spectrum systemic herbicide and crop desiccant.', u'Farmers quickly adopted glyphosate, especially after Monsanto introduced glyphosate-resistant Roundup Ready crops, enabling farmers to kill weeds without killing their crops.']
+
+
+trail pheromone
+ is defined as: [u'Trail pheromones are semiochemicals secreted from the body of an individual to impact the behavior of another individual receiving it.', u'Considered one of the primary chemical signaling methods in which many social insects depend on, trail pheromone deposition can be considered one of the main facets to explain the success of social insect communication today.']
+
+
+deciduous shrub
+ is defined as: [u'In the fields of horticulture and botany, the term deciduous means "falling off at maturity" and "tending to fall off", in reference to trees and shrubs that seasonally shed leaves, usually in the autumn; to the shedding of petals, after flowering; and to the shedding of ripe fruit.', u'Wood from deciduous trees is used in a variety of ways in several industries including lumber for furniture, construction and flooring (oak), ornamental, bowling pins and baseball bats (maple) and furniture, cabinets, plywood and paneling (birch).']
+
+
+gypsy moth egg
+ is defined as: [u'Lymantria dispar, the gypsy moth, are moths in the family Erebidae.', u'Lymantria dispar covers many subspecies, subspecies identification such as L. d. dispar or L. d. japonica leaves no ambiguity in identification.']
+
+
+gypsy
+ is defined as: [u'The Romani (also spelled Romany , ), or Roma, are a traditionally itinerant ethnic group, living mostly in Europe and the Americas and originating from the northern Indian subcontinent, from the Rajasthan, Haryana, Punjab and Sindh regions of modern-day India and Pakistan.', u'The total number of Romani people is at least twice as large (several times as large according to high estimates).']
+
+
+serious pest
+ is defined as: [u'A pest is a plant or animal detrimental to humans or human concerns including crops, livestock, and forestry.', u'An older usage is of a deadly epidemic disease, specifically plague.']
+
+
+ground cover
+ is defined as: [u'Groundcover or ground cover is any plant that grows over an area of ground.', u'In an ecosystem, the ground cover forms the layer of vegetation below the shrub layer known as the herbaceous layer.']
+
+
+triclopyr
+ is defined as: [u'Triclopyr (3,5,6-Trichloro-2-pyridinyloxyacetic acid) is an organic compound in the pyridine group that is used as a systemic, foliar herbicide and fungicide.']
+
+
+roundworm
+ is defined as: [u'The nematodes (UK: , US: ) or roundworms constitute the phylum Nematoda (also called Nemathelminthes).', u'The location of the various plants and animals would still be decipherable, and, had we sufficient knowledge, in many cases even their species could be determined by an examination of their erstwhile nematode parasites.']
+
+
+neem seed
+ is defined as: [u'Neem oil is a vegetable oil pressed from the fruits and seeds of the neem (Azadirachta indica), an evergreen tree which is endemic to the Indian subcontinent and has been introduced to many other areas in the tropics.', u'It is the most important of the commercially available products of neem for organic farming and medicines.']
+
+
+grapevine fanleaf virus
+ is defined as: [u'Grapevine fanleaf virus (GFLV) is a plant pathogenic virus of the family Secoviridae.', u"The virus has an RNA genome contained on two RNA molecules, each of which is covalently attached to a small protein (the viral genome-linked protein, VPg) at the 5' end."]
+
+
+seed pod
+ is defined as: [u'In botany, a fruit is the seed-bearing structure in flowering plants (also known as angiosperms) formed from the ovary after flowering.', u'Fruits are the means by which angiosperms disseminate seeds.']
+
+
+metarhizium anisopliae
+ is defined as: [u'Metarhizium anisopliae, formerly known as Entomophthora anisopliae (basionym), is a fungus that grows naturally in soils throughout the world and causes disease in various insects by acting as a parasitoid.', u'It has long been recognised that many isolates are specific, and they were assigned variety status, but they have now been assigned as new Metarhizium species, such as M. anisopliae, M. majus and M. acridum (which was M. anisopliae var.']
+
+
+biological insecticide
+ is defined as: [u"Biopesticides, a contraction of 'biological pesticides', include several types of pest management intervention: through predatory, parasitic, or chemical relationships.", u'The term has been associated historically with biological control \u2013 and by implication \u2013 the manipulation of living organisms.']
+
+
+elytra
+ is defined as: [u'In Greek mythology, Elektra (; Greek: \u1f28\u03bb\u03ad\u03ba\u03c4\u03c1\u03b1, \u0112lektra "amber") was the daughter of King Agamemnon and Queen Clytemnestra, and thus princess of Argos.', u'In psychology, the Electra complex is named after her.']
+
+
+corymb
+ is defined as: [u'Corymb is a botanical term for an inflorescence with the flowers growing in such a fashion that the outermost are born on longer pedicels than the inner, bringing all flowers up to a common level.', u'Flowers in a corymb structure can either be parallel, or alternate, and form in either a convex, or flat form.']
+
+
+disease issue
+ is defined as: [u"A disease is a particular abnormal condition that affects part or all of an organism not caused by external force (see 'injury') and that consists of a disorder of a structure or function, usually serving as an evolutionary disadvantage.", u'There are four main types of disease: infectious diseases, deficiency diseases, genetic diseases (both hereditary and non-hereditary), and physiological diseases.']
+
+
+basal rosette
+ is defined as: [u'In botany, a rosette is a circular arrangement of leaves or of structures resembling leaves.', u'In flowering plants, rosettes usually sit near the soil, their structure is an example of a modified stem in which the internode gaps between the leaves do not expand, so that all the leaves remain clustered tightly together and at a similar height.']
+
+
+mint family lamiaceae
+ is defined as: [u'Lamiaceae ( or ) or Labiatae is a family of flowering plants commonly known as the mint or deadnettle family.', u'Others are grown for seed, such as Salvia hispanica (chia), or for their edible tubers, such as Plectranthus edulis, Plectranthus esculentus, Plectranthus rotundifolius, and Stachys affinis (Chinese artichoke).']
+
+
+serviceberry
+ is defined as: [u'Amelanchier ( am-\u0259-LAN-sheer), also known as shadbush, shadwood or shadblow, serviceberry or sarvisberry, or just sarvis, juneberry, saskatoon, sugarplum or wild-plum, and chuckley pear is a genus of about 20 species of deciduous-leaved shrubs and small trees in the Rose family (Rosaceae).', u'The inflorescences are terminal, with 1\u201320 flowers, erect or drooping, either in clusters of one to four flowers, or in racemes with 4\u201320 flowers.']
+
+
+nippon daisy
+ is defined as: [u'Nipponanthemum nipponicum, common names "Nippon daisy" or "Montauk daisy," is a plant species native to coastal regions of Japan but cultivated as an ornamental in other regions.', u'Flower heads are up to 8 cm (3 inches)across and are borne singly.']
+
+
+organic lawn
+ is defined as: [u'Organic lawn management is the practice of establishing and caring for a garden lawn using organic horticulture, without the use of chemical inputs such as pesticides or artificial fertilisers.', u'It is a component of organic land care and organic sustainable landscaping which adapt the principles and methods of sustainable gardening and organic farming to the care of lawns and gardens.']
+
+
+noxious weed
+ is defined as: [u'A noxious weed, harmful weed or injurious weed is a weed that has been designated by an agricultural authority as one that is injurious to agricultural or horticultural crops, natural habitats or ecosystems, or humans or livestock.', u'Some noxious weeds are native.']
+
+
+parasitize insect entomopathogenic nematode
+ is defined as: [u'Entomopathogenic nematodes are a group of nematodes (thread worms), causing death to insects.', u'They are the only insect-parasitic nematodes possessing an optimal balance of biological control attributes.']
+
+
+subspecy
+ is defined as: [u'In biological classification, the term subspecies refers to a unity of populations of a species living in a subdivision of the species\u2019s global range and varies from other populations of the same species by morphological characteristics.', u'or "ssp.']

@@ -1,0 +1,399 @@
+
+
+conlang
+ is defined as: [u'Cooling is the transfer of thermal energy via thermal radiation, heat conduction or convection.', u'Examples include:']
+
+
+conlanger
+ is defined as: [u'Numa Denis Fustel de Coulanges (French: [kul\u0251\u0303\u0292]; 18 March 1830 \u2013 12 September 1889) was a French historian.', u'The book argued that:\nReligion was the sole factor in the evolution of ancient Greece and Rome, the bonding of family and state was the work of religion, that because of ancestor worship the family, drawn together by the need to engage in the ancestral cults, became the basic unit of ancient societies, expanding to the gens, the Greek phratry, the Roman tribe, to the patrician city state, and that decline in religious belief and authority in the moral crisis provoked by Roman wealth and expansion doomed the republic and resulted in the triumph of Christianity and the death of the ancient city state.']
+
+
+esperanto
+ is defined as: [u'Esperanto ( or ; Esperanto: Esperanto [espe\u02c8ranto]  listen ) is a constructed international auxiliary language.', u'The Polish-Jewish ophthalmologist L. L. Zamenhof published the first book detailing Esperanto, Unua Libro, in Warsaw on July 26 [O.S.']
+
+
+natlang
+ is defined as: [u"Nangang District (simplified Chinese: \u5357\u5c97\u533a; traditional Chinese: \u5357\u5d17\u5340; pinyin: N\xe1ng\u01ceng Q\u016b) is one of nine districts of Harbin, the capital of Heilongjiang province, People's Republic of China, forming part of the city's urban core.", u'There are also many famous streets in Nangang District, such as Tieling Street, Guogeli Street, Anshan Street, Longjiang Street, Jilin Street, Ashihe Street, etc.']
+
+
+relative clause
+ is defined as: [u'A relative clause is a kind of subordinate clause that contains an element whose interpretation is provided by an antecedent on which the subordinate clause is grammatically dependent; that is, there is an anaphora relation between the relativized element in the relative clause and the antecedent on which it depends.', u'In some languages, more than one of these mechanisms may be possible.']
+
+
+polysynthetic language
+ is defined as: [u'In linguistic typology, polysynthetic languages are highly synthetic languages, i.e.', u'languages in which words are composed of many morphemes (word parts that have independent meaning but may or may not be able to stand alone).']
+
+
+indo-european language
+ is defined as: [u'The Indo-European languages are a language family of several hundred related languages and dialects.', u'It was predominant in ancient Anatolia (present-day Turkey), the ancient Tarim Basin (present-day Northwest China) and most of Central Asia until the medieval Turkic and Mongol invasions.']
+
+
+ergative language
+ is defined as: [u'Ergative\u2013absolutive languages, or ergative languages are languages sharing a certain distinctive pattern relating to the subjects (technically, arguments) of verbs.', u'but differently from the object of a transitive verb ("her" in the sentence "She likes her.").']
+
+
+conlanging
+ is defined as: [u'A constructed language (sometimes called a conlang) is a language whose phonology, grammar, and vocabulary have been consciously devised for human or human-like communication, instead of having developed naturally.', u'The term glossopoeia is also used to mean language construction, particularly construction of artistic languages.']
+
+
+artlang
+ is defined as: no definition found
+
+
+mass noun
+ is defined as: [u'In linguistics, a mass noun, uncountable noun, or non-count noun is a noun with the syntactic property that any quantity of it is treated as an undifferentiated unit, rather than as something with discrete subsets.', u'Non-count nouns are distinguished from count nouns.']
+
+
+indo-european
+ is defined as: [u'Proto-Indo-European (PIE) is the linguistic reconstruction of the hypothetical common ancestor of the Indo-European languages, the most widely spoken language family in the world.', u"PIE had an elaborate system of morphology that included inflectional suffixes (analogous to English life, lives, life's, lives') as well as ablaut (vowel alterations, for example, as preserved in English sing, sang, sung) and accent."]
+
+
+relex
+ is defined as: [u'R\'lyeh is a fictional lost city that first appeared in the H. P. Lovecraft short story "The Call of Cthulhu", first published in Weird Tales in June 1928.', u'There lay great Cthulhu and his hordes, hidden in green slimy vaults.']
+
+
+anaphor
+ is defined as: [u'An anchor is a device, normally made of metal, used to connect a vessel to the bed of a body of water to prevent the craft from drifting due to wind or current.', u'Anchors can either be temporary or permanent.']
+
+
+proto-language
+ is defined as: [u'A proto-language, in the tree model of historical linguistics, is a language, usually hypothetical or reconstructed, and usually unattested, from which a number of attested known languages are believed to have descended by evolution, forming a language family.', u'Occasionally, the German term Ursprache (from Ur- "primordial" and Sprache "language", pronounced [\u02c8u\u02d0\u0250\u032f\u0283p\u0281a\u02d0x\u0259]) is used instead.']
+
+
+phonetic alphabet
+ is defined as: [u'Phonetic transcription (also known as phonetic script or phonetic notation) is the visual representation of speech sounds (or phones).', u'The most common type of phonetic transcription uses a phonetic alphabet, such as the International Phonetic Alphabet.']
+
+
+auxlang
+ is defined as: [u'An international auxiliary language (sometimes abbreviated as IAL or auxlang) or interlanguage is a language meant for communication between people from different nations who do not share a common first language.', u'However, as these languages are associated with the very dominance\u2014cultural, political, and economic\u2014that made them popular, they are often also met with resistance.']
+
+
+engelang
+ is defined as: [u'Engelmann may refer to:\nEngelmann Oak, also called Pasadena Oak\nEngelmann Spruce, a medium-sized evergreen tree\nEngelmann syndrome, a rare autosomal dominant genetic disorder\nEngelmann is the surname of:\nEduard Engelmann Jr. (1864\u20131944), Austrian figure skater, engineer, and cyclist\nFranklin Engelmann (1908\u20131972), British radio personality, popular 1950s and 1960s\nGeorge Engelmann (1809\u20131884), German-American botanist\nGeorge Julius Engelmann (1847\u20131903), American obstetrician and gynecologist\nGodefroy Engelmann (1788\u20131839), Franco-German lithographer\nHelene Engelmann (1898\u20131985), Austrian figure skater\nHugo O. Engelmann (1917\u20132002), American sociologist, anthropologist and general systems theorist\nPaul Engelmann (1891\u20131965), Jewish-Austrian architect\nPeter Engelmann (1823\u20131874), German American educationist and writer\nTheodor Wilhelm Engelmann (1843\u20131909), German botanist, physiologist, microbiologist, university professor, and musician\nThorsten Engelmann (b.', u'1981), German rower']
+
+
+conlang mailing list
+ is defined as: no definition found
+
+
+arabic
+ is defined as: [u'Arabic (Arabic: \u0627\u0644\u0639\u064e\u0631\u064e\u0628\u0650\u064a\u064e\u0651\u0629\u200e) al-\u02bbarabiyyah [\u0294al\u0295ara\u02c8bij\u02d0ah] ( listen) or (Arabic: \u0639\u064e\u0631\u064e\u0628\u0650\u064a\u0651\u200e) \u02bbarab\u012b [\u02c8\u0295arabi\u02d0] ( listen) or [\u0295ara\u02c8bij]) is a Central Semitic language that first emerged in Iron Age northwestern Arabia and is now the lingua franca of the Arab world.', u'As a result, many European languages have also borrowed many words from it.']
+
+
+transitive verb
+ is defined as: [u'A transitive verb is a verb that requires one or more objects.', u'Verbs that do not require an object are called intransitive verbs.']
+
+
+noun phrase
+ is defined as: [u'A noun phrase or nominal phrase (abbreviated NP) is a phrase which has a noun (or indefinite pronoun) as its head, or which performs the same grammatical function as such a phrase.', u'Noun phrases are very common cross-linguistically, and they may be the most frequently occurring phrase type.']
+
+
+subcategory
+ is defined as: [u'In mathematics, a subcategory of a category C is a category S whose objects are objects in C and whose morphisms are morphisms in C with the same identities and composition of morphisms.', u'Intuitively, a subcategory of C is a category obtained from C by "removing" some of its objects and arrows.']
+
+
+lenition
+ is defined as: [u'In linguistics, lenition is a kind of sound change that alters consonants, making them more sonorous.', u'The word lenition itself means "softening" or "weakening" (from Latin lenis = weak).']
+
+
+ergative
+ is defined as: [u'The ergative case (abbreviated erg) is the grammatical case that identifies the noun as a subject of a transitive verb in ergative\u2013absolutive languages.']
+
+
+definitene
+ is defined as: [u'The Definitive is a show on MTV2.', u'Episode list:\nEpisode 2: Animation\nTupac - "Do For Love"\nPearl Jam - "Do the Evolution"\nRed Hot Chili Peppers - "Californication"\n\nEpisode 43: Drag\nAerosmith - "Dude (Looks like a Lady)"\nThe Donnas - "Take It Off"\nEminem - "Without Me"\nFoo Fighters - "Learn to Fly"\nJane\'s Addiction - "Been Caught Stealing"\nMadonna - "Express Yourself"\nMarilyn Manson - "The Dope Show"\nNirvana - "In Bloom"\nNo Doubt - "Ex-Girlfriend"\nQueens of the Stone Age - "Monsters in the Parasol"\nU2 - "One" (drag version)\n\nEpisode 44: Winona\nBeck - "Devil\'s Haircut"\nBright Eyes - "Bowl of Oranges"\nCounting Crows - "Mr. Jones"\nFoo Fighters - "Learn to Fly"\nHelmet - "Unsung"\nPete Yorn - "Life on a Chain"\nThe Replacements - "I\'ll Be You"\nRyan Adams - "New York, New York"\nSoul Asylum - "Runaway Train"\nTom Petty - "Into the Great Wide Open"\nThe Wallflowers - "6th Avenue Heartache"']
+
+
+count noun
+ is defined as: [u'In linguistics, a count noun (also countable noun) is a noun that can be modified by a numeral and that occurs in both singular and plural forms, and that co-occurs with quantificational determiners like every, each, several, etc.', u'A mass noun has none of these properties, because it cannot be modified by a numeral, cannot occur in plural, and cannot co-occur with quantificational determiners.']
+
+
+intransitive verb
+ is defined as: [u'In grammar, an intransitive verb does not allow a direct object.', u'Intransitive verbs can often be identified as those which can\'t be followed by a "who" or a "what".']
+
+
+ungrammatical sentence
+ is defined as: [u"In theoretical linguistics, a speaker's judgement on the well-formedness of a linguistic utterance\u2014called a grammaticality judgement\u2014is based on whether the sentence is produced and interpreted in accordance with the rules and constraints of the relevant grammar.", u'On the other hand, for linguists who stress the role of social learning, in contrast to innate knowledge of language, such as Hopper 1987 there has been a gradual abandonment of talk about grammaticality in favour of acceptability.']
+
+
+personal language
+ is defined as: [u'An artistic language, or artlang, is a constructed language designed for aesthetic pleasure.', u'Unlike engineered languages or auxiliary languages, artistic languages often have irregular grammar systems, much like natural languages.']
+
+
+loglang
+ is defined as: [u'Upland and lowland are conditional descriptions of a plain based on elevation above sea level.', u'In studies of the ecology of freshwater rivers, habitats are classified as upland and lowland.']
+
+
+r-expression
+ is defined as: [u'In certain theories of syntax, an R-expression (short for referring expression) is a category in the three-way classification of noun phrases in binding theory, the other two being anaphors and pronominals.', u'Examples of typical R-expressions are "Lisa", "the dog", "my pet unicorn", "the last chapter of the book", and "Janel\'s cigarettes".']
+
+
+sonority hierarchy
+ is defined as: [u'A sonority hierarchy or sonority scale is a ranking of speech sounds (or phones) by amplitude.', u'For example, if one says the vowel [a], they will produce a much louder sound than if one says the stop [t].']
+
+
+sandhi
+ is defined as: [u'Sandhi (Sanskrit: \u0938\u0902\u0927\u093f sa\u1e43dh\xed "joining") is a cover term for a wide variety of sound changes that occur at morpheme or word boundaries.', u'Sandhi occurs in many languages, including particularly prominently in the phonology of Indian languages (especially Sanskrit, Telugu, Marathi, Hindi, Pali, Kannada, Bengali, Assamese, Malayalam), as well as in some North Germanic languages']
+
+
+ditransitive verb
+ is defined as: [u'In grammar, a ditransitive verb is a verb which takes a subject and two objects which refer to a theme and a recipient.', u'In languages which mark grammatical case, it is common to differentiate the objects of a ditransitive verb using, for example, the accusative case for the direct object, and the dative case for the indirect object (but this morphological alignment is not unique; see below).']
+
+
+phonotactic
+ is defined as: [u'Phonotactics (from Ancient Greek ph\u014dn\u1e17 "voice, sound" and tactic\xf3s "having to do with arranging") is a branch of phonology that deals with restrictions in a language on the permissible combinations of phonemes.', u'Syllables have the following internal segmental structure:\nOnset (optional)\nRhyme (obligatory, comprises nucleus and coda):\nNucleus (obligatory)\nCoda (optional)\n\nBoth onset and coda may be empty, forming a vowel-only syllable, or alternatively, the nucleus can be occupied by a syllabic consonant.']
+
+
+fictional language
+ is defined as: [u'Fictional languages are constructed languages created as part of a fictional setting, for example in books, movies and video games.', u"Some of these languages, e.g., in worlds of fantasy fiction, alternate universes, Earth's future, or alternate history, are presented as distorted versions or dialects of modern English or other natural language, while others are independently designed conlangs."]
+
+
+singular first-person subject
+ is defined as: [u'Grammatical person, in linguistics, is the grammatical distinction between deictic references to participant(s) in an event; typically the distinction is between the speaker (first person), the addressee (second person), and others (third person).', u'Put in simple colloquial English, first person is that which includes the speaker, namely, "I," "we," "me," and "us," second person is the person or people spoken to, literally, "you," and third person includes all that is not listed above.']
+
+
+sentence subject
+ is defined as: [u"The subject in a simple English sentence such as John runs, John is a teacher, or John was hit by a car is the person or thing about whom the statement is made, in this case 'John'.", u'But there are some languages such as Basque or Greenlandic, in which the form of a noun or pronoun when the verb is intransitive (he ran) is different from when the verb is transitive (he broke the window).']
+
+
+philosophical language
+ is defined as: [u'A philosophical language is any constructed language that is constructed from first principles, like a logical language, but may entail a strong claim of absolute perfection or transcendent or even mystical truth rather than satisfaction of pragmatic goals.', u'Philosophical languages are almost all a priori languages, but most a priori languages are not philosophical languages.']
+
+
+phoenician
+ is defined as: [u'Phoenicia (UK:  or US: ; from the Ancient Greek: \u03a6\u03bf\u03b9\u03bd\u03af\u03ba\u03b7, Phoin\xedk\u0113 meaning "purple country") was a thalassocratic ancient Semitic civilization that originated in the Eastern Mediterranean and in the west of the Fertile Crescent.', u'Around 1050 BC, a Phoenician alphabet was used for the writing of Phoenician.']
+
+
+morse code
+ is defined as: [u'Morse code is a method of transmitting text information as a series of on-off tones, lights, or clicks that can be directly understood by a skilled listener or observer without special equipment.', u'The letters of a word are separated by a space equal to three dots (one dash), and the words are separated by a space equal to seven dots.']
+
+
+ergativity
+ is defined as: [u'Ergative\u2013absolutive languages, or ergative languages are languages sharing a certain distinctive pattern relating to the subjects (technically, arguments) of verbs.', u'but differently from the object of a transitive verb ("her" in the sentence "She likes her.").']
+
+
+cyrillic script
+ is defined as: [u'The Cyrillic script  is a writing system used for various alphabets across Eurasia (particularity in Eastern Europe, the Caucasus, Central Asia, and North Asia).', u'The new form of letters became closer to the Latin alphabet, several archaic letters were removed and several letters were personally designed by Peter the Great (such as \u042f which was inspired by Latin R).']
+
+
+noun class
+ is defined as: [u'In linguistics, a noun class is a particular category of nouns.', u'Some authors use the term "grammatical gender" as a synonym of "noun class", but others use different definitions for each.']
+
+
+altlang
+ is defined as: [u'Altman is a surname.', u'Notable people with the surname include:\nBenjamin Altman (1840\u20131913), American retailer, founder of B. Altman & Co. and art collector\nDavid R. Altman (1915\u20132000), American advertising executive\nDennis Altman (born 1943), Australian academic and pioneering gay rights activist\nDoug Altman, English statistician\nEdith Altman (born 1931), German-American artist\nEdward I. Altman, (born 1941), American professor of finance, creator of Altman Z-score bankruptcy prediction model\nGeorges Altman (born 1901), French journalist and resistance fighter\nHoward Altman (born 1960), American journalist\nIda Altman (born 1950), American historian\nJeff Altman (born 1951), American comedian\nJohn Altman (actor) (born 1952), English actor\nJohn Altman (composer), English soundtrack composer\nJoseph Altman, American neuroscientist and biologist who discovered adult neurogenesis in the 1960s\nKoby Altman (born 1982/1983), American basketball executive\nMark Altman (disambiguation), several people\nMike Altman (born 1955), American songwriter\nMitch Altman, hacker and inventor\nMoyshe Altman (1890\u20131981), Russian Yiddish writer\nNaomi Altman, Canadian-American statistician\nNathan Altman (1889\u20131970), Russian painter\nPhyllis Altman (1919\u20131999), South African trade unionist and anti-apartheid activist\nRoger Altman, founder of Evercore Partners and former U.S. Deputy treasury secretary\nRobert Altman (1925\u20132006), American film director\nRobert A. Altman, American lawyer involved in Bank of Credit and Commerce International scandal\nSam Altman, President of Y Combinator\nScott Altman (born 1959), American astronaut\nSean Altman (born 1961), American musician and songwriter\nSemen Altman (born 1946), Ukrainian football coach\nSidney Altman (born 1939), Canadian biologist\nStuart Altman (born 1937), American Health-care economist\nTosia Altman (1918\u20131943), Polish Jewish resistance fighter']
+
+
+abugida
+ is defined as: [u"An abugida  (from Ge'ez: \u12a0\u1261\u130a\u12f3 \u2019abugida), or alphasyllabary, is a segmental writing system in which consonant\u2013vowel sequences are written as a unit: each unit is based on a consonant letter, and vowel notation is secondary.", u'As Daniels used the word, an abugida is in contrast with a syllabary, where letters with shared consonants or vowels show no particular resemblance to one another, and also with an alphabet proper, where independent letters are used to denote both consonants and vowels.']
+
+
+suprasegmental
+ is defined as: [u'In linguistics, suprasegmentals are contrastive elements of speech that cannot be easily analyzed as distinct segments but rather belong to a syllable or word.', u'These elements include intonation, stress and juncture.']
+
+
+backslash
+ is defined as: [u'The backslash (\\) is a typographical mark (glyph) used mainly in computing and is the mirror image of the common slash (/).', u'In Unicode, it is encoded at U+005C \\ REVERSE SOLIDUS (HTML &#92;).']
+
+
+labiodental approximant
+ is defined as: [u'The labiodental approximant is a type of consonantal sound, used in some spoken languages.', u'As the voiceless /f/ is also realized as an approximant ([\u028b\u0325]), it is also an example of a language contrasting voiceless and voiced labiodental approximants.']
+
+
+active-stative language
+ is defined as: [u'This article may contain information that is already published in another article on the same subject or may be repeating information already explained.', u'For example, in some languages, "me fell," is regarded as less impersonal and more empathic.']
+
+
+kaja kaji kajv kija kiji kijv kvja kvji kvjv kaj
+ is defined as: no definition found
+
+
+right-to-left
+ is defined as: [u'The left\u2013right political spectrum is a system of classifying political positions, ideologies and parties.', u'Left-wing politics and right-wing politics are often presented as opposed, although a particular individual or group may take a left-wing stance on one matter and a right-wing stance on another; and some stances may overlap and be considered either left- or right-wing depending on the ideology.']
+
+
+polysynthetic
+ is defined as: [u'In linguistic typology, polysynthetic languages are highly synthetic languages, i.e.', u'languages in which words are composed of many morphemes (word parts that have independent meaning but may or may not be able to stand alone).']
+
+
+noun incorporation
+ is defined as: [u'Incorporation is a phenomenon by which a grammatical category, such as a verb, forms a compound with its direct object (object incorporation) or adverbial modifier, while retaining its original syntactic function.', u'However, polysynthesis does not necessarily imply incorporation (Mithun 2009); neither does the presence of incorporation in a language imply that that language is polysynthetic.']
+
+
+sapir-whorf hypothesis
+ is defined as: [u"The principle of linguistic relativity holds that the structure of a language affects its speakers' world view or cognition.", u'The term "Sapir\u2013Whorf hypothesis" is considered a misnomer by linguists for several reasons: Edward Sapir and Benjamin Lee Whorf never co-authored any works, and never stated their ideas in terms of a hypothesis.']
+
+
+micronational language
+ is defined as: [u'An artistic language, or artlang, is a constructed language designed for aesthetic pleasure.', u'Unlike engineered languages or auxiliary languages, artistic languages often have irregular grammar systems, much like natural languages.']
+
+
+sov
+ is defined as: [u'Santander Bank, N. A.', u'It offers an array of financial services and products including retail banking, mortgages, corporate banking, cash management, credit card, capital markets, trust and wealth management, and insurance.']
+
+
+quenya
+ is defined as: [u'Quenya (pronounced [\u02c8k\u02b7\u025bnja]) is a fictional language devised by J. R. R. Tolkien and used by the Elves in his legendarium.', u'As the Noldor remained in Middle-earth, their Noldorin dialect of Quenya also gradually diverged from the Vanyarin dialect spoken in Valinor, undergoing both sound changes and grammatical changes.']
+
+
+clitic
+ is defined as: [u'A clitic ( from Greek \u03ba\u03bb\u03b9\u03c4\u03b9\u03ba\u03cc\u03c2 klitikos, "inflexional") is a morpheme in morphology and syntax that has syntactic characteristics of a word, but depends phonologically on another word or phrase.', u'In other words, clitics have the form of affixes, but the distribution of function words.']
+
+
+singular first-person
+ is defined as: [u'Grammatical person, in linguistics, is the grammatical distinction between deictic references to participant(s) in an event; typically the distinction is between the speaker (first person), the addressee (second person), and others (third person).', u'Put in simple colloquial English, first person is that which includes the speaker, namely, "I," "we," "me," and "us," second person is the person or people spoken to, literally, "you," and third person includes all that is not listed above.']
+
+
+tonal language
+ is defined as: [u'Tone is the use of pitch in language to distinguish lexical or grammatical meaning \u2013 that is, to distinguish or to inflect words.', u'In many tonal African languages, such as most Bantu languages, tones are distinguished by their pitch level relative to each other, known as a register tone system.']
+
+
+kaja kaji kajv kija kiji kijv kvja kvji kvjv
+ is defined as: no definition found
+
+
+postposition
+ is defined as: [u'Prepositions and postpositions, together called adpositions (or broadly, in English, simply prepositions), are a class of words used to express spatial or temporal relations (in, under, towards, before) or mark various semantic roles (of, for).', u'A preposition comes before its complement; a postposition comes after its complement.']
+
+
+polysynthesi
+ is defined as: [u'In linguistic typology, polysynthetic languages are highly synthetic languages, i.e.', u'languages in which words are composed of many morphemes (word parts that have independent meaning but may or may not be able to stand alone).']
+
+
+formal logic
+ is defined as: [u'Mathematical logic is a subfield of mathematics exploring the applications of formal logic to mathematics.', u'Mathematical logic is often divided into the fields of set theory, model theory, recursion theory, and proof theory.']
+
+
+wikibook
+ is defined as: [u'Wikibooks (previously called Wikimedia Free Textbook Project and Wikimedia-Textbooks) is a wiki-based Wikimedia project hosted by the Wikimedia Foundation for the creation of free content e-book textbooks and annotated texts that anyone can edit.', u'In June 2016, Compete.com estimated that Wikibooks had 1,478,812 unique visitors.']
+
+
+internet
+ is defined as: [u'The Internet is the global system of interconnected computer networks that use the Internet protocol suite (TCP/IP) to link devices worldwide.', u'Most traditional communications media, including telephony, radio, television, paper mail and newspapers are reshaped, redefined, or even bypassed by the Internet, giving birth to new services such as email, Internet telephony, Internet television, online music, digital newspapers, and video streaming websites.']
+
+
+ejective
+ is defined as: [u'In phonetics, ejective consonants are usually voiceless consonants that are pronounced with a glottalic egressive airstream.', u'Some languages have glottalized sonorants with creaky voice that pattern with ejectives phonologically, and other languages have ejectives that pattern with implosives, which has led to phonologists positing a phonological class of glottalic consonants, which includes ejectives.']
+
+
+apophony
+ is defined as: [u'In linguistics, apophony (also known as ablaut, (vowel) gradation, (vowel) mutation, alternation, internal modification, stem modification, stem alternation, replacive morphology, stem mutation, internal inflection etc.)', u'is any sound change within a word that indicates grammatical information (often inflectional).']
+
+
+pharyngeal fricative
+ is defined as: [u'A pharyngeal consonant is a consonant that is articulated primarily in the pharynx.', u'In addition, consonants and vowels may be secondarily pharyngealized.']
+
+
+intransitive subject
+ is defined as: [u'In grammar, an intransitive verb does not allow a direct object.', u'Intransitive verbs can often be identified as those which can\'t be followed by a "who" or a "what".']
+
+
+epiglottal fricative
+ is defined as: [u'The voiceless epiglottal or pharyngeal trill, also analyzed as a fricative, is a type of consonantal sound, used in some spoken languages.', u'The symbol in the International Phonetic Alphabet that represents this sound is \u27e8\u029c\u27e9, and the equivalent X-SAMPA symbol is H\\.']
+
+
+word-building affix
+ is defined as: [u'In linguistics, an affix is a morpheme that is attached to a word stem to form a new word or word form.', u'They are bound morphemes by definition; prefixes and suffixes may be separable affixes.']
+
+
+pulmonic ingressive
+ is defined as: [u'In phonetics, ingressive sounds are sounds by which the airstream flows inward through the mouth or nose.', u'The majority of sounds in most languages, such as vowels, are both pulmonic and egressive.']
+
+
+big-picture insight
+ is defined as: [u'Seeing the Big Picture: Business Acumen to Build Your Credibility, Career, and Company was published in March 2012 by Greenleaf Book Group.', u'In the book, Cope presents what he calls the "Five Business Drivers"; Cash, Profit, Assets, Growth, and People.']
+
+
+original language word-replacement code
+ is defined as: [u'Ten-codes, officially known as ten signals, are brevity codes used to represent common phrases in voice communication, particularly by law enforcement and in Citizens Band (CB) radio transmissions.', u'The codes, developed during 1937\u20131940 and expanded in 1974 by the Association of Public-Safety Communications Officials-International (APCO), allow brevity and standardization of message traffic.']
+
+
+kaja kaji kajv kija kiji kijv kvja kvji
+ is defined as: no definition found
+
+
+micronation
+ is defined as: [u'A micronation, sometimes referred to as a model country or new country project, is an entity that claims to be an independent nation or state but is not recognized by world governments or major international organizations.', u'The earliest known micronations date from the beginning of the 19th century.']
+
+
+esperantist
+ is defined as: [u'An Esperantist (Esperanto: Esperantisto) is a person who speaks Esperanto, a proponent or supporter of Esperanto or a specialist of Esperanto.', u'According to the Declaration of Boulogne, a document agreed upon at the first World Esperanto Congress in 1905, an Esperantist is someone who speaks Esperanto and uses it for any purpose.']
+
+
+approximant
+ is defined as: [u'Approximants are speech sounds that involve the articulators approaching each other but not narrowly enough nor with enough articulatory precision to create turbulent airflow.', u'This class of sounds includes lateral approximants like [l] (as in less), non-lateral approximants like [\u0279] (as in rest), and semivowels like [j] and [w] (as in yes and west, respectively).']
+
+
+romance language
+ is defined as: [u'The Romance languages (sometimes called the Romanic languages, Latin languages, or Neo-Latin languages) are the modern languages that evolved from Vulgar Latin between the sixth and ninth centuries and that thus form a branch of the Italic languages within the Indo-European language family.', u'The five most widely spoken Romance languages by number of native speakers are Spanish (470 million), Portuguese (250 million), French (150 million), Italian (60 million), and Romanian (25 million).']
+
+
+diachronic conlang
+ is defined as: no definition found
+
+
+elvish language
+ is defined as: [u'Elvish languages are constructed languages used by Elves in a fantasy setting.']
+
+
+singular first-person subject prefix
+ is defined as: [u'In linguistics, clusivity is a grammatical distinction between inclusive and exclusive first-person pronouns and verbal morphology, also called inclusive "we" and exclusive "we".', u'The first published description of the inclusive-exclusive distinction by a European linguist was in a description of languages of Peru in 1560 by Domingo de Santo Tom\xe1s in his Grammatica o arte de la lengua general de los indios de los Reynos del Per\xfa, published in Valladolid, Spain.']
+
+
+noun usage fine semantic distinction
+ is defined as: [u'Russian grammar employs an Indo-European inflexional structure, with considerable adaptation.', u'The spoken language has been influenced by the literary one, with some additional characteristic forms.']
+
+
+i-just-bought-this-bycycle-yesterday
+ is defined as: no definition found
+
+
+tolkien
+ is defined as: [u'John Ronald Reuel Tolkien,  (; 3 January 1892 \u2013 2 September 1973) was an English writer, poet, philologist, and university professor who is best known as the author of the classic high fantasy works The Hobbit, The Lord of the Rings, and The Silmarillion.', u'In 2008, The Times ranked him sixth on a list of "The 50 greatest British writers since 1945".']
+
+
+intonation distinction
+ is defined as: no definition found
+
+
+agglutinative language
+ is defined as: [u'An agglutinative language is a type of synthetic language with morphology that primarily uses agglutination: words may contain different morphemes to determine their meanings, but all of these morphemes (including stems and affixes) remain, in every aspect, unchanged after their unions, thus resulting in generally more easily deducible word meanings if compared to fusional languages, which allow modifications in either or both the phonetics or spelling of one or more morphemes within a word, usually shortening the word or providing easier pronunciation.', u'For example, Japanese has very few irregular verbs \u2013 only two are significantly irregular, and there are only about a dozen others with only minor irregularity; Ganda has only one (or two, depending on how "irregular" is defined); while in the Quechua languages, all the ordinary verbs are regular.']
+
+
+sapir-whorf hypothesis exploration
+ is defined as: [u"The principle of linguistic relativity holds that the structure of a language affects its speakers' world view or cognition.", u'The term "Sapir\u2013Whorf hypothesis" is considered a misnomer by linguists for several reasons: Edward Sapir and Benjamin Lee Whorf never co-authored any works, and never stated their ideas in terms of a hypothesis.']
+
+
+kaja kaji kajv kija kiji kijv kvja
+ is defined as: no definition found
+
+
+indigenous language north-american
+ is defined as: no definition found
+
+
+suppletion
+ is defined as: [u'In linguistics and etymology, suppletion is traditionally understood as the use of one word as the inflected form of another word when the two words are not cognate.', u'For those learning a language, suppletive forms will be seen as "irregular" or even "highly irregular".']
+
+
+professional linguist marc okrand
+ is defined as: [u'Marc Okrand (; born July 3, 1948) is an American linguist.', u'His professional work is in Native American languages, and he is well known as the creator of the Klingon language in the Star Trek science fiction franchise.']
+
+
+linguistic relativity
+ is defined as: [u"The principle of linguistic relativity holds that the structure of a language affects its speakers' world view or cognition.", u'The term "Sapir\u2013Whorf hypothesis" is considered a misnomer by linguists for several reasons: Edward Sapir and Benjamin Lee Whorf never co-authored any works, and never stated their ideas in terms of a hypothesis.']
+
+
+syllable nucleus
+ is defined as: [u'A syllable is a unit of organization for a sequence of speech sounds.', u'For example, the word water is composed of two syllables: wa and ter.']
+
+
+percussive click
+ is defined as: [u'The alveolar or postalveolar clicks are a family of click consonants found only in Africa and in the Damin ritual jargon of Australia.', u'The tail of \u27e8\u0297\u27e9 may be the tail of retroflex consonants in the IPA, and thus analogous to the underdot of \u27e8\u01c3\u27e9.']
+
+
+adverbial clause
+ is defined as: [u'An adverbial clause is a dependent clause that functions as an adverb; that is, the entire clause modifies a verb, an adjective, or another adverb.', u'(adverbial phrase; contains no subject or predicate)\n\nWe left before the speeches.']
+
+
+syllabical structure restriction is defined as: no definition found

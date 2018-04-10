@@ -1,0 +1,41 @@
+
+
+insurance policy
+ is defined as: [u'In insurance, the insurance policy is a contract (generally a standard form contract) between the insurer and the insured, known as the policyholder, which determines the claims which the insurer is legally required to pay.', u'The textbook also states that the policy must refer to all papers which are part of the policy.']
+
+
+species list
+ is defined as: [u'On 29 January 2010, the IUCN Red List of Threatened Species identified 5220 (2754 Animalia, 1 Fungi, 2464 Plantae, 1 Protista) endangered species, subspecies and varieties, stocks and sub-populations.', u"For IUCN lists of endangered species by kingdom, see:\nHaywan*'kingdom Animalia) \u2014 IUCN Red List endangered species (Animalia)\nAmphibians \u2014 List of endangered amphibians\nBirds \u2014 List of endangered birds\nFish \u2014 List of endangered fishes\nInvertebrates \u2014 List of endangered invertebrates\nArthropods \u2014 List of endangered arthropods\nInsects \u2014 List of endangered insects\n\nMolluscs List of endangered molluscs\n\nMammals \u2014 List of endangered mammals\nReptiles \u2014 List of endangered reptiles\n\nFungi (kingdom Fungi) \u2014 IUCN Red List endangered species (Fungi)\nPlants (kingdom Plantae) \u2014 IUCN Red List endangered species (Plantae)\nProtists (kingdom Protista) \u2014 IUCN Red List endangered species (Protista)"]
+
+
+job security
+ is defined as: [u'Job security is the probability that an individual will keep their job; a job with a high level of job security is such that a person with the job would have a small chance of becoming unemployed.', u'Jobs that traditionally have a strong union presence such as many government jobs and jobs in education, healthcare and law enforcement are considered very secure while many non-unionized private sector jobs are generally believed to offer lower job security, although this varies by industry and country.']
+
+
+preeminent stature
+ is defined as: no definition found
+
+
+lead worker
+ is defined as: [u'Lead is a chemical element with symbol Pb (from the Latin plumbum) and atomic number 82.', u"In the late 19th century, lead's toxicity was recognized, and its use has since been phased out of many applications."]
+
+
+renaissance humanist
+ is defined as: [u'Renaissance humanism is the study of classical antiquity, at first in Italy and then spreading across Western Europe in the 14th, 15th, and 16th centuries.', u'The studia humanitatis excluded logic, but they added to the traditional grammar and rhetoric not only history, Greek, and moral philosophy, but also made poetry, once a sequel of grammar and rhetoric, the most important member of the whole group.']
+
+
+building trade guild
+ is defined as: [u'Guild socialism is a political movement advocating workers\' control of industry through the medium of trade-related guilds "in an implied contractual relationship with the public".', u'It was strongly associated with G. D. H. Cole and influenced by the ideas of William Morris.']
+
+
+
+restoration edifice
+ is defined as: [u'The \xc9difice Price (English: Price Building) is an 18-floor (originally 16) skyscraper in Quebec City, Canada.', u'Built in 1930-1931 amid controversy for Price Brothers Limited, it is the tallest building in the Old Quebec historical district, and one of the oldest skyscrapers in Canada.']
+
+
+presumptuous person
+ is defined as: [u'Venezuelan Spanish (castellano venezolano or espa\xf1ol venezolano) refers to the Spanish language as spoken in Venezuela.', u'The Venezuelan "snob" (or "sifrino" in colloquial Venezuelan Spanish) accent is often thought of as the "pretty-boy/pretty-girl" or "boy band" accent of Spanish.']
+
+
+classical antiquity
+ is defined as: [u'Classical antiquity (also the classical era, classical period or classical age) is the long period of cultural history centered on the Mediterranean Sea, comprising the interlocking civilizations of ancient Greece and ancient Rome, collectively known as the Greco-Roman world.', u'The Romans preserved, imitated and spread over Europe these ideals until they were able to competitively rival the Greek culture, as the Latin language became widespread and the classical world became bilingual, Greek and Latin.']

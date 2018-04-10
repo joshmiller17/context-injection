@@ -6,6 +6,7 @@ Credits: See README.md
 """
 
 from __future__ import print_function
+from __future__ import division
 print("\nReading Wikipedia...\n")
 import wikipedia as wiki
 import nltk
@@ -13,6 +14,10 @@ from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.corpus import stopwords
 from collections import defaultdict
 import string
+import argparse
+import os
+import readability
+from sklearn.externals import joblib
 
 try:
 	stopwords = stopwords.words('english')
@@ -83,7 +88,54 @@ def define(query, summary_length=2, debug=False):
 		return define(e.options[0])
 	except wiki.exceptions.PageError as e:
 		#do something
-		return 'problem happen'
+		return 'no definition found'
+	except:
+		return 'unknown error'
 
 if __name__ == "__main__":
-	define("Debugging", debug=True)
+	parser = argparse.ArgumentParser()
+	parser.add_argument('input', help="Directory of files of jargons to define.")
+	parser.add_argument('-verbose', help="Verbose output.")
+	parser.add_argument('-read', action='store_true', help="Calculate readability of each definition.")
+	args = parser.parse_args()
+	
+	if args.read:
+		try:
+			model = joblib.load("readability_model.pkl", 'r')
+		except Exception as e:
+			print("ERROR: No readability model found on file. Please build readability model before continuing.")
+			exit(1)
+			
+
+	for dirpath, dirnames, filenames in os.walk(args.input):
+		for file in filenames:
+			if file.endswith(".txt") and not file.startswith("defined_"):
+				with open(os.path.join(dirpath,file), 'r') as f:
+					print("Reading " + str(file) + "...")
+					jargons = f.readlines()
+					open(os.path.join(dirpath,"defined_" + file), 'w').close()
+					with open(os.path.join(dirpath,"defined_" + file), 'w') as jf:
+						for jargon in jargons:
+							jf.write("\n\n")
+							jf.write(str(jargon) + " is defined as: ")
+							definition = define(jargon)
+							definition = ' '.join(definition) # collapse across sentences
+							try:
+								definition = definition.decode('utf-8', 'ignore').encode('ascii', 'ignore')
+							except:
+								print("problem happen")
+								continue
+							jf.write(definition + '\n')
+							if args.read:
+								print("Analyzing this definition:")
+								print(definition)
+								print("For this jargon:")
+								print(jargon)
+								def_input = [definition]
+								input_as_feature_vec = readability.feature_extraction(def_input, verbose=args.verbose, text_only=True)
+								prediction = readability.predict(model, input_as_feature_vec)
+								print("Readability prediction:" + "\n" + str(prediction))
+								open(os.path.join(dirpath,jargon + "_read_score.txt"), 'w').close()
+								with open(os.path.join(dirpath,jargon + "_read_score.txt"), 'a') as file:
+									file.write(str(prediction))
+	print("Done.")
