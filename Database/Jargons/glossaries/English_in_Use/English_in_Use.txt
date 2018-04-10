@@ -1,0 +1,977 @@
+Welcome to English in Use, a book about the actual use of the English language. It features sections about types of grammar, punctuation and formality. This wikibook is intended for use by native speakers of English or advanced learners of English as a second/foreign language.
+If you wish to learn English, then you should use one of the English books for students learning English as a second/foreign language. For new learners of English, try English for beginners book. If you have some experience of English but need to refresh your knowledge, try the English for B2 Students Wikibook. If you're preparing for the Cambridge FCE exam (Cambridge English: First), then head to the module. Those interested in English for business contexts should try the Business English Wikibook.
+ - I've edited and created sections for phrasal verbs, articles, capitalization and adjectives
+Both experts and beginners can help to improve this book. If you would like to help, the about page should tell you everything you want to know to help. If you don't have a lot of time to work on this book, there are two simple things you can do. Firstly, you can make sure that is on every page. Type <nowiki></nowiki> on the bottom of the page to include the template. Secondly, you are encouraged to comment on each chapter on its talk page. Don't understand something? Pleaase say so so others don't experience the same problem! If you feel you understand the material on a page pretty well, write some exercises as practice. Be bold!
+</noinclude>
+This template should be added to the bottom of each English in Use page by typing:
+<nowiki></nowiki>
+The five unit names are: Words and usage, Sentences, Punctuation, Other key topics, Appendices and a blank space for all other pages.
+Example: <nowiki></nowiki> To see what this code yields, go to English in Use/Verbs.
+Format: <nowiki></nowiki>
+An <B>Adjective</B> is simply a word which modifies the <B>Noun</B> it is related to. Adjectives usually come before the modified noun. An <B>Adjective</B> could also be a <B>Phrase</B> or a <B>Clause</B> instead of being a single word.
+John bought a "blue" shirt. (single word)
+Last night, a man "in a blue coat" stole my wallet. (phrase)
+I love the car "which just crossed the street". (clause)
+Adverbs are like adjectives, but they modify the verb. Ordinarily, there are three types of adverbs (see above examples).
+He "carefully" left the room.
+He left the room "with a scared face".
+He left the room "which was located on the seventh floor."
+Most single word adverbs are made simply by adding -ly to the end of the respective adjective:
+Careful-ly = in a careful manner
+Usually = in a usual manner (often)
+Simply = in a simple way
+An <B>Adjective</B> is a word added to a <B>Noun</B> or pronoun, and generally expresses quality: as, A wise man; a new book; you two are diligent. Adjectives may be divided into six classes; namely, common, proper, numeral, pronominal, participial, and compound.
+A common <B>Adjective</B> is any ordinary epithet, or <B>Adjective</B> denoting quality or situation: as, "good, bad, peaceful, warlike, eastern, western, outer, inner".
+A proper <B>Adjective</B> is an <B>Adjective</B> formed from a proper name: as, "American, English, Platonic, Genoese".
+A <B>Numeral</B> <B>Adjective</B> is an <B>Adjective</B> that expresses a definite number: as, "one, two, three, four, five, six", etc.
+A <B>Pronominal</B> <B>Adjective</B> is a definitive word which may either accompany its noun, or represent it understood: as,
+That is,
+A participial <B>Adjective</B> is one that has the form of a participle, but differs from it by rejecting the idea of time: as,
+A <B>Compound</B> <B>Adjective</B> is one that consists of two or more words joined together, either by the hyphen or solidly: as, "nut-brown, laughter-loving, four-footed; threefold, lordlike, lovesick".
+Cardinal: "one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty, twenty-one, twenty-two", etc.
+Ordinal: "first, second, third, fourth, fifth, sixth, seventh, eighth, ninth, tenth, eleventh, twelfth, thirteenth, fourteenth, fifteenth, sixteenth, seventeenth, eighteenth, nineteenth, twentieth, twenty-first, twenty-second", etc.
+Multiplicative: "single or alone, double or twofold, triple or threefold, quadruple or fourfold, quintuple or fivefold, sextuple or sixfold, septuple or sevenfold, octuple or eightfold", etc.
+All that occur above decuple or tenfold, are written with a hyphen, and are usually of round numbers only: as, "thirty-fold, sixty-fold, hundred-fold".
+In English, multiple adjectives should follow a certain pattern as follows:
+Although you generally shouldn't use more than 2 or 3 adjectives together it is possible to make a <B>Sentence</B> like this:
+Adjectives have, commonly, no modifications but the forms of comparison. <B>Comparison</B> is a variation of the adjective, to express quality in different degrees: as, "hard, harder, hardest; soft, softer, softest".
+There are three degrees of comparison; the positive, the comparative, and the superlative.
+The "'positive degree" is that which is expressed by the <B>Adjective</B> in its simple form: as,
+The <B>Comparative degree</B> is that which is more or less than something contrasted with it: as,
+The <B>Superlative degree</B> is that which is most or least of all included with it: as,
+Those adjectives whose signification does not admit of different degrees, cannot be compared: as, "two, second, all, every, immortal, infinite".
+Those adjectives which may be varied in sense, but not in form, are compared by means of adverbs: as, "fruitful, more fruitful, most fruitful; fruitful, less fruitful, least fruitful".
+Adjectives are regularly compared, when the <B>Comparative degree</B> is expressed by adding "er", and the superlative, by adding "est" to them: as, "great, greater, greatest; mild, milder, mildest".
+In the variation of adjectives, final consonants are doubled, final "e" is omitted, and final "y" is changed to "i", agreeably to the rules for spelling: as, "hot, hotter, hottest; wide, wider, widest; happy, happier, happiest".
+The regular method of <B>Comparison</B> belongs almost exclusively to monosyllables, with dissyllables ending in "w" or "y", and such others as receive it and still have but one syllable after the accent: as, "fierce, fiercer, fiercest; narrow, narrower, narrowest; gloomy, gloomier, gloomiest; serene, serener, serenest; noble, nobler, noblest; gentle, gentler, gentlest".
+The two degrees of superiority may also be expressed with precisely the same import as above, by prefixing to the <B>Adjective</B> the adverbs "more" and "most": as, "wise, more wise, most wise; famous, more famous, most famous; amiable, more amiable, most amiable".
+The degrees of inferiority are expressed, in like manner, by the adverbs "less" and "least": as, "wise, less wise, least wise; famous, less famous, least famous; amiable, less amiable, least amiable". The regular method of <B>Comparison</B> has, properly speaking, no degrees of this kind.
+Nearly all adjectives that admit of different degrees, may be compared by means of the adverbs; but, for short words, the regular method is generally preferable: as, "quick, quicker, quickest"; rather than, "quick, more quick, most quick".
+The following adjectives are compared irregularly: "good, better, best; bad, evil, or ill, worse, worst; little, less, least; much, more, most; many, more, most".
+Adjectives relate to nouns or pronouns, as "Worldly enjoyments," except the following cases: an intervening verb, as "To err is human," arithmetical numbers, as "Four hundred and fifty-six men," an <B>Abstract</B> adjective, as "Being sublime," and an <B>Adjective</B> as <B>Abstract</B> noun, as "Sensations of sublime."
+An <B>Adjective</B> is placed immediately before noun, as "Vain man," except the following cases: pronouns, as "They left me weary," other words, as "A mind conscious of right," an action, as "Virtue renders life happy," admiration, as "Goodness infinite," a verb, as "Truth stands independent," a <B>Prefix</B> "a", as afraid, the nature of a participle, as "The time then present," poetry, as "Isles atlantic," technical usage, as "Notary public," an adjective, as "A being infinitely wise," several adjectives, as "A woman, modest, sensible, and virtuous," empathy, as "Weighty is the anger," an <B>Adjective</B> in predicate, as "We call the boy good," and an <B>Adjective</B> as adverb, as "Particularly".
+An <B>Adverb</B> is a word added to a verb, a participle, an adjective, or an other adverb; and generally expresses time, place, degree, or manner: as,
+Adverbs can modify a verb, a clause, <B>Adjective</B> or a phrase.
+Adjectives are generally turned into adverbs with the addition of a "ly" suffix. "Ly" is a contraction of like, and is the most common termination of adverbs. When added to nouns, it forms adjectives; but a few of these are also used adverbially: as, "daily, weekly, monthly".
+Examples of adverbs are:
+In the first sentence, the <B>Adverb</B> modifies the <B>Verb</B> swimming. The <B>Adjective</B> "quick" has had a "ly" added to it to make an adverb. In the second sentence, it modifies the entire <B>Sentence</B> and in the final example, the <B>Adverb</B> "much" modifies the <B>Adverb</B> "faster".
+Adverbs have no modifications, except that a few are compared, after the manner of adjectives: as, "soon, sooner, soonest; long, longer, longest; fast, faster, fastest".
+The following are irregularly compared: "well, better, best; badly or ill, worse, worst; little, less, least; much, more, most; far, farther, farthest; forth, further, furthest".
+Adverbs may be reduced to four general classes; namely, adverbs of time, of place, of degree, and of manner. Besides these, it is proper to distinguish the particular class of conjunctive adverbs.
+Adverbs of time are those which answer to the question, when? how long? how soon? or how often?
+Of time present: as, "now, yet, today, nowadays, presently, instantly, immediately, straightway, directly, forthwith".
+Of time past: as, "already, just now, lately, recently, yesterday, formerly, anciently, once, heretofore, hitherto, since, till now, long ago, erewhile, erst".
+Of time to come: as, "tomorrow, hereafter, henceforth, henceforward, by-and-by, soon, erelong, shortly".
+Of time relative: as, "when, then, first, just, before, after, while, whilst, meanwhile, as, till, until, seasonably, betimes, early, late, whenever, afterward, afterwards, otherwhile, otherwhiles".
+Of time absolute: as, "always, ever, never, aye, eternally, forever, perpetually, continually, incessantly, endlessly, evermore, everlastingly".
+Of time repeated: as, "often, oft, again, occasionally, frequently, sometimes, seldom, rarely, daily, weekly, monthly, yearly, annually, once, twice, thrice, or three times".
+Above thrice, we use only the phrases four times, five times, six times, etc. Times, for repetitions, or instances, may be supposed a noun; but such phrases often appear to be used adverbially.
+Adverbs of degree are those which answer to the question, how much? how little? or to the idea of more or less.
+Of excess or abundance: as, "much, more, most, too, very, greatly, far, besides; chiefly, principally, mainly, mostly, generally; entirely, full, fully, completely, perfectly, wholly, totally, altogether, all, quite, clear, stark; exceedingly, excessively, extravagantly, intolerably; immeasurably, inconceivably, infinitely".
+Of equality or sufficiency: as, "enough, sufficiently, competently, adequately, proportionally, equally, so, as, even, just, exactly, precisely".
+Of deficiency or abatement: as, "little, less, least, scarcely, hardly, scantly, scantily merely, barely, only, but, partly, partially, nearly, almost, well-nigh, not quite".
+Of quantity in the abstract: as, "how, however, howsoever, everso, something, anything, nothing, a groat, a sixpence", and other nouns of quantity used adverbially.
+Adverbs of manner are those which answer to the question, how? or, by affirming, denying, or doubting, show how a <B>Subject</B> is regarded.
+Of manner from quality: as, "well, ill, wisely, foolishly, justly, wickedly", and many others formed by adding "ly" to adjectives of quality.
+Of affirmation or assent: as, "yes, yea, ay, verily, truly, indeed, surely, certainly, doubtless, undoubtedly, assuredly, certes, forsooth, amen".
+Of negation: as, "no, nay, not, nowise, noway, noways, nohow".
+Of doubt or uncertainty: as, "perhaps, haply, possibly, perchance, peradventure, maybe".
+Of mode or way: as, "thus, so, how, somehow, nohow, anyhow, however, howsoever, like, else, otherwise, across, together, apart, asunder, namely, particularly, necessarily, hesitatingly, trippingly, extempore, headlong, lengthwise".
+Of place in which: as, "where, here, there, yonder, above, below, about, around, somewhere, anywhere, elsewhere, otherwhere, everywhere, nowhere, wherever, wheresoever, within, without, whereabout, whereabouts, hereabout, hereabouts, thereabout, thereabouts".
+Of place to which: as, "whither, hither, thither, in, up, down, back, forth, aside, ashore, abroad, aloft, home, homewards, inwards, upwards, downwards, backwards, forwards".
+Of place from which: as, "whence, hence, thence, away, out, off, far, remotely".
+Of the order of place: as, "first, secondly, thirdly, fourthly", etc.
+Thus, secondly means in the second place; "thirdly, in the third place"; etc.
+The conjunctive adverbs are those which perform the office of conjunctions.
+The following words are the most frequently used as conjunctive
+adverbs: "after, again, also, as, before, besides, consequently, else, ere, even, furthermore, hence, how, however, moreover, nevertheless, as well, otherwise, since, so, still, till, then, thence, therefore, too, until, when, where, wherefore, whither, while".
+The adverbs of cause: "why, wherefore, therefore"; but the last two of these are often called conjunctions.
+The <B>Pronominal</B> compounds: "herein, therein, wherein", etc.
+Adverbs relate to verbs, participles, adjectives, or other adverbs: as, "How blessed," except the following cases: independent adverbs, as "No," the word "amen", as "These things say the amen," an <B>Adverb</B> before preposition, as "All along", and "much", "little", "far", and "all", as "Thus far is right."
+An apostrophe can be used to form possessives for nouns, indicate the omission of letters in a word for stylistic purposes or as a colloquial form of a word, and be used to indicate plurality.
+The term is derived from the Latin word apostrophus itself derived from the Greek words αποστροφος meaning "accident of elision" αποστρεφειν meaning "a turning away."
+The apostrophe usually denotes either the <B>Possessive</B> <B>Case</B> of a noun, or the elision of one or more letters of a word: as,
+'Gan, lov'd, e'en, thro'; for "began, loved, even, through".
+It is sometimes used in pluralizing a mere <B>Letter</B> or sign: as,
+Apostrophe is also a figure of speech in which an absent person, a personified inanimate being, or an abstraction, is addressed as though present.
+This sense is maintained when a narrative or dramatic thread is broken in order to digress by speaking directly to someone not there, e.g.,
+An <B>Article</B> is the word "the", "an", or "a", which we put before nouns to limit their signification: as, "the air, the stars, an island, a ship".
+The articles can seldom be put one for the other, without gross
+impropriety; and of course either is to be preferred to the other, as it better suits the sense: as,
+A common noun, when taken in its widest sense, usually admits no article: as,
+Nouns without any article, or other definitive, are often used in a sense indefinitely partitive: as,
+The indefinite <B>Article</B> is "an" or "a", which denotes one thing of a kind, but not any particular one: as, "a boy, an orange".
+"An" is used in preference to a, whenever the following word begins with a <B>Vowel</B> sound: as, "an art, an end, an heir, an inch, an ounce, an hour, an urn".
+"A" is used in preference to "an", whenever the following word begins with a <B>Consonant</B> sound: as, "a man, a house, a wonder, a one, a yew, a use, a ewer, a European car".
+The <B>Consonant</B> sounds of "w" and "y", even when expressed by other letters, require "a" and not "an" before them: as,
+"An" or "a" before the genus, may refer to a whole species; and the before the species, may denote that whole species emphatically: as,
+But "an" or "a" is commonly used to denote individuals as unknown, or as not specially distinguished from others: as,
+The <B>Article</B> "an" or "a" implies unity, or one, and of course belongs to nouns of the singular <B>Number</B> only: as, "a man, an old man, a good boy".
+"An" or "a" sometimes gives a collective meaning to a numeral, when the <B>Noun</B> following is plural: as, "a few days, a hundred men, one hundred pounds sterling".
+The definite <B>Article</B> is "the", which denotes some particular thing or things: as, "the boy, the oranges".
+The definite <B>Article</B> is commonly used to denote individuals as known, or as specially distinguished from others: as,
+The <B>Article</B> "the" is applied to nouns of either number: as, "the man, the men; the good boy, the good boys".
+The is commonly required before adjectives that are used by <B>Ellipsis</B> as nouns: as,
+Pronunciation of "the" all depends on the word it's referring to and whether that word starts with a <B>Vowel</B> sound or a <B>Consonant</B> sound. When the word begins with a <B>Vowel</B> sound we use the long "the" (thee). For example: The (thee) Apple, the (thee hOur). When the word begins with a <B>Consonant</B> sound we use the short "the" (thuh). For example: The (thuh) Banana, the (thuh) University.
+Sometime's "the" is used to emphasize a noun, especially when that <B>Noun</B> is unique. When writing this particular use of "the" it is almost always written in Italics ""the"".
+For Example:
+"I saw the Queen last week."
+"What?! "The" (thee) Queen? As in Queen Elizabeth the 2nd?"
+"Yes, Queen Elizabeth."
+Articles should be inserted as often as the sense requires them: as,
+Needless articles should be omitted; they seldom fail to pervert the sense: as,
+Articles relate to the nouns which they limit, as "The blind beggar," except the following cases: the comparative or the superlative degree, as "The mightiest," and an unstressed numeral, as "A hundred men."
+The use of <B>Capital</B> letters in English is generally similar to in other Germanic and Romance languages with a few exceptions. The following list shows when you should use a <B>Capital</B> letter:
+Capitalize the first word in every sentence.
+<br>
+EXAMPLE: She said, "It will be hard to go home after this fun vacation."
+Capitalize the <B>Pronoun</B> I.
+<br>
+EXAMPLE: Ira said that I was the best dancer in the show.
+Capitalize the <B>Interjection</B> O. 
+<br>
+EXAMPLE: Guide and direct us,O Lord.
+Capitalize the first word in both the salutation and the closing of a letter.
+<br>
+EXAMPLES: Dear Mr. Novato: Sincerely
+Capitalize the names of persons and animals.
+<br>
+EXAMPLES: Franklin D. Roosevelt Willem de Kooning
+Capitalize geographical names
+EXAMPLES: the Gulf of Mexico the Southwest Prince William Forest
+Capitalize the names of planets, stars, constellations, and other heavenly bodies.
+EXAMPLES: Neptune Polaris Great Nebula
+Capitalize the names of teams, organizations, institutions, and <B>Government</B> bodies.
+EXAMPLES: Kansas City Chiefs Future Teachers of America
+Capitalize the names of historical events and periods, special events, holidays, and other calendar items.
+EXAMPLES: the Eighties the Civil War Hannukah my Birthday
+Capitalize the names of nationalities, races, and peoples
+EXAMPLES: Indian Chinese Bedouin
+Capitalize the names of religions and their followers, holy days and celebrations, sacred writings, and specific deities.
+EXAMPLES: Allah Hindus Christmas Koran
+Capitalize the names of buildings and other structures.
+EXAMPLES: Colleyville Heritage High School World Trade Center
+Capitalize the names of monuments, memorials, and awards
+EXAMPLES: Lincoln Memorial Nobel Peace Prize
+Capitalize the names of trains, ships, aircraft, and spacecraft
+EXAMPLES: Enola Gay U.S.S. Enterprise Challenger
+Capitalize the names of businesses and the brand names of business products
+EXAMPLES: Continental Airlines Microsoft Windows
+The use of medial capitals (those in the middle of words)is generally considered poor English, although this is quite common on the Internet and in advertisements. It's not necessary to capitalize styles of music (e.g. "indie"), adjectives, or the name of companies if they themselves don't use a <B>Capital</B> <B>Letter</B> (e.g. eBay) although the first <B>Letter</B> will sometimes be capitalized on the Internet due to technical reasons.
+Clause can be defined as a group of words that carries a <B>Finite verb</B> but do not act as a sentence. It acts like a part of a <B>Sentence</B> that can not express its meaning without being depended on the other part.
+as in 'Rahul,who lives in London, is my friend.
+In the above <B>Sentence</B> 'who lives in London' is the part that has to be depended on the part "Rahul is my friend' to expresses its proper meaning. 
+Clauses can be divided into two parts;
+Sub-Ordinate Clauses are divided into three parts:
+The comma is used to separate those parts of a sentence, which are so nearly connected in sense, as to be only one degree removed from that close connection which admits no point.
+Appositives are always separated from the main body of the <B>Sentence</B> by punctuation, usually commas, but sometimes—when greater separation is desired—dashes are used.
+Words in apposition, especially if they have adjuncts, are generally set off by the comma: as,
+Adjectives, when something depends on them, or when they have the import of a dependent clause, should, with their adjuncts, be set off by the comma: as,
+When an <B>Adjective</B> immediately follows its noun, and is taken in a restrictive sense, the comma should not be used before it: as,
+Where a <B>Finite verb</B> is understood, a comma is generally required: as,
+As the semicolon must separate the clauses when the comma is inserted by this rule, if the pause for the omitted <B>Verb</B> be very slight, it may be left unmarked, and the comma be used for the clauses: as,
+The infinitive, when it follows a <B>Verb</B> from which it must be separated, or when it depends on something <B>Remote</B> or understood, is generally, with its adjuncts, set off by the comma: as,
+Participles, when something depends on them, when they have the import of a dependent clause, or when they relate to something understood, should, with their adjuncts, be set off by the comma: as,
+When a <B>Participle</B> immediately follows its noun, and is taken in a restrictive sense, the comma should not be used before it: as,
+Adverbs, when they break the connection of a simple sentence, or when they have not a close dependence on some particular word in the context, should, with their adjuncts, be set off by the comma: as,
+Conjunctions, when they are separated from the principal clauses that depend on them, or when they introduce examples, are generally set off by the comma: as,
+Prepositions and their objects, when they break the connection of a simple sentence, or when they do not closely follow the words on which they depend, are generally set off by the comma: as,
+Interjections that require a pause, though more commonly emphatic and followed by the ecphoneme, are sometimes set off by the comma: as,
+A word emphatically repeated, is generally set off by the comma: as,
+A quotation, observation, or description, when it is introduced in close dependence on a verb, (as, say, reply, cry, or the like,) is generally separated from the rest of the <B>Sentence</B> by the comma: as,
+Nouns or pronouns put absolute, should, with their adjuncts, be set off by the comma: as,
+When more than two words or terms are connected in the same construction, or in a joint dependence on some other term, by conjunctions expressed or understood, the comma should be inserted after every one of them but the last; and, if they are nominatives before a verb, the comma should follow the last also: as,
+When only two words or terms are connected by a conjunction, they should not be separated by the comma: as,
+When the two words connected have several adjuncts, or when one of them has an <B>Adjunct</B> that relates not to both, the comma is inserted: as,
+When two connected words or phrases are contrasted, or emphatically distinguished, the comma is inserted: as,
+When there is merely an alternative of names, or an explanatory change of terms, the comma is usually inserted: as,
+When the <B>Conjunction</B> is understood, the comma is inserted; and, if two separated words or terms refer alike to a third term, the second requires a second comma: as,
+When successive words are joined in pairs by conjunctions, they should be separated in pairs by the comma: as,
+When several words, in their common order, are used as one <B>Compound</B> name, the comma is not inserted: as,
+When a common and a proper name are closely united, the comma is not inserted: as,
+When a <B>Pronoun</B> is added to an other word merely for emphasis and distinction, the comma is not inserted: as,
+When a name acquired by some action or relation, is put in <B>Apposition</B> with a preceding <B>Noun</B> or pronoun, the comma is not inserted: as,
+A simple <B>Sentence</B> does not, in general, admit the comma: as,
+When the <B>Nominative</B> in a long simple <B>Sentence</B> is accompanied by inseparable adjuncts, or when several words together are used instead of a nominative, a comma should be placed immediately before the verb: as,
+The simple members of a <B>Compound</B> sentence, whether successive or involved, elliptical or complete, are generally divided by the comma: as,
+When a <B>Relative</B> immediately follows its antecedent, and is taken in a restrictive sense, the comma should not be introduced before it: as,
+When the simple members are short, and closely connected by a <B>Conjunction</B> or a conjunctive adverb, the comma is generally omitted: as,
+When two simple members are immediately united, through <B>Ellipsis</B> of the relative, the antecedent, or the <B>Conjunction</B> that, the comma is not inserted: as,
+The following greetings are typically used in formal environments, however, they can also be used for informal environments but be sure not to use sir or ma'am if you know the <B>Person</B> well or else it makes the conversation seem a bit too impersonal.
+To ask about someone on the telephone
+To leave a message
+To ask someone to repeat something
+Some alternative forms to say "yes"
+The period, or full stop, is used to mark an entire and independent sentence, whether simple or compound.
+When a sentence, whether long or short, is complete in respect to sense, and independent in respect to construction, it should be marked with the period: as,
+The <B>Period</B> is often employed between two sentences which have a general connection, expressed by a <B>Personal</B> pronoun, a conjunction, or a conjunctive adverb: as,
+The <B>Period</B> is generally used after abbreviations, and very often to the exclusion of other points; but, as in this <B>Case</B> it is not a constant <B>Sign</B> of pause, other points may properly follow it, if the words written in full would demand them: as, A. D. for Anno Domini; Pro tem. for pro tempore; Ult. for ultimo; i.e. for id est, that is;
+The eroteme, or note of interrogation, is used to designate a question.
+Questions expressed directly as such, if finished, should always be followed by the note of interrogation: as,
+When two or more questions are united in one <B>Compound</B> sentence, the comma, semicolon, or dash, is sometimes used to separate them, and the eroteme occurs after the last only: as,
+When a question is mentioned, but not put directly as a question, it loses both the quality and the <B>Sign</B> of interrogation: as,
+The ecphoneme, or note of exclamation, is used to denote a pause with some strong emotion of admiration, joy, grief, or other feeling; and, as a <B>Sign</B> of great wonder, it is sometimes, though not very elegantly, repeated: as,
+Emphatic interjections, and other expressions of great emotion, are generally followed by the note of exclamation: as,
+After an earnest address or solemn invocation, the <B>Note of exclamation</B> is now generally preferred to any other point: as,
+Words uttered with vehemence in the form of a question, but without reference to an answer, should be followed by the note of exclamation: as,
+A figure of <B>Syntax</B> is an intentional deviation from the ordinary construction of words. The principal figures of <B>Syntax</B> are five; namely, el-lip'-sis, ple'-o-nasm, syl-lep'-sis, en-al'-la-ge, and hy-per'-ba-ton.
+Ellipsis is the omission of some word or words which are necessary to complete the construction, but not necessary to convey the meaning. Such words are said, in technical phrase, to be understood.
+Of <B>Compound</B> sentences, a vast many are more or less elliptical. Sometimes, for brevity's sake, even the most essential parts of a simple sentence, are suppressed: as,
+There may be an omission of any of the parts of speech, or even of a whole clause, when this repeats what precedes. But the omission of mere articles or interjections can scarcely constitute a proper ellipsis, because these parts of speech ought to be expressed.
+True ellipses of the <B>Adjective</B> alone, are but seldom met with.
+The repetition of the <B>Conjunction</B> is called polysyndeton; and the omission of it, asyndeton.
+Pleonasm is the introduction of superfluous words: as,
+This figure is allowable only, when it abruptly introduces an emphatic word, or repeats an idea to impress it more strongly: as,
+A <B>Pleonasm</B> is sometimes impressive and elegant; but an unemphatic repetition of the same idea, is one of the worst faults of bad writing.
+Syllepsis is <B>Agreement</B> formed according to the figurative sense of a word, or the mental conception of the thing spoken of, and not according to the literal or common use of the term: as,
+Enallage is the use of one part of speech, or of one modification, for another. This figure borders closely on solecism. There are, however, several forms of it which can appeal to good authority: as,
+Hyperbaton is the transposition of words: as,
+This figure is much employed in poetry, but care should be taken lest it produce ambiguity or solecism.
+
+To learn about chapter format and whether this is the right book for you, continue reading this page. Most of this material is not dependent on other sections, so you can also use this book as a reference by clicking on any <B>Subject</B> you would like to learn more about on the contents page. If you don't want to bother looking through chapters for a specific piece of information, click here to ask a question on any <B>Subject</B> covered in this book. To learn more about this book and view a list of authors, see the ../About/ page.
+Additionally, those knowledgeable about the English language are welcome and highly encouraged to contribute. See the ../About/ page to learn more about contributing and add your name to the authors listing.
+English has become one of the most popular languages in the world. Proper English skills are becoming a valuable asset in business around the world. Do not put off learning English because of the great variety of word orders available (even for simple things). Have a go and keep trying. Practice.
+It is well worth remembering that English is not a fixed language - it is shifting like sand and so these "rules" are in the process of change and are often ignored or bent - much to the disdain of erudite scholars. This may be one reason why English can be tricky to learn.
+This book will function as:
+It is divided into six units: Words and usage, Sentences, Punctuation, Other key topics, Appendices, and Topics in detail. The eventual goal is to be usable in English classrooms around the world. This book will not include English vocabulary and pronunciation (covered in English as an Additional Language). Advanced writing topics (covered in ) will also be excluded.
+This book is written for native English speakers and those who wish to learn the finer <B>Grammar</B> and mechanics points of the language and improve their writing and speech, including ESL speakers. It is meant to be both a structured textbook read chapter by chapter and a reference book. English as an Additional Language and Business English present English in the manner of a traditional foreign language course. covers advanced writing techniques not covered in this book. See ../External resources/ for other pages to read.
+All pages of this book should be about the same length and difficulty, in order to provide consistency and allow readers to plan ahead how much they want to read each session. Each chapter will try to not be dependent on previous chapter as much as possible.
+Modern English has evolved out of old Anglo-Saxon, a language much like modern German. In the process, it has borrowed many Latin words, and completely changed its grammar.
+The story starts when the Romans left Britain, leaving the Celtic Britons in chaos. One Celtic king asked the Angles, Saxons, and Jutes to come and fight for him, but they decided to take over England instead, since the Celts couldn't put up a decent fight.
+Soon, there were no Celts left in England, and hardly any trace of the Celtic languages. There are a few river names inherited from the Celts, or earlier, and maybe a dozen words, but no more. This complete obliteration of the Celts was unusually thorough for the times.
+A few generations later the English converted to Christianity. The new religion brought with it a flood of new words, borrowed from Latin and Greek; religious terms such as "Angel", "priest", and "nun", but also names of un-English things such "lion", "pepper", and "oyster".
+Around this time, the English began slurring the ends of words. This was the start of the process that created modern English grammar.
+After a few centuries of peace the Vikings invaded. They spoke Old Norse, a language related to English. After much fighting, they settled down in North East England, and introduced many Norse words into English, including the pronouns "them", "they", and "their".
+Just as the Viking invasions stopped, the French-speaking Normans invaded. Commoners continued speaking English, but for the next two centuries the noblemen spoke French.
+A few French words trickled into English during the period, but the <B>Number</B> stayed pretty low until the nobles stopped speaking French, in the mid thirteenth century. This precipitated a large influx of words of French origin into the English language as an entire class migrated from French to English. Many of the French words were Anglicized, but some of the spelling of the words remained roughly intact. It should be noted that the Normans spoke an older version of French known as "Old French" that may sometimes actually seem to be closer to English than current French, because English took some words from Old French wholesale, such as "mansion". Around the same time the universities of Oxford and Cambridge were founded. 
+During the Renaissance, the scholars of England added many more Greek and Latin words to the English language. As a result, much of the technical vocabulary in English consists of Greek or Latin words.
+Since then, English has also borrowed many words from the major European languages, such as French, as well as a few words from almost every other language. It is still changing and developing.
+The acute accent marks the syllable which requires the principal stress in pronunciation: as, e'qual, equal'ity. It is sometimes used in opposition to the grave accent, to distinguish a close or short vowel: as, "Fancy"; or to denote the rising <B>Inflection</B> of the voice: as,
+The asterisk, or star, the obelisk, or dagger, the diesis, or double dagger, the section, the parallels, and the paragraph, refer to marginal notes. Where many references are to be made, the <B>Small letters</B> of the alphabet, or the numerical figures, in their order, may be conveniently used for the same purpose.
+The asterism, or three stars, a <B>Sign</B> not very often used, is placed before a long or general note, to mark it as a note, without giving it a particular reference.
+The "at sign" is variously used in various conventions. Originally it was an accountancy abbreviation for "at", as:
+and still used informally to represent 'at'<br>
+On the Internet it commomly indicates the start of an email address
+The brace serves to unite a triplet; or, more frequently, to connect several terms with something to which they are all related.
+The crotchets, parentheses or brackets generally enclose a parenthetic correction or remark, but sometimes the <B>Sign</B> or <B>Subject</B> to be explained: as,
+In formal notation it can delimit an expression to be used as a term or logical unit in a larger expression, to be evaluated out of the lexical sequence before being included in the encompassing expression. eg, in the following expression, the addition must be performed before the multiplication or division:
+The breve, or stenotone, is used to denote either the close, short, shut sound of a vowel, or a syllable of short quantity: as, l˘ive, to have life; r˘av'en, to devour; c˘al˘am˘us, a reed.
+The caret, used only in writing, shows where to insert words or letters that have been accidentally omitted.
+The cedilla is borrowed from the French. It is placed under the <B>Letter</B> "c", to give it the sound of "s", before "a" or "o": as, "Façade", "Alençon". It is sometimes attached to other letters, to denote their soft sounds: Ģ as "J"; Ş as "Z".
+The circumflex generally denotes either the broad sound of a or an unusual sound given to some other vowel: as in "all, heir, machine". Some use it to mark a peculiar wave of the voice, and when occasion requires, reverse it: as,
+The degree <B>Sign</B> ( ° ) : marks several different units: arc degrees, temperature degrees, and (rarely) hours of time. Different from the masculine ordinal indicator, used to abbreviate ordinal numbers in some languages
+The diaeresis, or dialysis, placed over either of two contiguous vowels, shows that they are not a diphthong: as, "Danaee, aerial".
+The ellipsis, or suppression, denotes the omission of some letters or words: as, K…g, for King; c…d, for coward; d…d, for damned.
+The grave accent is used in opposition to the acute, to distinguish an open or long vowel: as, "Favour"; or to denote the falling <B>Inflection</B> of the voice: as,
+It is sometimes placed over a <B>Vowel</B> to show that it is not to be suppressed in pronunciation: as,
+The index, or hand, points out something remarkable, or what the reader should particularly observe: as,
+The macron, or macrotone, is used to denote either the open, long, primal sound of a vowel, or a syllable of long quantity: as, l¯ive, having life; r¯a'ven, a bird; ¯e'qu¯ine, of a horse.
+The <B>Number</B> <B>Sign</B> is variously used in different conventions. Commonly means "number" when preceding ordinal numbers, but weight when following numbers
+The paragraph denotes the commencement of a new subject. Those parts of discourse that usually are called paragraphs, generally are sufficiently distinguished by beginning a new line, often with the first word or the body text indented. However, when referring to numbered paragraphs in books, the pilcrow may be used as an abbreviation for the word "paragraph".
+The section marks the smaller divisions of a book or chapter; and, with the help of numbers, serves to abridge references.
+Forward slashes are used to indicate alternatives, connect words, and form abbreviations. For example, black/white, either/or, w/o (without).<br>
+Slashes also are used variously in technical notation, for example to denote division, rates or fractions, or to denote files within different folders on an Internet server.
+A noun, or <B>Noun</B> substantive, is a <B>Part of speech</B> (a word or phrase) which functions as the head of a <B>Noun</B> phrase. The word "noun" derives from the Latin "nomen" meaning "name", and a traditional definition of nouns is that they are only those expressions that refer to a person, place, thing, event, substance, quality, or idea. They serve as the <B>Subject</B> or <B>Object</B> of a <B>Verb</B> and as the governed term of a preposition, and can co-occur with articles and attributive adjectives.
+There are different groups of nouns:
+Each of these different groups of nouns have different properties, each making them different in how we use them.
+Thus, nouns are names of objects, places, people and things. They are used with adjectives to describe something, and with verbs to show an action.
+Concrete nouns are proper nouns and common nouns.
+Proper nouns are the names of people, places, groups or dates: as, "Adam", "Boston", "the Hudson", "the Romans", "the Azores", "the Alps". They almost always have a <B>Capital</B> <B>Letter</B> as their first letter. Example:
+Common nouns are the names of a sort, kind, or class, of beings or things: as, "beast", "bird", "fish", "insect", "creatures", "persons", "children". They often refer to objects or things which we can see, touch and feel, like the word "chair". Example:
+Their refer to only one thing of the same kind, for eg: man, player, cow, chicken, minister.
+Collective nouns are the names of a groups of objects or many individuals together: as, "council", "meeting", "committee", "flock". Example:
+Abstract nouns are the names of some particular qualities considered apart from its substance: as, "goodness", "hardness", "pride", "frailty". They are often names of the things that we cannot touch or see, but are there all the same. Example:
+Verbal nouns or participial nouns are the names of some actions, or states of being; and are formed from a verb, like a participle, but employed as a noun: as,
+A thing sui generis, (i.e., of its own peculiar kind,) is something which is distinguished, not as an individual of a species, but as a sort by itself, without plurality in either the <B>Noun</B> or the sort of thing: as, "galvanism", "music", "geometry".
+Nouns have modifications of genders, numbers, and cases.
+Genders, in grammar, are modifications that distinguish objects in regard to sex.
+There are three genders; the masculine, the feminine, and the neuter:
+Hence, names of males are masculine; names of females, feminine; and names of things inanimate, literally, neuter.
+Numbers, in grammar, are modifications that distinguish unity and plurality.
+There are two numbers; the singular and the plural.
+The singular <B>Number</B> is that which denotes but one: as,
+The <B>Plural</B> <B>Number</B> is that which denotes more than one: as,
+The <B>Plural</B> form is usually represented orthographically by adding "s" to the singular form. The phonetic form of the <B>Plural</B> morpheme is by default. When the preceding sound is a voiceless consonant, it is pronounced . Examples: "boy" makes "boys"; "girl", "girls"; "chair", "chairs"; "cat", "cats".
+Where a <B>Noun</B> ends in a sibilant sound, the <B>Plural</B> is formed by adding "es" (pronounced ), which is spelled "es" if the word does not already end with "e": "glass" makes "glasses"; "dish, dishes; witch, witches; phase, phases; judge, judges".
+Most nouns ending in "o" preceded by a <B>Consonant</B> also form their plurals by adding "es" (pronounced ): "hero" makes "heroes"; "potato, potatoes; volcano, volcanoes".
+Nouns ending in a "y" preceded by a <B>Consonant</B> drop the "y" and add "ies" (pronounced ): "cherry" makes "cherries"; "lady, ladies".
+Proper nouns (particularly those for people or places) ending in a "y" preceded by a <B>Consonant</B> form their plurals regularly: "Harry" makes "Harrys"; "Germany, Germanys".
+This does not apply to words that are merely capitalised common nouns: as, "P&O Ferries".
+A few common nouns ending in a "y" preceded by a <B>Consonant</B> form their plurals regularly: "henry" makes "henrys"; "zloty, zlotys".
+Words ending in "ey" form their plurals regularly, in order to avoid the unpleasant-appearing <B>Vowel</B> sequence "eie": "monkey, monkeys".
+Many nouns of Italian or Spanish origin are exceptions to the oes rule: "canto" makes "cantos"; "piano, pianos; portico, porticos; quarto, quartos; solo, solos".
+Many nouns ending in a voiceless fricative mutate that sound to a voiced fricative before adding the <B>Plural</B> ending. In the <B>Case</B> of changing to the mutation is indicated in the orthography as well: "calf" makes "calves"; "bath, baths; mouth, mouths; house, houses".
+Some retain the voiceless consonant: "proof" makes "proofs"; "moth, moths; place, places; dwarf, dwarfs or dwarves; hoof, hoofs or hooves; staff, staffs or staves; turf, turfs or turves; roof, roofs or rooves".
+There are many other less regular ways of forming plurals. While they may seem quirky, they usually stem from older forms of English or from foreign borrowings.
+The <B>Plural</B> of a few Germanic nouns can also be formed from the singular by adding "n" or "en", stemming from the obsolete weak declension: "ox" makes "oxen"; "child, children".
+The <B>Plural</B> is sometimes formed by simply changing the <B>Vowel</B> sound of the singular, in a process called umlaut (these are sometimes called "mutated plurals"): "foot" makes "feet"; "goose, geese; louse, lice; man, men; mouse, mice; tooth, teeth; woman, women".
+Some nouns have singular and <B>Plural</B> alike, although they are sometimes seen as regular plurals: as, "aircraft, sheep, deer, fish, cod, trout, head, cannon".
+Generally, plurals refer to several species or kinds of animal, while the unmarked <B>Plural</B> is used to describe multiple individual animals; one would say "the classification of fishes", but "five fish in an aquarium".
+Such nouns often retain their original plurals. In some cases both forms are still vying: for a librarian, the <B>Plural</B> of "appendix" is "appendices"; for physicians, the <B>Plural</B> of "appendix" is "appendixes". A radio engineer works with "antennas" and an entomologist deals with "antennae". The "correct" form is the one that sounds better in context. Correctly formed Latin plurals are the most acceptable, in academic and scientific contexts. In common usage, plurals with "s" are sometimes preferred.
+Cases, in grammar, are modifications that distinguish the relations of nouns or pronouns to other words.
+There are three cases; the nominative, the possessive, and the objective.
+The <B>Nominative</B> <B>Case</B> is that form or state of a <B>Noun</B> or pronoun, which usually denotes the <B>Subject</B> of a finite verb: as,
+The <B>Subject</B> of a <B>Finite verb</B> is that which answers to who or what before it: as,
+Boy is therefore here a <B>Noun</B> in the <B>Nominative</B> case, or nominative.
+For example:
+The <B>Possessive</B> <B>Case</B> is that form or state of a <B>Noun</B> or pronoun, which usually denotes the <B>Relation</B> of property: as,
+Boy is here a <B>Noun</B> in the <B>Possessive</B> case, or possessive.
+The <B>Possessive</B> <B>Case</B> of nouns is formed, in the singular number, by adding to the <B>Nominative</B> "s" preceded by an apostrophe; and, in the plural, when the <B>Nominative</B> ends in "s", by adding an apostrophe only: as, singular, boy's; plural, boys'; sounded alike, but written differently.
+The <B>Objective</B> <B>Case</B> is that form or state of a <B>Noun</B> or <B>Pronoun</B> which usually tells the <B>Object</B> of a verb, participle, or preposition: as,
+The <B>Object</B> of a verb, participle, or preposition, is that which answers to whom or what after it: as,
+Boy is therefore here a <B>Noun</B> in the <B>Objective</B> case, or objective.
+The <B>Nominative</B> and the <B>Objective</B> of nouns, are always alike in form, being distinguishable from each other only by their place in a sentence, or by their simple dependence according to the sense.
+For example:
+The <B>Declension</B> of a <B>Noun</B> is a regular <B>Arrangement</B> of its numbers and cases. Thus:
+The <B>Subject</B> must be in the <B>Nominative</B> case, as "You say it."
+The <B>Subject</B> is placed before the attribute, as "Peace dawned on his mind," except the following cases: a question, as "How many loaves have you?" imperative mood, as "Go you," strong feeling, as "May she be happy!" a supposition, as "Were it true," "neither" or "nor", as "Neither shall you touch it," emphasis, as "Here am I," no regimen, as "Echo the mountains round," dialogue, as "My name is Hassan," and the <B>Adverb</B> "there", as "There lived a man."
+A <B>Noun</B> in <B>Apposition</B> is put in the same <B>Case</B> as the <B>Noun</B> it explains, as "But he, our gracious master, knows us."
+A <B>Possessive</B> is governed by the name of the thing possessed, as "Man's life."
+A <B>Possessive</B> comes immediately before the governing noun, as "Nature's peace," except the following cases: an intervening adjective, as "Flora's earliest smells," affirmation or denial, as "The book is not John's," a <B>Possessive</B> without sign, as "Brother Absalom's house," or "David and Jonathan's friendship."
+The <B>Predicate</B> is governed by <B>Attribute</B> in <B>Objective</B> case, as "I found her."
+A <B>Noun</B> or a <B>Pronoun</B> put after a non-transitive <B>Verb</B> or participle, agrees in <B>Case</B> with a preceding <B>Noun</B> or <B>Pronoun</B> referring to the same thing, as "The child was named John."
+The <B>Case</B> of <B>Absolute</B> <B>Noun</B> or <B>Pronoun</B> depends on no other word, as "Your fathers, where are they?"
+"A a, B b, C c, D d, E e, F f, G g, H h, I i, J j, K k, L l, M m, N n, O o, P p, Q q, R r, S s, T t, U u, V v, W w, X x, Y y, Z z".
+The names of the letters, as now commonly spoken and written in American English, are: "Ay, Bee, Cee, Dee, Ee, Ef, Gee, Aich, Eye, Jay, Kay, El, Em, En, Oh, Pee, Kew, Ar, Es, Tee, You, Vee, Double-You, Eks, Why, Zee" (or "Zed" in British English).
+A <B>Vowel</B> is a <B>Letter</B> which forms a perfect sound when pronounced alone. The vowels are "a", "e", "i", "o", "u", partly "w" and sometimes "y". All the other letters are consonants.
+A <B>Consonant</B> is a <B>Letter</B> which cannot be perfectly pronounced until joined to a vowel. "B", "c", and "d". "W" and "y" are consonants when they precede a <B>Vowel</B> heard in the same syllable, as in "wine, twine, whine, year, yet", and "youth"; in all other cases, these letters are vowels, as in "Yssel, Ystadt, yttria, newly, dewy", and "eyebrow".
+A <B>Semivowel</B> is a <B>Consonant</B> which can be imperfectly sounded without a vowel, so that at the end of a syllable its sound may be protracted; for example, "l", "n", and "z", in "al, an", and "az". The semivowels are: "f", "h", "j", "l", "m", "n", "r", "s", "v", "w", "x", "y", "z", and soft "c" and "g"; but "w" or "y" at the end of a syllable are vowels, and the sounds of "c", "f", "g", "h", "j", "s", and "x" can be protracted only as an aspirate, or strong breath.
+Four of the semivowels—"l", "m", "n", and "r"—are termed liquids, on account of the fluency of their sounds; and four others—"v", "w", "y", and "z"—are likewise more vocal than the aspirates.
+A <B>Mute</B> is a <B>Consonant</B> which cannot be sounded at all without a vowel, and which at the end of a syllable suddenly stops the breath; for example, "k", "p", and "t", in "ak, ap", and "at". The mutes are eight: "b", "d", "k", "p", "q", "t", and hard "c" and "g"; three of these—"k", "q", and hard "c"—sound exactly alike, and "b", "d", and hard "g" stop the <B>Voice</B> less suddenly than the rest.
+The powers of the letters are those elementary sounds which their figures are used to represent. The simple elementary sounds of any language are few, commonly not more than thirty-six. Different <B>Vowel</B> sounds are produced by opening the mouth differently, and placing the tongue in a peculiar manner for each; but the <B>Voice</B> may vary in loudness, pitch, or time, and still utter the same vowel.
+The <B>Vowel</B> sounds are those which are heard at the beginning of the following words: "ate, at, ah, all, eel, ell, isle, ill, old, on, ooze, use, us", and that of "u" in "bull". Let us note them as plainly as possible: "eigh, ~a, ah, awe, ~eh, ~e, eye, ~i, oh, ~o, oo, yew, ~u", and "u". "~a" is a sound generally given to the word "a": as,
+In the formation of syllables, some of these fourteen primary sounds may be joined together, as in "ay, oil, out, owl". These essential sounds may be changed into a series of words by "f": as, "fate, fat, far, fall, feel, fell, file, fill, fold, fond, fool, fuse, fuss, full". Again, into as many with "p": as, "pate, pat, par, pall, peel, pell, pile, pill, pole, pond, pool, pule, purl, pull". The eight long sounds, "eigh, ah, awe, eh, eye, oh, ooh, yew", may be words; but the short <B>Vowel</B> sounds, as in "at, et, it, ot, ut, put", are commonly heard only in connection with consonants.
+The simple <B>Consonant</B> sounds are twenty-two: "b, d, f, g hard, h, k, l, m, n, ng, p, r, s, sh, t, th sharp, th flat, v, w, y, z", and "zh". "Zh" is written only to show the sound of other letters: as of "s" in "pleasure", or "z" in "azure".
+All these sounds are heard in the following words: "buy, die, fie, guy, high, kie, lie, my, nigh, eying, pie, rye, sigh, shy, tie, thigh, thy, vie, we, ye, zebra, seizure". Most of them may be repeated in the same word or syllable: as, "bibber, diddle, fifty, giggle, high-hung, cackle, lily, mimic, ninny, singing, pippin, mirror, hissest, flesh-brush, tittle, thither, vivid, witwal, union, dizzies, vision".
+The consonants "j" and "x" represent complex sounds; hence they are never doubled. "J" is equivalent to "dzh"; and "x", either to "ks" or to "gz". The former ends no English word, and the latter begins none. To the initial "z" of foreign words, we always give the simple sound of "z": as in "Xerxes, xebec".
+The consonants "c" and "q" have no sounds peculiar to themselves. "Q" has always the power of "k". "C" is hard, like "k", before "a, o", and "u"; and soft, like "s", before "e, i", and "y". Thus the syllables, "ca, ce, ci, co, cu, cy", are pronounced, "ka, se, si, ko, ku, sy". "S" before "c" preserves the former sound, but coalesces with the latter. Hence the syllables, "sca, sce, sci, sco, scu, scy", are sounded, "ska, se, si, sko, sku, sy". "Ce" and "ci" have sometimes the sound of "sh": as, "ocean, social". "Ch" commonly represents the <B>Compound</B> sound of "tsh": as in "church".
+"G", as well as "c", has different sounds before different vowels. "G" is always hard, or guttural, before "a, o", and "u"; and generally soft, like "j", before "e, i", or "y". Thus the syllables, "ga, ge, gi, go, gu, gy", are pronounced "ga, je, ji, go, gu, jy".
+In printed books, the <B>Roman characters</B> are generally employed; sometimes, the italic. In handwriting, script letters are used.
+Characters of different sorts or sizes should never be needlessly mixed; because facility of reading, as well as the beauty of a book, depends much on the regularity of its letters.
+Italics are chiefly used to distinguish emphatic or remarkable words: in the Bible, they show what words were supplied by the translators.
+In manuscripts, a single line drawn under a word is meant for Italics; a double line, for bold or small capitals.
+Small letters constitute the body of every word; and capitals are used for the sake of eminence and distinction. Showbills, painted signs, and short inscriptions, commonly appear best in full capitals. Some of these are so copied in books: as,
+When particular books are mentioned by their names, the chief words in their titles begin with capitals, and the other letters are small: as,
+The first word of every distinct sentence, or of any <B>Clause</B> separately numbered or paragraphed, should begin with a capital: as,
+All names of the deity, and sometimes their emphatic substitutes, should begin with capitals: as, "God, Jehovah, the Almighty, the Supreme Being, Divine Providence, the Messiah, the Comforter, the Father, the Son, the Holy Spirit, the Lord of Sabaoth".
+Proper names, of every description, should always begin with capitals: as, "Saul of Tarsus, Simon Peter, Judas Iscariot, England, London, the Strand, the Thames, the Pyrenees, the Vatican, the Greeks, the Argo and the Argonauts".
+Titles of office or honour, and epithets of distinction, applied to persons, begin usually with capitals: as, "His Majesty William the Fourth, Chief Justice Marshall, Sir Matthew Hale, Dr. Johnson, the Rev. Dr. Chalmers, Lewis the Bold, Charles the Second, James the Less, St. Bartholomew, Pliny the Younger, Noah Webster, Jun., Esq".
+Those <B>Compound</B> proper names which by analogy incline to a union of their parts without a hyphen, should be so written, and have but one capital: as, "Eastport, Eastville, Westborough, Westfield, Westtown, Whitehall, Whitechurch, Whitehaven, Whiteplains, Mountmellick, Mountpleasant, Germantown, Germanflats, Blackrock, Redhook, Kinderhook, Newfoundland, Statenland, Newcastle, Northcastle, Southbridge, Fairhaven, Dekalb, Deruyter, Lafayette, Macpherson".
+The compounding of a name under one <B>Capital</B> should be avoided when the general analogy of other similar terms suggests a separation under two: as,
+Write "Ben Chasker".
+When the word "East, West, North", or "South", as part of a name, denotes <B>Relative</B> position, or when the word "New" distinguishes a place by contrast, we have generally separate words and two capitals: as, "East Greenwich, West Greenwich, North Bridgewater, South Bridgewater, New Jersey, New Hampshire".
+When any <B>Adjective</B> or <B>Common noun</B> is made a distinct part of a <B>Compound</B> proper name, it ought to begin with a capital: as, "the United States, the Argentine Republic, the Peak of Teneriffe, the Blue Ridge, the Little Pedee, Long Island, Jersey City, Lower Canada, Green Bay, Gretna Green, Land's End, the Gold Coast".
+When a common and a proper name are associated merely to explain each other, it is in general sufficient, if the proper name begin with a capital, and the appellative, with a small letter: as, "the prophet Elisha, Matthew the publican, the brook Cherith, the river Euphrates, the Ohio river, Warren county, Flatbush village, New York city".
+The name of an <B>Object</B> personified, when it conveys an idea strictly individual, should begin with a capital: as,
+Words derived from proper names, and having direct reference to particular persons, places, sects, or nations, should begin with capitals: as, "Platonic, Newtonian, Greek, Roman, Italic, or Italian, German, or Germanic, Swedish, Turkish, Chinese, Genoese, French, Dutch, Scotch, Welsh": so, perhaps, to "Platonize", to "Grecize", to "Romanize", to "Italicize", to "Latinize", or to "Frenchify".
+The words I and O should always be capitals: as,
+Every line in poetry, except what is regarded as making but one verse with the line preceding, should begin with a capital: as,
+Of the exception, some editions of the Psalms in Metre are full of examples: as,
+The first word of a full example, of a distinct speech, or of a direct quotation, should begin with a capital: as,
+Other words of particular importance, and such as denote the principal subjects treated of, may be distinguished by capitals; and names subscribed frequently have capitals throughout: as,
+Capitals are improper wherever there is not some special rule or reason for their use: as,
+Words regularly or analogically united, and commonly known as forming a compound, should never be needlessly broken apart. Thus, "steamboat, railroad, red-hot, well-being, new-coined", are preferable to "steam boat, rail road, red hot, well being, new coined".
+When the simple words would form a regular phrase, the compounding of any of them ought to be avoided: as, "in lieu of, in place of, in room of".
+Words otherwise liable to be misunderstood, must be joined together or written separately, as the sense and construction may happen to require. Thus, a "glass house" is a house made of glass, but a "glasshouse" is a house in which glass is made.
+When two or more compounds are connected in one sentence, none of them should be split to make an <B>Ellipsis</B> of half a word. Thus, "six or seventeen" should not be said for "sixteen or seventeen"; nor ought we to say, "calf, goat, and sheepskins" for "calfskins, goatskins, and sheepskins". In the latter instance, however, it might be right to separate all the words: as,
+When the parts of a <B>Compound</B> do not fully coalesce, or when each retains its original accent, as "first-born, hanger-on, laughter-loving, garlic-eater, butterfly-shell", the hyphen should be inserted between them.
+When a <B>Compound</B> has but one accented syllable, as "watchword, statesman, gentleman", and the parts are such as admit of a complete coalescence, no hyphen should be inserted between them: as,
+Monosyllables ending in "f, l", or "s", preceded by a single vowel, double the final consonant: as, "staff, mill, pass, muff, knell, gloss, off, hiss, puss".
+The words "clef, if", and "of", are written with single "f"; as, "gas, has, was, yes, his, is, this, us, pus", and "thus", with single "s"; and "bul, nul, sol", and "sal", with single "l".
+Words ending in any other <B>Consonant</B> than "f, l", or "s", do not double the final letter: as, "mob, nod, dog, sum, sun, cup, cur, cut, fix, whiz, ab, ad, jag, rag, in, bur, but".
+We double the <B>Consonant</B> in "abb, ebb, add, odd, egg, jagg, ragg, inn, err, burr, purr, butt, buzz, fuzz, yarr", and some proper names.
+Monosyllables, and words accented on the last syllable, when they end with a single <B>Consonant</B> preceded by a single vowel, or by a <B>Vowel</B> after qu, double their final <B>Consonant</B> before an additional syllable that begins with a vowel: as, "rob, robbed, robber; fop, foppish, foppery; squat, squatter, squatting; thin, thinner, thinnest; swim, swimmer, swimming; commit, committing, committed, committer, committees; acquit, acquittal, acquittance, acquitted, acquitting".
+"X" final, being equivalent to "ks", is never doubled: thus, from "mix", we have "mixed, mixing", and "mixer".
+When the derivative retains not the accent of the root, the final <B>Consonant</B> is not always doubled: as, prefer', pref'erence, pref'erable; refer', ref'erence, ref'erable, or refer'rible; infer', in'ference, in'ferable, or infer'rible;
+transfer', a trans'fer, trans'ferable, or transfer'rible.
+But letters doubled in Latin, are usually doubled in English, without regard to accent, or to any other principle: as, Britain, Britan'nic, Britannia; appeal, appel'lant; argil, argil'laus, argilla'ceous; cavil, cav'illous, cavilla'tion;
+excel', ex'cellent, ex'cellence; inflame', inflam'mable, inflamma'tion.
+A final consonant, when it is not preceded by a single vowel, or when the accent is not on the last syllable, should remain single before an additional syllable: as, "toil, toiling; oil, oily; visit, visited; differ, differing; peril, perilous; viol, violist; real, realize, realist; dial, dialing, dialist; equal, equalize, equality; vitriol, vitriolic, vitriolate".
+The final "l" of words ending in "el", must be doubled before another vowel, lest the power of the "e" be mistaken, and a syllable be lost: as, "travel, traveller; duel, duellist; revel, revelling; gravel, gravelly; marvel, marvellous". Yet the word "parallel", having three "l"-s already, conforms to the rule in forming its derivatives: as, "paralleling, paralleled", and "unparalleled".
+Contrary to the preceding rule, the preterits, participles, and derivative nouns, of the few verbs ending in "al, il", or "ol", unaccented,—namely, "equal, rival, vial, marshal, victual, cavil, pencil, carol, gambol", and "pistol",—are usually allowed to double the "l", though some dissent from the practice: as, "equalled, equalling; rivalled, rivalling; cavilled, cavilling, caviller; carolled, carolling, caroller".
+When "ly" follows "l", we have two Ells of course, but in fact no doubling: as, "real, really; oral, orally; cruel, cruelly; civil, civilly; cool, coolly; wool, woolly".
+Compounds, though they often remove the principal accent from the point of duplication, always retain the double letter: as, wit'snapper, kid'napper, grass'hopper, duck'-legged, spur'galled, hot'spurred, broad'-brimmed, hare'-lipped, half-witted. So, "compromitted" and "manumitted"; but "benefited" is different.
+Monosyllables and English verbs end not with "c", but take "ck" for double "c": as, "rack, wreck, rock, attack": but, in general, words derived from the learned languages need not the "k", and common use discards it: as, "Italic, maniac, music, public".
+The words "arc", "orc", "lac", "sac", and "soc", are ended with "c" only. "Zinc" is, perhaps, better spelled "zink"; "marc, mark"; "disc, disk"; and "talc, talck".
+Words ending with any double letter, preserve it double before any additional termination, not beginning with the same letter: as in the following derivatives: "wooer, seeing, blissful, oddly, gruffly, equally, shelly, hilly, stiffness, illness, stillness, shrillness, fellness, smallness, drollness,
+freeness, grassless, passless, carelessness, recklessness, embarrassment, enfeoffment, agreement, agreeable".
+Certain irregular derivatives in "d" or "t", from verbs ending in "ee, ll", or "ss", as "fled" from "flee", "sold" from "sell", "told" from "tell", "dwelt" from "dwell", "spelt" from "spell", "spilt" from "spill", "blest" from "bless", "past" from "pass", are exceptions to the foregoing rule.
+If the word "pontiff" is properly spelled with two "f"-s, its eight derivatives are also exceptions to this rule; for they are severally spelled with one: as, "pontific, pontifical, pontificate", etc.
+The words "skillful, skillfully, willful, willfully, chillness, tallness, dullness", and "fullness", have generally been allowed to drop the second "l", though all of them might well be made to conform to the general rule, agreeably to the orthography of Webster.
+Words ending with any double letter, preserve it double in all derivatives formed from them by means of prefixes: as, "see, foresee; feoff, enfeoff; pass, repass; press, depress; miss, amiss; call, recall; stall, forestall; thrall, inthrall; spell, misspell; tell, foretell; sell, undersell; add, superadd; snuff, besnuff; swell, overswell".
+Final "ll" is peculiar to monosyllables and their compounds, with the few derivatives formed from such roots by prefixes; consequently, all other words that end in "l", must be terminated with a single "l": as, "cabal, logical, appal, excel, rebel, refel, dispel, extol, control, mogul, jackal, rascal, damsel, handsel, tinsel, tendril, tranquil, gambol, consul".
+The final "e" of a primitive word, when this <B>Letter</B> is <B>Mute</B> or obscure, is generally omitted before an additional termination beginning with a vowel: as, "remove, removal; rate, ratable; force, forcible; true, truism; rave, raving; sue, suing; eye, eying; idle, idling; centre, centring".
+Words ending in "ce" or "ge", retain the "e" before "able" or "ous", to preserve the soft sounds of "c" and "g": as, "trace, traceable; change, changeable; outrage, outrageous".
+So, from "shoe", we write "shoeing", to preserve the sound of the root; from "hoe, hoeing", by apparent analogy; and, from "singe, singeing"; from "swinge, swingeing"; from "tinge, tingeing"; that they may not be confounded with singing, swinging, and tinging.
+To compounds and prefixes, as "firearms, forearm, anteact, viceagent", the rule does not apply; and final "ee" remains double, as in "disagreeable, disagreeing".
+The final "e" of a primitive word is generally retained before an additional termination beginning with a consonant: as, "pale, paleness; edge, edgeless; judge, judgeship; lodge, lodgement; change, changeful; infringe, infringement".
+When the "e" is preceded by a vowel, it is sometimes omitted: as in "duly, truly, awful, argument"; but much more frequently retained: as in "dueness, trueness, blueness, bluely, rueful, dueful, shoeless, eyeless".
+The word "wholly" is also an exception to the rule, for nobody writes it "wholely".
+Some will have "judgment, abridgment", and "acknowledgment", to be irreclaimable exceptions; but on the authority of Lowth, Beattie, Ainsworth, Walker, Cobb, Chalmers and others, they retain "e".
+The final "y" of a primitive word, when preceded by a consonant, is generally changed into "i" before an additional termination: as, "merry, merrier, merriest, merrily, merriment; pity, pitied, pities, pitiest, pitiless, pitiful, pitiable; contrary, contrariness, contrarily".
+This rule applies to derivatives, but not to compounds: thus, we write "merciful", and "mercy-seat"; "penniless", and "pennyworth"; "scurviness", and "scurvy-grass"; etc. But "ladyship" and "goodyship", being unlike "secretariship" and "suretiship"; "handicraft" and "handiwork", unlike "handygripe" and "handystroke"; "babyship" and "babyhood", unlike "stateliness" and likelihood"; the distinction between derivatives and compounds, we see, is too nice a point to have been always accurately observed.
+Before "ing" or "ish", the "y" is retained to prevent the doubling of "i": as, "pity, pitying; baby, babyish".
+Words ending in "ie", dropping the "e", change the "i" into "y", for the same reason: as, "die, dying; vie, vying; lie, lying".
+The final "y" of a primitive word, when preceded by a vowel, should not be changed into "i" before any additional termination: as, "day, days; key, keys; guy, guys; valley, valleys; coy, coyly; cloy, cloys, cloyed; boy, boyish, boyhood; annoy, annoyer, annoyance; joy, joyless, joyful".
+From "lay, pay, say", and "stay", are formed "laid, paid, said", and "staid"; but the regular words, "layed, payed, stayed", are sometimes used.
+"Raiment", contracted from "arrayment", is never written with the "y". "Daily" is more common than the regular form "dayly"; but "gayly, gayety", and "gayness", are justly superseding "gaily" and "gaiety".
+Words ending in "ize" or "ise", as "wise" and "size", generally take the "z" in all such as are essentially formed by means of the termination; and the "s" in monosyllables, and in all such as are essentially formed by means of prefixes: "gormandize, apologize, brutalize, canonize, pilgrimize, philosophize, cauterize, anathematize, sympathize, disorganize", with "z"; "rise, arise, disguise, advise, devise, supervise, circumcise, despise, surmise, surprise, comprise, compromise, enterprise, presurmise", with "s". In Commonwealth English spelling, words ending in "ize" may also be written with "ise", such as "organise, realise" and "recognise".
+"Advertise, catechise, chastise, criticise, exercise, exorcise", and "merchandise" are most commonly written with "s" and "size, assize, capsize, analyze, overprize, detonize", and "recognize", with "z".
+"Prise", a thing taken, and "prize", to esteem; "apprise", to inform, and "apprize", to value, or "appraise", are often written either way, without this distinction of meaning, which some wish to establish. The want of the foregoing rule has also made many words variable, which ought, unquestionably, to conform to the general principle.
+Compounds generally retain the orthography of the simple words which compose them: as, "wherein, horseman, uphill, shellfish, knee-deep, kneedgrass, kneading-trough, innkeeper, skylight, plumtree, mandrill".
+In permanent compounds, or in any derivatives of which, they are not the roots, the words "full" and "all" drop one "l": as, "handful, careful, fulfil, always, although, withal"; in temporary compounds, they retain both: as, "full-eyed, chock-full, all-wise, save-all".
+So the <B>Prefix</B> "mis", (if from miss, to err,) drops one "s"; but it is wrong to drop them both, as in Johnson's "mispell" and "mispend", for "misspell" and "misspend".
+In the names of days, the word "mass" also drops one "s": as, "Christmas, Candlemas, Lammas".
+The <B>Possessive</B> <B>Case</B> often drops the apostrophe: as "herdsman, kitesfoot".
+One <B>Letter</B> is dropped, if three of the same kind come together: as, "Rosshire, chaffinch"; or else a hyphen is used: as, "Ross-shire, ill-looking, still-life".
+"Chilblain, welcome", and "welfare", drop one "l".
+"Pastime" drops an s.
+"Shepherd, wherever", and "whosever", drop an "e"; and "wherefore" and "therefore" assume one.
+Any word for the spelling of which we have no rule but usage, is written wrong if not spelled according to the usage which is most common among the learned: as,
+A figure of orthography is an intentional deviation from the ordinary or true spelling of a word.
+Mimesis is a ludicrous imitation of some mistake or mispronunciation of a word, in which the error is mimicked by a false spelling, or the taking of one word for another: as,
+An <B>Archaism</B> is a word or <B>Phrase</B> expressed according to ancient usage, and not according to our modern orthography: as,
+A figure of etymology is an intentional deviation from the ordinary formation of a word.
+Aphaeresis is the elision of some of the initial letters of a word: as, 'gainst, for against; 'gan, for began; 'neath, for beneath; 'thout, for without.
+Prosthesis is the prefixing of an expletive syllable to a word: as, "adown", for "down"; "appaid", for "paid"; "bestrown", for "strown"; "evanished", for "vanished"; "yclad", for "clad".
+Syncope is the elision of some of the middle letters of a word: as, med'cine, for medicine; e'en, for even; o'er, for over; conq'ring, for conquering; se'nnight, for sevennight.
+Apocope is the elision of some of the final letters of a word: as, tho' for though; th', for the; t'other, for the other; thro', for through.
+Paragoge is the annexing of an expletive syllable to a word: as, "Johnny", for "John"; "deary", for "dear"; "withouten", for "without".
+Diaeresis is the separating of two vowels that might be supposed to form a diphthong: as, "coöperate", not "cooperate"; "aeronaut", not "aeronaut"; "orthoepy", not "orthoepy".
+This used to be common in English but is now rare.
+Synaeresis is the sinking of two syllables into one: as, seest, for seest; tacked, for tack-ed; drowned, for drown-ed; 'tis, for it is; I'll, for I will.
+Tmesis is the inserting of a word between the parts of a compound, or between two words which should be united if they stood together: as,
+The semicolon is used to separate those parts of a <B>Compound</B> sentence, which are neither so closely connected as those which are distinguished by the comma, nor so little dependent as those which require the colon.
+When two or more complex members, or such clauses as require the comma in themselves, are constructed into a period, they are generally separated by the semicolon: as,
+When two or more simple members, or such clauses as complete their sense without subdivision, are constructed into a period; if they require a pause greater than that of the comma, they are usually separated by the semicolon: as,
+Words in apposition, in disjunct pairs, or in any other construction, if they require a pause greater than that of the comma, and less than that of the colon, may be separated by the semicolon: as,
+The colon is used to separate those parts of a <B>Compound</B> sentence, which are neither so closely connected as those which are distinguished by the semicolon, nor so little dependent as those which require the period.
+When the preceding <B>Clause</B> is complete in itself, but is followed by some additional remark or illustration, especially if no <B>Conjunction</B> is used, the colon is generally and properly inserted: as,
+When the semicolon has been introduced, or when it must be used in a subsequent member, and a still greater pause is required within the period, the colon should be employed: as,
+A <B>Quotation</B> introduced without a close dependence on a <B>Verb</B> or a conjunction, is generally preceded by the colon: as,
+The dash is mostly used to denote an unexpected or emphatic pause, of variable length; but sometimes it is a <B>Sign</B> of faltering, or of the irregular stops of one who hesitates in speaking: as,
+A sudden interruption, break, or transition, should be marked with the dash: as,
+To mark a considerable pause, greater than the structure or the <B>Sentence</B> or the points inserted would seem to require, the dash may be employed: as,
+Dashes needlessly inserted, or substituted for other stops more definite, are in general to be treated as errors in punctuation: as,
+If this colon is sufficient, the <B>Capital</B> after it is needless: a <B>Period</B> would, perhaps, be better.
+The curves, or marks of parenthesis, are used to distinguish a <B>Clause</B> or hint that is hastily thrown in between the parts of a <B>Sentence</B> to which it does not properly belong: as,
+The incidental <B>Clause</B> should be uttered in a lower tone, and faster than the principal sentence. It always requires a pause as great as that of a comma, or greater.
+A <B>Clause</B> that breaks the unity of a <B>Sentence</B> or passage too much to be incorporated with it, and only such, should be inclosed within curves, as a parenthesis: as,
+The curves do not supersede other stops; and, as the parenthesis terminates with a pause equal to that which precedes it, the same point should be included, except when the sentences differ in form: as,
+The hyphen connects the parts of many <B>Compound</B> words, especially such as have two accents: as, ever-living. It is also frequently inserted where a word is divided into syllables: as, con-tem-plate. Placed at the end of a line, it shows that one or more syllables of a word are can led forward to the next line.
+The Parts of Speech
+Most <B>Grammar</B> textbooks will consider eight basic parts of speech. These are summarized below:
+Phrasal verbs are usually verbs + prepositions or verbs + particles. Phrasal verbs are used frequently in English, mostly in informal language but increasingly also in formal situations. Most phrasal verbs have an equivalent formal word which could replace them (i.e. put out a fire - extinguish a fire). Phrasal verbs are a problem for many learners of English because most languages don't have anything similar and the meaning of many phrasal verbs is often not obvious.
+Here are some examples of phrasal verbs (on the left hand side) and a rough meaning for them (on the right). The phrasal <B>Verb</B> in each <B>Sentence</B> is written in bold text.
+As you can see from the above list the meaning is not always obvious - look after could be interpreted as looking at something after it's happened but the meaning is non literal. Only pick up has an obvious meaning in the above list.
+Phrasal verbs are either separable or non-separable. A separable phrasal <B>Verb</B> can be have the <B>Object</B> of the phrasal <B>Verb</B> either in the middle of the phrasal <B>Verb</B> or after it (e.g. pick rubbish up - or - pick up rubbish). With non separable phrasal verbs, the <B>Object</B> must come after the phrasal <B>Verb</B> only (e.g. Police are looking into the crime NOT Police are looking the crime into)
+keep on
+The present simple (also simple present) is the grammatical <B>Tense</B> expressing actions which took place in the present or future. It is used similar to presente simples do indicativo, presente do subjuntivo and futuro simples do subjuntivo in Portuguese.
+ "The earth moves round the sun." 
+ "You come out of the station." "Then you turn right." 
+ "I watch TV every day." 
+ "Children like playing." 
+ "He likes short stories." 
+ "He lives in London." 
+ "He interviews boys." 
+ "The food smells good." 
+ "If you leave your mobile phone there, someone will steal it." 
+ "The airplane leaves at 6:00 am tomorrow." 
+Note 
+Note from: Present simple by Wikipedia on 19 January 2006. 
+ "I promise that I won't be late." 
+ 
+See also: Stative <B>Verb</B> by Wikipedia
+The present simple is also very often used in jokes and when telling a story to make the joke or story seem more immediate. This use of the present simple is sometimes called the graphic present. It is also used to retell what happens in a book or film. + 
+Q: "A child, an honest politician, and Santa Claus all spot a $20 bill on the ground." "Who picks it up?"
+A: "The child." "The other two don't exist." 
+"A couple is touring a graveyard when they spot a tombstone that reads:" 
+""Here lies an honest man and a politician.""
+"The man says to the woman: " 
+"- "Look honey, there are two people in that grave."" 
+Q: "What do you call a thousand lawyers at the bottom of the ocean?" 
+A: "A good start." 
+Examples of jokes from: Joke by Wikipedia on 11 January 2006.
+"This <B>Article</B> is licensed under the GNU Free Documentation License. It uses material from the Wikipedia <B>Article</B> "English grammar"."
+Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled "GNU Free Documentation License".
+= Contents =
+If you have saved this file to your computer, click on a link in the contents to go to that section.
+= Unit I: Words =
+= Unit II: Sentences =
+= Unit III: Usage =
+= Unit IV: Punctuation =
+= Unit V: Other key topics =
+= Unit VI: Appendices =
+Pronoun Usage
+A <B>Pronoun</B> comes from a Latin word that means 'for a noun'. It is a word that stands in for a noun. The English language has lots of different kinds of pronouns.
+Pronouns are often divided into first, second and third person, singular and plural. First <B>Person</B> refers to the speaker, second <B>Person</B> refers to the <B>Person</B> or thing being spoken to, and third <B>Person</B> refers to a <B>Person</B> or thing neither speaking nor being spoken to.
+The first <B>Person</B> <B>Pronoun</B> (referring to the speaker) is 'I' or 'me' in the singular, and 'we' or 'us' in the plural. The first of each set, "I/we", is used as the <B>Subject</B> of a verb; the second, 'me/us', is used as the <B>Object</B> of a <B>Verb</B> or preposition. There are also reflexive pronouns which can be made (i.e. they are the same <B>Person</B> as the subject) by adding the suffix '-self' to the <B>Possessive</B> (myself/ourselves).
+The second <B>Person</B> <B>Pronoun</B> (referring to the <B>Person</B> being spoken to) is 'you' in singular and plural, as <B>Subject</B> or object. The reflexive is "yourself" in the singular and "yourselves" in the plural.
+A <B>Pronoun</B> is a word used instead of a noun: as,
+Pronouns are not a requirement of a sentence, and it is possible for them to never to be used in sentences. However, many sentences become unwieldy without them:
+The pronouns in English language are twenty-four; and their variations are thirty-two: so that the <B>Number</B> of words of this class, is fifty-six.
+Pronouns are divided into three classes; personal, relative, and interrogative.
+Pronouns also change depending on whether they refer to one <B>Person</B> or thing (singular) or a group of people or things (plural).
+A <B>Personal</B> <B>Pronoun</B> or <B>Personal</B> is a <B>Pronoun</B> that shows, by its form, of what <B>Person</B> it is: as,
+The simple <B>Personal</B> pronouns are five: namely, "I", of the first person; "you (thou)", of the second person; "he, she", and "it", of the third person.
+The <B>Compound</B> <B>Personal</B> pronouns are also five: namely, "myself", of the first person; "yourself (thyself)", of the second person; "himself, herself", and "itself", of the third person.
+First <B>Person</B> pronouns are used when referring to oneself:
+Second <B>Person</B> pronouns are used to refer to someone who you are conversing with, the <B>Person</B> the <B>Sentence</B> is intended to be heard by:
+(""Thou" art not very silly.")
+Third <B>Person</B> pronouns are used when referring to something else that is outside the conversation, either some other person, or an <B>Object</B> not capable of understanding or communicating:
+Third <B>Person</B> singular pronouns are the only pronouns marked for gender. If <B>Gender</B> is unknown, use "he or she" or use a plural.
+A <B>Relative</B> <B>Pronoun</B> or <B>Relative</B> is a <B>Pronoun</B> that represents an <B>Antecedent</B> word or phrase, and connects different clauses of a sentence: as,
+The <B>Relative</B> pronouns are "who, which, what, that, as", and the compounds "whoever or whosoever, whichever or whichsoever, whatever or whatsoever".
+"What" is a kind of double relative, equivalent to "that which" or "those which"; and is to be parsed first as antecedent, and then as relative: as,
+An <B>Interrogative</B> <B>Pronoun</B> or <B>Interrogative</B> is a <B>Pronoun</B> with which a question is asked: as,
+The <B>Interrogative</B> pronouns are "who, which", and "what"; being the same in form as relatives.
+"Who" demands a person's name; "which", that a <B>Person</B> or thing be distinguished from others; "what", the name of a thing, or a person's occupation and character.
+Pronouns have the same modifications as nouns; namely, persons, numbers, genders, and cases. Definitions universally applicable have already been given of all these things; it is therefore unnecessary to define them again in this place.
+The <B>Declension</B> of a <B>Pronoun</B> is a regular <B>Arrangement</B> of its numbers and cases.
+The simple <B>Personal</B> pronouns are thus declined:
+The word "self", added to the simple <B>Personal</B> pronouns, forms the class of <B>Compound</B> <B>Personal</B> pronouns; which are used when an action reverts upon the agent, and also when some persons are to be distinguished from others. They all want the <B>Possessive</B> case, and are alike in the <B>Nominative</B> and objective. Thus:
+The <B>Relative</B> and the <B>Interrogative</B> pronouns are thus declined:
+The <B>Compound</B> <B>Relative</B> pronouns, "whoever or whosoever, whichever or whichsoever", and "whatever or whatsoever" are declined in the same manner as the simples. Thus:
+Although helpful to eliminate repetitiveness of nouns, pronouns, when used too much, can make a <B>Sentence</B> extremely vague: as,
+The reader does not know what "it" is.
+The reader does not know who "they" are.
+The <B>Pronoun</B> "y'all" is a contraction of "You all". It is traditionally used in the south of the United States, where in the north you all is more common. "Y'all" follows the same <B>Conjugation</B> rules as "they". Very often it is incorrectly spelled "ya'll".
+A <B>Pronoun</B> must agree with its antecedent, as "This is the book; it is excellent," except the following cases: something indefinite, as "Tell me who it was," a neuter pronoun, as "I cannot view it," the <B>Pronoun</B> "it", as "It is not for kings," the <B>Adjective</B> "many", as "Many a great genius, they have no friends," enallage, as "We shall close our remarks," another sense, as "Lamps is of the <B>Plural</B> number," nominatives, as "Who are you?", <B>Absolute</B> nominatives, as "It need not be any wonder," possessives, as "Him whose yoke is easy," objectives, as "Those whom she persuaded," neuter verbs, as "Whom did you suppose me to be?", familiar language, as "The man [whom] I trust," omission of the relative, as "The worst thing [that] could happen," a collective noun, as "The council were divided," the <B>Conjunction</B> "or", as "James or John will favour us with his company," the <B>Conjunction</B> "and", as "Saul and Jonathan were pleasant in their lives," one <B>Person</B> or thing, as "This great philosopher and statesman," empathy, as "The good man, and the sinner too, shall have his reward," and "each", "every", or "no", as "Every plant and every tree produces others after its kind."
+Punctuation is the art of dividing literary composition, by points, or stops, for the purpose of showing more clearly the sense and <B>Relation</B> of the words; and of noting the different pauses and inflections required in reading.
+The following are the principal points, or marks:
+The comma denotes the shortest pause; the semicolon, a pause double that of the comma; the colon, a pause double that of the semicolon; and the period, or full stop, a pause double that of the colon. The pauses required by the other four, vary according to the structure of the sentence, and their place in it. They may be equal to any of the foregoing.
+The comma is used to separate those parts of a sentence, which are so nearly connected in sense, as to be only one degree removed from that close connection which admits no point.
+A simple <B>Sentence</B> does not, in general, admit the comma: as,
+When the <B>Nominative</B> in a long simple <B>Sentence</B> is accompanied by inseparable adjuncts, or when several words together are used instead of a nominative, a comma should be placed immediately before the verb: as,
+The simple members of a <B>Compound</B> sentence, whether successive or involved, elliptical or complete, are generally divided by the comma: as,
+When a <B>Relative</B> immediately follows its antecedent, and is taken in a restrictive sense, the comma should not be introduced before it: as,
+When the simple members are short, and closely connected by a <B>Conjunction</B> or a conjunctive adverb, the comma is generally omitted: as,
+When two simple members are immediately united, through <B>Ellipsis</B> of the relative, the antecedent, or the <B>Conjunction</B> that, the comma is not inserted: as,
+When more than two words or terms are connected in the same construction, or in a joint dependence on some other term, by conjunctions expressed or understood, the comma should be inserted after every one of them but the last; and, if they are nominatives before a verb, the comma should follow the last also: as,
+When only two words or terms are connected by a conjunction, they should not be separated by the comma: as,
+When the two words connected have several adjuncts, or when one of them has an <B>Adjunct</B> that relates not to both, the comma is inserted: as,
+When two connected words or phrases are contrasted, or emphatically distinguished, the comma is inserted: as,
+When there is merely an alternative of names, or an explanatory change of terms, the comma is usually inserted: as,
+When the <B>Conjunction</B> is understood, the comma is inserted; and, if two separated words or terms refer alike to a third term, the second requires a second comma: as,
+When successive words are joined in pairs by conjunctions, they should be separated in pairs by the comma: as,
+Nouns or pronouns put absolute, should, with their adjuncts, be set off by the comma: as,
+Words in apposition, especially if they have adjuncts, are generally set off by the comma: as,
+When several words, in their common order, are used as one <B>Compound</B> name, the comma is not inserted: as,
+When a common and a proper name are closely united, the comma is not inserted: as,
+When a <B>Pronoun</B> is added to an other word merely for emphasis and distinction, the comma is not inserted: as,
+When a name acquired by some action or relation, is put in <B>Apposition</B> with a preceding <B>Noun</B> or pronoun, the comma is not inserted: as,
+Adjectives, when something depends on them, or when they have the import of a dependent clause, should, with their adjuncts, be set off by the comma: as,
+When an <B>Adjective</B> immediately follows its noun, and is taken in a restrictive sense, the comma should not be used before it: as,
+Where a <B>Finite verb</B> is understood, a comma is generally required: as,
+As the semicolon must separate the clauses when the comma is inserted by this rule, if the pause for the omitted <B>Verb</B> be very slight, it may be left unmarked, and the comma be used for the clauses: as,
+The infinitive, when it follows a <B>Verb</B> from which it must be separated, or when it depends on something <B>Remote</B> or understood, is generally, with its adjuncts, set off by the comma: as,
+Participles, when something depends on them, when they have the import of a dependent clause, or when they relate to something understood, should, with their adjuncts, be set off by the comma: as,
+When a <B>Participle</B> immediately follows its noun, and is taken in a restrictive sense, the comma should not be used before it: as,
+Adverbs, when they break the connection of a simple sentence, or when they have not a close dependence on some particular word in the context, should, with their adjuncts, be set off by the comma: as,
+Conjunctions, when they are separated from the principal clauses that depend on them, or when they introduce examples, are generally set off by the comma: as,
+Prepositions and their objects, when they break the connection of a simple sentence, or when they do not closely follow the words on which they depend, are generally set off by the comma: as,
+Interjections that require a pause, though more commonly emphatic and followed by the ecphoneme, are sometimes set off by the comma: as,
+A word emphatically repeated, is generally set off by the comma: as,
+A quotation, observation, or description, when it is introduced in close dependence on a verb, (as, say, reply, cry, or the like,) is generally separated from the rest of the <B>Sentence</B> by the comma: as,
+The semicolon is used to separate those parts of a <B>Compound</B> sentence, which are neither so closely connected as those which are distinguished by the comma, nor so little dependent as those which require the colon.
+When two or more complex members, or such clauses as require the comma in themselves, are constructed into a period, they are generally separated by the semicolon: as,
+When two or more simple members, or such clauses as complete their sense without subdivision, are constructed into a period; if they require a pause greater than that of the comma, they are usually separated by the semicolon: as,
+Words in apposition, in disjunct pairs, or in any other construction, if they require a pause greater than that of the comma, and less than that of the colon, may be separated by the semicolon: as,
+The colon is used to separate those parts of a <B>Compound</B> sentence, which are neither so closely connected as those which are distinguished by the semicolon, nor so little dependent as those which require the period.
+When the preceding <B>Clause</B> is complete in itself, but is followed by some additional remark or illustration, especially if no <B>Conjunction</B> is used, the colon is generally and properly inserted: as,
+When the semicolon has been introduced, or when it must be used in a subsequent member, and a still greater pause is required within the period, the colon should be employed: as,
+A <B>Quotation</B> introduced without a close dependence on a <B>Verb</B> or a conjunction, is generally preceded by the colon: as,
+The period, or full stop, is used to mark an entire and independent sentence, whether simple or compound.
+When a sentence, whether long or short, is complete in respect to sense, and independent in respect to construction, it should be marked with the period: as,
+The <B>Period</B> is often employed between two sentences which have a general connection, expressed by a <B>Personal</B> pronoun, a conjunction, or a conjunctive adverb: as,
+The <B>Period</B> is generally used after abbreviations, and very often to the exclusion of other points; but, as in this <B>Case</B> it is not a constant <B>Sign</B> of pause, other points may properly follow it, if the words written in full would demand them: as, A. D. for Anno Domini; Pro tem. for pro tempore; Ult. for
+ultimo; i.e. for id est, that is;
+The dash is mostly used to denote an unexpected or emphatic pause, of variable length; but sometimes it is a <B>Sign</B> of faltering, or of the irregular stops of one who hesitates in speaking: as,
+A sudden interruption, break, or transition, should be marked with the dash: as,
+To mark a considerable pause, greater than the structure or the <B>Sentence</B> or the points inserted would seem to require, the dash may be employed: as,
+Dashes needlessly inserted, or substituted for other stops more definite, are in general to be treated as errors in punctuation: as,
+If this colon is sufficient, the <B>Capital</B> after it is needless: a <B>Period</B> would, perhaps, be better.
+The eroteme, or note of interrogation, is used to designate a question.
+Questions expressed directly as such, if finished, should always be followed by the note of interrogation: as,
+When two or more questions are united in one <B>Compound</B> sentence, the comma, semicolon, or dash, is sometimes used to separate them, and the eroteme occurs after the last only: as,
+When a question is mentioned, but not put directly as a question, it loses both the quality and the <B>Sign</B> of interrogation: as,
+The ecphoneme, or note of exclamation, is used to denote a pause with some strong emotion of admiration, joy, grief, or other feeling; and, as a <B>Sign</B> of great wonder, it is sometimes, though not very elegantly, repeated: as,
+Emphatic interjections, and other expressions of great emotion, are generally followed by the note of exclamation: as,
+After an earnest address or solemn invocation, the <B>Note of exclamation</B> is now generally preferred to any other point: as,
+Words uttered with vehemence in the form of a question, but without reference to an answer, should be followed by the note of exclamation: as,
+The curves, or marks of parenthesis, are used to distinguish a <B>Clause</B> or hint that is hastily thrown in between the parts of a <B>Sentence</B> to which it does not properly belong: as,
+The incidental <B>Clause</B> should be uttered in a lower tone, and faster than the principal sentence. It always requires a pause as great as that of a comma, or greater.
+A <B>Clause</B> that breaks the unity of a <B>Sentence</B> or passage too much to be incorporated with it, and only such, should be inclosed within curves, as a parenthesis: as,
+The curves do not supersede other stops; and, as the parenthesis terminates with a pause equal to that which precedes it, the same point should be included, except when the sentences differ in form: as,
+The apostrophe usually denotes either the <B>Possessive</B> <B>Case</B> of a noun, or the elision of one or more letters of a word: as,
+'Gan, lov'd, e'en, thro'; for began, loved, even, through. It is sometimes used in pluralizing a mere <B>Letter</B> or sign: as,
+The hyphen connects the parts of many <B>Compound</B> words, especially such as have two accents: as, ever-living. It is also frequently inserted where a word is divided into syllables: as, con-tem-plate. Placed at the end of a line, it shows that one or more syllables of a word are can led forward to the next line.
+The diaeresis, or dialysis, placed over either of two contiguous vowels, shows that they are not a diphthong: as, "Danaee, aerial".
+The acute accent marks the syllable which requires the principal stress in pronunciation: as, e'qual, equal'ity. It is sometimes used in opposition to the grave accent, to distinguish a close or short vowel: as, "Fancy"; or
+to denote the rising <B>Inflection</B> of the voice: as,
+The grave accent is used in opposition to the acute, to distinguish an open or long vowel: as, "Favour"; or to denote the falling <B>Inflection</B> of the voice: as,
+It is sometimes placed over a <B>Vowel</B> to show that it is not to be suppressed in pronunciation: as,
+The circumflex generally denotes either the broad sound of a or an unusual sound given to some other vowel: as in all, heir, machine. Some use it to mark a peculiar wave of the voice, and when occasion requires, reverse it: as,
+The breve, or stenotone, is used to denote either the close, short, shut sound of a vowel, or a syllable of short quantity: as, lĭve, to have life; răven, to devour; călămŭs, a reed.
+The macron, or macrotone, is used to denote either the open, long, primal sound of a vowel, or a syllable of long quantity: as, līve, having life; rāven, a bird; ēquīne, of a horse.
+The ellipsis, or suppression, denotes the omission of some letters or words: as, K…g, for King; c…d, for coward; d…d, for damned.
+The caret, used only in writing, shows where to insert words or letters that have been accidentally omitted.
+The tilde, "ã", is a diacritic mark, and tilde over a <B>Letter</B> is used to make abbreviations.
+The brace serves to unite a triplet; or, more frequently, to connect several terms with something to which they are all related.
+The section marks the smaller divisions of a book or chapter; and, with the help of numbers, serves to abridge references.
+The paragraph denotes the commencement of a new subject. The parts of discourse which are called paragraphs, are, in general, sufficiently distinguished by beginning a new line, and carrying the first word a little forwards or backwards. The paragraphs of books being in some instances numbered, this character may occasionally be used, in lieu of the word paragraph, to shorten references.
+The guillements, or <B>Quotation</B> points, distinguish words that are exhibited as those of an other author or speaker. A <B>Quotation</B> within a quotation, is usually marked with single points; which, when both are employed, are placed within the others: as,
+The crotchets, or brackets, generally inclose some correction or explanation, but sometimes the <B>Sign</B> or <B>Subject</B> to be explained: as,
+The index, or hand, points out something remarkable, or what the reader should particularly observe.
+The asterisk, or star, the obelisk, or dagger, the diesis, or double dagger, the section, the parallels, and the paragraph, refer to marginal notes. Where many references are to be made, the <B>Small letters</B> of the alphabet, or the numerical figures, in their order, may be conveniently used for the same purpose.
+The asterism, or three stars, a <B>Sign</B> not very often used, is placed before a long or general note, to mark it as a note, without giving it a particular reference.
+The cedilla is borrowed from the French. It is placed under the <B>Letter</B> "c", to give it the sound of "s", before "a" or "o": as, "Façade", "Alençon". It is sometimes attached to other letters, to denote their soft sounds: Ģ as "J"; Ş as "Z".
+The <B>Quotation</B> points distinguish words that are exhibited as those of an other author or speaker. A <B>Quotation</B> within a quotation, is usually marked with single points; which, when both are employed, are placed within the others: as,
+In English quotations and direct speech is donated using <B>Quotation</B> marks:
+Converting direct speech follows a pattern in English which may differ to reported speech in other languages. This pattern concerns statements (there are different rules for imperatives and questions).
+! colspan="2" | <B>Tense</B> Changes
+! Direct Speech || Reported Speech
+Note that when converting from direct speech to indirect speech you usually have to move the <B>Tense</B> backwards:
+! colspan="2" | <B>Tense</B> Changes
+! Direct Speech || Reported Speech
+Similarly there are some changes to be made to other words in the sentence. Because we are reporting what someone said in the past we must use other words to talk about the past, e.g. "today" becomes "that day", "here" becomes "there", "next week" becomes "the following week" and "last week" becomes "the previous week". There are other similar changes too.
+! colspan="2" | Examples
+! "I am here" || Reported Speech
+This section will serve as a basic overview of sentences. Each topic will be discussed in more detail in subsequent chapters.
+A <B>Phrase</B> is a group of words which contains neither a <B>Subject</B> nor a verb. (It may, however, contain a <B>Verbal</B> form such as an infinitive, a participle, or a gerund.)
+A <B>Clause</B> is a group of words containing at least a <B>Subject</B> and a <B>Verb</B> (the baby ate), and frequently it lets its hair down by containing some kind of a complement as well (the baby ate the goldfish). There are two kinds of clauses: independent and dependent.
+There are three forms of a sentence: simple, compound, and complex, and one combined form: compound-complex.
+It is a <B>Sentence</B> which is made to by joining two or more simple sentences.
+Sentences are created for four main reasons: to declare, to command, to question, and to exclaim.
+The following table shows for each sound, the various spelling patterns used to denote it. The symbol "•" stands for an intervening consonant. The <B>Letter</B> sequences are in order of frequency with the most common first. Some of these patterns are very rare or unique, such as 'au' for the "ah" sound in "laugh".
+English features a loose <B>Conjugation</B> and <B>Declension</B> pattern. For this reason, subject-verb <B>Agreement</B> is of paramount importance.
+Subject-Verb <B>Agreement</B> is a rule which states that the <B>Number</B> present in a <B>Noun</B> must agree with the <B>Number</B> shown in the conjugated form of the <B>Verb</B> that is being used, and that the <B>Person</B> of the <B>Noun</B> must agree with the <B>Person</B> of the conjugated form of the <B>Verb</B> that you are using.
+Proper Subject-Verb agreement:
+Where the <B>Subject</B> is a <B>Pronoun</B> or complex or modified as part of an adjectival phrase, or modified by parenthetic expressions, or clarified in meaning by common knowledge or something that occurs later in the sentence, then subject-verb <B>Agreement</B> can become a little more complicated. Some <B>Grammar</B> rules say that the complex part of the <B>Subject</B> closest to <B>Verb</B> in the <B>Sentence</B> should determine the <B>Verbal</B> agreement. However, many examples can be found that make this sound funny. A better rule is to consider the entire complex <B>Subject</B> <B>Phrase</B> as one subject, and then think about what kind of thing it represents.
+The basic idea in idiomatic English is to make the <B>Verb</B> agree with the idea that the <B>Subject</B> REPRESENTS, which could have different plurality than the actual <B>Subject</B> as a word. This is actually helpful in understanding meaning since it gives subject-verb <B>Agreement</B> a role that is not simply redundant (in echoing the pluarity of the subject). Whatever the <B>Subject</B> represents can be considered singular or plural, and that is what the <B>Verb</B> should agree with.
+In many cases, the author decides whether the <B>Subject</B> represents something singular or plural, depending upon which idea is desired to be expressed. For example, a group can act as a whole (singular) or as a group of individuals (plural), and despite many attempts at making rules for this, there is no simple rule that covers all cases:
+Another needed example is one in which the <B>Noun</B> that is clearly singular until the entire <B>Sentence</B> is read, and something near the end changes the meaning of the <B>Noun</B> so that it clearly represents a <B>Plural</B> thing.
+Syntax treats of the relation, agreement, government, and arrangement, of words in sentences.
+The <B>Relation</B> of words is their reference to other words, or their dependence according to the sense.
+The <B>Agreement</B> of words is their similarity in person, number, gender, case, mood, tense, or form.
+The <B>Government</B> of words is that power which one word has over another, to cause it to assume some particular modification.
+The <B>Arrangement</B> of words is their collocation, or <B>Relative</B> position, in a sentence.
+A <B>Sentence</B> is an assemblage of words, making complete sense, and always containing a <B>Nominative</B> and a verb: as,
+The principal parts of a <B>Sentence</B> are usually three; namely, the subject, or nominative; the finite verb; and the <B>Object</B> governed by the verb: as,
+A <B>Predicate</B> is the part of the <B>Sentence</B> (or clause) which states something about the subject.
+The other or subordinate parts depend on these, either as primary or as secondary adjuncts: as,
+Sentences are usually said to be of two kinds, simple and compound.
+A simple <B>Sentence</B> is a <B>Sentence</B> which consists of one single assertion, supposition, command, question, or exclamation: as,
+A <B>Compound</B> <B>Sentence</B> is a <B>Sentence</B> which consists of two or more simple ones either expressly or tacitly connected: as,
+A clause, or member, is a subdivision of a <B>Compound</B> sentence; and is itself a sentence, either simple or compound: as,
+A <B>Phrase</B> is two or more words which express some <B>Relation</B> of different ideas, but no entire proposition: as,
+Words that are omitted by ellipsis, and that are necessarily understood in order to complete the construction, must be supplied in parsing.
+The leading principles to be observed in the construction of sentences, are embraced in the following rules, which are arranged, as nearly as possible, in the order of the parts of speech.
+Articles relate to the nouns which they limit: as,
+The definite <B>Article</B> may relate to an <B>Adjective</B> or <B>Adverb</B> of the comparative or the superlative degree: as,
+The indefinite <B>Article</B> is sometimes used to give a collective meaning to an unstressed <B>Numeral</B> (a <B>Plural</B> <B>Adjective</B> of number): as,
+A <B>Noun</B> or a <B>Pronoun</B> which is the <B>Subject</B> of a finite verb, must be in the <B>Nominative</B> case: as,
+The subject, or nominative, is generally placed before the verb: as,
+But, in the following nine cases, the <B>Subject</B> of the <B>Verb</B> is usually placed after it, or after the first auxiliary:
+When a question is asked without an <B>Interrogative</B> <B>Pronoun</B> in the <B>Nominative</B> case: as,
+When the <B>Verb</B> is in the imperative mood: as,
+But, with this mood, the <B>Pronoun</B> is very often omitted and understood: as,
+When an earnest wish, or other strong feeling, is expressed: as,
+When a <B>Supposition</B> is made without the <B>Conjunction</B> if: as,
+When neither or nor, signifying and not, precedes the verb: as,
+When, for the sake of emphasis, some word or words are placed before the verb, which more naturally come after it: as,
+When the <B>Verb</B> has no regimen, and is itself emphatical: as,
+When the verbs, say, answer, reply, and the like, introduce the parts of a dialogue: as,
+When the <B>Adverb</B> "there" precedes the verb: as,
+This use of "there", is idiomatic, and somewhat different from the use of the same word in reference to a particular
+locality: as,
+A <B>Noun</B> or a <B>Personal</B> <B>Pronoun</B> used to explain a preceding <B>Noun</B> or pronoun, is put, by apposition, in the same case: as,
+An <B>Apposition</B> or <B>Appositive</B> is an <B>Interjection</B> into a sentence. <B>Appositive</B> renames, or adds to the description of another noun. The thought expressed by the <B>Sentence</B> will stand fully on its own without the appositive. In the following sentence, "My best friend's collie" is an appositive:
+A <B>Noun</B> or a <B>Pronoun</B> in the <B>Possessive</B> case, is governed by the name of the thing possessed: as,
+The <B>Possessive</B> <B>Case</B> generally comes immediately before the governing noun, expressed or understood: as,
+And in this order one <B>Possessive</B> sometimes governs another: as,
+But, to this general principle of arrangement, there are some exceptions: as,
+When the governing <B>Noun</B> has an adjective, this may intervene: as,
+In the following <B>Phrase</B> from the Spectator,
+it is not very clear, whether Will's is governed by night's or by lecture; yet it violates a general principle of our grammar, to suppose the latter; because, on this supposition, two possessives, each having the sign, will be governed by
+one noun.
+When the <B>Possessive</B> is affirmed or denied: as,
+But here the governing <B>Noun</B> may be supplied in its proper place; else a <B>Pronoun</B> or the <B>Verb</B> will be the only
+governing word: as,
+Whether this phraseology is thus elliptical or not, is questionable.
+When the <B>Case</B> occurs without the sign, either by <B>Apposition</B> or by connection: as,
+A <B>Noun</B> or a <B>Pronoun</B> made the <B>Object</B> of an active transitive <B>Verb</B> or participle, is governed by it in the <B>Objective</B> case: as,
+A <B>Noun</B> or a <B>Pronoun</B> put after an intransitive <B>Verb</B> or participle, agrees in <B>Case</B> with a preceding <B>Noun</B> or <B>Pronoun</B> referring to the same thing: as,
+A <B>Noun</B> or a <B>Pronoun</B> is put <B>Absolute</B> in the nominative, when its <B>Case</B> depends on no other word: as,
+Adjectives relate to nouns or pronouns: as,
+An <B>Adjective</B> sometimes relates to a <B>Phrase</B> or <B>Sentence</B> which is made the <B>Subject</B> of an intervening verb: as,
+In combined arithmetical numbers, one <B>Adjective</B> often relates to another, and the whole phrase, to a subsequent noun: as,
+With an <B>Infinitive</B> or a <B>Participle</B> denoting being or action in the abstract, an <B>Adjective</B> is sometimes also taken abstractly; that is, without reference to any particular noun, pronoun, or other subject: as,
+Adjectives are sometimes substituted for their corresponding <B>Abstract</B> nouns; perhaps, in most instances, elliptically: as,
+The <B>Adjective</B> is generally placed immediately before its noun: as,
+Adjectives can also come before the subject:
+In the following instances the <B>Adjective</B> is placed after the word to which it relates:
+Those adjectives which relate to pronouns, most commonly follow them: as,
+But to both these general rules there are many exceptions; for the position of an <B>Adjective</B> may be varied by a variety of circumstances, not excepting the mere convenience of emphasis: as,
+When other words depend on the adjective, or stand before it to qualify it: as,
+When the quality results from an action, or receives its application through a <B>Verb</B> or participle: as,
+When the quality excites admiration, and the <B>Adjective</B> would thus be more clearly distinctive: as,
+When a <B>Verb</B> comes between the <B>Adjective</B> and the noun: as,
+When the <B>Adjective</B> is formed by means of the <B>Prefix</B> a: as, afraid, alert, alike, alive, alone, asleep, awake, aware, averse, ashamed, askew. To these may be added a few other words: as, else, enough, extant, extinct, fraught, pursuant.
+When the <B>Adjective</B> has the nature, but not the form, of a participle: as,
+In some instances, the <B>Adjective</B> may either precede or follow its noun; as, in poetry, provided the sense be obvious: as,
+When technical usage favours one order, and common usage another: as,
+When an <B>Adverb</B> precedes the adjective: as,
+Murray, Comly, and others, here approve only the former order; but the latter is certainly not ungrammatical.
+When several adjectives belong to the same noun: as,
+When the <B>Adjective</B> is emphatic, it may be foremost in the sentence, though the natural order of the words would bring it last: as,
+When the <B>Adjective</B> and its <B>Noun</B> both follow a <B>Verb</B> as parts of the predicate, either may possibly come before the other, yet the <B>Arrangement</B> is fixed by the sense intended. Thus, there is a great difference between the following assertions:
+By an <B>Ellipsis</B> of the noun, an <B>Adjective</B> with a <B>Preposition</B> before it, is sometimes equivalent to an adverb: as,
+A <B>Pronoun</B> must agree with its antecedent, or the <B>Noun</B> or <B>Pronoun</B> which it represents, in person, number, and gender: as,
+When a <B>Pronoun</B> stands for some <B>Person</B> or thing indefinite, or unknown to the speaker, the person, number, and gender, are rather assumed in the pronoun, than regulated by an antecedent: as,
+The neuter <B>Pronoun</B> may be applied to a young child, or to other creatures masculine or feminine by nature, when they are not obviously distinguishable with regard to sex: as,
+The <B>Pronoun</B> it is often used without a definite reference to any antecedent, and is sometimes a mere expletive, and sometimes the representative of an action expressed afterwards by a verb: as,
+A singular <B>Antecedent</B> with the <B>Adjective</B> many, sometimes admits a <B>Plural</B> pronoun, but never in the same clause: as,
+When a <B>Plural</B> <B>Pronoun</B> is put by <B>Enallage</B> for the singular, it does not agree with its <B>Noun</B> in number, because it still requires a <B>Plural</B> verb: as,
+The <B>Pronoun</B> sometimes disagrees with its <B>Antecedent</B> in one sense, because it takes it in another: as,
+Nominatives: (i.e., words parsed as nominatives after the verbs, though mostly transposed:)
+This construction of the <B>Relative</B> is a latinism, and very seldom used by the best writers.
+Pronouns parsed as objectives after neuter verbs, though they stand before them:
+In familiar language, the <B>Relative</B> of the <B>Objective</B> <B>Case</B> is frequently understood: as,
+In grave writing, or deliberate discourse, it is much better to express the relative. The omission of it is often attended with some obscurity: as,
+The omission of a <B>Relative</B> in the <B>Nominative</B> case, is almost always inelegant: as,
+This <B>Ellipsis</B> may occur after but or than, and it is sometimes allowed in poetry: as,
+When the <B>Antecedent</B> is a <B>Collective noun</B> conveying the idea of plurality, the <B>Pronoun</B> must agree with it in the <B>Plural</B> number: as,
+When a <B>Pronoun</B> has two or more antecedents connected by or or nor, it must agree with them singly, and not as if taken together: as,
+When a <B>Pronoun</B> has two or more antecedents connected by and, it must agree with them jointly in the plural, because they are taken together: as,
+When two or more antecedents connected by and serve merely to describe one <B>Person</B> or thing, they are either in <B>Apposition</B> or equivalent to one name, and do not require a <B>Plural</B> pronoun: as,
+When two antecedents connected by and are emphatically distinguished, they belong to different propositions, and, if singular, do not require a <B>Plural</B> pronoun: as,
+When two or more antecedents connected by and are preceded by the <B>Adjective</B> each, every, or no, they are taken separately, and do not require a <B>Plural</B> pronoun: as,
+But if the latter be a collective noun, the <B>Pronoun</B> may be plural: as,
+Every <B>Finite verb</B> must agree with its subject, or nominative, in <B>Person</B> and number: as,
+When the <B>Nominative</B> is a <B>Collective noun</B> conveying the idea of plurality, the <B>Verb</B> must agree with it in the <B>Plural</B> number: as,
+When a <B>Verb</B> has two or more nominatives connected by and, it must agree with them jointly in the plural, because they are taken together: as,
+When two nominatives connected by and serve merely to describe one <B>Person</B> or thing, they are either in <B>Apposition</B> or equivalent to one name, and do not require a <B>Plural</B> verb: as,
+When two nominatives connected by and, are emphatically distinguished, they belong to different propositions, and, if singular, do not require a <B>Plural</B> verb: as,
+When two or more nominatives connected by and are preceded by the <B>Adjective</B> each, every, or no, they are taken separately, and do not require a <B>Plural</B> verb: as,
+When the <B>Verb</B> separates its nominatives, it agrees with that which precedes it, and is understood to the rest: as,
+When a <B>Verb</B> has two or more nominatives connected by or or nor, it must agree with them singly, and not as if taken together: as,
+The <B>Infinitive</B> <B>Mood</B> is governed in general by the <B>Preposition</B> to, which commonly connects it to a finite verb: as,
+The active verbs, bid, dare, feel, hear, let, make, need, see, and their participles, usually take the <B>Infinitive</B> after them without the <B>Preposition</B> to: as,
+Though the <B>Infinitive</B> is commonly made an <B>Adjunct</B> to some finite verb, yet it may be connected to almost all the other parts of speech. The <B>Preposition</B> to being its only and almost universal index; unless the word about, in such a situation, is a preposition.
+Anciently, the <B>Infinitive</B> was sometimes preceded by for as well as to: as,
+It seems practicable to subjoin the <B>Infinitive</B> to every one of
+the ten parts of speech, except the article: as,
+The <B>Infinitive</B> is a verb, without affirmation, without <B>Person</B> or number, and therefore without the <B>Agreement</B> peculiar to a finite verb. But, in most instances, it is not without limitation of the being, action, or passion, to some persons or things, that are said, supposed, or denied, to be, to act, or to be acted on. Whenever it is not thus limited, it is taken abstractly, and has some resemblance to a noun. Even then, the active <B>Infinitive</B> may govern the <B>Objective</B> case. The uses of the <B>Infinitive</B> are many and various. The following are the chief of the things for which it may stand:
+For the supplement to another verb, to complete the sense: as,
+For the purpose, or end, of that to which it is added: as,
+For the <B>Object</B> of an affection or passion: as,
+For the cause of an affection or passion: as,
+For the <B>Subject</B> of a proposition, or the chief term in such subject: as,
+For the <B>Predicate</B> of a proposition, or the chief term in such predicate: as,
+For a coming event, or what will be: as,
+For a necessary event, or what ought to be: as,
+For what is previously suggested by another word: as,
+For a term of <B>Comparison</B> or measure: as,
+The regular <B>Syntax</B> of the participle, is twofold; being sometimes that of simple <B>Relation</B> to a <B>Noun</B> or a <B>Pronoun</B> that precedes it, and sometimes that of government, or the state of being governed by a preposition. In the former construction, the <B>Participle</B> resembles an adjective; in the latter, it is more like a noun, or like the <B>Infinitive</B> mood. To these constructions, some add others less regular: using the <B>Participle</B> as the <B>Subject</B> of a finite verb, as the <B>Object</B> of a transitive verb, or as a <B>Nominative</B> after a neuter verb.
+Participles relate to nouns or pronouns, or else are governed by prepositions: as,
+A <B>Participle</B> sometimes relates to a preceding <B>Phrase</B> or sentence, of which it forms no part: as,
+With an <B>Infinitive</B> denoting being or action in the abstract, a <B>Participle</B> is sometimes also taken abstractly; that is, without reference to any particular noun, pronoun, or other subject: as,
+The <B>Participle</B> is often used irregularly, as a substitute for the <B>Infinitive</B> mood, to which it is sometimes equivalent without irregularity: as,
+Another frequent irregularity in the construction of participles, is the practice of treating them essentially as nouns, without taking from them the <B>Regimen</B> and adjuncts of participles: as,
+The <B>Syntax</B> of an <B>Adverb</B> consists in its simple <B>Relation</B> to a verb, a participle, an adjective, or whatever else it qualifies.
+Adverbs relate to verbs, participles, adjectives, or other adverbs: as,
+The adverbs yes, ay, and yea, expressing a simple affirmation, and the adverbs no and nay, expressing a simple negation, are always independent. They generally answer a question, and are equivalent to a whole sentence. Is it clear, that they ought to be called adverbs? No.
+The word amen, which is commonly called an adverb, is often used independently at the beginning or end of a declaration or a prayer: as,
+When it does not stand thus alone, it seems in general to be used substantively: as,
+An <B>Adverb</B> before a <B>Preposition</B> seems sometimes to relate to the latter, rather than to the <B>Verb</B> or <B>Participle</B> to which the <B>Preposition</B> connects its object: as,
+The words much, little, far, and all, being originally adjectives, are sometimes preceded by the negative not, or (except the last) by such an <B>Adverb</B> as too, how, thus, so, or as, when they are taken substantively: as,
+The <B>Syntax</B> of conjunctions consists in the simple fact, that they link together such and such terms, and thus "Mark the connections of human thought."—Beattie.
+Conjunctions connect words, sentences, or parts of sentences: as,
+The <B>Conjunction</B> that sometimes serves merely to introduce a <B>Sentence</B> which is made the <B>Subject</B> or the <B>Object</B> of a finite verb: as,
+When two corresponding conjunctions occur, in their usual order, the former should generally be parsed as referring to the latter, which is more properly the connecting word: as,
+Either, corresponding to or, and neither, corresponding to nor or not, are sometimes transposed, so as to repeat the disjunction or negation at the end of the sentence: as,
+The <B>Syntax</B> of prepositions consists, not solely or mainly in their power of governing the <B>Objective</B> case, but in their adaptation to the other terms between which they express certain relations.
+Prepositions show the relations of words, and of the things or thoughts expressed by them: as,
+A <B>Noun</B> or a <B>Pronoun</B> made the <B>Object</B> of a preposition, is governed by it in the <B>Objective</B> case: as,
+The <B>Preposition</B> to, before an <B>Abstract</B> infinitive, and at the head of a <B>Phrase</B> which is made the <B>Subject</B> of a verb, has no proper <B>Antecedent</B> term of relation: as,
+The <B>Preposition</B> for, when it introduces its <B>Object</B> before an infinitive, and the whole <B>Phrase</B> is made the <B>Subject</B> of a verb, has properly no <B>Antecedent</B> term of relation: as,
+Interjections have no dependent construction; they are put absolute, either alone, or with other words: as,
+In the formation of sentences, the consistency and adaptation of all the words should be observed; and a regular, clear, and correspondent construction should be preserved throughout.
+Words that may constitute different parts of speech, must not be left doubtful as to their classification.
+The reference of words to other words, or their syntactical <B>Relation</B> according to the sense, should never be left doubtful.
+A definition must include the whole class of things, which it pretends to define, and exclude everything which comes not under the name.
+A <B>Comparison</B> is a form of speech which requires some similarity or common property in the things compared; without which, it becomes a solecism.
+Sentences that convey a meaning manifestly false, should be changed, rejected, or contradicted. They distort language from its only worthy use; which is, to state facts, and to tell the truth.
+Every writer should be careful not to contradict himself; for what is self-contradictory, is both null in argument, and bad in style.
+Words that are entirely needless, and especially such as encumber the expression, ought in general to be omitted.
+Words necessary to the sense, or even to the melody or beauty of a sentence, ought seldom, if ever, to be omitted.
+Here are some hints on how to express the date and time in English:
+"Italics" are used for: 
+If something within a run of italics needs to be italicized itself, the type is switched back to non-italicized (Roman) type: "That sounds like the "Ode to Joy" played backwards", thought Mary.
+Italic type is usually used for emphasis.
+In media where italicization is not possible, alternatives are used as substitutes:
+An underline is used to indicate special typefaces:
+Small caps are often used for text that is all uppercase; this makes the run of <B>Capital</B> letters seem less "jarring" to the reader. For example, the style of many publications, including the "Atlantic Monthly" and "USA Today", is to use small caps for initialisms of three or more letters; thus: "U.S." and "FDR" in normal caps, but "nato" in small caps. The initialisms "A.D." and "B.C." are often smallcapped as well.
+Other uses: 
+A <B>Verb</B> is a <B>Part of speech</B> that usually denotes action ("bring", "read"), occurrence ("to decompose" (itself), "to glitter"), or a state of being ("exist", "live", "soak", "stand"). Depending on the language, a <B>Verb</B> may vary in form according to many factors, possibly including its tense, aspect, <B>Mood</B> and voice. It may also agree with the person, gender, and/or <B>Number</B> of some of its arguments (what we usually call subject, object, etc.).
+Verbs can be conveyed in many ways. Lets look in particular at the word "wear"
+She wears a pink dress - This <B>Sentence</B> is made up of three main parts, she, being the noun. Wears, being an action or 'doing' word. Pink, describing the <B>Noun</B> about to be added to the <B>Sentence</B> and, Dress, the <B>Noun</B> which pulls all these words together (giving them all one key point) to complete the sentence.
+See the verbs <B>Infinitive</B> mood.
+An <B>Infinitive</B> can be joined to every part of speech: a noun, as "Obtain felicity," an adjective, as "Desirous to speak," a pronoun, as "What to accuse," a finite verb, as "Come to seek," an infinitive, as "To wait to consider," a participle, as "Bent to unhoard," an adverb, as "How to act," a conjunction, as "More than praise it," a preposition, as "About to write," and an interjection, as "O to forget her!".
+An <B>Infinitive</B> may stand for the following: a supplement to verb, as "Go to seek," purpose, as "Labour not to be rich," an <B>Object</B> of passion, as "He loves to ride," a cause of passion, as "I rejoice to hear it," the <B>Subject</B> of proposition, as "To steal is sinful," the <B>Object</B> of proposition, as "To enjoy is to obey," a coming event, as "Things to come," a necessary event, as "It is to be remembered," something previously suggested, as "The gift to know it," and measure, as "Enough to show."
+Gerunds are nouns built from a <B>Verb</B> with an "ing" suffix. They can be used as the <B>Subject</B> of a sentence, an object, or an <B>Object</B> of preposition. They can also be used to complement a subject. Often, gerunds exist side-by-side with nouns that come from the same root but the <B>Gerund</B> and the <B>Common noun</B> have different shades of meaning. Examples: breath and "breathing", knowledge and "knowing". Yet, distinguishing between a gerund, and a <B>Verb</B> can sometimes cause trouble. For example:
+Examples of gerunds as the <B>Subject</B> of a <B>Sentence</B> are:
+As an object:
+An <B>Object</B> of preposition:
+And as a complement to a subject:
+Participles are forms of verbs which are used as adjectives. A <B>Participle</B> is a word derived from a verb, participating the properties of a verb, and of an <B>Adjective</B> or a noun; and is generally formed by adding "ing", "d", or "ed", to the verb: thus, from the <B>Verb</B> rule, are formed three participles, two simple and one compound; as, "ruling, ruled, having ruled".
+English verbs, not defective, have severally three participles; which have been very variously denominated, perhaps the most accurately thus: the present, the past, and the past perfect. Or, as their order is undisputed, they may be conveniently called the first, the second, and the third.
+The present <B>Participle</B> is that which ends commonly in "ing", and implies a continuance of the being, action, or passion: as, "being, acting, ruling, loving, defending, terminating". Therefore:
+The present participle, when simple, is always formed by adding "ing", or it is formed by prefixing being to some other simple participle; as, "being reading, being read, being completed".
+The past <B>Participle</B> is that which ends commonly in "ed" or "en", and implies a completion of the being, action, or passion: as, "been, acted, ruled, loved, defended, terminated". Therefore:
+The past <B>Participle</B> is always simple, and is regularly formed by adding "d" or "ed" to the <B>Radical</B> verb: those verbs from which it is formed otherwise, are either irregular or redundant.
+The <B>Irregular verb</B> "see" also did not have a regular past participle. As with most irregular words, there is no good "general rule" which applies, but often "ed" is replaced by 'en'. More irregular verbs with irregular past participles are:
+The past perfect <B>Participle</B> is that which takes the <B>Sign</B> having, and implies a previous completion of the being, action, or passion: as, "having loved, having seen, having written; having been loved, having been writing, having been written".
+The past perfect <B>Participle</B> is always compound, and is formed by prefixing having to the past participle, when the <B>Compound</B> is double, and having been to the past or the present participle, when the <B>Compound</B> is triple: as, having spoken, having been spoken, having been speaking.
+Participles relate to nouns or pronouns, as "Reading Plato,"
+except the following cases: the preceding phrase, as "To leave them, appearing a duty," an <B>Abstract</B> action or being, as "To seem compelled, is disagreeable," substitute for infinitive, as "Afraid of trying," and substitute for a noun, as "This is talking."
+Each of these cases has a <B>Verb</B> acting as an adjective, describing the subject.
+In <B>Case</B> you were wondering, "had" plus a past <B>Participle</B> is called a past perfect, or in the United Kingdom, the pluperfect.
+Verbs are often called action words that show what the <B>Subject</B> (a <B>Noun</B> or pronoun) is doing. A <B>Verb</B> is a word that signifies to be, to act, or to be acted on: as, "I am, I rule, I am ruled, I love, you love, he loves". Verbs are so called, from the Latin "verbum", a word; because the <B>Verb</B> is that word which most essentially contains what is said in any <B>Clause</B> or sentence. Although described as "action words", they can describe <B>Abstract</B> concepts. They are a requirement of any sentence. Verbs have modifications of four kinds: moods, tenses, persons and numbers.
+An English <B>Verb</B> has four morphological forms (forms of word formation) ever needful to be ascertained in the first place: the present, the past, the present participle, and the past participle. The third <B>Person</B> singular is the fifth morphological form.
+The present is that form of the verb, which is the root of all the rest; the <B>Verb</B> itself; or that simple term which we should look for in a dictionary: as, "be, act, rule, love, defend, terminate".
+The past is that simple form of the verb, which denotes time past; and which is always connected with some <B>Noun</B> or pronoun, denoting the <B>Subject</B> of the assertion: as, "I was, I acted, I ruled, I loved, I defended".
+The present <B>Participle</B> is that form of the verb, which ends commonly in "ing", and implies a continuance of the being, action, or passion: as, "being, acting, ruling, loving, defending, terminating".
+The past <B>Participle</B> is that form of the verb, which ends commonly in "d" or "ed", and implies what has taken place: as, "been, acted, ruled, loved".
+English, like many Germanic languages, contains both strong (or irregular, which is not "quite" the same as strong) and weak (regular) verbs. Irregular verbs are one of the most difficult aspects of learning English. Each <B>Irregular verb</B> must be memorized, because they are not often easy to identify otherwise.
+Verbs are divided, with respect to their regularity, into four classes: regular and irregular, redundant and defective.
+A <B>Regular verb</B> is a <B>Verb</B> that forms the past and the past <B>Participle</B> by assuming "d" or "ed": as, "love, loved, loving, loved".
+An <B>Irregular verb</B> is a <B>Verb</B> that does not form the past and the past <B>Participle</B> by assuming "d" or "ed": as, "see, saw, seeing, seen".
+A <B>Redundant verb</B> is a <B>Verb</B> that forms the past or the past <B>Participle</B> in two or more ways, and so as to be both regular and irregular: as, "thrive, thrived or throve, thriving, thrived or thriven".
+A <B>Defective verb</B> is a <B>Verb</B> that forms no participles, and is used in but few of the moods and tenses: as, "beware, ought, quoth".
+The <B>Person</B> and <B>Number</B> of a <B>Verb</B> are those modifications in which it agrees with its subject. There are three persons and two numbers: thus,
+Where the <B>Verb</B> is varied, the third <B>Person</B> singular in the present tense, is regularly formed by adding "s" or "es": as, "I see, he sees; I give, he gives; I go, he goes; I fly, he flies; I vex, he vexes; I lose, he loses".
+Where the <B>Verb</B> is not varied to denote its <B>Person</B> and number, these properties are inferred from its subject: as, "if I love, if he love; if we love, if you love, if they love".
+Tenses are those modifications of the verb, which distinguish time. There are six tenses; the present, the past, the present perfect, the past perfect, the first-future, and the second-future. One could even say there are twelve tenses because each of those comes in simple and in progressive forms, which have different meaning.
+The past <B>Tense</B> is sometimes called imperfect, but the names perfect and imperfect do not fit their meaning. These names were derived from Latin where they were correct.
+The <B>Present tense</B> simple is that which expresses what now exists, is normal or correlated to senses. It is used with adverbs like "always", "generally".
+The <B>Present tense</B> continuous is that which expresses what is temporary:
+The past <B>Tense</B> simple is that which expresses what took place in time fully past. It is used with adverbs like "yesterday", " last week".
+The past <B>Tense</B> continuous is that which expresses what was taking place when (suddenly) something else occurred.
+The present <B>Perfect tense</B> simple is that which expresses what has taken place, within some <B>Period</B> of time not yet fully past, or is still valid. It is used with adverbs like "ever", "never", "today", "this week".
+The present <B>Perfect tense</B> continuous is that which which started in the past and has not yet finished.
+The <B>Past perfect tense</B> simple is that which expresses what had taken place, at some past time mentioned, before something other happened.
+The <B>Past perfect tense</B> continuous is that which expresses what had started before and was still going on, when something else occurred.
+The <B>First-future tense</B> simple is that which expresses what will take place hereafter.
+The <B>First-future tense</B> continuous is that which expresses what will be currently taking place at a certain time in future.
+The <B>Second-future tense</B> simple is that which expresses what will have taken place at some future time mentioned.
+The <B>Second-future tense</B> continuous is that which expresses what will have started at some time and will still be ongoing, at some future time mentioned.
+An <B>Active verb</B> is a <B>Verb</B> in an active sentence, in which the <B>Subject</B> performs the verb: as,
+An <B>Active verb</B> can be transitive or intransitive, but not passive or neuter.
+Verbs are divided again, with respect to their signification, into four classes: transitive, intransitive, passive, and neuter.
+A transitive <B>Verb</B> is a <B>Verb</B> that expresses an action which has some <B>Person</B> or thing for its object: as,
+An intransitive <B>Verb</B> is a <B>Verb</B> that expresses an action which has no <B>Person</B> or thing for its object: as,
+A passive <B>Verb</B> is a <B>Verb</B> in a passive <B>Sentence</B> (passive voice) that represents its subject, or what the <B>Nominative</B> expresses, as being acted on: as,
+In a passive sentence, the action is performed on the subject.
+These sentences have the same denotative meaning, but their connotative meaning is quite different; active verbs are much more powerful and personal.
+A <B>Neuter verb</B> or impersonal passive <B>Verb</B> is a <B>Verb</B> that expresses neither action nor passion, but simply being, or a state of being: as,
+Voice of speech can be active or passive. Principally in <B>Passive voice</B> the same tenses can be used as in active voice. There are two forms of <B>Passive voice</B> (the second form is preferred):
+There are however some things to note.
+Here active and passive do not really have the same meaning. If for example you describe a picture where people build a house, the first <B>Sentence</B> is perfectly correct. The second <B>Sentence</B> however will be interpreted as the static perfect of the sentence
+This is, the house is now ready and not under construction. So the correct passive form is
+Passive <B>Voice</B> can be built quite formally by adhering to some rules. You will however not find normally all tenses as in active voice. Formal rules will lead you to monstrosities like the following, you will certainly never hear (already the active <B>Sentence</B> is quite monstrous):
+Moods are different forms of the verb, each of which expresses the being, action, or passion, in some particular manner.
+There are five moods; the infinitive, the indicative, the potential, the subjunctive, and the imperative.
+The <B>Infinitive</B> <B>Mood</B> is that form of the verb, which expresses the being, action, or passion, in an unlimited manner, and without <B>Person</B> or number: as,
+The <B>Indicative mood</B> is that form of the verb, which simply indicates or declares a thing: as,
+or asks a question: as,
+The potential <B>Mood</B> is that form of the <B>Verb</B> which expresses the power, liberty, possibility, or necessity, of the being, action, or passion: as,
+The subjunctive <B>Mood</B> is that form of the verb, which represents the being, action, or passion, as conditional, doubtful, and contingent: as,
+The <B>Imperative mood</B> is that form of the <B>Verb</B> which is used in commanding, exhorting, entreating, or permitting: as,
+The <B>Conjugation</B> of a <B>Verb</B> is a regular <B>Arrangement</B> of its moods, tenses, persons, numbers, and participles.
+An auxiliary, or a <B>Sign</B> of a verb, is a short <B>Verb</B> prefixed to one of the morphological forms of another verb, to express some particular mode and time of the being, action, or passion. The auxiliaries are "do, be, have, shall, will, may, can", and "must", with their variations. "Do", "be", and "have" express the indicative mood.
+Most often, the auxiliaries are used in the following way:
+Often confused with each other in modern English. These auxiliaries have distinct meanings, and, as signs of the future, they are interchanged thus:
+Present tense, <B>Sign</B> of the indicative first-future.
+Past tense, <B>Sign</B> of aorist, or indefinite.
+See also: Shall and will by Wikipedia
+If "must" is ever used in the sense of the past tense, the form is the same as that of the present: this word is entirely invariable.
+English <B>Grammar</B> has changed,
+no longer means the same as
+The first <B>Sentence</B> refers to an ongoing action, the second to a completed one.
+Verb may be conjugated in four ways:
+The verbs would be conjugated affirmatively, unless said otherwise.
+The <B>Verb</B> "love" is a regular active verb.
+The simplest form of an English conjugation, is that which makes the present and past tenses without auxiliaries; but, even in these, auxiliaries are required for the potential mood, and are often preferred for the indicative.
+The <B>Infinitive</B> <B>Mood</B> is that form of the verb, which expresses the being, action, or passion, in an unlimited manner, and without <B>Person</B> or number. It is used only in the present and perfect tenses.
+This <B>Tense</B> is the root, or <B>Radical</B> verb; and is usually preceded by the <B>Preposition</B> to, which shows its <B>Relation</B> to some other word: thus,
+This <B>Tense</B> prefixes the <B>Auxiliary</B> have to the past participle; and, like the <B>Infinitive</B> present, is usually preceded by the <B>Preposition</B> to: thus,
+The <B>Indicative mood</B> is that form of the verb, which simply indicates or declares a thing, or asks a question. It is used in all the tenses.
+The present indicative, in its simple form, is essentially the same as the present infinitive, or <B>Radical</B> verb; except that the <B>Verb</B> "be" has "am" in the indicative.
+The simple form of the <B>Present tense</B> is varied thus:
+This <B>Tense</B> may also be formed by prefixing the <B>Auxiliary</B> "do" to the verb: thus,
+This tense, in its simple form is the past; which, in all regular verbs, adds "d" or "ed" to the present, but in others is formed variously.
+The simple form of the past <B>Tense</B> is varied thus:
+This <B>Tense</B> may also be formed by prefixing the <B>Auxiliary</B> "did" to the present: thus,
+she did love 
+This <B>Tense</B> prefixes the <B>Auxiliary</B> "have" to the past participle: thus,
+This <B>Tense</B> prefixes the <B>Auxiliary</B> "had" to the past participle: thus,
+This <B>Tense</B> prefixes the <B>Auxiliary</B> "shall or will" to the present: thus,
+This <B>Tense</B> prefixes the auxiliaries "shall have or will have" to the past participle: thus,
+The potential <B>Mood</B> is that form of the verb, which expresses the power, liberty, possibility, or necessity of the being, action, or passion. It is used in the first four tenses; but the potential past is properly an aorist: its time is very indeterminate: as,
+This <B>Tense</B> prefixes the <B>Auxiliary</B> "may, can, or must", to the <B>Radical</B> verb: thus,
+This <B>Tense</B> prefixes the <B>Auxiliary</B> "might, could, would, or should", to the <B>Radical</B> verb: thus,
+This <B>Tense</B> prefixes the auxiliaries, "may have, can have, or must have", to the past participle: thus,
+This <B>Tense</B> prefixes the auxiliaries, "might have, could have, would have, or should have", to the past participle: thus,
+The subjunctive <B>Mood</B> is that form of the verb, which represents the being, action, or passion, as conditional, doubtful, or contingent. This <B>Mood</B> is generally preceded by a conjunction: as, "if, that, though, lest, unless, except". But sometimes, especially in poetry, it is formed by a mere placing of the <B>Verb</B> before the nominative: as,
+It does not vary its termination at all, in the different persons. It is used in the present, and sometimes in the past tense; rarely, and perhaps never properly, in any other. As this <B>Mood</B> can be used only in a dependent clause, the time implied in its tenses is always relative, and generally indefinite: as,
+This <B>Tense</B> is generally used to express some condition on which a future action or event is affirmed. It is therefore erroneously considered by some grammarians, as an elliptical form of the future.
+In this tense, the <B>Auxiliary</B> "do" is sometimes employed: as,
+This tense, like the past of the potential mood, with which it is frequently connected, is properly an aorist, or indefinite tense; for it may refer to time past, present, or future: as,
+The <B>Imperative mood</B> is that form of the verb, which is used in commanding, exhorting, entreating, or permitting. It is commonly used only in the second <B>Person</B> of the present tense.
+The <B>Verb</B> "see" is an irregular active verb.
+ Present Past Past Perfect
+The <B>Verb</B> "be" is an irregular neuter verb.
+ Present Past Present <B>Participle</B> Past Participle.
+ Present Past Past Perfect
+The <B>Verb</B> "read" is an irregular active verb.
+Active and neuter verbs may also be conjugated, by adding the present <B>Participle</B> to the <B>Auxiliary</B> <B>Verb</B> "be", through all its changes: as,
+This form of the <B>Verb</B> denotes a continuance of the action or state of being, and is, on many occasions, preferable to the simple form of the verb.
+ Present Past Present <B>Participle</B> Past Participle
+ Present Past Past Perfect
+The <B>Verb</B> "be loved" is a regular passive verb.
+Passive verbs, in English, are always of a progressive form; being made from transitive verbs, by adding the past <B>Participle</B> to the <B>Auxiliary</B> <B>Verb</B> "be", through all its changes: thus from the active transitive <B>Verb</B> "love", is formed the passive <B>Verb</B> "be loved".
+A <B>Verb</B> is conjugated negatively, by placing the <B>Adverb</B> "not" and participles take the negative first: as, not to love, not to have loved; not loving, not loved, not having loved.
+A <B>Verb</B> is conjugated interrogatively, in the indicative and potential moods, by placing the <B>Nominative</B> after it, or after the first auxiliary: as,
+A <B>Verb</B> is conjugated interrogatively and negatively, in the indicative and potential moods, by placing the <B>Nominative</B> and the <B>Adverb</B> "not" after the verb, or after the first auxiliary: as,
+An <B>Irregular verb</B> is a <B>Verb</B> that does not form the past and the past <B>Participle</B> by assuming "d" or "ed": as, "see, saw, seeing, seen". Of this class of verbs there are about one hundred and ten, beside their several derivatives and compounds.
+Methods of learning irregular verbs:
+List of the top irregular verbs:
+A <B>Redundant verb</B> is a <B>Verb</B> that forms the past or the past <B>Participle</B> in two or more ways, and so as to be both regular and irregular: as, "thrive, thrived or throve, thriving, thrived or thriven". Of this class of verbs, there are about ninety-five, beside sundry derivatives and compounds.
+List of the redundant verbs:
+A <B>Defective verb</B> is a <B>Verb</B> that forms no participles, and is used in but few of the moods and tenses: as, "beware, ought, quoth".
+List of the defective verbs:
+The <B>Finite verb</B> must agree with its subject, as "The birds fly", except the following cases: the <B>Conjunction</B> "and", as "Rhetoric and logic are allied," one <B>Person</B> or thing, as "Flesh and blood has not revealed it," empathy, as "Consanguinity, and not affinity, is the ground," "each", "every", or "no", as "No one is the same," and the <B>Conjunction</B> "or", as "Fear or jealousy affects him."
+"A Naming word."
+A noun, or <B>Noun</B> substantive, is a word or <B>Phrase</B> that refers to a person, place, thing, event, substance or quality. Nouns are parts of speech and can be classified in different ways such as proper nouns (e.g. "Janet") versus common nouns (e.g. "girl"), or collective nouns (e.g. "bunch", "herd"). Nouns can be substituted by pronouns (e.g. "she" and "which"). The word <B>Noun</B> derives from Latin nomen meaning "name" (as a <B>Noun</B> can be considered an object, person, or concept's name).
+Further classifications include the distinction between concrete nouns and <B>Abstract</B> nouns. Concrete nouns refer to definite objects (e.g. chair, apple, Janet) and <B>Abstract</B> nouns refer to ideas or concepts (e.g. justice, liberty). While sometimes useful, the boundaries between these two are not always clear.
+In sentences, nouns occur in several different ways, the most common being as subjects (performers of action), or objects (recipients of action). In the <B>Sentence</B> "John wrote me a letter", "John" is a subject; "me" and "letter" are objects (of which "letter" is a <B>Noun</B> and "me" a pronoun).
+"A doing word."
+A <B>Verb</B> is a <B>Part of speech</B> that usually denotes action ("bring", "read"), occurrence ("to decompose" (itself), "to glitter"), or a state of being ("exist", "live", "soak", "stand"). Depending on the language, a <B>Verb</B> may vary in form according to many factors, possibly including its tense, aspect, <B>Mood</B> and voice. It may also agree with the person, gender, and/or <B>Number</B> of some of its arguments (what we usually call subject, object, etc.).
+= Animals =
+=House=
+=Automobiles=
+= Human =
+=Fruits=
+=Places=
+=Consumable things=
+A describing word.
+An <B>Adjective</B> is a word that describes how or what something else is. Examples include "hot" "cold", and "fluffy". The <B>Adjective</B> usually goes before the <B>Object</B> in English, for example: <br>
+"A fluffy duck."" <br><br>
+However, it can also be used in the following way: <br>
+""My hamster is sick."
+=Animals=
+=House=
+=Automobiles=
+=Fruits=

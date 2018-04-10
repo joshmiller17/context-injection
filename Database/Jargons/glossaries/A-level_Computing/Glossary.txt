@@ -1,0 +1,99 @@
+Accumulator (ACC)
+Adjacency List
+Algorithm
+Analysis
+Application Layer
+Assembler
+Assembly Language
+Attribute
+Binary Search
+Boolean
+Bubble Sort
+Bus
+Cache Memory
+Class
+Character
+Clock Speed
+Closed Source
+Compiler
+Complex Instruction Set Computing (CISC)
+Consistency
+Current Instruction Register (CIR)
+Database
+Data Encapsulation
+Declarative Programming
+Design
+Distributed OS
+Embedded OS
+Encryption
+Evaluation
+Feasibility Study
+Field
+First Come First Serve
+Firewall
+Flash Memory
+Foreign Key
+Functional Programming
+Harvard Architecture
+Hash Function
+Hub
+Indexing
+Inheritance
+Input and Output Devices
+Insertion Sort
+Installation
+Integer
+Interpreter
+Interrupt
+Kernel
+Layering
+Library
+Linear Search
+Linker
+Link Layer
+Loader
+Lossy Compression
+MAC Address
+Magnetic Storage
+Maintenance
+Method
+Multi-user OS
+Network
+Object
+Opcode
+Open Source
+Operating System (OS)
+Overloading
+Paging
+Physical View
+Pipelining
+Polymorphism
+Primary Key
+Procedural Programming
+Quick Sort
+Real/Float
+Record
+Round Robin
+Router
+Run Length Encoding
+Scheduling
+Secondary Key
+Serial File
+Sequential File
+Shortest Remaining Time
+Source Code
+Spiral Model
+String
+Structured Query Language (SQL)
+Switch
+Table
+TCP/IP Stack
+Translator
+Transport Layer
+Utility Program
+Virtual Machine
+Virtual Memory
+Virtual Storage
+Volatile Memory
+Von Neumann Architecture
+Waterfall Model
