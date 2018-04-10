@@ -1,0 +1,17 @@
+compilation
+compiler
+compile-time
+identifier
+implementation language
+interpreter
+lexical analysis
+parsing
+pragma
+reserved word
+run-time
+scanning
+semantic analysis
+source language
+syntax analysis
+target language
+token

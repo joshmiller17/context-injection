@@ -1,0 +1,266 @@
+This wikibook is intended to help prepare and review for the Society of Acutaries (SoA) Financial Math (FM) exam also called Exam 2 by the Casualty Actuarial Society (CAS). If you are looking for a more general introduction to financial math or you don't know what the SoA FM exam is, then this text is probably not for you.
+This text will try to follow the SoA FM syllabus with an emphasis on problem solving and financial calculator usage.
+/About the FM Exam/
+This is a comprehensive list of the calculators allowed during the exam. Do not assume that any non-graphing scientific calculator is allowed.
+NOTE: This chapter assumes knowledge of capital-sigma notation for summations and some basic properties of summations and series, particular geometric series.
+An annuity is a sequence of payments formula_2 made at equal intervals of time. We have n periods of times formula_3. These periods could be days, months, years, fortnights, etc but they are of equal length. An <B>Annuity-immediate</B> (also referred to an an ordinary annuity or simply an annuity) has each payment made at the end of each interval of time. That is to say, a payment of formula_4 at the end of the first period, formula_5, a payment of formula_6 at the end of the second period, formula_7 etc. 
+An <B>Annuity-due</B> has each payment made at the beginning of each interval of time. 
+An annuity is said to have level payments if all payments formula_8 are equal. An annuity is said to have non-level payments if some payments formula_8 are different from other payments. Whether an annuity has level or non-level payments is independent of whether an annuity is an <B>Annuity-due</B> or annuity-immediate. First we'll look at the present value of an <B>Annuity-immediate</B> with level annual payments of one using <B>Accumulation function</B> notation. 
+The accumulated value of an <B>Annuity-immediate</B> with level annual payments of one is
+A(t) = (P-Q)s(nbox) + Q(Ds)(nbox)
+A bond is a debt security, in which the issuer, usually a corporation or public institution, owes the holders a debt and is obliged to pay interest (the coupon) and to repay the <B>Principal</B> at a later date. A bond is a formal contract to repay borrowed money with interest at fixed intervals. There are two main kinds of bonds: accumulation bonds (zero coupon bonds) and bonds with coupons. An accumulation bond is where the issuer of the bond agrees to pay the <B>Face value</B> at a later redemption date, but they are sold at a discount. 
+Example: a 20 year $1000 <B>Face value</B> bond with a 3.5% nominal annual yield would have a <B>Price</B> of $502.56. 
+Bonds with coupons are more common and it's where the issuer of the bond makes period payments (coupons) and a final payment. 
+Example: a 10 year $1000 par value bond with a 8% coupon convertible semiannually would pay $40 coupons every 6 months and then $1000 at the end of the 10 years.
+ formula_1
+In this formula, the present value of the bond is simply the sum of the present value of the coupons and the present value of the redemption value. The present value of the coupons is represented as an annuity over n periods while the final <B>Redemption value</B> is discounted over n periods. It is important to note that the <B>Yield rate</B> and the <B>Coupon rate</B> are not always the same.
+_{.02} F </math>
+ formula_2
+Using a BA II, press: 
+2ND FV; 1000 +|- FV; 0 PMT; 2 I/Y; 20 N; CPT PV
+Or, on your calculator press:
+2ND FV; 5000 FV; 200 PMT; 3 I/Y; 40 N; CPT PV
+The first command clears the financial calculator. The second command enters 5000 as the <B>Future value</B> (FV). The third command enters 200 as the coupon payment (PMT). The fourth command enters 3 as the interest rate (I/Y). The final command computes (CMPT) the present value (PV).
+^{2n} </math>
+Given formula_8, what is the <B>Price</B> of bond X?
+A derivative is a contract whose payoff depends on the behavior of some benchmark, which is known as the underlying asset. The underlying is typically a tradable asset, for example, a stock or commodity, but can be a non-tradable such as the weather (in the case of weather derivatives). Derivatives can be used to manage financial risk.
+Derivatives are used as a means of hedging. 
+Derivatives are used to reduce the likelihood of bankruptcy. 
+Derivatives are used to reduce transaction costs. 
+Derivatives are used as a form of insurance. 
+Over-the-counter (OTC) derivatives are contracts that are traded (and privately negotiated) directly between two parties, without going through an exchange or other intermediary. Products such as swaps, <B>Forward rate</B> agreements, and exotic options are almost always traded in this way. 
+The <B>Bid-ask spread</B> (also known as bid/offer or buy/sell spread) for securities is the difference between the prices quoted for an immediate sale (ask) and an immediate purchase (bid). The size of the bid-offer spread in a security is one measure of the liquidity of the market and of the size of the transaction cost.
+Short selling (also known as shorting or going short) is the practice of borrowing an asset and selling it immediately with the intention of buying identical assets back at a later date to return to the lender. 
+Shares in XYZ currently trade at $10 per share.
+Represents either a right or an obligation to sell an underlying asset. Examples of short positions: Short Forward, Written Call, Purchased Put
+Represents either a right or an obligation to buy an underlying asset. Examples of short positions: Long Forward, Purchased Call, Written Put
+Measure of the aggregate performance of predetermined group of stocks.
+The <B>Price</B> paid for the immediate delivery of an asset
+Credit risk: the risk that money owing will not be paid by an obligor. Since <B>Credit risk</B> is the natural business of banks, but an unwanted risk for commercial traders, an early market developed between banks and traders that involved selling obligations at a discounted rate.
+If the <B>Force of interest</B> is Constant: formula_22
+formula_35 : PV of an n-year <B>Annuity-immediate</B> of 1 per year payable in m-thly installments.
+formula_36 : PV of an n-year <B>Annuity-due</B> of 1 per year payable in m-thly installments.
+formula_37 : AV of an n-year <B>Annuity-immediate</B> of 1 per year payable in m-thly installments.
+formula_38 : AV of an n-year <B>Annuity-due</B> of 1 per year payable in m-thly installments.
+formula_39 : PV of a perpetuity-immediate of 1 per year payable in m-thly installments.
+formula_40 : PV of a perpetuity-due of 1 per year payable in m-thly installments.
+formula_41
+Since formula_42,
+formula_43 : PV of an annuity (immediate or due) of 1 per year paid continuously.
+Payments in Arithmetic Progression: In general, the PV of a series of formula_44 payments, where the first payment is formula_45 and each additional payment increases by formula_46 can be represented by: formula_47
+Similarly: formula_48
+formula_49 : AV of a series of formula_44 payments, where the first payment is formula_45 and each additional payment increases by formula_46.
+formula_53
+formula_54 : PV of an <B>Annuity-immediate</B> with first payment 1 and each additional payment increasing by 1; substitute formula_55 for formula_56 in denominator to get due form.
+formula_57 : AV of an <B>Annuity-immediate</B> with first payment 1 and each additional payment increasing by 1; substitute formula_55 for formula_56 in denominator to get due form.
+formula_60 : PV of an <B>Annuity-immediate</B> with first payment formula_44 and each additional payment decreasing by 1; substitute formula_55 for formula_56 in denominator to get due form.
+formula_64 : AV of an <B>Annuity-immediate</B> with first payment formula_44 and each additional payment decreasing by 1; substitute formula_55 for formula_56 in denominator to get due form.
+formula_68 : PV of a perpetuity-immediate with first payment 1 and each additional payment increasing by 1.
+formula_69 : PV of a perpetuity-due with first payment 1 and each additional payment increasing by 1.
+formula_70
+Additional Useful Results: formula_71 : PV of a perpetuity-immediate with first payment formula_45 and each additional payment increasing by formula_46.
+formula_74 : PV of an <B>Annuity-immediate</B> with m-thly payments of formula_75 in the first year and each additional year increasing until there are m-thly payments of formula_76 in the nth year.
+formula_77 : PV of an <B>Annuity-immediate</B> with payments of formula_78 at the end of the first mth of the first year, formula_79 at the end of the second mth of the first year, and each additional payment increasing until there is a payment of formula_80 at the end of the last mth of the nth year.
+formula_81 : PV of an annuity with continuous payments that are continuously increasing. Annual rate of payment is formula_82 at time formula_82.
+formula_84 : PV of an annuity with a continuously variable rate of payments and a constant interest rate.
+formula_85 : PV of an annuity with a continuously variable rate of payment and a continuously variable rate of interest.
+formula_86 : PV of an <B>Annuity-immediate</B> with an initial payment of 1 and each additional payment increasing by a factor of formula_87.
+Chapter 5
+formula_88 : payment at time formula_82. A negative value is an investment and a positive value is a return.
+formula_90 : PV of a cash flow at interest rate formula_56.
+Chapter 6
+formula_92 : payment made at the end of year formula_82, split into the interest formula_94 and the <B>Principal</B> repaid formula_95.
+formula_96 : interest paid at the end of year formula_82.
+formula_98 : <B>Principal</B> repaid at the end of year formula_82.
+formula_100 : balance remaining at the end of year formula_82, just after payment is made.
+On a Loan Being Paid with Level Payments:
+formula_102 : interest paid at the end of year formula_82 on a loan of formula_104.
+formula_105 : <B>Principal</B> repaid at the end of year formula_82 on a loan of formula_104.
+formula_108 : balance remaining at the end of year formula_82 on a loan of formula_104, just after payment is made.
+For a loan of formula_111, level payments of formula_112 will pay off the loan in formula_44 years. To scale the interest, principal, and balance owed at time formula_82, multiply the above formulas for formula_94, formula_95, and formula_117 by formula_112, ie formula_119 etc.
+formula_123 : total yearly payment with the <B>Sinking fund</B> method, where formula_124 is the interest paid to the lender and formula_125 is the deposit into the <B>Sinking fund</B> that will accumulate to formula_111 in formula_44 years. formula_56 is the interest rate for the loan and formula_129 is the interest rate that the <B>Sinking fund</B> earns.
+formula_130
+Definitions: formula_45 : <B>Price</B> paid for a bond.
+formula_132 : Par/face value of a bond.
+formula_133 : <B>Redemption value</B> of a bond.
+formula_134 : <B>Coupon rate</B> for a bond.
+formula_135 : modified coupon rate.
+formula_56 : <B>Yield rate</B> on a bond.
+formula_137 : PV of formula_133.
+formula_44 : number of coupon payments.
+formula_140 : base amount of a bond.
+formula_141
+formula_142 : <B>Price</B> paid for a bond to yield formula_56.
+formula_144 : Premium/Discount formula for the <B>Price</B> of a bond.
+formula_145 : premium paid for a bond if formula_146.
+formula_147 : discount paid for a bond if <math>g.
+Bond Amortization: When a bond is purchased at a premium or discount the difference between the <B>Price</B> paid and the <B>Redemption value</B> can be amortized over the remaining term of the bond. Using the terms from chapter 6: formula_88 : coupon payment.
+formula_96 : interest earned from the coupon payment.
+formula_150 : adjustment amount for <B>Amortization</B> of premium ("write down") or
+formula_151 : adjustment amount for accumulation of discount ("write up").
+formula_100 : <B>Book value</B> of bond after adjustment from the most recent coupon paid.
+Price Between Coupon Dates: For a bond sold at time formula_153 after the coupon payment at time formula_82 and before the coupon payment at time formula_155: formula_156 : "flat price" of the bond, ie the money that actually exchanges hands on the sale of the bond.
+formula_157 : "market price" of the bond, ie the <B>Price</B> quoted in a financial newspaper.
+Approximations of Yield Rates on a Bond: formula_158 : Bond Salesman's Method.
+Price of Other Securities: formula_159 : <B>Price</B> of a perpetual bond or preferred stock.
+formula_160 : theoretical <B>Price</B> of a stock that is expected to return a dividend of formula_161 with each subsequent dividend increasing by formula_87, formula_163 : real rate of interest, where formula_56 is the <B>Effective rate</B> of interest and formula_134 is the rate of inflation.
+formula_166 : method of equated time.
+formula_167 : (Macauley) duration.
+formula_90 : PV of a cash flow at interest rate formula_56.
+formula_170 : volatility/modified duration.
+formula_171 : alternate definition of (Macaulay) duration.
+formula_172 convexity
+To achieve Redington <B>Immunization</B> we want: formula_173 formula_174
+Put–Call parity
+where
+A cashflow is a series of payments and withdrawals made at different times. 
+Unless otherwise stated, <B>Compound interest</B> is assumed so that the present value of the cash flow at time formula_1, also called the current value, is
+formula_2 
+As we can see from this example, the way to analyze profitability of an investment is to find the present value of the inflows minus the present value of the outflows. This is called the net present value of an investment.
+The TI BAII plus has a cash flow function to deal with uneven cash flow streams. Here's an example cash flow.
+To solve this cash flow you must enter this series of commands. 
+CF 2ND CE|C 500 +/- ENTER ↓ 100 ENTER ↓ ↓ 0 ENTER ↓ ↓ 300 ENTER ↓ ↓ 0 ENTER ↓ ↓ 500 ENTER CPT NPV 10 ENTER ↓ CPT 
+CF Enters into cash flow mode. 
+2ND CE|C will clear any previous work saved in the calculator. 
+Next you'll see CF0= where you'll enter the first payment of -500. 
+TVM Calcs
+1. The candidate will be able to define and recognize the definitions of the following terms:
+a. Yield rate/rate of return
+b. Dollar-weighted rate of return/Time-weighted rate of return
+Current value
+Duration (Macaulay and modified)
+Convexity
+Portfolio
+Spot rate
+Forward rate
+Yield curve
+Stock price, stock dividend
+2. The candidate will be able to:
+a. Calculate the <B>Current value</B> of a set of cash flows.
+b. Calculate the portfolio yield rate.
+c. Calculate the dollar-weighted and time-weighted rate of return.
+d. Calculate the duration and <B>Convexity</B> of a set of cash flows.
+e. Calculate either Macaulay or modified duration given the other.
+f. Use duration and <B>Convexity</B> to approximate the change in present value due to a change in
+interest rate.
+g. Calculate the <B>Price</B> of a stock using the dividend discount model.
+Arbitrage is the practice of taking advantage of a <B>Price</B> difference between two or more markets: striking a combination of matching deals that capitalize upon the imbalance, the profit being the difference between the market prices. <B>Arbitrage</B> is a transaction that involves no negative cash flow at any probabilistic or temporal state and a positive cash flow in at least one state; in simple terms, it is the possibility of a risk-free profit at zero cost.
+In finance an option strategy is the purchase and/or sale of one or various option positions and possibly an underlying position.
+Options strategies can favor movements in the underlying that are bullish, bearish or neutral. In the case of neutral strategies, they can be further classified into those that are bullish on volatility and those that are bearish on volatility. The option positions used can be long and/or short positions in call and/or <B>Put option</B> at various strike.
+Bullish options strategies are employed when the options trader expects the underlying stock <B>Price</B> to move upwards. It is necessary to assess how high the stock <B>Price</B> can go and the time frame in which the rally will occur in order to select the optimum trading strategy.
+The most bullish of options trading strategies is the simple call buying strategy used by most novice options traders.
+Stocks seldom go up by leaps and bounds. Moderately bullish options traders usually set a target <B>Price</B> for the bull run and utilize bull <B>Spreads</B> to reduce cost. (It does not reduce risk because the options can still expire worthless.) While maximum profit is capped for these strategies, they usually cost less to employ for a given nominal amount of exposure. The bull call spread and the bull put spread are common examples of moderately bullish strategies.
+Mildly bullish trading strategies are options strategies that make money as long as the underlying stock <B>Price</B> does not go down by the option's <B>Expiration</B> date. These strategies may provide a small downside protection as well. Writing <B>Out-of-the-money</B> covered calls is a good example of such a strategy.
+Bearish options strategies are the mirror image of bullish strategies. They are employed when the options trader expects the underlying stock <B>Price</B> to move downwards. It is necessary to assess how low the stock <B>Price</B> can go and the time frame in which the decline will happen in order to select the optimum trading strategy.
+The most bearish of options trading strategies is the simple put buying strategy utilized by most novice options traders.
+Stock prices only occasionally make steep downward moves. Moderately bearish options traders usually set a target <B>Price</B> for the expected decline and utilize bear <B>Spreads</B> to reduce cost. While maximum profit is capped for these strategies, they usually cost less to employ. The bear call spread and the bear put spread are common examples of moderately bearish strategies.
+Mildly bearish trading strategies are options strategies that make money as long as the underlying stock <B>Price</B> does not go up by the options <B>Expiration</B> date. These strategies may provide a small upside protection as well. In general, bearish strategies yield less profit with less risk of loss.
+Neutral strategies in options trading are employed when the options trader does not know whether the underlying stock <B>Price</B> will rise or fall. Also known as non-directional strategies, they are so named because the potential to profit does not depend on whether the underlying stock <B>Price</B> will go upwards or downwards. Rather, the correct neutral strategy to employ depends on the expected volatility of the underlying stock price.
+Examples of neutral strategies are:
+Neutral trading strategies that are bullish on volatility profit when the underlying stock <B>Price</B> experiences big moves upwards or downwards. They include the long straddle, long strangle, short condor and short butterfly.
+Neutral trading strategies that are bearish on volatility profit when the underlying stock <B>Price</B> experiences little or no movement. Such strategies include the short straddle, short strangle, ratio spreads, long condor and long butterfly.
+The candidate will be able to define and recognize the definitions of the following terms:
+a. Cash-flow matching;
+b. <B>Immunization</B> (including full immunization);
+c. Redington immunization.
+2. The candidate will be able to:
+a. Construct an investment portfolio to fully immunize a set of liability cash flows.
+b. Construct an investment portfolio to match present value and duration of a set of liability cash
+flows.
+c. Construct an investment portfolio to exactly match a set of liability cash flows.
+In finance an option strategy is the purchase and/or sale of one or various option positions and possibly an underlying position.
+Options strategies can favor movements in the underlying that are bullish, bearish or neutral. In the case of neutral strategies, they can be further classified into those that are bullish on volatility and those that are bearish on volatility. The option positions used can be long and/or short positions in calls and/or puts at various strikes.
+Bullish options strategies are employed when the options trader expects the underlying stock <B>Price</B> to move upwards. 
+Bearish options strategies are the mirror image of bullish strategies. They are employed when the options trader expects the underlying stock <B>Price</B> to move downwards. 
+A bull call spread is constructed by buying a call option with a low exercise <B>Price</B> (K), and selling another call option with a higher exercise price.
+Often the call with the lower exercise <B>Price</B> will be at-the-money
+while the call with the higher exercise <B>Price</B> is out-of-the-money. Both calls must have the same underlying security and <B>Expiration</B> month.
+Take an arbitrary stock XYZ currently priced at $100. Furthermore, assume it is a standard option, meaning every option contract controls 100 shares.
+Assume that for next month, a call option with a strike <B>Price</B> of $100 costs $3 per share, or $300 per contract, while a call option with a strike <B>Price</B> of $115 is selling at $1 per share, or $100 per contract.
+A trader can then buy a <B>Long position</B> on the $100 strike <B>Price</B> option for $300 and sell a short position on the $115 option for $100. The net debit for this trade then is "$300 - 100" = $200.
+This trade results in a profitable trade if the stock closes on expiry above $102. If the stock's closing <B>Price</B> on expiry is $110, the $100 call option will end at $10 a share, or $1000 per contract, while the $115 call option expires worthless. Hence a total profit of "$1000 - 200" = $800.
+The trade's profit is limited to $13 per share, which is the difference in strike prices minus the net debit (15 - 2). The maximum loss possible on the trade equals $2 per share, the net debit.
+A bull put spread is constructed by selling higher striking in-the-money put options and buying the same number of lower striking in-the-money put options on the same underlying security with the same <B>Expiration</B> date. The options trader employing this strategy hopes that the <B>Price</B> of the underlying security goes up far enough such that the written put options expire worthless.
+Take an arbitrary stock ABC currently priced at $100. Furthermore, assume again that it is a standard option, meaning every option contract controls 100 shares.
+Assume that for next month, a <B>Put option</B> with a strike <B>Price</B> of $105 costs $8 per share, or $800 per contract, while a <B>Put option</B> with a strike <B>Price</B> of $125 is selling at $27 per share, or $2700 per contract.
+A trader can then open a <B>Long position</B> on the $105 strike <B>Put option</B> for $800 and open a short position on the $125 <B>Put option</B> for $2700. The net credit for this trade then is "$2700 - 800" = $1900.
+This trade will be profitable if the stock closes on expiry above $106. If the stock's closing <B>Price</B> on expiry is $110, the $105 <B>Put option</B> will expire worthless while the $125 <B>Put option</B> will end at $15 a share, or $1500 per contract. Hence a total profit of "$1900 - 1500" = $400.
+The trade's profit is limited to $19 per share, which is equal to the net credit. The maximum loss on the trade is $1 per share which is the difference in strike prices minus the net credit (20 - 19).
+Neutral strategies in options trading are employed when the options trader does not know whether the underlying stock <B>Price</B> will rise or fall. Also known as non-directional strategies, they are so named because the potential to profit does not depend on whether the underlying stock <B>Price</B> will go upwards or downwards. Rather, the correct neutral strategy to employ depends on the expected volatility of the underlying stock price.
+Examples of neutral strategies are:
+Neutral trading strategies that are bullish on volatility profit when the underlying stock <B>Price</B> experiences big moves upwards or downwards. They include the long straddle, long strangle, short condor and short butterfly.
+Neutral trading strategies that are bearish on volatility profit when the underlying stock <B>Price</B> experiences little or no movement. Such strategies include the short straddle, short strangle, ratio spreads, long condor and long butterfly.
+In finance, a butterfly is a limited risk, non-directional options strategy that is designed to have a large probability of earning a small limited profit when the future volatility of the underlying is expected to be different from the implied volatility.
+A long butterfly position will make profit if the future volatility is lower than the implied volatility.
+A long butterfly options strategy consists of the following options:
+where X = the spot <B>Price</B> and a > 0.
+Using put–call parity a long butterfly can also be created as follows:
+where X = the spot <B>Price</B> and a > 0.
+All the options have the same <B>Expiration</B> date.
+At <B>Expiration</B> the value (but not the profit) of the butterfly will be:
+The maximum value occurs at X (see diagram).
+A short butterfly position will make profit if the future volatility is higher than the implied volatility.
+A short butterfly options strategy consists of the same options as a long butterfly. However all the long option positions are short and all the short option positions are long.
+The double option position in the middle is called the body, while the two other positions are called the wings.
+The option strategy where the middle two positions have different strike <B>Price</B> is known as an Iron condor.
+In an unbalanced butterfly the variable "a" has two different values.
+These trades are described from the point of view of a speculator. If they are combined with other positions, they can also be used in hedging. An option contract in US markets usually represents 100 shares of the underlying security.
+A trader who believes that a stock's <B>Price</B> will increase might buy the right to purchase the stock, which is called a call option, rather than just purchase the stock itself. He would have no obligation to buy the stock, only the right to do so until the <B>Expiration</B> date. If the stock <B>Price</B> at <B>Expiration</B> is above the exercise <B>Price</B> by more than the premium (price) paid, he will profit. If the stock <B>Price</B> at <B>Expiration</B> is lower than the exercise price, he will let the call contract expire since it is worthless, and only lose the amount of the premium. A trader might buy the option instead of shares, because for the same amount of money, he can control a much larger number of shares.
+Let Call(K,T) be the premium paid for a call option with strike <B>Price</B> K and <B>Expiration</B> time T, let formula_1 be the stock <B>Price</B> at time T and let i be the risk-free effective interest rate.
+The call option holder's profit per unit is
+formula_2 
+We can also write this as 
+A trader who believes that a stock's <B>Price</B> will decrease can buy the right to sell the stock at a fixed <B>Price</B> a put option. He will be under no obligation to sell the stock, but has the right to do so until the <B>Expiration</B> date. If the stock <B>Price</B> at <B>Expiration</B> is below the exercise <B>Price</B> by more than the premium paid, he will profit. If the stock <B>Price</B> at <B>Expiration</B> is above the exercise price, he will let the put contract expire worthless and only lose the premium paid.
+The <B>Put option</B> holder's profit per unit is
+formula_4 
+We can also write this as 
+A trader who believes that a stock <B>Price</B> will decrease, can sell the stock short or instead sell, or "write," a call. The trader selling a call has an obligation to sell the stock to the call buyer at the buyer's option. If the stock <B>Price</B> decreases, the short call position will make a profit in the amount of the premium. If the stock <B>Price</B> increases over the exercise <B>Price</B> by more than the amount of the premium, the short will lose money, with the potential loss unlimited.
+The profit for the writer of a call option is
+formula_6 
+We can also write this as 
+A trader who believes that a stock <B>Price</B> will increase can buy the stock or instead sell, or "write", a put. The trader selling a put has an obligation to buy the stock from the put buyer at the put buyer's option. If the stock <B>Price</B> at <B>Expiration</B> is above the exercise price, the short put position will make a profit in the amount of the premium. If the stock <B>Price</B> at <B>Expiration</B> is below the exercise <B>Price</B> by more than the amount of the premium, the trader will lose money, with the potential loss being up to the full value of the stock. A benchmark index for the performance of a cash-secured short <B>Put option</B> position is the CBOE S&P 500 PutWrite Index (ticker PUT).
+The profit for the writer of a <B>Put option</B> is
+formula_8 
+We can also write this as 
+A European option may be exercised only at the expiry date of the option, i.e. at a single pre-defined point in time.
+An American option on the other hand may be exercised at any time before the expiry date.
+A Bermudan option is an option where the buyer has the right to exercise at a set (always discretely spaced) number of times. This is intermediate between a European option—which allows exercise at a single time, namely expiry—and an American option, which allows exercise at any time (the name is a pun: Bermuda is between America and Europe).
+An option is at-the-money if the strike <B>Price</B> is the same as the spot <B>Price</B> of the underlying security on which the option is written. An at-the-money option has no intrinsic value, only time value.
+An in-the-money option has positive intrinsic value as well as time value. A call option is in-the-money when the strike <B>Price</B> is below the spot price. A <B>Put option</B> is in-the-money when the strike <B>Price</B> is above the spot price.
+An <B>Out-of-the-money</B> option has no intrinsic value. A call option is <B>Out-of-the-money</B> when the strike <B>Price</B> is above the spot <B>Price</B> of the underlying security. A <B>Put option</B> is <B>Out-of-the-money</B> when the strike <B>Price</B> is below the spot price. 
+Brian buys a call option on XYZ at a strike <B>Price</B> of $10 a share. If on the <B>Expiration</B> date the share <B>Price</B> is $12 the option is In-the-money. Brian will exercise his option to buy at $10 a share. If the share <B>Price</B> is $10 the the option is At-the-money. Finally, if the share <B>Price</B> is $8 his option is Out-of-the-money. He will not exercise his option which is now worthless.
+A covered call is a financial market transaction in which the seller of call options owns the corresponding amount of the underlying instrument, such as shares of a stock or other securities. If the trader buys the underlying instrument at the same time as he sells the call, the strategy is often called a "buy-write" strategy. In equilibrium, the strategy has the same payoffs as writing a put option.
+Naked writing 
+Dividends
+Call(K,T)-Put(K,T) = S_T - Ke^T
+The accumulated amount in the account at the end of the 40 years is 3 times the accumulated amount in the account at the end of 20 years.
+Calculate i. 
+= 3 {s}_{\overline{10|}}</math>
+Sharpe ratio is defined as follows:
+where
+Sharpe ratio is the equation above developed by Nobel laureate William F. Sharpe to measure risk-adjusted performance. The Sharpe ratio tells us whether a investment is smart or not. The higher the sharpe ratio is, the more return the asset gives for the same risk. In other words, the higher the sharpe ratio is, the better the investment becomes.
+Graphically, you're on the straight line joining cash to the Efficient Frontier, and moving to the left.
+A basic definition of interest is the <B>Price</B> paid for obtaining, or <B>Price</B> received for providing, money or capital in a credit transaction. For example, today Brian borrows $10,000 from Ivan and agrees to pay him $10,500 in one year. In this example the $10,000 is the <B>Principal</B> that Ivan invested over a period of 1 year. After 1 year, the accumulated value is $10,500. $500 is the amount of interest Brian paid Ivan.
+An interest rate or the rate of interest is how much is paid by a borrower as expressed as a percent of the borrowed capital. In the previous example $500 dollars of interest accrued at the end of 1 year over a $10,000 loan.
+formula_1
+Thus the interest rate for this loan was 5% and unless otherwise stated in the examination question, rates are expressed as annual rates. Loans can and often are over multiple periods and the exact terms of the loan can depend on the interest type.
+Brian and Ivan can agree to use simple interest. The final amount of interest paid is simply the original loan amount times the interest rate times the number of periods.
+Compound interest arises when interest is added to the principal, so that from that moment on, the interest that has been added also itself earns interest. This addition of interest to the <B>Principal</B> is called compounding. A bank account, for example, may have its interest compounded every year: in this case, an account with $1000 initial <B>Principal</B> and 20% interest per year would have a balance of $1200 at the end of the first year, $1440 at the end of the second year, and so on. In the case of compound interest, the accumulated value at the end of t periods is 
+A(t) is defined as the amount function where A(t) denotes the value of an investment at time t. For this function there are two general assumptions.
+It should also be noted that the amount of interest earned over the period formula_5 is formula_6.
+The <B>Effective rate</B> of interest earned in the period formula_5 is :formula_8
+The effective interest rate in the third year is 2.53%
+a(t) is defined as the <B>Accumulation function</B> where a(t) denotes the value of an investment at time t where the initial investment is 1. This is simply a special case of the amount function. The amount function and <B>Accumulation function</B> share a simple relationship. 
+As we've seen money has a time value so that $1 today is worth more than $1 a year from now. Given an effective annual interest rate of formula_14 compounded annually over formula_15 years:
+where formula_17 is the present value and formula_18 is the future value. 
+formula_19 is called the interest factor. Note that
+formula_21 is called the <B>Discount factor</B> and is denoted as formula_22.
+Using <B>Accumulation function</B> formula_23 notation 
+Note that
+Interest has been so far defined as the payment required at the end of the period, however there is also the rate of discount, denoted by formula_31, which is a measure of the interest paid at the beginning of the period. For example, if Brian borrows $100 at a rate of interest of 10% over a period, then he will receive $100 now and he will have an obligation of $100 dollars at the end of the period plus $10 in interest. However, if Brian borrows $100 at a 10% rate of discount, he will only receive $90 now and he'll have an obligation of $100 at the end of the period.
+formula_32
+So far when dealing with <B>Compound interest</B> we've only seen the interest compounded annually. That is to say, the interest is only added to the <B>Principal</B> once a year. To illustrate this, Ivan invests $1000 into a bank account that offers 10% interest compounded annually. At the end of the first year, the account is $1000 + $100 in interest. At this point the <B>Principal</B> earning interest is $1100 so that at the end of the second year the interest earned is $111 and the <B>Principal</B> is $1100. However, the interest could be compounded more frequently. Suppose that instead of being compounded annually, the interest is compounded semi-annually. At the end of 6 months, the interest is $50 and added to the $1000 principal. The new <B>Principal</B> is $1,050. At the end of the first year, the interest earned over the last 6 months is $52.5. After one year, the bank account contains $1,102.5. Notice that the interest rate is still 10% annually, however the effective annual rate of interest is 10.25%.
+10% is the nominal interest rate and 10.25% is the effective rate. A <B>Nominal rate</B> of interest compounded "m" times a year is denoted as formula_38. The relationship between the <B>Effective rate</B> and <B>Nominal rate</B> of interest is:
+So far we've said that the <B>Effective rate</B> of interest earned in a period formula_40 is 
+This gives the interest rate earned over a period however. We can also find the rate of interest over an interval smaller than the period. 
+If we have a continuous <B>Accumulation function</B> we can also measure the the interest acting at a given moment called the <B>Force of interest</B> which is denoted as formula_43.

@@ -1,0 +1,781 @@
+The following are Java code referenced in the book.
+The purpose of this book is to provide practical advice on writing a <B>compiler</B>, together with some practical examples of both <B>compiler</B>s and <B>interpreter</B>s, in order to break away from the concept that building <B>compiler</B>s and <B>interpreter</B>s are impossible tasks.
+For basic information on the subject, look up the References or External Links Sections of the book and the Glossary for the relevant Wikipedia articles.
+Some theory is unavoidable, but has been kept to a minimum. If you search the Web for "<B>compiler</B> construction" you will find lots of information and many different approaches. All this book can do is demonstrate a few of the many possible ways of constructing a <B>compiler</B>. After going through this book you should be better able to evaluate other methods.
+"This is a Wiki. Readers, please contribute: fix a spelling mistake, rephrase a sentence, expand a paragraph, add a section, write a complete chapter."
+This book has been written in accordance to several goals. The book must be:
+We wish the book helps you create a <B>compiler</B> or any tool employing <B>compiler</B> technology.
+If you are not familiar with terminology or basic concepts in <B>compiler</B>s, you should read the Introduction Chapter since the rest of the book will assume it as background information.
+To get the most out of this book, your background/experience/capabilities should include most of the following:
+Even if you do not have the background given above you should still be able to pick up a few ideas by reading the text.
+You may be able to implement some or all of the programs supplied in this book. If you have some high-level programming experience you should also be able to play around at extending the capabilities of the <B>interpreter</B>.
+Since this is a freely available book, it seems appropriate to use some freely available <B>implementation language</B>.
+I have chosen to use a subset of C++ in conjunction with the GNU GCC <B>compiler</B>. The subset corresponds roughly to using C++ as a better C, including use of standard C++ libraries, but not getting into the object-oriented side of C++. If you use GNU/Linux then this <B>compiler</B> will/should already be available to you. Otherwise you will have to search the World Wide Web for a free version which will run on your system.
+If you use Microsoft Windows then you might like to consider Code::Blocks, a free IDE (Integrated Development Environment) with the MinGW <B>compiler</B>(a port of GCC), which is available from www.codeblocks.org.
+To reduce the complexity of this book, we will make some simplifying assumptions about the <B>source language</B> which we write a <B>compiler</B> for:
+In later chapters we will give more consideration to the effects of relaxing these assumptions.
+In practical terms these assumptions mean that the <B>source language</B> is easy to translate using simple techniques,
+and that some <B>run-time</B> complexity has been eliminated.
+The difference between the last two lines is reported to have caused the loss of a space probe costing millions of dollars.
+next - Introducing <B>compiler</B>s and <B>interpreter</B>s
+The purpose of this is to provide a gentle introduction to some <B>compilation</B> techniques, and to introduce a few more computer science concepts.
+<B>interpreter</B>s are used rather than <B>compiler</B>s since they don't have such a steep learning curve. Later chapters and case studies will delve more into <B>compiler</B>s.
+The language being interpreted is a very small subset of Basic, even smaller than Tiny Basic.
+The purpose of this case study is to use simple <B>interpreter</B>s to provide a gentle introduction to some <B>compilation</B>. There are three chunks of code in this chapter:
+The VVTB <B>interpreter</B> only allows integer variables,
+and only recognizes five different statements
+(just enough to write simple programs with,
+but not a serious programming tool).
+The VTB <B>interpreter</B> allows both integer and string variables,
+and recognizes ten different statements.
+The two <B>interpreter</B>s use different methods for
+dealing with expressions, to provide you with some variety.
+Note that the code presented here is intended to be
+as clear and simple as possible;
+high performance is not a target.
+Those readers unfamiliar with C++ may like to consult Appendix A
+which provides a brief summary on those C++ constructions
+which are used in the book.
+A line-mode IDE is very simple:
+if the line you type starts with a number
+then that line is a statement to add to your program source code,
+otherwise it is a command to the system (e.g. RUN or LIST).
+The line-mode 'editor' is also very simple: 
+For <B>lexical analysis</B>
+For IDE processing
+For VVTB <B>syntax analysis</B>
+For VTB <B>syntax analysis</B>
+IDE commands
+"Line number"
+"NEW"
+"QUIT"
+"LIST"
+"RUN"
+Programs in Very Very Tiny Basic are very simple. Programs in Very Tiny Basic are still simple, but they can do more complex things. Neither language allows any user input.
+Sample VVTB program
+Sample VTB program
+The code which follows may seem quite short,
+but it is indeed a complete line-mode IDE.
+The reason it is so short is the use of the C++ <map>,
+which is exactly what is needed for storing source code,
+sorting lines into line number order, etc.
+The purpose of this case study is to give an example of a <B>compiler</B>/<B>interpreter</B> front-end written in C using Lex and Yacc. An <B>interpreter</B> is used since it allows a working program to be created with minimal extra effort (after the construction of the front-end). This code could be developed into a <B>compiler</B> by replacing the last phase with a <B>compiler</B> back-end.
+The code is shown in an order which underlines the processes of creating a <B>compiler</B>, so the same file will be shown multiple times as it is developed.
+The case study develops an <B>interpreter</B> for Very Tiny Basic, which is specified in the Case Study 1 section of the book.
+The following steps shall be taken to complete the <B>interpreter</B>:
+Many important features of a useful <B>compiler</B>/<B>interpreter</B> have been left out, for brevity and simplicity, including:
+Also some processes do not apply to such a simple language as Very Tiny Basic, for example Name Tables do not apply since only single characters are used to name variables.
+Requirements
+The first draft of the lex file identifies different <B>token</B>s by returning a certain value in the associated C action. For keywords and operators this is simple, however <B>identifier</B>s, values and comments are trickier.
+VTB.l - Version 1
+This file can be processed using one of the following
+You may wonder where all those values we returned are coming from. They will be created by Yacc grammar file when it is processed.
+There are some differences from the "Very Tiny Basic - Specification" in Case Study 1, for instance MULT and DIV in place of MULDIV. This is because we need to know the difference between the two. LineNumber and WholeNumber are lexically identical, and so cannot be separated at this time. Defining the use and category of <B>token</B>s is left until the next stage.
+VTB.y - Version 1
+In this version of the lexer, the header file generated by yacc/bison is included. The header file defines the return values and the union that is used to store the semantic values of <B>token</B>s. This was created according to the "%<B>token</B>" declarations and the "%union" part of the grammar file. The lexer now extracts values from some types of <B>token</B>s, and store the values in the "yylval" union.
+VTB.l - Version 2
+ are an Intermediate Representation of the code that are created in memory using data structures. The grammatical structure of the language, which has already been defined and has been written down as a YACC grammar file, is translated into a tree structure. Using YACC & C, this means that most grammar rules and <B>token</B>s become nodes. Comments are an example of what is not put in the tree.
+The grouping of operands is clear within the structure, so <B>token</B>s such as parentheses do not have to be present in the tree. The same applies to <B>token</B>s which end blocks of code. This is possible because the rules in the grammar file can use these <B>token</B>s create the tree in the correct shape.
+"Illustration of grouping in abstract syntax trees"
+In this <B>interpreter</B> the Primary/Secondary expression structures could be discarded by collapsing them. This would add complexity to the code, so it is currently not implemented. Rem statements are also kept (without the comment text) since the definition of VTB implies that they are a valid target for Goto. In fact, a goto to a non-existent line is undefined, so this <B>interpreter</B> will issue an error.
+Using pointers and dynamic allocation is a must for the tree structure, or else it would be infinite in size and thus use too many resources (think about it). In order to keep the code nice and neat,
+The purpose of absyn.c is to provide initializing routines for all of the structures that are used in the abstract syntax trees. This code is not very interesting, and it is very repetitive.
+Since we are working with standard *nix tools and the normal build system used on *nix is make, it is useful to write a Makefile for the <B>interpreter</B>. Keep in mind that most <B>compiler</B>s/<B>interpreter</B>s are very large and need a more advanced build system than this example. They may require CVS, autoconf and many makefiles distributed across different directories. Since this one only uses five files, it is quite trivial.
+VTB.y - Version 2
+The lexer is now giving values for <B>token</B>s and the abstract syntax tree structure has been written. Next the grammar file is updated to construct the trees from what the rules and semantic values. All the tree node types are added to the union declaration. Rules must be given types and return the correct type.
+A <B>compiler</B> usually is designed to output an executable program that will allow the user to run your program, and to be directly run by the processor, without having an intermediary <B>interpreter</B> such as in the interpretation process. For your program to be run by the processor however, you will need to transform the instructions in your specific programming language into assembler code, which is then sent to an assembler tool to create object code, which is then linked together with specific libraries to create your executable code. For now, we only really need to worry about transforming the instructions into assembler code. This process is what we will deal with in this section. You will need to be well versed in the assembler language you wish to output. If you intend your programs to run on the x86 architecture, you need to be familiar with x86 assembler code, and so on.
+Code generation occurs after <B>semantic analysis</B> is done, which gives us enough information to generate more primitive concrete code. The general idea behind code generation is decompose the tree structure of the syntax tree into a sequence of instructions, whatever an instruction set is. In this stage, since we are done with the semantic program, we are not interested in the syntactic and semantic structure of programs but in the order of executions of instructions.
+Some sort of intermediate code is often produced before generating actual machine code. The benefits of this are
+However, it may be simpler for your program to output assembler code directly, but you lose the above advantages. See the next section for more techniques on this.
+In this chapter, we shall use the three address format to represent intermediate code. The format is useful because it is analogous to actual machine instructions in some architectures and, more importantly, allows us to easily change the execution order of instructions, which is a huge advantage over stack-based intermediate code like the byte code of Java.
+Although it is not a complex problem to reuse names after they have already been used, it is actually beneficial to allocate a new name every time one is needed because it allows us to form a call graph and optimize easily as we will see later. For this reason, we only briefly mention the methods to reuse names. You can find more on the optimization of allocation of names in optimization chapter.
+The three address code, as the name suggests, consist of three address and opcode, which tells what kind of operation is meant to be done. For example, an expression (a + b) * 3 can be transformed into:
+temp1 := a + b;
+temp2 := temp1 * 3
+In the first line, temp1, a and b are addresses and + is an opcode, and the second line is similar to the first one. Unlike load-store machines, it is unnecessary to load variables to registers and store them back. You see why the three address code is easy to handle.
+Choosing portable, flexible and expressive instructions is critical; Not having enough instructions can complicate generated code with the combination of several instructions to achieve one operation and having too much may obviously make maintenance more daunting task. Probably the best way to do this is to examine existing machine code. It is more straightforward to transform code close to underlying machine code than abstract one.
+Algebraic expressions can be translated into the three address code in a very straightforward manner. This can be done rather recursively as follows: Assume two expressions left and right with an operation op-code, then the results should be:
+The general idea behind generating code for control structures is the same as coding in assembly programming. That is, an if statement, for instance, is converted into a chunk of code using conditional and unconditional jumps.
+If the output of your <B>compiler</B> is assembly language code, it is necessary to understand the basic techniques of assembly language programming. Most programming languages do not map easily to most assembler languages, so some techniques or skills may need to be understood before attempting to write code that will output assembler code. These techniques are not intended to create highly optimized code - you will learn optimizing techniques later - but are intended to make sure you have a good understanding of how data and instructions are managed in the process of <B>compiler</B> construction.
+Many programs use hundreds of different variables (not counting arrays).
+Most computer architectures give you less than 32 registers (MIPS architecture and ARM give nearly 32 pointer registers; i386 gives only about 4 pointer registers; PIC microcontroller only has 1 pointer register).
+Since we can't squeeze 100 different variables into even 32 processor registers, we must use memory for storing most variables.
+We will start by storing practically all variables in memory. Later we will cover optimizing techniques that try to keep as many variables as possible in the processor registers.
+The assembler tool that you are using may reserve the names of the mnemonics.
+For example, your assembler may not allow a variable named add, since this is reserved for the instruction to add.
+In this case, it may be important to use a "prefix" for your variable labels. Some <B>compiler</B>s use a single underscore, but you can choose whichever you wish.
+Even experienced programmers make mistakes, so they appreciate any help a <B>compiler</B> can provide in identifying the mistakes.
+Novice programmers may make lots of mistakes, and may not understand the programming language very well, so they need clear, precise, and jargon-free error reports. Especially in a learning environment, the main function of a <B>compiler</B>
+is to report errors in source programs; as an occasional side-effect you might actually get a program translated and run. 
+As a general rule, <B>compiler</B> writers should attempt to express error messages in moderately plain English, rather than with reference to the official programming language definition (some language definitions use somewhat obscure or specialized terminology).
+For example, a message "can't convert string to integer" is probably clearer than "no coercion found".
+In the 1960's and much of the 1970's,
+batch processing was the normal way
+of using a (large) mainframe computer
+(personal computers only started to become
+household items in the early 1980's).
+It could well be several hours, or even a day,
+from when you handed your deck of punched cards
+to a receptionist until you could collect the card deck
+along with a printed listing of your program,
+accompanied either by error messages or by some useful results.
+Under such circumstances,
+it was important that <B>compiler</B>s report as many errors as possible,
+so part of the job of writing a <B>compiler</B> was to 'recover'
+from an error and continue checking (but not translating)
+in the hope of finding more errors.
+Unfortunately, once an error has occurred
+(especially if the error affects a declaration),
+it is quite possible for the <B>compiler</B> to get confused
+and produce a host of spurious error reports.
+Programmers then had the task of deciding which errors
+to try and fix, and which ones to ignore
+in the hope that they would vanish once earlier errors were fixed.
+Some <B>compiler</B>s were particularly prone to producing spurious error reports.
+The only useful advice that helpdesk staff could provide was:
+fix the first error, since the <B>compiler</B> hasn't had a chance
+to confuse itself at that point.
+A significant amount of <B>compiler</B> development effort
+was often devoted to attempts at error recovery.
+You could try and guess what the programmer might have intended,
+or insert some <B>token</B> to at least allow <B>parsing</B> to continue,
+or just give up on that statement and skip to the next semicolon.
+The latter action could skip an end or other significant
+program structure <B>token</B> and so get the <B>compiler</B> even more confused.
+Fast personal computers are now available,
+so IDEs are becoming more popular,
+with an editor and <B>compiler</B> tightly coupled
+and usable from a single graphical interface.
+Many IDEs also include a debugger as well.
+In some cases the editor is language-sensitive,
+so it can supply matching brackets and/or
+statement schemas to help reduce the number of trivial errors.
+An IDE may also use different colours for different concepts
+within a <B>source language</B>, e.g. <B>reserved word</B>s in bold,
+comments in green, constants in blue, or whatever.
+This speed and tight coupling allows the <B>compiler</B> writer
+to adopt a much simpler approach to errors:
+the <B>compiler</B> just stops as soon as it finds an error,
+and the editor then places the cursor at the point
+in the source text where the error was detected
+and displays some specific error message.
+Note that the point where an error was detected
+could well be some distance after the point
+where the error actually occurred.
+There were line-mode IDEs back in 1964, many BASIC systems were examples of such systems; we are going to implement something like this in the book section Case study - a simple <B>interpreter</B>.
+During <B>compilation</B> it is always possible 
+to give the precise position at which the error was detected.
+This position could be shown
+by placing the editor cursor at the precise point,
+or (batch mode) by listing the offending line
+followed by a line containing some sort of flag (e.g.'|')
+positioned under the point of error,
+or (less conveniently) by providing the line number and column number of that point.
+Remember that the actual position of the error
+may well be at some earlier point in the program;
+in some cases (e.g. bracket mismatch) the <B>compiler</B>
+may be able to indicate the nature of the earlier error.
+It is important that error messages be clear, correct, and relevant.
+There are relatively few errors which can be detected
+during <B>lexical analysis</B>.
+Strange characters
+Long quoted strings (1)
+Long quoted strings (2)
+Invalid numbers
+During <B>syntax analysis</B>,
+the <B>compiler</B> is usually trying to decide what to do next
+on the basis of expecting one of a small number of <B>token</B>s.
+Hence in most cases it is possible to automatically generate
+a useful error message just by listing the <B>token</B>s
+which would be acceptable at that point.
+More specific hand-tailored error messages may be needed
+in cases of bracket mismatch.
+One of the most common errors reported during <B>semantic analysis</B>
+is "<B>identifier</B> not declared";
+either you have omitted a declaration or you have mispelt an <B>identifier</B>.
+Other errors commonly detected during <B>semantic analysis</B>
+relate to incompatible use of types,
+e.g. attempt to assign a logical value such as true
+to a string of characters.
+Some of these errors can be quite subtle,
+but again it is easy to automatically generate
+fairly precise error messages.
+The extent to which such type checking is possible depends
+very much on the <B>source language</B>.
+Other possible sources of semantic errors are
+parameter miscount and subscript miscount.
+It is generally an error to declare
+a subroutine as having 4 parameters
+and then call that routine with 5 parameters
+(but some languages do allow routines
+to have a variable number of parameters).
+It is also generally an error to declare
+an array as having 2 subscripts
+and then try and access an array element using 3 subscripts
+(but some languages may allow the use of fewer subscripts
+than declared in order to select a 'slice' of the array). 
+There is general agreement that <B>run-time</B> errors
+such as division by 0 should be detected and reported.
+However, there is considerable variation as to how the
+location of the error is reported.
+"Some of the material in this section may be controversial."
+There are some potential <B>run-time</B> errors
+which many systems do not even try to detect.
+The language definition may merely say that
+the result of breaking a certain language rule is undefined,
+i.e. you might get an error message,
+or you might get the wrong answer without any warning,
+or you might on some occasions get the right answer,
+or you might get a different answer every time you run the program,
+or you might trigger off World War III
+('undefined' does mean that anything could happen).
+In the past there have been some computers (Burroughs 5000+, Elliott 4130)
+which had hardware support for fast detection of some of these errors.
+Many current IDE's do have a debugging option
+which may help detect some of these <B>run-time</B> errors:
+Historically , the main reason for not doing these checks is the effect on performance.
+When FORTRAN was first developed (circa 1957),
+it had to compete with code written in assembler;
+indeed many of the optimizing techniques used in modern <B>compiler</B>s
+were first developed and used at that time.
+C was developed (circa 1971) initially as a replacement for assembler
+for use by experienced system programmers when writing operating systems.
+In both the above cases there was a justifiable reason for not doing these checks.
+Nowadays, computer hardware is very much faster than it was in 1957 or 1971,
+and there are many more less-experienced programmers writing code,
+so the arguments for avoiding checks are much weaker.
+Actually adding the checks on a supposedly working program
+can be enlightening/surprising/embarrassing;
+even programs which have been 'working' for years may turn
+out to have a surprising number of bugs.
+Hoare (inventor of quicksort) was responsible for an Algol 60 <B>compiler</B>
+in the early 1960's; subscript checking was always done.
+Indeed Hoare has said in "Hints on Programming Language Design" that:
+"Carrying out checks during testing and then suppressing then in production
+is like a sailor who wears a lifejacket when training on dry land
+and then removes the lifejacket when going to sea."
+In his book "The Psychology of Computer Programming", Wienberg recounts the following anecdote:
+Wirth designed Pascal as a teaching language (circa 1972);
+for many Pascal <B>compiler</B>s the default was to perform all safety checks.
+Some Pascal systems had an option to suppress the checks
+for some limited part of the program.
+When a programming language allows
+the use of pointers and pointer arithmetic for accessing array elements,
+the cost of doing checks for access to non-existent array elements
+might be significant.
+Note that it can indeed be done:
+each pointer is large enough to contain three addresses,
+the first being the one which is directly manipulated and used by the programmer,
+and the other two addresses being the lower and upper limits on the first.
+This approach may have problems when the language allows
+interconversion between integers and pointers.
+In the case of 'undefined variables',
+note that setting all variables initially to 0 is a really bad idea
+(unless the language mandates this of course).
+Such an initial setting reduces program portability
+and may also disguise serious logic errors.
+Murray Langton (main author of this wikibook)
+has had some success in checking for 'undefined'
+in a 140,000 line safety-critical legacy Fortran program.
+The fundamental idea is to set all global variables to
+recognizably strange values which are highly likely
+to produce visibly strange results if used.
+For an IBM mainframe, the strange values were:
+Note that the particular values used depend on your system,
+in particular the large number used for REAL is definitely hardware-dependent.
+For a machine with IEEE floating point arithmetic (most PC's)
+the best choice for REAL is NaN (not a number),
+with a possible alternative being -9.87654E37
+The reason for choosing large negative numerical values
+is that they tend to be very obvious when
+printed or displayed as output,
+and they tend to cause numerical errors (overflow)
+if used for arithmetic.
+Also, in Fortran, all output is in fixed-width fields,
+and any output which won't fit in the field
+is displayed as a field full of asterisks instead,
+which is very easy to spot.
+In the safety-critical example quoted above,
+a program was written which identified all global variables
+(by analyzing COMMON blocks),
+excluded those (in BLOCK DATA) which were explicitly initialized,
+and then wrote a Fortran routine which set all these silly values.
+If any changes were made to a COMMON block,
+it was a simple matter to rerun this analysis program.
+During execution, the routine which sets silly values
+uses less than 0.1% of the total CPU time.
+When these silly values were first used,
+it took several months to track down and eliminate
+the resulting flood of asterisks and question marks
+which appeared in the output,
+despite the fact that the program had been 'working'
+for over 20 years.
+The basic idea is to ensure that all variables
+are flagged as 'undefined' when declared.
+Some languages allow simultaneous declaration and initialization,
+in which case a variable is flagged as 'defined'.
+Whenever a value is assigned to a variable
+the flag is changed to 'defined'.
+Whenever a variable is used
+the flag is checked and an error is reported if it is 'undefined'.
+In the past a few lucky implementors have had hardware assistance
+in the form of an extra bit attached to each word in memory (Burroughs 5000+).
+On modern byte-addressable machines you could attach an extra byte
+to each variable to hold the flag.
+Unfortunately, due to alignment requirements,
+this would tend to double the amount of memory needed for data
+(many systems require 4-byte items such as numbers to have an address
+which is a multiple of 4; even if misalignment is allowed
+its use may slow the program down significantly).
+The simplest way of providing a flag is to use some specific value
+which is (hopefully) unlikely to appear in practice.
+Particular values depend on the type of the variable involved.
+boolean
+character
+integer
+real
+You may well be thinking that all this checking
+is going to slow a program down quite a lot.
+Things are not as bad as you think,
+since a lot of the checking can actually be done at <B>compile-time</B>,
+as detailed below.
+First, some statistics to show you what can be done:
+We have already mentioned that variables
+which are given an initial value when declared
+need never be checked for undefined.
+The next few tests require some simple flow-control analysis
+e.g. variables which are only set in one branch of an if statement
+become undefined again after the if statement,
+unless you can determine that a variable is defined on all possible branches.
+If your programming language allows you to distinguish
+between input and output parameters for a routine,
+you can check as necessary before a call that all input parameters are defined.
+Within a routine you can then assume that all input parameters are defined.
+For discrete variables such as integers and enumerations,
+you can often keep track at compile time
+of the maximum and minimum values which that variable
+can have at any point in the program.
+This is particularly easy if your <B>source language</B> allows variables
+to be declared as having some limited range (e.g. Pascal).
+Of course any assignment to such a bounded variable must be checked
+to ensure that the value is within the specified range.
+For many uses of a bounded variable as a subscript,
+it often turns out that the known limits on the variable
+are within the subscript range and hence need not be checked.
+In a count-controlled loop you can often check the range
+of the control variable
+by checking the loop bounds before entering the loop
+which may well reduce the subscript checking needed within the loop.
+This glossary
+is intended to provide definitions of words or phrases
+which relate particularly to compiling.
+It is not intended to provide definitions of general computing jargon,
+for which a reference to Wikipedia may be more appropriate.
+Over the years
+it has been found that trying to describe
+a programming language using some natural language (e.g. English)
+is unsatisfactory due to possible omissions,
+contradictions, ambiguities, and vagueness.
+A significant milestone was the publication of the Algol 60 Report
+which used a formal grammar (BNF)
+to describe the syntax of the language.
+The semantics (meaning) was carefully described using English.
+A variation of Extended BNF
+will be used in this book
+as described later in this section.
+There have been several attempts to formalise the semantics,
+including the grammar generator used for defining Algol 68,
+and the Vienna Definition Language
+which was used at one stage to define the meaning of PL/1.
+While theoretically adequate,
+these attempts are so complicated
+that they have proved to be of little practical use.
+In 1956, Chomsky (a linguist)
+developed a hierarchy of formal grammars (types 0 to 3)
+for use in the study of English and other natural languages.
+Type 0 is the most powerful and type 3 the least powerful.
+It turns out that type-3 regular grammars are just
+what is needed to describe the requirements of <B>lexical analysis</B>,
+and that type-2 context-free grammars are just what is needed
+to describe the syntax of many programming languages.
+But even type 0 grammars are inadequate for describing the English language.
+Programming tools have been developed which
+can accept the description of a grammar as input,
+and which produce as output the code
+for using that grammar for analysis.
+Note that there may be several different grammars which can be used
+to describe a particular programming language,
+and that not all of these grammars are usable by these tools.
+<B>lexical analysis</B> code using regular grammars
+can be produced by tools such as lex, flex, and JavaCC.
+<B>syntax analysis</B> code using context-free grammars
+can be produced by tools such as yacc, bison, and JavaCC.
+Even if you have a suitable grammar,
+such tools only automate a relatively small part of the job
+of writing a <B>compiler</B> or <B>interpreter</B>.
+Simple lexical and <B>syntax analysis</B> code can in fact
+be written by hand without undue effort;
+we will see some examples in later chapters.
+Good hand-written code may be faster than
+the code produced by the tools.
+Words in "italics" (e.g. "WholeNumber")
+are used to name grammatical concepts.
+It is a good idea to select names for these concepts
+which are semantically meaningful to a human reader,
+to make things easier to read and understand.
+The Algol 60 report used diamond brackets '<' and '>'
+rather than italics to flag grammatical concepts.
+A vertical bar | is used to separate alternatives.
+Single quotation marks are used to indicate characters to be used 'as is'.
+The compound symbol ::= is used to mean 'is defined as'
+and a semicolon ; is used to end a definition.
+Square brackets [ ] are used to indicate options and/or repetition.
+We will start with some simple examples
+which satisfy the rules for regular grammars.
+The following defines a single decimal "Digit"
+as being any one of the characters from '0' to '9'.
+Understood as
+A similar (somewhat tedious) definition can be given for
+"Letter" to cover 'a' to 'z' and 'A' to 'Z'.
+A "WholeNumber" is a sequence of one or more decimal digits,
+which can be expressed as one of two ways
+First way
+Understood as
+Second way
+Understood as
+These definitions allow whole numbers such as 007.
+Some people dislike the idea of allowing whole numbers
+to have leading zeroes.
+We can handle this way of looking at things
+by using the following definitions,
+but we have to include the number zero (just 0) as a special case.
+Understood as
+This last definition is a formal way of saying that a whole number
+is either 0 or starts with a non-zero digit,
+and that this non-zero digit
+may be followed by any number of digits (including none).
+In most programming languages an "<B>identifier</B>"
+is any sequence of letters and digits which starts with a letter.
+Some programming languages may allow a few special characters as well
+(e.g. underline _ or hash #).
+There may also be some restrictions on the length of an "<B>identifier</B>",
+but such restrictions are normally given as semantic constraints
+expressed in a natural language such as English
+rather than as part of the formal grammar
+(e.g. up to Fortran 77, "<B>identifier</B>"s in Fortran were limited
+to a maximum of 6 characters).
+We now look at some examples which, in combination,
+satisfy the rules for context-free grammars.
+Consider an arithmetic expression such as 3 + 4 * 5 .
+The normal convention is that multiplication and division
+are done before addition and subtraction,
+so the value of 3 + 4 * 5 is 23 .
+If we wanted the addition to be done first in this example,
+we would use brackets, so that (3 + 4) * 5 has value 35 .
+We can express these conventions regarding brackets
+and operator priority as follows.
+These definitions also specify that operators
+with the same priority are applied from left to right.
+There are some extremely simple expressions
+which are not covered by the above grammar.
+Can you work out what they might be
+before reading the third paragraph below?
+Note that this is a relatively simple example,
+with only two priority levels for operators.
+Languages such as C/C++/Java have more than a dozen priority levels.
+The particular aspect that makes this context-free rather than regular
+is the way in which an "Expression" can be a "Secondary",
+which can be a "Primary", which can be a bracketed "Expression",
+i.e. "Expression" can be partially defined in terms of itself;
+this is what is known as a recursive definition.
+The expressions which are not covered include such things as -5 or +4.
+To handle these we need to change one definition:
+This grammatical rule allows -(+(-4)), but it does not allow -+-4.
+
+The form of the internal representation among different <B>compiler</B>s varies widely. If the back end is called as a subroutine by the front end then the intermediate representation is likely to be some form of annotated parse tree, possibly with supplementary tables.
+If the back end operates as a separate program then the intermediate representation is likely to be some low-level pseudo assembly language or some register transfer language (it could be just numbers, but debugging is easier if it is human-readable).
+A <B>compiler</B> is a computer program that implements a programming language specification to "translate" programs, usually as a set of files which constitute the "source code" written in "<B>source language</B>", into their equivalent machine readable instructions (the <B>target language</B>, often having a binary form known as object code). This translation process is called "<B>compilation</B>". We "compile" the source program to create the "compiled program". The compiled program can then be run (or executed) to do what was specified in the original source program.
+The <B>source language</B> is always a higher-level language in comparison to machine code, written using some mixture of English words and mathematical notation, assembly language being the lowest compilable language (an "assembler" being a special case of a <B>compiler</B> that translates "assembly language" into machine code). Higher-level languages are the most complex to support in a <B>compiler</B>/<B>interpreter</B>, not only because they increase the level of abstraction between the source code and the resulting machine code, but because increased complexity is required to formalize those abstract structures. 
+The <B>target language</B> is normally a low-level language such as assembly, written with somewhat cryptic abbreviations for machine instructions, in these cases it will also run an assembler to generate the final machine code. But some <B>compiler</B>s can directly generate machine code for some actual or virtual computer e.g. byte-code for the Java Virtual Machine.
+Another common approach to the resulting <B>compilation</B> effort is to target a "virtual machine". That will do just-in-time <B>compilation</B> and byte-code interpretation and blur the traditional categorizations of <B>compiler</B>s and <B>interpreter</B>s.
+For example, C and C++ will generally be compiled for a target `architecture'. The draw-back is that because there are many types of processor there will need to be as many distinct <B>compilation</B>s. In contrast Java will target a Java Virtual Machine, which is an independent layer above the 'architecture'. The difference is that the generated byte-code, not true machine code, brings the possibility of portability, but will need a Java Virtual Machine (the byte-code <B>interpreter</B>) for each platform. The extra overhead of this byte-code <B>interpreter</B> means slower execution speed.
+An <B>interpreter</B> is a computer program which executes the translation of the source program at <B>run-time</B>. It will not generate independent executable programs nor object libraries ready to be included in other programs. 
+A program which does a lot of calculation or internal data manipulation will generally run faster in compiled form than when interpreted. But a program which does a lot of input/output and very little calculation or data manipulation may well run at about the same speed in either case.
+Being themselves computer programs, both <B>compiler</B>s and <B>interpreter</B>s must be written in some "<B>implementation language</B>". Up until the early 1970's, most <B>compiler</B>s were written in assembly language for some particular type of computer. The advent of C and Pascal <B>compiler</B>s, each written in their own <B>source language</B>, led to the more general use of high-level languages for writing <B>compiler</B>s. Today, operating systems will provide at least a free C <B>compiler</B> to the user and some will even include it as part of the OS distribution.
+<B>compiler</B> construction is normally considered as an advanced rather than a novice programming task, mainly due to the quantity of code needed (and the difficulties of grokking this amount of code) rather than the difficulty of any particular coding constructs. To this most books about <B>compiler</B>s have some blame. The large gap between production <B>compiler</B>s and educational exercises promotes this defeatist view.
+For the first version of a <B>compiler</B> written in its own <B>source language</B> you have a bootstrapping problem. Once you get a simple version working, you can then use it to improve itself.
+At the highest level, <B>compilation</B> is broken into a number of parts:
+Any <B>compiler</B> has some essential requirements, which are perhaps more stringent than for most programs:
+There will inevitably be some valid programs which can't be translated due to their size or complexity in relation to the hardware available, for example problems due to memory size. The <B>compiler</B> may also have some fixed-size tables which place limits on what can be compiled (some language definitions place explicit lower bounds on the sizes of certain tables, to ensure that programs of reasonable size/complexity can be compiled).
+There are also some desirable requirements, some of which may be mutually exclusive:
+There are also some possibly controversial requirements to consider (see chapter on dealing with errors):
+For ease of exposition we will divide the <B>compiler</B> into a front end and a back end. These need not even be written in the same <B>implementation language</B>, providing they can communicate effectively via some intermediate representation.
+The following list itemizes the tasks carried out by the front end and the back end. Note that the tasks are not carried out in any particular order, as outlined below, and discussed in more detail in subsequent chapters.
+Almost all the source-language aspects are handled by the front end. It is possible to have different front ends for different high-level languages, and a common back end which does most of the optimization.
+Almost all the machine-dependent aspects are handled by the back end. It is possible to have different back ends for different computers so that the <B>compiler</B> can produce code for different computers.
+The front end is normally controlled by the <B>syntax analysis</B> processing. As necessary, the <B>syntax analysis</B> code will call a routine
+which performs some <B>lexical analysis</B> and returns the next <B>token</B>. At selected points during <B>syntax analysis</B>, appropriate semantic routines are called which perform any relevant semantic checks and/or add information to the internal representation.
+Next - Describing a Programming Language
+In Java, there are four kinds of method invocation, namely "invokestatic", "invokespecial", "invokevirtual", "invokeinterface". As the names suggest, the first is used to invoke static method and the rest instance methods. Since a static method cannot be overridden, invokestatic is very simple; it is essentially the same as calling a function in C.
+We now see the mechanism of invocation of instance methods. Consider the following piece of code.
+invokestatic is invoked with the references to the class name and the method name and pops arguments from the stack. An expression codice_1 is complied to:
+In Java, a private method cannot be overridden. Thus, a method has to be called based on a class regardless of how an object is created. invokespecial allows this; the instruction is the same as invokestatic except that it also pops the object reference besides supplied arguments. Thus far, dynamic binding is not in use, and it is not necessary to have informaion about binding at runtime about private methods.
+Specifically, codice_2 can be used either (1) calling a private method or (2) a invoking a method of the super class (including the constructor for the super class, namely <init>). To call a super method other than <init>, one has to write like codice_3 where f is the name of the super method.
+In semantics codice_4 doesn't differ from codice_5, but it can give the <B>compiler</B> a hit about the invocation.
+Class methods can be defined with a codice_6 qualifier. Private class methods may be in the same object, if they belong to the different classes. No two public class methods may be in the same object; in other words, class methods cannot be overridden. This also means codice_7 qualifier is semantically meaningless for class methods.
+Each field is accessed based on a class. Consider the following.
+In other words, an access control modifier (none, public, private and protected) only affects if clients of the class can access a given field. This means that Java virtual machine may ignore the access flag, handling each field in the same manner.
+Since this book is about the <B>compiler</B>, the following studies do not detail much syntax or language designs but implementation techniques. If you are familiar with languages below, it may help understand <B>compiler</B>s by understanding how those familiar concepts (like dynamic binding) are implemented.
+Furthermore, we don't consider practical implication of decisions on the language design. Some tricky situations, like problems of reference dependency or the precedence of operators, may not occur most of the times, but those are often the interests of language implementors.
+<B>lexical analysis</B> is the process of analyzing a stream of individual characters (normally arranged as lines), into a sequence of lexical <B>token</B>s (<B>token</B>ization. for instance of "words" and punctuation symbols that make up source code) to feed into the parser. Roughly the equivalent of splitting ordinary text written in a natural language (e.g. English) into a sequence of words and punctuation symbols. <B>lexical analysis</B> is often done with tools such as lex, flex and jflex.
+Strictly speaking, <B>token</B>ization may be handled by the parser. The reason why we tend to bother with <B>token</B>ising in practice is that it makes the parser simpler, and decouples it from the character encoding used for the source code.
+For example given the input string:
+A <B>token</B>iser might output the following <B>token</B>s:
+In computing, a <B>token</B> is a categorized block of text, usually consisting of indivisible characters known as lexemes. A lexical analyzer initially reads in lexemes and categorizes them according to function, giving them meaning. This assignment of meaning is known as <B>token</B>ization. A <B>token</B> can look like anything: English, gibberish symbols, anything; it just needs to be a useful part of the structured text.
+Consider the following table:
+<B>token</B>s are frequently defined by regular expressions, which are understood by a lexical analyzer such as lex. The lexical analyzer reads in a stream of lexemes and categorizes them into <B>token</B>s. This is called "<B>token</B>izing." If the lexer finds an invalid <B>token</B>, it will report an error.
+Following <B>token</B>izing is <B>parsing</B>. From there, the interpreted data may be loaded into data structures, for general use, interpretation, or compiling.
+Consider a text describing a calculation : "46 - number_of(cows);". The lexemes here might be: "46", "-", "number_of", "(", "cows", ")", and ";". The lexical analyzer will denote lexemes 4 and 6 as 'number' and - as character, and 'number_of ' as a separate <B>token</B>. Even the lexeme ';' in some languages (such as C) has some special meaning.
+The whitespace lexemes are sometimes ignored later by the syntax analyzer. A <B>token</B> doesn't need to be valid, in order to be recognized as a <B>token</B>. "cows" may be nonsense to the language, "number_of" may be nonsense. But they are <B>token</B>s nonetheless, in this example.
+We first study what is called a "finite state automaton", or FSA for short. An FSA is usually used to do <B>lexical analysis</B>.
+An FSA consists of states, starting state, accept state and transition table. The automaton reads an input symbol and moves the state accordingly. If the FSA reaches the accept state after the input string is read until its end, the string is said to be "accepted" or "recognized". A set of recognized strings is said to be a language recognized by the FSA.
+Suppose this language in which each string starts with 'ab' and ends with one or more 'c'. With state class, this can be written like this:
+Suppose an input string "abccc". Then the automaton moves like: s0 -> s1 -> s2 -> s3 -> s3 -> s3.
+In this section, we'll create a simple, object-oriented scanner / lexer for a simple language implemented in Object Pascal. Consider the following EBNF:
+where
+From the above EBNF, The <B>token</B>s we're about to recognize are: <B>identifier</B>, INTEGER, keyword "print", keyword "var", :=, +, -, <, <>, EOF and unknown <B>token</B>. The chosen <B>token</B>s are intended for both brevity and the ability to recognize all types of <B>token</B>'s lexeme: exact single character (+, -, <, EOF and unknown), exact multiple character (print, var, := and <>), infinitely many (<B>identifier</B>, INTEGER and unknown), overlapping prefix (< and <>) and overlapping as a whole (<B>identifier</B> and keywords). <B>identifier</B> and keywords here are case-insensitive. Note that some lexemes are classified to more than one type of lexeme.
+The base class of a <B>token</B> is simply an object containing line and column number where it's declared. From this base class, <B>token</B>s with exact lexeme (either single or multiple characters) could be implemented as direct descendants.
+Next, we need to create descendant for <B>token</B> with variadic lexeme:
+The only difference from the base <B>token</B> class is the lexeme property, since it possibly has infinitely many forms. From here, we create descendant classes for <B>token</B>s whose lexeme is infinitely many:
+That's all for the <B>token</B>, on to the lexer.
+A lexer consists of its position in the source code (line and column), the stream representing the source code, current (or last recognized / formed) <B>token</B> and last character read. To encapsulate the movement in the source code, reading character from the stream is implemented in GetChar method. Despite its "maybe simple" look, the implementation could be complicated as we'll see soon. GetChar is used by public method Next<B>token</B>, whose job is to advance lexer movement by 1 <B>token</B> ahead. On to GetChar implementation:
+As stated earlier, GetChar's job is not as simple as its name. First, it has to read one character from the input stream and increment the lexer's column position. Then it has to check whether this character is one of the possible line endings (our lexer is capable of handling CR-, LF- and CRLF-style line ending). Next is the core of our lexer, Next<B>token</B>:
+As you can see, the core is a (probably big) case statement. The other parts is quite self documenting and well commented. Last but not least, the constructor:
+It sets up the initial line and column position (guess why it's 1 for line but 0 for column :)), and also sets up the first <B>token</B> available so Current<B>token</B> would be available after calling the constructor, no need to explicitly call Next<B>token</B> after that.
+As an exercise, you could try extending the lexer with floating point numbers, strings, numbers with base other than 10, scientific notation, comments, etc.
+<B>lexical analysis</B> Tool
+JavaCC is the standard Java <B>compiler</B>-<B>compiler</B>. Unlike the other tools presented in this chapter, JavaCC is a parser and a scanner (lexer) generator in one. JavaCC takes just one input file (called the grammar file), which is then used to create both classes for <B>lexical analysis</B>, as well as for the parser.
+In JavaCC's terminology the scanner/lexical analyser is called the "<B>token</B> manager". And in fact the generated class that contains the <B>token</B> manager is called "ParserName<B>token</B>Manager. Of course, following the usual Java file name requirements, the class is stored in a file called "ParserName<B>token</B>Manager.java. The "ParserName" part is taken from the input file. In addition, JavaCC creates a second class, called "ParserName"Constants. That second class, as the name implies, contains definitions of constants, especially <B>token</B> constants. JavaCC also generates a boilerplate class called <B>token</B>. That one is always the same, and contains the class used to represent <B>token</B>s. One also gets a class called ParseError. This is an exception which is thrown if something went wrong.
+It is possible to instruct JavaCC not to generate the "ParserName"<B>token</B>Manger, and instead provide your own, hand-written, <B>token</B> manager. Usually - this holds for all the tools presented in this chapter - a hand-written scanner/lexical analyser/<B>token</B> manager is much more efficient. So, if you figure out that your generated <B>compiler</B> gets too large, give the generated scanner/lexical analyzer/<B>token</B> manager a good look. Rolling your own <B>token</B> manager is also handy if you need to parse binary data and feed it to the <B>parsing</B> layer.
+Since, however, this section is about using JavaCC to generate a <B>token</B> manager, and not about writing one by hand, this is not discussed any further here.
+A JavaCC grammar file usually starts with code which is relevant for the parser, and not the scanner. For simple grammars files it looks similar to:
+This is usually followed by the definitions for <B>token</B>s. These definitions are the information we are interested in in this chapter. Four different kinds, indicated by four different keywords are understood by JavaCC when it comes to the definition of <B>token</B>s:
+Each of the above mentioned keywords can be used as often as desired. This makes it possible to group the <B>token</B>s, e.g. in a list for operators and another list for keywords. All sections of the same kind are merged together as if just one section had been specified.
+Every specification of a <B>token</B> consists of the <B>token</B>'s symbolic name, and a regular expression. If the regular expression matches, the symbol is returned by the <B>token</B> manager.
+Lets see an example:
+All the above <B>token</B> definitions use simple regular expressions, where just constants are matched. It is recommended to study the JavaCC documentation for the full set of possible regular expressions.
+When the above file is run through JavaCC, a <B>token</B> manager is generated which understands the above declared <B>token</B>s.
+Eliminating (ignoring) comments in a programming language is a common task for a lexical analyzer. Of course, when JavaCC is used, this task is usually given to the <B>token</B> manager, by specifying special <B>token</B>s.
+Basically, a standard idiom for JavaCC has evolved on how to ignore comments. It combines <B>token</B>s of kind "SPECIAL_<B>token</B>" and "MORE" with a "lexical state". Lets assume we e.g. have a programming language where comments start with a "--", and either end with another "--" or the end of the line (this is the comment schema of ASN.1 and several other languages). Then a way to construct a scanner for this would be:
+In Objective-C, each class is a struct in C. That is,
+would be implemented as like:
+Thus, since each object in Objective-C, a pointer to a memory block in the heap. And so the way to access fields is the same as the way for members of struct. That is,
+The implication of this scheme is that while an object naturally fits to non-OOP C program, one disadvantage is that fields cannot be "shadowed." That is,
+This would result in duplicate members error. This contrasts with the situation in Java.
+Finally, since the selection of methods occurs at runtime (in contrast to the cases in Java or C++), methods are handled differently than fields.
+In Objective-C, the selection of methods occurs at runtime. <B>compiler</B>s may issue warnings about likely mistyped names because the <B>compiler</B> can know a set of selector names that are defined in the program. This, however, is not semantically necessary; any message can be sent to any object.
+Semantically, the sender of a message checks if a given object responds to the message, and if not, try its super class, and if not again, its super and so on.
+A complication may arise, for example, when there are two selectors with the differing return type. Consider the following case.
+In this case, because the <B>compiler</B> cannot know to which method--(float) func or (int) func—an object would respond, it cannot generate code that sends a message, as returning a float value usually differs from doing an int value.
+On modern computers, a <B>compiler</B> can be considered to have
+satisfactory performance if it translates a moderate size source program
+(say about 1000 lines) in a matter of seconds.
+The way to get a <B>compiler</B> with satisfactory performance
+is more or less the same way you would get any program performing well.
+In this book we will consider
+various algorithms and data structures
+and discuss their likely impact on performance.
+Note that actual measurement is crucial,
+since the problems are often not where you guess they might be.
+For your initial implementation
+you may well have selected simple algorithms
+which are known to perform poorly
+in order to get something working quickly.
+Nevertheless, you should still measure performance in detail,
+since there may be some other source
+of (at least some of) your problems.
+Various measurements on the performance of actual <B>compiler</B>s
+have been reported over the years.
+Specific areas which have been known to cause problems include:
+An extensive list of optimizations can be found on Wikipedia in the . Optimization is a very rich and complex topic, so this chapter will only attempt to introduce the basics.
+Optimization within a <B>compiler</B> is concerned with improving in some way the generated object code while ensuring the result is identical. Technically, a better name for this chapter might be "Improvement", since <B>compiler</B>s only attempt to improve the operations the programmer has requested. Optimizations fall into three categories:
+Unfortunately, many "speed" optimizations make the code larger, and many "space" optimizations make the code slower -- this is known as the space-time tradeoff.
+Common optimization algorithms deal with specific cases:
+Dead code elimination is a size optimization (although it also produces some speed improvement) that aims to remove logically impossible statements from the generated object code. Dead code is code which will never execute, regardless of input
+Consider the following program:
+It is obvious that the complicated calculation will never be performed; since the last value assigned to a before the if statement is a constant, we can calculate the result at <B>compile-time</B>. simple substitution of arguments produces codice_1, which is false. Since the body of an codice_2 statement will never execute - it is "dead code" we can rewrite the code:
+The algorithm was used to identify and remove sections of dead code
+Common sub-expression elimination is a speed optimization that aims to reduce unnecessary recalculation by identifying, through code-flow, expressions (or parts of expressions) which will evaluate to the same value: "the re-computation of an expression can be avoided if the expression has previously been computed and the values of the operands have not changed since the previous computation".
+Consider the following program:
+In the above example, the first and last statement's right hand side are identical and the value of the operands do not change between the two statements; thus this expression can be considered as having a "common sub-expression".
+The common sub-expression can be avoided by storing its value in a temporary variable which can cache its result. After applying this Common Sub-expression Elimination technique the program becomes:
+Thus in the last statement the re-computation of the expression codice_3 is avoided.
+Given an assignment x=y, replace later uses of x with y, provided there are no intervening assignments to x or y.
+Here the code will become smaller.
+Example:
+This optimization technique mainly deals to reduce the number of source code lines in the program. For example, consider the code below:
+The calculations codice_4 and codice_5 can be moved outside the loop since within they are loop invariant - they do not change over the iterations of the loop - so our optimized code will be something like this:
+This code can be optimized further. For example, strength reduction could remove the two multiplications inside the loop (codice_6 and codice_7).
+Another example of code motion:
+In the above mentioned code, a = a + c can be moved out of the 'for' loop, and the new code is
+A variable is said to be induction variable if this gets increased and decreased by a fixed amount on every iteration of a loop.
+ex: 
+Here i,j are induction variables 
+If two or more induction variables in loop, it may be possible to get rid of all but one. 
+Eventually we can eliminate j from this loop.
+This concept refers to the <B>compiler</B> optimization method of substituting some machine instruction(s) by cheaper one(s) maintaining equivalence in results. Since some operators have different strength i.e use different space in the memory. This type of optimization can generate high gains especially when targeting different hardware and the <B>compiler</B> is aware of the subtle differences it can benefit from.
+For ex- Strength of *(Multiply) is "Higher" than +(Add).
+So,in this type of optimization Higher Strength Operators are replaced by Lower Strength Operators.
+Example
+Given that 
+Length(S1 || S2) 
+where S1 and S2 have some values.
+So If we apply the rule then
+Length(S1 || S2) ---(Replaced By)--> [Length(S1) + Length(S2)]
+As + operation is cheaper than the ||.
+and it was Cleared by the above example that there will no change in Result.
+Function chunking is a <B>compiler</B> optimization for improving code locality. Profiling information is used to move rarely executed code outside of the main function body. This allows for memory pages with rarely executed code to be swapped out.
+In computing there are new tools that are waiting to emerge when developers can find the technology capable of supporting them. One good example is that 50 years ago John L. McCarthy came up with an idea to automatically reclaim the memory of objects that are no longer needed during the execution of Lisp programs. It was the origin of the garbage collection concept in computer science.
+One of the tasks performed at runtime--as the compiled program is run
+by the user--is the management of allocated memory blocks, so as to
+minimize memory usage by deallocating blocks that will no longer be
+used. This is referred to as "garbage collection." Garbage collection
+is not available in all languages and <B>compiler</B>s, but it is implemented
+in many of the most widely used. It takes much of the burden of memory
+management off of the programmer--when implemented correctly--and
+improves performance. 
+Ideally, garbage collectors (hereinafter GC) would remove every allocation that will
+never be used again. In practice, we can assume that if there is any way to reference to a block, it can be used again; if not, it would not be used (except accidentally). So GC works by retaining memory blocks that can be reachable by tracing every reference path at a moment and freeing the rest. For example,
+This function returns a newly allocated memory block that is the concatenation of given two strings. Because the function only returns a new string and does not know how it is going to be used, it is the caller of this function that is responsible for freeing it, like:
+By letting GC free memory blocks when needed, the above can be simplified to:
+In practice, an execution path and reference dependencies can be far more complicated than the above; thus, it should be easy to imagine how GC would be a great help.
+In the Beginning, there was Static Allocation, and for a Time, it was
+Good. FORTRAN, circa the mid-1950's, had no garbage collection at
+all. Once a block of memory was allocated, it stayed allocated. The
+programmer could not deallocate it, even if he tried.
+Circa 1958, Algol implemented a form of memory management called
+stack allocation. Following that, languages like C implemented heap
+allocation, which allows the programmer to arbitrarily allocate and
+de-allocate memory from the heap of available memory. In C, this is
+done with the call codice_1. While this allows very
+flexible memory allocation and de-allocation by the programmer,
+careless (mis)use often results in memory leaks and dangling pointers;
+programmer errors are not handled by the <B>compiler</B> or runtime
+environment. 
+In order to overcome the barriers of programmer error, we must either
+better instruct our programmers, or provide better systems for memory
+management. The string of non-accredited technical institutes that
+seem to have sprung up in the United States obviously do nothing to
+solve the former problem, so it is up to us to approach the latter.
+There are two basic approaches to garbage collection: reference
+counting and batching (or tracing).
+In reference counting, a reference counter is associated with every
+allocated object. Whenever a reference is made to that object, the
+counter is incremented. When one dereferences that object, the counter
+is decremented. When the counter reaches 0, there are no existing
+references to this allocated object, so it can be safely removed
+(because there is no way for it to be accessed in the future).
+When an object O is created, we also create a reference counter for O,
+calling it codice_2. At creation, codice_3. When
+we create a reference to O, we perform codice_4. When we
+destroy a reference to O, codice_5. When we decrement, we
+check to see if the counter is now 0. If it is, we free O.
+To allow allocation of memory, we maintain a list of free memory
+blocks. When we allocate blocks, we remove them from the free
+list. When we deallocate, we add them to the list. Obviously, a major
+drawback of this method of allocation is fragmentation; having to
+defragment memory to allow allocation in the requested size can create
+inexplicable slowdowns for memory allocation. To prevent this, one can
+defragment the memory at some set interval, or perform more complex
+deallocation to keep memory contiguous, but the solution to this
+problem is likely to be non-trivial.
+Reference counting has the primary advantages of being simple to
+implement, requiring no work at an interval, and thus avoiding the
+necessity to pause the current operating to sort out our garbage
+collection (which can lead to highly inexplicable pauses during
+seemingly ordinary operation). 
+However, reference counting has a number of severe limitations, namely
+it's inability to detect cyclical pointers (e.g. A references B and B
+references A, in which case neither A nor B will ever be collected),
+it's cost to pointer operations and use of space, and it's
+computational cost to allocation as a result of fragmentation. Some of
+these problems have solutions in the form of augmented reference
+counting, but some are best solved by using a different form of
+garbage collection.
+In batching, the heap is viewed as a directed graph, with pointers as
+edges between allocated space (which we view as nodes in the graph).To
+do garbage collection, we traverse the graph and mark each node we
+reach. If a node is not marked, it cannot be reached and can be safely
+deallocated.
+Unlike reference counting, this method must be run at a specific time
+(reference counting, of course, is performed as a feature of ordinary
+allocation and deallocation). Garbage collection--when it must be
+performed at a specific time rather than simply as the program runs,
+as with reference counting--can be performed when storage is
+exhausted, before a segment of code that needs to run quickly is
+executed, or simply during idle time when there's nothing for the
+computer to do. The best way depends somewhat on the type of program
+running; for example, in Microsoft Word, there is enough idle time
+(while the user sits thinking up funny parenthetical statements) that
+the third option is best. On a real-time system, however, it might be
+better to do garbage collection always before certain code runs. 
+Batching relies on accurate identification of memory pointers. There
+are a number of issues here; something that appears to be an integer
+may be a pointer, while something that appears to be a pointer may not
+be. A language could be designed specifically to avoid this confusion,
+but many popular languages, such as C and C++, are not designed in
+such a way. The <B>compiler</B> could mark at <B>compile-time</B> as pointers
+anything used as a pointer, but again this requires extra
+overhead. Some of the same methodology could be applied at runtime,
+but with additional runtime costs. Regardless of how this is done,
+however, it is important to be conservative with pointer
+identification. When it doubt, it is best to assume something is a
+pointer than is not. After all, it is far better to have extra
+un-collected garbage than to eliminate blocks that will later be used.
+This is roughly the equivalent of checking that some ordinary text written in a natural language (e.g. English) actually means something (whether or not that is what it was intended to mean).
+The purpose of <B>semantic analysis</B> is to check that we have a meaningful sequence of <B>token</B>s. Note that a sequence can be meaningful without being correct; in most programming languages, the phrase "x + 1" would be considered to be a meaningful arithmetic expression. However, if the programmer really meant to write "x - 1", then it is not correct.
+Time to read Aho & Ullman/Dragon book carefully.
+<B>semantic analysis</B> is the activity of a <B>compiler</B> to determine what the types of various values are, how those types interact in expressions, and whether those interactions are semantically reasonable. For instance, you can't reasonably multiply a string by class name, although no editor will stop you from writing
+To do this, the <B>compiler</B> must first identify declarations and scopes, and typically records the result of this step in a set of symbol tables. This tells it what specific <B>identifier</B>s means in specific contexts. It must also determine the types of various literal constants; "abc" is a different type than 12.2e-5.
+Then it must visit all locations where <B>identifier</B>s and literals are used, and verify that the use of the <B>identifier</B>/literal, and the results computed, are compatible with the language definition (as in the above example).
+As to how this is done: typically the source code is parsed, some representation of the program is constructed (syntax trees are very popular), and that representation is walked ("visited") element by element to collect/validate the semantic information. The symbol table is usually just a set of hash tables associated with the syntax tree representing a scope, hashing from <B>identifier</B>s to structures containing type declarations.
+In a statically typed language, immediately following the <B>parsing</B> phase is the type checking phase. This attempts to catch programming errors based on the theory of types. In practice this is checking things like a variable declared as a string is not used in an expression requiring an integer.
+In a dynamically typed language no type checking is performed (it is actually deferred until runtime).
+In this chapter, we discuss the stack-based representation of intermediate code. It has a number of advantages, some of which are:
+But the representation also has the following disadvantages, which make it unsuitable for manipulating and improving code:
+Complications with the stack-based code arises often with control flows.
+It is usually trivial to convert representations like three-address code to the stack-based code, so the case is left as an exercise. It is the inverse of this that is a challenging problem.
+The main task behind the algorithm converting the stack-based code is to identify dependencies among operations. And it is conditional and unconditional jumps that make hard to figure these dependencies. So the code without them can be transformed into the three-address code in a straightforward way, as follows:
+We can see each stack position has a corresponding temporary variable. Put in another way, store and load are done only by push and pop, respectively, and a temporary variable that can be accessed at a time is limited to only the top as opposed to a usual case in which variables are specified freely.
+When a variable is typed, it may be beneficial to adopt . This dispenses with the need to analyze what type each variable holds at a moment, which, as illustrated below, can be quite tricky. The adaptation can be done after the conversion or simultaneously as the code is being converted.
+Now, suppose the execution may not go from top to bottom. In that case, we basically have to analyze the control flow before translating the code. More specifically, we calculate how each instruction contributes to the depth of the stack. For example,
+As we can see, at label A, the status of the stack depends on the operation before instruction "goto A".
+One conservative approach is to annotate the byte-code before converting it. The basic idea is that when we interpret the code, we know both where we are and how tall the stack is. So by pretending as if we were evaluating the code, we can calculate the height of the stack for each position. An algorithm for this would be like (in actual writing one has to arrange the code so that it will terminate.):
+Coding the above solution may be tedious in practice, especially when a number of instructions in the language is large. Java byte code is a notable example of this. So a radical alternative below is to convert the stack-based code not in the usual sequential way but per basic block (i.e., a block that has no jumps). To see this, consider the following:
+In the above we can identify three basic blocks: the first (A) from 0 to 3, the second (B) from 4 to 5 and the third (C) from 6 to 7. We first compile A, then we know the height of the stack with which either B or C begins. After each block is compiled, we output blocks in the order they appear in the source code.
+Astute readers would notice that throughout this section we are assuming the depth of the stack is fixed at each instruction position and thus can be determined at <B>compiler</B> time. If the assumption does not hold, then we have to have some kind of stack at runtime.
+This is alternatively known as <B>parsing</B>. It is roughly the equivalent of checking that some ordinary text written in a natural language (e.g. English) is grammatically correct (without worrying about meaning).
+The purpose of <B>syntax analysis</B> or <B>parsing</B> is to check that we have a valid sequence of <B>token</B>s. <B>token</B>s are valid sequence of symbols, keywords, <B>identifier</B>s etc. Note that this sequence need not be meaningful; as far as syntax goes, a phrase such as "true + 3" is valid but it doesn't make any sense in most programming languages.
+The parser takes the <B>token</B>s produced during the <B>lexical analysis</B> stage, and attempts to build some kind of in-memory structure to represent that input. Frequently, that structure is an 'abstract syntax tree' (AST).
+The parser needs to be able to handle the infinite number of possible valid programs that may be presented to it. The usual way to define the language is to specify a "grammar". A grammar is a set of rules (or "productions") that specifies the syntax of the language (i.e. what is a valid sentence in the language).
+There can be more than one grammar for a given language. Furthermore, it is easier to build parsers for some grammars than for others.
+Fortunately, there exists a class of programs (often called `<B>compiler</B>-<B>compiler</B>s', even though this is a silly name) that can take a grammar and generate a parser for it in some language. (Sound familiar?). Examples of such programs are:
+These can make the <B>compiler</B>-writer's job considerably easier, "if" they can write down the grammar for their language.
+A "recursive descent parser" is a top-down parser built from a set of mutually-recursive procedures (or a non-recursive equivalent) where each such procedure usually implements one of the production rules of the grammar. Thus the structure of the resulting program closely mirrors that of the grammar it recognizes.
+A predictive parser is a recursive descent parser with no backup. Predictive <B>parsing</B> is possible only for the class of LL(k) grammars, which are the context-free grammars for which there exists some positive integer k that allows a recursive descent parser to decide which production to use by examining only the next k <B>token</B>s of input. (The LL(k) grammars therefore exclude all ambiguous grammars, as well as all grammars that contain left recursion. Any context-free grammar can be transformed into an equivalent grammar that has no left recursion, but removal of left recursion does not always yield an LL(k) grammar.) A predictive parser runs in linear time.
+Recursive descent with backup is a technique that determines which production to use by trying each production in turn. Recursive descent with backup is not limited to LL(k) grammars, but is not guaranteed to terminate unless the grammar is LL(k). Even when they terminate, parsers that use recursive descent with backup may require exponential time.
+Although predictive parsers are widely used, programmers often prefer to create LR or LALR parsers via parser generators without transforming the grammar into LL(k) form.
+Some authors define the recursive descent parsers as the predictive parsers. Other authors use the term more broadly, to include backed-up recursive descent.[citation needed]
+The following EBNF grammar (for Niklaus Wirth's PL/0 programming language, from Algorithms + Data Structures = Programs) is in LL(1) form (for simplicity, ident and number are assumed to be terminals):
+Terminals are expressed in quotes (except for ident and number). Each nonterminal is defined by a rule in the grammar.
+Notice how closely the predictive parser below mirrors the grammar above. There is a procedure for each nonterminal in the grammar. <B>parsing</B> descends in a top-down manner, until the final nonterminal has been processed. The program fragment depends on a global variable, sym, which contains the next symbol from the input, and the global function getsym, which updates sym when called.
+Recursive descent parsers are particularly easy to implement in functional languages such as Haskell or ML.
+See Functional Pearls: Monadic <B>parsing</B> in Haskell
+Operator precedence <B>parsing</B> is used in shift-reduce <B>parsing</B>. operator grammar No production has two nonterminal symbols in sequence on the right hand side. An operator grammar can be parsed using shift-reduce <B>parsing</B> and precedence relations between terminal symbols to find handles. This strategy is known as operator precedence.
+Wikipedia article.
+Please refer to <B>lexical analysis</B>: <B>scanning</B> via a Tool - JavaCC for information on generating a <B>token</B> manager.
+In order to use the generated <B>token</B> manager, an instance of it has to be created. When doing so, the constructor expects a Reader as the source of the input data (other sources are also possible, see the JavaCC documentation).
+Once created, the <B>token</B> manager object can be used to get <B>token</B>s via the
+method.
+Each <B>token</B> object as returned by the getNext<B>token</B>() method. Such a <B>token</B> object provides a field "kind" which identifies the <B>token</B> ("ParserName"Constants.java defines the corresponding constants). It also contains the field "image", which just holds the matched input data as a String.
+example of syntax analyzer is
