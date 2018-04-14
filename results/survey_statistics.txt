@@ -1,0 +1,23 @@
+Average positive response rate by domain:
+Horticulture
+[0.48333333 0.68333333 0.96666667 0.80416667 0.59583333 0.025     ]
+Parkour
+[0.275      0.4125     0.80833333 0.4125     0.26666667 0.09166667]
+Stone Masonry
+[0.21875  0.09375  0.859375 0.515625 0.03125  0.      ]
+Card Games
+[0.45833333 0.48333333 0.6        0.32083333 0.26666667 0.22083333]
+Chess Strategy
+[0.47083333 0.62916667 0.55833333 0.35833333 0.30833333 0.07083333]
+Conlang
+[0.525      0.72916667 0.92916667 0.6125     0.525      0.02083333]
+Average positive response rate over all domains:
+[0.43117089 0.5625     0.77689873 0.50237342 0.37420886 0.08148734]
+Average agreement for each question
+[0.61008137 0.70275769 0.9403255  0.77644665 0.79905063 0.91387884]
+Average agreement over all questions
+0.79042344786
+Jargon identification precision:
+0.417721518987
+Percentage of identified jargon correctly defined
+0.712121212121
