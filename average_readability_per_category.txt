@@ -1,9 +1,0 @@
-Average readability for - Humanities is : 54.6774668862
-Average readability for - Science is : 51.5873506956
-Average readability for - Computing is : 49.8530446323
-Average readability for - Engineering is : 57.9341604869
-Average readability for - Miscellaneous is : 52.0896987327
-Average readability for - Languages is : 42.10750587
-Average readability for - Social_sciences is : 53.8831577893
-Average readability for - Standard_curricula is : 52.7414212312
-Average readability for - Mathematics is : 46.6025623067
