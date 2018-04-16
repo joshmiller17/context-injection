@@ -106,6 +106,19 @@ for domain in stats_by_domain.keys():
     avg_results_by_domain[domain] = avg_results_by_domain[domain]/ \
                                     (len(stats_by_domain[domain])*len(df.axes[0]))
 
+sd_results_by_domain = defaultdict(lambda: np.zeros(6))
+for question in questions:
+    match = re.match(r"The domain is: (.*) \[(.*)\]", question)
+    domain = match.group(1)
+    phrase = match.group(2)
+    for i, participant in df.iterrows():
+        answer = participant[question]
+        response = parse_answer(answer)
+        sd_results_by_domain[domain] += (response-avg_results_by_domain[domain])**2
+for domain in sd_results_by_domain.keys():
+    sd_results_by_domain[domain] = (sd_results_by_domain[domain]/ \
+                                    (len(stats_by_domain[domain])*len(df.axes[0])))**0.5
+    
 avg_results_overall = np.zeros(6)
 for response in stats.values():
     avg_results_overall += response
@@ -114,6 +127,10 @@ avg_results_overall = avg_results_overall/ \
 
 print('Average positive response rate by domain:')
 for domain, results in avg_results_by_domain.items():
+    print(domain)
+    print(results)
+print('Standard deviation on positive response rate by domain:')
+for domain, results in sd_results_by_domain.items():
     print(domain)
     print(results)
 print('Average positive response rate over all domains:')
